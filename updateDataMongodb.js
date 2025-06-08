@@ -3,7 +3,7 @@ import { MongoClient, ServerApiVersion } from "mongodb";
 
 const jsonid = "os01";
 
-const uri ="mongodb+srv://junhong07245:9VSjeZ6EH5Hisjqh@cluster0.argijwj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri ="mongodb+srv://user:password@cluster0.argijwj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 const client = new MongoClient(uri, {
   serverApi: {
