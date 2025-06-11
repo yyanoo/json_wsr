@@ -1,9 +1,11 @@
 import { readFile } from "fs/promises";
 import { MongoClient, ServerApiVersion } from "mongodb";
 
-const jsonid = "os01";
+import dotenv from "dotenv";
+dotenv.config();
 
-const uri ="mongodb+srv://user:password@cluster0.argijwj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const jsonid = "os01";
+const uri = process.env.mongoKey;
 
 const client = new MongoClient(uri, {
   serverApi: {
