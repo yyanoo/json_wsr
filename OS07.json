@@ -1,0 +1,4571 @@
+[
+  {
+    "cardNo": "OS07/R07-001",
+    "baseNo": "OS07/R07-001",
+    "name": "きぼうのゆびわ 夏葉",
+    "kana": "キボウノユビワ ナツハ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋500。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。この効果で控え室に置かれたカードに「きぼうのゆびわ 夏葉」があるなら、あなたは自分の控え室の「きぼうのゆびわ 夏葉」を1枚まで選び、ストック置場の下に置く。",
+    "flavor": "夏葉、もうひとつ知ってるの。『おにいちゃんは、ぜーーったい夏葉を守ってくれる』の",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_001.png",
+        "cardNo": "OS07/R07-001",
+        "rarity": "RR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-001&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_001ofr.png",
+        "cardNo": "OS07/R07-001OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-001OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_001sec.png",
+        "cardNo": "OS07/R07-001SEC",
+        "rarity": "SEC",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-001SEC&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-002",
+    "baseNo": "OS07/R07-002",
+    "name": "天真爛漫 夏葉",
+    "kana": "テンシンランマン ナツハ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、舞台のこのカードのレベルを－1し、パワーを＋2500。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「ものべの」があり、他のあなたの〈同OS〉のキャラが2枚以上なら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加え、自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+    "flavor": "",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_002.png",
+        "cardNo": "OS07/R07-002",
+        "rarity": "RR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-002&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_002ofr.png",
+        "cardNo": "OS07/R07-002OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-002OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_002ssp.png",
+        "cardNo": "OS07/R07-002SSP",
+        "rarity": "SSP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-002SSP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-003",
+    "baseNo": "OS07/R07-003",
+    "name": "頑張り屋の恋人 ポーレット",
+    "kana": "ガンバリヤノコイビト ポーレット",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場したターン中、このカードがアタックした時、コストを払ってよい。そうしたら、相手に2ダメージを与える。\n【自】［手札の「頑張り屋の恋人 ポーレット」を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、相手に1ダメージを与える。",
+    "flavor": "わたしも、あなたに。恋を――",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_003.png",
+        "cardNo": "OS07/R07-003",
+        "rarity": "RR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-003&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_003ofr.png",
+        "cardNo": "OS07/R07-003OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-003OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_003sp.png",
+        "cardNo": "OS07/R07-003SP",
+        "rarity": "SP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-003SP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-004",
+    "baseNo": "OS07/R07-004",
+    "name": "メイドさん作戦 夏葉",
+    "kana": "メイドサンサクセン ナツハ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストックにしてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+    "flavor": "ご主人さまぁ……",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_004.png",
+        "cardNo": "OS07/R07-004",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-004&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_004s.png",
+        "cardNo": "OS07/R07-004S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-004S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-005",
+    "baseNo": "OS07/R07-005",
+    "name": "鉄道マニア ポーレット＆れいな",
+    "kana": "テツドウマニア ポーレットアンドレイナ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "レイルロオド",
+      "努力家"
+    ],
+    "text": "【自】［(1) 手札を2枚控え室に置く］ このカードが手札から登場したターン中、このカードがアタックした時、コストを払ってよい。そうしたら、あなたは自分の山札の《レイルロオド》のキャラを2枚までサーチし手札に加える。",
+    "flavor": "わたし――はい、もちろん。双鉄く――双鉄さんの力になれるなら、がんばります",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_005.png",
+        "cardNo": "OS07/R07-005",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-005&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_005s.png",
+        "cardNo": "OS07/R07-005S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-005S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-006",
+    "baseNo": "OS07/R07-006",
+    "name": "聡明な恋人 稀咲",
+    "kana": "ソウメイナコイビト キサキ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストックにする。",
+    "flavor": "キミが、ボクを好きになってくれるずっと前から。双鉄、ボクはね？　キミを好きだよ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_006.png",
+        "cardNo": "OS07/R07-006",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-006&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_006ofr.png",
+        "cardNo": "OS07/R07-006OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-006OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_006sp.png",
+        "cardNo": "OS07/R07-006SP",
+        "rarity": "SP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-006SP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-007",
+    "baseNo": "OS07/R07-007",
+    "name": "明日へのレール ポーレット",
+    "kana": "アスヘノレール ポーレット",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(3)］ このカードがアタックした時、コストを払ってよい。そうしたら、相手に1ダメージを与える。\n【自】【CXコンボ】 共鳴 ［手札の「いつもにこにこ れいな」を1枚公開する］ このカードがアタックした時、CX置場に「未来へのレール」があり、他のあなたの〈同OS〉のキャラがいるなら、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、控え室に置き、相手にＸダメージを与える。Ｘはそのカードのレベル＋1に等しい。",
+    "flavor": "走りましょう。ずっと一緒に、これからも",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_007.png",
+        "cardNo": "OS07/R07-007",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-007&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_007s.png",
+        "cardNo": "OS07/R07-007S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-007S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-008",
+    "baseNo": "OS07/R07-008",
+    "name": "皆と紡いでく未来 夏葉",
+    "kana": "ミンナトツムイデクミライ ナツハ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－3。このカードのパワーを＋Ｘし、このカードは相手のキャラの【自】の効果によって【リバース】されない。Ｘはこのカードの正面のキャラのレベル×1000に等しい。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】【ターン1】［(3) 手札の「きぼうのゆびわ 夏葉」を1枚控え室に置く］ あなたの前列の中央の枠のキャラがアタックした時、CX置場に「ただいま、ものべの」があるなら、コストを払ってよい。そうしたら、このカードを【スタンド】する。",
+    "flavor": "だって、茂伸は夏葉たちの故郷だもん！",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_008.png",
+        "cardNo": "OS07/R07-008",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-008&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_008s.png",
+        "cardNo": "OS07/R07-008S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-008S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-009",
+    "baseNo": "OS07/R07-009",
+    "name": "辛い記憶 ポーレット",
+    "kana": "ツライキオク ポーレット",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "アノ、ネ？　パパ、ママ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_009.png",
+        "cardNo": "OS07/R07-009",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-009&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_009s.png",
+        "cardNo": "OS07/R07-009S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-009S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-010",
+    "baseNo": "OS07/R07-010",
+    "name": "オオトメ関の番人 滝女郎",
+    "kana": "オオトメセキノバンニン タキジョロウ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妖怪"
+    ],
+    "text": "【永】 他のあなたの「背伸びしたいお年頃 夏葉」すべてに、ソウルを＋1。\n【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
+    "flavor": "安全な場所におる故、安心して立ち去られよ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_010.png",
+        "cardNo": "OS07/R07-010",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-010&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_010s.png",
+        "cardNo": "OS07/R07-010S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-010S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-011",
+    "baseNo": "OS07/R07-011",
+    "name": "おうちデート ポーレット",
+    "kana": "オウチデート ポーレット",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】 共鳴 ［(1) 手札の「いつもにこにこ れいな」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "わたしたち……お互いに、告白……しあいました、よ、ね？",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_011.png",
+        "cardNo": "OS07/R07-011",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-011&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_011s.png",
+        "cardNo": "OS07/R07-011S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-011S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-012",
+    "baseNo": "OS07/R07-012",
+    "name": "ゾクゾク☆スイムレッスン 夏葉",
+    "kana": "ゾクゾク☆スイムレッスン ナツハ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロックにする。\n【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードとクロック置場のこのカードを入れ替えてよい）",
+    "flavor": "おにいちゃん……夏葉が、虫を探してあげるね？",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_012.png",
+        "cardNo": "OS07/R07-012",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-012&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_012s.png",
+        "cardNo": "OS07/R07-012S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-012S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-013",
+    "baseNo": "OS07/R07-013",
+    "name": "背伸びしたいお年頃 夏葉",
+    "kana": "セノビシタイオトシゴロ ナツハ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "-",
+    "flavor": "……夏葉だって、もうお姉さんだもん！",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_013.png",
+        "cardNo": "OS07/R07-013",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-013&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_013s.png",
+        "cardNo": "OS07/R07-013S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-013S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-014",
+    "baseNo": "OS07/R07-014",
+    "name": "プライベートルーム 稀咲",
+    "kana": "プライベートルーム キサキ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻し、他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "そうだよ？　女の子は視線に敏感な生き物だ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_014.png",
+        "cardNo": "OS07/R07-014",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-014&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_014s.png",
+        "cardNo": "OS07/R07-014S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-014S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-015",
+    "baseNo": "OS07/R07-015",
+    "name": "初お給料の使い方 夏葉",
+    "kana": "ハツオキュウリョウノツカイカタ ナツハ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－1。\n【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋1000。",
+    "flavor": "えへへーっ！　それでねそれでねっ、これは、おにいちゃんの分っ！",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_015.png",
+        "cardNo": "OS07/R07-015",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-015&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_015s.png",
+        "cardNo": "OS07/R07-015S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-015S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-016",
+    "baseNo": "OS07/R07-016",
+    "name": "御一夜の再評価へ ポーレット",
+    "kana": "オヒトヨノサイヒョウカヘ ポーレット",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【起】【カウンター】 助太刀2500 レベル1 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "地元の人間にとってはありふれた光景であっても、観光客には見たことのない景色です",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_016.png",
+        "cardNo": "OS07/R07-016",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-016&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_016s.png",
+        "cardNo": "OS07/R07-016S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-016S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-017",
+    "baseNo": "OS07/R07-017",
+    "name": "夜の駅で ポーレット",
+    "kana": "ヨルノエキデ ポーレット",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの『アラーム』か『シフト』を持つキャラすべてに、パワーを＋1000。\n【自】 絆／「いつもにこにこ れいな」 ［(1)］",
+    "flavor": "あ…………う――うん。いただき、ます",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_017.png",
+        "cardNo": "OS07/R07-017",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-017&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_017s.png",
+        "cardNo": "OS07/R07-017S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-017S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-018",
+    "baseNo": "OS07/R07-018",
+    "name": "川遊び 夏葉",
+    "kana": "カワアソビ ナツハ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストックにしてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+    "flavor": "夏葉は、ねぇ、夏葉はっ、おにいちゃんっ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_018.png",
+        "cardNo": "OS07/R07-018",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-018&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_018s.png",
+        "cardNo": "OS07/R07-018S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-018S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-019",
+    "baseNo": "OS07/R07-019",
+    "name": "おにいちゃんとお散歩 夏葉",
+    "kana": "オニイチャントオサンポ ナツハ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋10000。\n【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストックにしてよい。",
+    "flavor": "えへへー、おにいちゃんとお散歩なんて、久しぶりだねー",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_019.png",
+        "cardNo": "OS07/R07-019",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-019&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_019s.png",
+        "cardNo": "OS07/R07-019S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-019S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-020",
+    "baseNo": "OS07/R07-020",
+    "name": "おっとりした“うしおに” とおこ",
+    "kana": "オットリシタ“ウシオニ” トオコ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "妖怪"
+    ],
+    "text": "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの〈同OS〉のキャラの枚数×1500に等しい。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の「おにいちゃんとお散歩 夏葉」を1枚選び、舞台の好きな枠に置く。",
+    "flavor": "ものべのは、ぜんぶがお山の近くだよ？",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_020.png",
+        "cardNo": "OS07/R07-020",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-020&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_020s.png",
+        "cardNo": "OS07/R07-020S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-020S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-021",
+    "baseNo": "OS07/R07-021",
+    "name": "見えない傷 ポーレット",
+    "kana": "ミエナイキズ ポーレット",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【永】 あなたのターン中、あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋6000。\n【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのCXフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
+    "flavor": "はい。ちょっと……悲しい夢を見てたので",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_021.png",
+        "cardNo": "OS07/R07-021",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-021&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_021s.png",
+        "cardNo": "OS07/R07-021S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-021S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-022",
+    "baseNo": "OS07/R07-022",
+    "name": "無邪気な笑顔 夏葉＆れいな",
+    "kana": "ムジャキナエガオ ナツハアンドレイナ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "レイルロオド",
+      "妹"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－2。",
+    "flavor": "",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_022.png",
+        "cardNo": "OS07/R07-022",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-022&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_022s.png",
+        "cardNo": "OS07/R07-022S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-022S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-023",
+    "baseNo": "OS07/R07-023",
+    "name": "山遊び",
+    "kana": "ヤマアソビ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "EV",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "このカードは、あなたの〈同OS〉のキャラがいないなら、手札からプレイできない。あなたは相手の前列のキャラを2枚まで選び、手札に戻す。",
+    "flavor": "きゃうっ、ゆれるっ、うわ、あははははーっ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_023.png",
+        "cardNo": "OS07/R07-023",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-023&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_023s.png",
+        "cardNo": "OS07/R07-023S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-023S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-024",
+    "baseNo": "OS07/R07-024",
+    "name": "ものべの",
+    "kana": "モノベノ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_024.png",
+        "cardNo": "OS07/R07-024",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-024&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_024s.png",
+        "cardNo": "OS07/R07-024S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-024S&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_p01s.png",
+        "cardNo": "OS07/R07-P01S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-P01S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R07",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-025",
+    "baseNo": "OS07/R07-025",
+    "name": "未来へのレール",
+    "kana": "ミライヘノレール",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "まもなく、鉄橋を通過します。九時の方角をご覧ください",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_025.png",
+        "cardNo": "OS07/R07-025",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-025&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_025s.png",
+        "cardNo": "OS07/R07-025S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-025S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-026",
+    "baseNo": "OS07/R07-026",
+    "name": "ただいま、ものべの",
+    "kana": "タダイマ、モノベノ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "夏葉「わーい！　みんな、久しぶりーっ！！」",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_026.png",
+        "cardNo": "OS07/R07-026",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-026&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_026s.png",
+        "cardNo": "OS07/R07-026S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-026S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-027",
+    "baseNo": "OS07/R07-027",
+    "name": "レイル・ロマネスク ハチロク",
+    "kana": "レイルロマネスク ハチロク",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "レイルロオド"
+    ],
+    "text": "【自】［手札を1枚クロックにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは山札か控え室を宣言し、宣言した自分の領域を見て〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加える。山札を宣言したなら、その山札をシャッフルする。",
+    "flavor": "はい、だんなさま。わたくしのマスター。双鉄、さま",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_027.png",
+        "cardNo": "OS07/R07-027",
+        "rarity": "RR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-027&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_027ofr.png",
+        "cardNo": "OS07/R07-027OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-027OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_027ssp.png",
+        "cardNo": "OS07/R07-027SSP",
+        "rarity": "SSP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-027SSP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-028",
+    "baseNo": "OS07/R07-028",
+    "name": "恋人同士の無制限切符 ハチロク",
+    "kana": "コイビトドウシノムセイゲンキップ ハチロク",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 8000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "レイルロオド"
+    ],
+    "text": "【自】【CXコンボ】［(3)］ このカードがアタックした時、CX置場に「改札デート」があるなら、コストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋3500し、あなたは相手に4ダメージを与えるか、自分のクロックを2枚まで選び、控え室に置く。\n【自】【クロック】 アラーム ［手札を1枚控え室に置く］ このカードがクロックの1番上にあり、他のあなたの〈同OS〉のキャラがいるなら、あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "ここから先は、わたくしごとの時間です",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_028.png",
+        "cardNo": "OS07/R07-028",
+        "rarity": "RR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-028&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_028ofr.png",
+        "cardNo": "OS07/R07-028OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-028OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_028sec.png",
+        "cardNo": "OS07/R07-028SEC",
+        "rarity": "SEC",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-028SEC&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-029",
+    "baseNo": "OS07/R07-029",
+    "name": "<星の揺籃>に祝福された者 ロー",
+    "kana": "<ルナ>ニシュクフクサレタモノ ロー",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "血"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】［他のあなたの舞台の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時か「<補綴された姿見> レイミア」の【自】の効果で舞台に置かれた時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストックにする。\n【自】［手札を2枚控え室に置く］ このカードがアタックした時、コストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。ＸはそれらのカードのCXの枚数に等しい。",
+    "flavor": "いや、あと一つだ。たかみち私といっしょにならぬか？",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_029.png",
+        "cardNo": "OS07/R07-029",
+        "rarity": "RR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-029&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_029ofr.png",
+        "cardNo": "OS07/R07-029OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-029OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_029sp.png",
+        "cardNo": "OS07/R07-029SP",
+        "rarity": "SP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-029SP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-030",
+    "baseNo": "OS07/R07-030",
+    "name": "メロディーにのせて ロー＆ハチロク＆夏葉",
+    "kana": "メロディーニノセテ ローアンドハチロクアンドナツハ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。",
+    "flavor": "",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_030.png",
+        "cardNo": "OS07/R07-030",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-030&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_030s.png",
+        "cardNo": "OS07/R07-030S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-030S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-031",
+    "baseNo": "OS07/R07-031",
+    "name": "夏の思い出 日々姫＆ポーレット＆ハチロク",
+    "kana": "ナツノオモイデ ヒビキアンドポーレットアンドハチロク",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose"
+    ],
+    "text": "【永】 あなたが『【自】 アンコール ［(3)］』以外の自分の「恋人同士の無制限切符 ハチロク」の【自】のコストを払う時、手札のこのカードを、ストック1枚かストック2枚のかわりに控え室に置いてよい。\n【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのCXフェイズの始めに、あなたの〈同OS〉のキャラを2枚まで選び、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。』",
+    "flavor": "",
+    "releaseDate": "2026-01-30",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_031.png",
+        "cardNo": "OS07/R07-031",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-031&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_031s.png",
+        "cardNo": "OS07/R07-031S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-031S&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_p08ex.png",
+        "cardNo": "OS07/R07-P08EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-P08EX&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_p08s.png",
+        "cardNo": "OS07/R07-P08S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-P08S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R07",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-032",
+    "baseNo": "OS07/R07-032",
+    "name": "いつもにこにこ れいな",
+    "kana": "イツモニコニコ レイナ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "レイルロオド"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋2000。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの下から1枚と控え室の〈同OS〉のキャラを1枚選び、入れ替えてよい。\n【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの〈同OS〉のキャラが3枚以上なら、あなたのCXフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "flavor": "わぁい！　あなた、おかえりなさいですぅ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_032.png",
+        "cardNo": "OS07/R07-032",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-032&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_032ofr.png",
+        "cardNo": "OS07/R07-032OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-032OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_032sp.png",
+        "cardNo": "OS07/R07-032SP",
+        "rarity": "SP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-032SP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-033",
+    "baseNo": "OS07/R07-033",
+    "name": "フリフリノユメ レイミア",
+    "kana": "フリフリノユメ レイミア",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "血"
+    ],
+    "text": "【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "……本当に、愚図で、無様で、まさしく蛆ね",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_033.png",
+        "cardNo": "OS07/R07-033",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-033&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_033s.png",
+        "cardNo": "OS07/R07-033S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-033S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-034",
+    "baseNo": "OS07/R07-034",
+    "name": "日ノ本撫子 ハチロク",
+    "kana": "ヒノモトナデシコ ハチロク",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "レイルロオド"
+    ],
+    "text": "【永】 あなたの控え室のCXが2枚以下か6枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。\n【自】【クロック】 アラーム ［(2)］ このカードがクロックの1番上にあり、あなたのレベルが2以上なら、あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。",
+    "flavor": "わたくしたちは。つなげるのですね",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_034.png",
+        "cardNo": "OS07/R07-034",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-034&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_034ofr.png",
+        "cardNo": "OS07/R07-034OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-034OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_034sp.png",
+        "cardNo": "OS07/R07-034SP",
+        "rarity": "SP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-034SP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-035",
+    "baseNo": "OS07/R07-035",
+    "name": "森の散策 れいな",
+    "kana": "モリノサンサク レイナ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "レイルロオド"
+    ],
+    "text": "【永】 あなたが『【自】 アンコール ［(3)］』以外の自分の「明日へのレール ポーレット」の【自】のコストを払う時、手札のこのカードを、ストック1枚かストック2枚のかわりに控え室に置いてよい。\n【起】［手札の「明日へのレール ポーレット」を1枚控え室に置く］ あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "いやじゃないです！　だっこ、楽ちんで嬉しいですぅ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_035.png",
+        "cardNo": "OS07/R07-035",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-035&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_035s.png",
+        "cardNo": "OS07/R07-035S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-035S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-036",
+    "baseNo": "OS07/R07-036",
+    "name": "フィッツジェラルドの新作 ロー",
+    "kana": "フィッツジェラルドノシンサク ロー",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "血"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ あなたのCXがCX置場に置かれた時、コストを払ってよい。そうしたら、あなたは1枚引く。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "身にまとう物だけではない。フィッツジェラルドは伯爵のお城も作るのだぞ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_036.png",
+        "cardNo": "OS07/R07-036",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-036&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_036s.png",
+        "cardNo": "OS07/R07-036S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-036S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-037",
+    "baseNo": "OS07/R07-037",
+    "name": "信じる思い ロー",
+    "kana": "シンジルオモイ ロー",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "血"
+    ],
+    "text": "【自】 このカードが手札から登場した時かアタックした時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "flavor": "私は私の正しいとおもったことをやってみせるぞ！",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_037.png",
+        "cardNo": "OS07/R07-037",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-037&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_037s.png",
+        "cardNo": "OS07/R07-037S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-037S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-038",
+    "baseNo": "OS07/R07-038",
+    "name": "<決して錆びぬ思い> ロー",
+    "kana": "<ロー・ライト> ロー",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "血"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】【CXコンボ】［このカードを【レスト】する］ あなたのCX置場に「受け取ったバトン」が置かれた時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、ストックにする。",
+    "flavor": "『思いを決して錆び付かせてはいけない。大事なことは何を信じるかではなく、信じる思いそのものなのだ』",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_038.png",
+        "cardNo": "OS07/R07-038",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-038&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_038s.png",
+        "cardNo": "OS07/R07-038S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-038S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-039",
+    "baseNo": "OS07/R07-039",
+    "name": "初恋 八宵",
+    "kana": "ハツコイ ヤヨイ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。\n【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "八宵「それ……先生と、今はこうして話せてるからです」",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_039.png",
+        "cardNo": "OS07/R07-039",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-039&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_039s.png",
+        "cardNo": "OS07/R07-039S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-039S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-040",
+    "baseNo": "OS07/R07-040",
+    "name": "白無垢の花嫁 ハチロク",
+    "kana": "シロムクノハナヨメ ハチロク",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "レイルロオド"
+    ],
+    "text": "【自】［(1)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を見てCXを1枚まで選んで公開し、自分の手札のCXを1枚まで選んで公開し、それらのCXを入れ替え、その山札をシャッフルする。",
+    "flavor": "結婚式は生涯一度。双鉄さまも、わたくしも、一度だけしか経験しないもの",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_040.png",
+        "cardNo": "OS07/R07-040",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-040&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_040s.png",
+        "cardNo": "OS07/R07-040S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-040S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-041",
+    "baseNo": "OS07/R07-041",
+    "name": "“運転体の目覚め” ハチロク",
+    "kana": "“ウンテンタイノメザメ” ハチロク",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "レイルロオド"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－1。\n【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのCX置場に「布団のなかで」があり、他のあなたの〈同OS〉のキャラが4枚以上なら、コストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。",
+    "flavor": "それでも日ノ本男子ですか！　恥じ入りなさいっ！！",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_041.png",
+        "cardNo": "OS07/R07-041",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-041&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_041s.png",
+        "cardNo": "OS07/R07-041S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-041S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-042",
+    "baseNo": "OS07/R07-042",
+    "name": "シーリング ハチロク",
+    "kana": "シーリング ハチロク",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "レイルロオド"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－1。\n【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
+    "flavor": "はい。双鉄さま――わたくしこそ――それこそ、わたくしの望みです",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_042.png",
+        "cardNo": "OS07/R07-042",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-042&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_042s.png",
+        "cardNo": "OS07/R07-042S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-042S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-043",
+    "baseNo": "OS07/R07-043",
+    "name": "チャイナドレス ハチロク",
+    "kana": "チャイナドレス ハチロク",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "レイルロオド"
+    ],
+    "text": "【自】［(2) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_043.png",
+        "cardNo": "OS07/R07-043",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-043&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_043s.png",
+        "cardNo": "OS07/R07-043S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-043S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-044",
+    "baseNo": "OS07/R07-044",
+    "name": "想いを詰めた赤ペン 遥",
+    "kana": "オモイヲツメタアカペン ハルカ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "先生"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+    "flavor": "この想いを、諦められるわけないでしょう！！",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_044.png",
+        "cardNo": "OS07/R07-044",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-044&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_044s.png",
+        "cardNo": "OS07/R07-044S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-044S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-045",
+    "baseNo": "OS07/R07-045",
+    "name": "おだいどこしごと ハチロク",
+    "kana": "オダイドコシゴト ハチロク",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "レイルロオド"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋1500。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "できたてを食べていただきたく思いますので、あとは、煮含めるだけのところまでは仕上がってます",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_045.png",
+        "cardNo": "OS07/R07-045",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-045&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_045s.png",
+        "cardNo": "OS07/R07-045S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-045S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-046",
+    "baseNo": "OS07/R07-046",
+    "name": "“整備体”との再会 ハチロク",
+    "kana": "“セイビタイ”トノサイカイ ハチロク",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "レイルロオド"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ 控え室にこのカードがあるなら、あなたの「“運転体の目覚め” ハチロク」が舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたはこのカードを舞台のキャラのいない枠に【レスト】して置く。\n【起】［このカードをストックにする］ あなたは自分の山札の「“運転体の目覚め” ハチロク」を1枚まで選び、このカードがいた枠に置き、その山札をシャッフルする。",
+    "flavor": "驚かないでくださいましと、お願いいたしましたのに",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_046.png",
+        "cardNo": "OS07/R07-046",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-046&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_046s.png",
+        "cardNo": "OS07/R07-046S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-046S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-047",
+    "baseNo": "OS07/R07-047",
+    "name": "<補綴された姿見> レイミア",
+    "kana": "<レインフォースド・グローリー> レイミア",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "血"
+    ],
+    "text": "【永】 あなたの控え室のトリガーアイコンが【トレジャー】のCXが5枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】［(1) このカードを思い出にする］ このカードが【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の控え室の「<星の揺籃>に祝福された者 ロー」を1枚選び、このカードがいた枠に【レスト】して置く。\n【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+    "flavor": "伯爵様の意向に背くなんて、一体全体何様のつもりかしら？",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_047.png",
+        "cardNo": "OS07/R07-047",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-047&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_047s.png",
+        "cardNo": "OS07/R07-047S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-047S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-048",
+    "baseNo": "OS07/R07-048",
+    "name": "スタアライトレイル",
+    "kana": "スタアライトレイル",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "EV",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは自分の山札の上から1枚を公開し、自分の山札のレベルＸ以下の〈同OS〉のキャラを1枚までサーチし手札に加える。Ｘは公開されたカードのレベルに等しい。",
+    "flavor": "スタアライトレイル。なんと優しい名の歌でしょう",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_048.png",
+        "cardNo": "OS07/R07-048",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-048&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_048s.png",
+        "cardNo": "OS07/R07-048S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-048S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-049",
+    "baseNo": "OS07/R07-049",
+    "name": "改札デート",
+    "kana": "カイサツデート",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "はい、どうぞ。それでは入鋏させていただきますね？",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_049.png",
+        "cardNo": "OS07/R07-049",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-049&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_049a.png",
+        "cardNo": "OS07/R07-049A",
+        "rarity": "AGR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-049A&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_049s.png",
+        "cardNo": "OS07/R07-049S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-049S&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_p02s.png",
+        "cardNo": "OS07/R07-P02S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-P02S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R07",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-050",
+    "baseNo": "OS07/R07-050",
+    "name": "受け取ったバトン",
+    "kana": "ウケトッタバトン",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "ファルシュ・ドロレス・ヴァレンタインとして、レイミアのいしにこたえる！",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_050.png",
+        "cardNo": "OS07/R07-050",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-050&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_050s.png",
+        "cardNo": "OS07/R07-050S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-050S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-051",
+    "baseNo": "OS07/R07-051",
+    "name": "布団のなかで",
+    "kana": "フトンノナカデ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "それがどれほど切ないことでも――あなたのために、わたくしは未来を思いましょう",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_051.png",
+        "cardNo": "OS07/R07-051",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-051&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_051s.png",
+        "cardNo": "OS07/R07-051S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-051S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-052",
+    "baseNo": "OS07/R07-052",
+    "name": "猛アピールする幼馴染 ありす",
+    "kana": "モウアピールスルオサナナジミ アリス",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "幼馴染"
+    ],
+    "text": "【自】 このカードがアタックした時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の〈同OS〉のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
+    "flavor": "ん……。透さん。愛してます。大好きです",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_052.png",
+        "cardNo": "OS07/R07-052",
+        "rarity": "RR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-052&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_052ofr.png",
+        "cardNo": "OS07/R07-052OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-052OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_052sp.png",
+        "cardNo": "OS07/R07-052SP",
+        "rarity": "SP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-052SP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-053",
+    "baseNo": "OS07/R07-053",
+    "name": "にぃにと過ごす夏 日々姫",
+    "kana": "ニィニトスゴスナツ ヒビキ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「隙を見せるお絵描きタイム」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000し、あなたは山札か控え室を宣言し、宣言した自分の領域を見て「にぃにへのアピール」を1枚まで選んで相手に見せ、手札に加える。山札を宣言したなら、その山札をシャッフルする。",
+    "flavor": "どうです？　今度はドキドキくらいはしてくれましたか？",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_053.png",
+        "cardNo": "OS07/R07-053",
+        "rarity": "RR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-053&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_053ofr.png",
+        "cardNo": "OS07/R07-053OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-053OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_053sp.png",
+        "cardNo": "OS07/R07-053SP",
+        "rarity": "SP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-053SP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-054",
+    "baseNo": "OS07/R07-054",
+    "name": "一途な恋 日々姫＆ありす",
+    "kana": "イチズナコイ ヒビキアンドアリス",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "妹",
+      "幼馴染"
+    ],
+    "text": "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのトリガーアイコンが【カムバック】のCX1枚につき、次の行動を行う。『あなたは自分の山札を上から4枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』",
+    "flavor": "",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_054.png",
+        "cardNo": "OS07/R07-054",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-054&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_054s.png",
+        "cardNo": "OS07/R07-054S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-054S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-055",
+    "baseNo": "OS07/R07-055",
+    "name": "思いの結実 日々姫",
+    "kana": "オモイノケツジツ ヒビキ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【自】 このカードが手札から登場した時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』\n【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "ううん、汚れるのは構わんと。これ、洗って平気なスーツやけん",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_055.png",
+        "cardNo": "OS07/R07-055",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-055&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_055s.png",
+        "cardNo": "OS07/R07-055S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-055S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-056",
+    "baseNo": "OS07/R07-056",
+    "name": "義姉から恋人に 真闇",
+    "kana": "アネカラコイビトニ マクラ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "姉"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】［(1) 他のあなたの【スタンド】している〈同OS〉のキャラを1枚【レスト】する］ このカードが手札から登場したターン中、このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "双ちゃんの、こと。大好きやけん。恋人に、ずっと、してほしか――",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_056.png",
+        "cardNo": "OS07/R07-056",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-056&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_056ofr.png",
+        "cardNo": "OS07/R07-056OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-056OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_056sp.png",
+        "cardNo": "OS07/R07-056SP",
+        "rarity": "SP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-056SP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-057",
+    "baseNo": "OS07/R07-057",
+    "name": "不意打ちの思い出 ありす",
+    "kana": "フイウチノオモイデ アリス",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 4500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "幼馴染"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。\n【自】【CXコンボ】 このカードが手札から登場した時、あなたは自分の控え室の「添い遂げる未来」を1枚選び、手札に戻すかストックにしてよい。\n【自】【CXコンボ】［(3) 手札を3枚控え室に置く］ あなたのCX置場に「添い遂げる未来」が置かれた時、 他のあなたの赤のキャラが4枚以上なら、コストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 このカードがアタックした時、相手に1ダメージを与える。』",
+    "flavor": "そういうのじゃなくて！　あの、ここ……前にも二人で来たの、覚えてます？",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_057.png",
+        "cardNo": "OS07/R07-057",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-057&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_057s.png",
+        "cardNo": "OS07/R07-057S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-057S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-058",
+    "baseNo": "OS07/R07-058",
+    "name": "義妹以上の関係 日々姫",
+    "kana": "イモウトイジョウノカンケイ ヒビキ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【永】 あなたの、「一途な恋 日々姫＆ありす」と「重なる気持ち 日々姫」がいるなら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から登場した時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードに赤のキャラか赤のイベントが1枚以上なら、次の相手のターンの終わりまで、このカードのパワーを＋1500。2枚以上なら、あなたは自分のクロックの上から1枚までを、控え室に置く。3枚以上なら、あなたは相手に1ダメージを与えてよい。",
+    "flavor": "だから、ね？　にぃにっ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_058.png",
+        "cardNo": "OS07/R07-058",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-058&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_058s.png",
+        "cardNo": "OS07/R07-058S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-058S&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_p03s.png",
+        "cardNo": "OS07/R07-P03S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-P03S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R07",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-059",
+    "baseNo": "OS07/R07-059",
+    "name": "川遊び ありす",
+    "kana": "カワアソビ アリス",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "幼馴染"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】【ターン1】［(3) 手札を1枚控え室に置く］ このカードが手札から登場したターン中、このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、このカードを【スタンド】する。",
+    "flavor": "すみちゃん以外にも、かわいい子いますよお客さんっ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_059.png",
+        "cardNo": "OS07/R07-059",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-059&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_059s.png",
+        "cardNo": "OS07/R07-059S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-059S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-060",
+    "baseNo": "OS07/R07-060",
+    "name": "チャイナドレス 日々姫",
+    "kana": "チャイナドレス ヒビキ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。\n【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのCXフェイズの始めに、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+    "flavor": "にぃにに、にぃにだけに――見て欲しかったけん",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_060.png",
+        "cardNo": "OS07/R07-060",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-060&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_060s.png",
+        "cardNo": "OS07/R07-060S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-060S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-061",
+    "baseNo": "OS07/R07-061",
+    "name": "オシャレな化け猫 ちま",
+    "kana": "オシャレナバケネコ チマ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妖怪"
+    ],
+    "text": "【自】［(1) 手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\n【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードとクロック置場のこのカードを入れ替えてよい）",
+    "flavor": "そうにゃ！　さすがはありすさんにゃあ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_061.png",
+        "cardNo": "OS07/R07-061",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-061&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_061s.png",
+        "cardNo": "OS07/R07-061S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-061S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-062",
+    "baseNo": "OS07/R07-062",
+    "name": "夜道の散歩 日々姫",
+    "kana": "ヨミチノサンポ ヒビキ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【自】［(2)］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "……兄さんが、帝都に帰りたくなくなる町。ずっと暮らしたくなる御一夜が、私の理想の御一夜です",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_062.png",
+        "cardNo": "OS07/R07-062",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-062&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_062s.png",
+        "cardNo": "OS07/R07-062S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-062S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-063",
+    "baseNo": "OS07/R07-063",
+    "name": "地道な調査 ありす",
+    "kana": "ジミチナチョウサ アリス",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "幼馴染"
+    ],
+    "text": "【永】 応援 あなたのターン中、このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋Ｘ。Ｘはあなたのレベル×1000に等しい。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを－Ｘ。Ｘはあなたのレベルに等しい。",
+    "flavor": "なっちゃん起きたら寂しいでしょうし……早く済ませちゃいましょう",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_063.png",
+        "cardNo": "OS07/R07-063",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-063&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_063s.png",
+        "cardNo": "OS07/R07-063S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-063S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-064",
+    "baseNo": "OS07/R07-064",
+    "name": "開きかけのつぼみ 日々姫",
+    "kana": "ヒラキカケノツボミ ヒビキ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【自】 あなたのトリガーアイコンが【カムバック】のCXがトリガーした時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
+    "flavor": "兄さん？　少しお話が",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_064.png",
+        "cardNo": "OS07/R07-064",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-064&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_064s.png",
+        "cardNo": "OS07/R07-064S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-064S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-065",
+    "baseNo": "OS07/R07-065",
+    "name": "“ありすinアリス！” ありす",
+    "kana": "“アリスインアリス！” アリス",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "幼馴染"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "はい、お待たせしました。うさぎさん",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_065.png",
+        "cardNo": "OS07/R07-065",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-065&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_065s.png",
+        "cardNo": "OS07/R07-065S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-065S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-066",
+    "baseNo": "OS07/R07-066",
+    "name": "討論会 日々姫",
+    "kana": "トウロンカイ ヒビキ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【永】 他のあなたの前列の「討論会 稀咲」がいるなら、このカードのパワーを＋3000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』\n【自】 絆／「討論会 稀咲」 ［(1)］",
+    "flavor": "犠牲になんてなりませんよ。鉄道は、だって、繋がりますから",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_066.png",
+        "cardNo": "OS07/R07-066",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-066&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_066s.png",
+        "cardNo": "OS07/R07-066S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-066S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-067",
+    "baseNo": "OS07/R07-067",
+    "name": "討論会 稀咲",
+    "kana": "トウロンカイ キサキ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの前列の「討論会 日々姫」がいるなら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』\n【自】 絆／「討論会 日々姫」 ［手札を1枚控え室に置く］",
+    "flavor": "その場合のケアはどう行うんだい？プランが無いなら、それは政治の責任放棄だよ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_067.png",
+        "cardNo": "OS07/R07-067",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-067&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_067s.png",
+        "cardNo": "OS07/R07-067S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-067S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-068",
+    "baseNo": "OS07/R07-068",
+    "name": "打算的ツイスターゲーム ありす",
+    "kana": "ダサンテキツイスターゲーム アリス",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "幼馴染"
+    ],
+    "text": "【自】 この能力は1ターンにつき2回まで発動する。あなたのキャラが手札からクロック置場に置かれた時、そのターン中、このカードのパワーを＋3000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］",
+    "flavor": "楽勝楽勝",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_068.png",
+        "cardNo": "OS07/R07-068",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-068&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_068s.png",
+        "cardNo": "OS07/R07-068S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-068S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-069",
+    "baseNo": "OS07/R07-069",
+    "name": "無防備な寝顔 ありす",
+    "kana": "ムボウビナネガオ アリス",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "幼馴染"
+    ],
+    "text": "【永】 後列にこのカードがいて、他のあなたの後列の「猛アピールする幼馴染 ありす」がいるなら、あなたの手札の、「不意打ちの思い出 ありす」と「川遊び ありす」のレベルを－1。\n【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードとクロック置場のこのカードを入れ替えてよい）",
+    "flavor": "ん……ふわ……あ………あーあっ、ちぇっ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_069.png",
+        "cardNo": "OS07/R07-069",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-069&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_069s.png",
+        "cardNo": "OS07/R07-069S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-069S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-070",
+    "baseNo": "OS07/R07-070",
+    "name": "救いの手 真闇",
+    "kana": "スクイノテ マクラ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": 5500,
+    "soul": 2,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "姉"
+    ],
+    "text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］",
+    "flavor": "それはもちろん、マイントレジャーば成功させることたい",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_070.png",
+        "cardNo": "OS07/R07-070",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-070&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_070s.png",
+        "cardNo": "OS07/R07-070S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-070S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-071",
+    "baseNo": "OS07/R07-071",
+    "name": "包み込む優しさ とおこ＆真闇",
+    "kana": "ツツミコムヤサシサ トオコアンドマクラ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "姉",
+      "妖怪"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの赤のキャラすべてに、パワーを＋1500。\n【起】［このカードを山札の下に置く］ あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。",
+    "flavor": "",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_071.png",
+        "cardNo": "OS07/R07-071",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-071&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_071s.png",
+        "cardNo": "OS07/R07-071S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-071S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-072",
+    "baseNo": "OS07/R07-072",
+    "name": "重なる気持ち 日々姫",
+    "kana": "カサナルキモチ ヒビキ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラ1枚につき、このカードのパワーを＋500。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「Run with our dreams」があるなら、あなたは自分の山札の上から2枚までを、ストックにし、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。",
+    "flavor": "私は、にぃにぃ――右田双鉄さんのことが好きです。それは恋っていう意味の好きで",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_072.png",
+        "cardNo": "OS07/R07-072",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-072&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_072s.png",
+        "cardNo": "OS07/R07-072S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-072S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-073",
+    "baseNo": "OS07/R07-073",
+    "name": "にぃにへのアピール",
+    "kana": "ニィニヘノアピール",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "EV",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは自分の控え室のレベルＸ以下の〈同OS〉のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「にぃにと過ごす夏 日々姫」の枚数に等しい。",
+    "flavor": "ね。にぃに。足、すべらせたら受け止めれるよー、う……う――上っ！　上ば、ちゃんと見とって、ねっ？",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_073.png",
+        "cardNo": "OS07/R07-073",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-073&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_073s.png",
+        "cardNo": "OS07/R07-073S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-073S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-074",
+    "baseNo": "OS07/R07-074",
+    "name": "隙を見せるお絵描きタイム",
+    "kana": "スキヲミセルオエカキタイム",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "ね？　にぃに、ちょっとここ見て？",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_074.png",
+        "cardNo": "OS07/R07-074",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-074&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_074s.png",
+        "cardNo": "OS07/R07-074S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-074S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-075",
+    "baseNo": "OS07/R07-075",
+    "name": "添い遂げる未来",
+    "kana": "ソイトゲルミライ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "こ、こうすると落ち着くって、よく聞きますし……どうですか？　眠れそうですか？",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_075.png",
+        "cardNo": "OS07/R07-075",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-075&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_075s.png",
+        "cardNo": "OS07/R07-075S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-075S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-076",
+    "baseNo": "OS07/R07-076",
+    "name": "Run with our dreams",
+    "kana": "ラン ウィズ アワー ドリームス",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "いいです。見せつけてあげちゃいますよ。御一夜のみんなに、私の素敵な旦那様を",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_076.png",
+        "cardNo": "OS07/R07-076",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-076&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_076s.png",
+        "cardNo": "OS07/R07-076S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-076S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-077",
+    "baseNo": "OS07/R07-077",
+    "name": "一生の誓い ふかみ",
+    "kana": "イッショウノチカイ フカミ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【自】 このカードがアタックした時、あなたのキャラすべてが〈同OS〉なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\n【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの〈同OS〉のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "愛して、います",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_077.png",
+        "cardNo": "OS07/R07-077",
+        "rarity": "RR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-077&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_077ofr.png",
+        "cardNo": "OS07/R07-077OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-077OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_077ssp.png",
+        "cardNo": "OS07/R07-077SSP",
+        "rarity": "SSP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-077SSP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-078",
+    "baseNo": "OS07/R07-078",
+    "name": "愛情を注ぐ家守妖怪 すみ",
+    "kana": "アイジョウヲソソグヤモリヨウカイ スミ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "妖怪"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－3。\n【自】【CXコンボ】 このカードがアタックした時、CX置場に「すみとの夜」があり、他のあなたの〈同OS〉のキャラが2枚以上なら、相手に1ダメージを与え、あなたは自分の山札の上から1枚を公開する。そのカードがイベントか『アラーム』か『シフト』を持つカードなら、相手に2ダメージを与える。\n【自】［手札のCXを1枚控え室に置く］ あなたのCXがトリガーした時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+    "flavor": "",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_078.png",
+        "cardNo": "OS07/R07-078",
+        "rarity": "RR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-078&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_078ofr.png",
+        "cardNo": "OS07/R07-078OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-078OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_078sp.png",
+        "cardNo": "OS07/R07-078SP",
+        "rarity": "SP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-078SP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-079",
+    "baseNo": "OS07/R07-079",
+    "name": "ウサギドレス ふかみ",
+    "kana": "ウサギドレス フカミ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】［手札のCXを1枚控え室に置く］ あなたのCXがトリガーした時、コストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_079.png",
+        "cardNo": "OS07/R07-079",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-079&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_079s.png",
+        "cardNo": "OS07/R07-079S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-079S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-080",
+    "baseNo": "OS07/R07-080",
+    "name": "“あかしゃぐま” すみ",
+    "kana": "アカシャグマ スミ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妖怪"
+    ],
+    "text": "【自】【CXコンボ】 あなたのCX置場に「日暮れの帰り道」が置かれた時、他のあなたのキャラが2枚以上なら、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加える。\n【自】［手札を1枚控え室に置き、【スタンド】しているこのカードを【レスト】する］ あなたのCXがトリガーした時、コストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "flavor": "と――当然であろ？　わ、わらわは透の家守ぞ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_080.png",
+        "cardNo": "OS07/R07-080",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-080&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_080s.png",
+        "cardNo": "OS07/R07-080S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-080S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-081",
+    "baseNo": "OS07/R07-081",
+    "name": "八月終わりの茂伸川 すみ",
+    "kana": "ハチガツオワリノモノベノガワ スミ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妖怪"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』\n【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の青のカードとクロック置場のこのカードを入れ替えてよい）",
+    "flavor": "む？どうしたのじゃ？妙な顔をして",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_081.png",
+        "cardNo": "OS07/R07-081",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-081&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_081s.png",
+        "cardNo": "OS07/R07-081S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-081S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-082",
+    "baseNo": "OS07/R07-082",
+    "name": "しっかり者 ふかみ＆すみ",
+    "kana": "シッカリモノ フカミアンドスミ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "努力家",
+      "妖怪"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 このカードがアタックした時、他のあなたの青のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードの、レベルが2以上かカード名が「一生の誓い ふかみ」ならストックにする。",
+    "flavor": "",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_082.png",
+        "cardNo": "OS07/R07-082",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-082&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_082s.png",
+        "cardNo": "OS07/R07-082S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-082S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-083",
+    "baseNo": "OS07/R07-083",
+    "name": "ギャルに染まった妹 ちえ",
+    "kana": "ギャルニソマッタイモウト チエ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Whisp",
+      "妹"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋1000。\n【自】【クロック】 アラーム ［(1) 手札を1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、相手に1ダメージを与える。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の、〈同OS〉のキャラか「あなたの妹はどんな妹？」を1枚選び、手札に戻す。「あなたの妹はどんな妹？」を手札に戻したなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "もしかして、意識してんの？　ダッサ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_083.png",
+        "cardNo": "OS07/R07-083",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-083&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_083s.png",
+        "cardNo": "OS07/R07-083S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-083S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-084",
+    "baseNo": "OS07/R07-084",
+    "name": "かわいい巫女さん ふかみ",
+    "kana": "カワイイミコサン フカミ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋1000。\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストックにする。",
+    "flavor": "",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_084.png",
+        "cardNo": "OS07/R07-084",
+        "rarity": "R",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-084&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_084s.png",
+        "cardNo": "OS07/R07-084S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-084S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-085",
+    "baseNo": "OS07/R07-085",
+    "name": "結婚祝いのドレス すみ",
+    "kana": "ケッコンイワイノドレス スミ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妖怪"
+    ],
+    "text": "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、コストを払ってよい。そうしたら、このカードを【レスト】する。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
+    "flavor": "なっ、何を恥ずかしいことを言うておるっ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_085.png",
+        "cardNo": "OS07/R07-085",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-085&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_085s.png",
+        "cardNo": "OS07/R07-085S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-085S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-086",
+    "baseNo": "OS07/R07-086",
+    "name": "ふたりっきりのデート 凪",
+    "kana": "フタリッキリノデート ナギ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "元気"
+    ],
+    "text": "【永】 他のあなたの「仲良しコンビ ふかみ＆凪」すべてに、パワーを＋1000。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の「仲良しコンビ ふかみ＆凪」を1枚までサーチし手札に加える。",
+    "flavor": "あのとき――にーさんに助けてもらって、胸が、きゅうんとしよったばい",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_086.png",
+        "cardNo": "OS07/R07-086",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-086&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_086s.png",
+        "cardNo": "OS07/R07-086S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-086S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-087",
+    "baseNo": "OS07/R07-087",
+    "name": "大掃除 すみ",
+    "kana": "オオソウジ スミ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妖怪"
+    ],
+    "text": "【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。\n【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の青のカードとクロック置場のこのカードを入れ替えてよい）",
+    "flavor": "そろそろ、家の仕事もしてもらわねばならん",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_087.png",
+        "cardNo": "OS07/R07-087",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-087&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_087s.png",
+        "cardNo": "OS07/R07-087S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-087S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-088",
+    "baseNo": "OS07/R07-088",
+    "name": "ヒネクレた妹 ちえ",
+    "kana": "ヒネクレタイモウト チエ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Whisp",
+      "妹"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\n【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのCXフェイズの始めに、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
+    "flavor": "ふひひ、負け惜しみ？",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_088.png",
+        "cardNo": "OS07/R07-088",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-088&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_088s.png",
+        "cardNo": "OS07/R07-088S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-088S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-089",
+    "baseNo": "OS07/R07-089",
+    "name": "元気いっぱい 凪＆鉄砲撃レ狸",
+    "kana": "ゲンキイッパイ ナギアンドテッポウウタレタヌキ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "元気"
+    ],
+    "text": "【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
+    "flavor": "凪「ふっふーん、ま、それは仕方のなかことばい？」",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_089.png",
+        "cardNo": "OS07/R07-089",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-089&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_089ofr.png",
+        "cardNo": "OS07/R07-089OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-089OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_089sp.png",
+        "cardNo": "OS07/R07-089SP",
+        "rarity": "SP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-089SP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-090",
+    "baseNo": "OS07/R07-090",
+    "name": "クマ川下り 凪",
+    "kana": "クマガワクダリ ナギ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "元気"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋5000。\n【自】 このカードが手札から登場した時、あなたは自分の控え室の「クマ川下り ふかみ」を1枚選び、表向きでこのカードのマーカーにしてよい。\n【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードのマーカーを1枚選び、手札に戻してよい。",
+    "flavor": "ま、簡単にいえばそういうこったい。これも、剣術修行ばい！",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_090.png",
+        "cardNo": "OS07/R07-090",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-090&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_090s.png",
+        "cardNo": "OS07/R07-090S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-090S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-091",
+    "baseNo": "OS07/R07-091",
+    "name": "川遊び すみ",
+    "kana": "カワアソビ スミ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妖怪"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "ど、ど、どこじゃ！　クジラさんはどこじゃ！！",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_091.png",
+        "cardNo": "OS07/R07-091",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-091&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_091s.png",
+        "cardNo": "OS07/R07-091S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-091S&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_p04s.png",
+        "cardNo": "OS07/R07-P04S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-P04S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R07",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-092",
+    "baseNo": "OS07/R07-092",
+    "name": "ナマイキな妹 ちえ",
+    "kana": "ナマイキナイモウト チエ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Whisp",
+      "妹"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋4000。\n【自】【ターン1】 このカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを【レスト】してよい。",
+    "flavor": "だいじょ――",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_092.png",
+        "cardNo": "OS07/R07-092",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-092&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_092ofr.png",
+        "cardNo": "OS07/R07-092OFR",
+        "rarity": "OFR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-092OFR&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_092sp.png",
+        "cardNo": "OS07/R07-092SP",
+        "rarity": "SP",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-092SP&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-093",
+    "baseNo": "OS07/R07-093",
+    "name": "仲良しコンビ ふかみ＆凪",
+    "kana": "ナカヨシコンビ フカミアンドナギ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "努力家",
+      "元気"
+    ],
+    "text": "【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのCX置場に「クマ川で遊ぼう」があり、他のあなたの〈同OS〉のキャラがいるなら、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、ストックにする。",
+    "flavor": "ふかみ「だったら、つづけてみませんか？　あのっ――これからも――私達と、修学旅行」",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_093.png",
+        "cardNo": "OS07/R07-093",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-093&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_093s.png",
+        "cardNo": "OS07/R07-093S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-093S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-094",
+    "baseNo": "OS07/R07-094",
+    "name": "クマ川下り ふかみ",
+    "kana": "クマガワクダリ フカミ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "努力家"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋10000。\n【自】 このカードが手札から登場した時、あなたは自分の控え室の「クマ川下り 凪」を2枚まで選び、このカードの下にマーカーとして好きな順番で表向きに置く。\n【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードのマーカーを2枚まで選び、ストック置場の下に好きな順番で置く。",
+    "flavor": "川は、毎日が別の表情で。だけどずうっと、おんなじ顔をしてるんです",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_094.png",
+        "cardNo": "OS07/R07-094",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-094&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_094s.png",
+        "cardNo": "OS07/R07-094S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-094S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-095",
+    "baseNo": "OS07/R07-095",
+    "name": "凛々しい一声 ひめみや",
+    "kana": "リリシイイッセイ ヒメミヤ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "巫女"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "――――鎮まりぃちゃ",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_095.png",
+        "cardNo": "OS07/R07-095",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-095&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_095s.png",
+        "cardNo": "OS07/R07-095S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-095S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-096",
+    "baseNo": "OS07/R07-096",
+    "name": "カヤリノ洞へ すみ",
+    "kana": "カヤリノドウヘ スミ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "妖怪"
+    ],
+    "text": "【永】 他のあなたのレベル0以下のキャラすべてに、パワーを＋1000。\n【自】【CXコンボ】［(2) このカードを控え室に置く］ あなたのCX置場に「すみとの夜」が置かれた時、コストを払ってよい。そうしたら、あなたは自分の控え室の「愛情を注ぐ家守妖怪 すみ」を1枚選び、このカードがいた枠に置く。\n【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の青のカードとクロック置場のこのカードを入れ替えてよい）",
+    "flavor": "……このあたり、かの",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_096.png",
+        "cardNo": "OS07/R07-096",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-096&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_096s.png",
+        "cardNo": "OS07/R07-096S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-096S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-097",
+    "baseNo": "OS07/R07-097",
+    "name": "あなたの妹はどんな妹？",
+    "kana": "アナタノイモウトハドンナイモウト？",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "EV",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは自分のクロック置場のコスト0以下のカード名に「ちえ」を含むキャラを1枚選び、舞台の好きな枠に置く。あなたは自分のカード名に「ちえ」を含むキャラを1枚選び、そのターン中、パワーを＋3000。このカードをクロックにする。",
+    "flavor": "",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_097.png",
+        "cardNo": "OS07/R07-097",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-097&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_097sa.png",
+        "cardNo": "OS07/R07-097S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-097S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-098",
+    "baseNo": "OS07/R07-098",
+    "name": "すみとの夜",
+    "kana": "スミトノヨル",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "ただの務めで……これほど胸が、切なく辛くなるわけがないっ……",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_098.png",
+        "cardNo": "OS07/R07-098",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-098&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_098s.png",
+        "cardNo": "OS07/R07-098S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-098S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-099",
+    "baseNo": "OS07/R07-099",
+    "name": "日暮れの帰り道",
+    "kana": "ヒグレノカエリミチ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "……明日で、全てが分かるといいの",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_099.png",
+        "cardNo": "OS07/R07-099",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-099&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_099s.png",
+        "cardNo": "OS07/R07-099S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-099S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-100",
+    "baseNo": "OS07/R07-100",
+    "name": "クマ川で遊ぼう",
+    "kana": "クマガワデアソボウ",
+    "product": "ブースターパック Lose＆Whisp",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室の青のカードを1枚まで選び、ストックにし、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "flavor": "凪「にーさん、これも修行ばいっ！」",
+    "releaseDate": null,
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_100.png",
+        "cardNo": "OS07/R07-100",
+        "rarity": "C",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-100&expansion=R07"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_100s.png",
+        "cardNo": "OS07/R07-100S",
+        "rarity": "SR",
+        "expansion": "R07",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-100S&expansion=R07"
+      }
+    ],
+    "expansions": [
+      "R07"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-P05",
+    "baseNo": "OS07/R07-P05",
+    "name": "にゃつはの夜 夏葉",
+    "kana": "ニャツハノヨル ナツハ",
+    "product": "PRカード",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。\n【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードとクロック置場のこのカードを入れ替えてよい）",
+    "flavor": "またせたニャ！　猫姫、にゃつはさまの登場にゃ！",
+    "releaseDate": "2026-03-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_p05.png",
+        "cardNo": "OS07/R07-P05",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-P05&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_p05s.png",
+        "cardNo": "OS07/R07-P05S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-P05S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-P06",
+    "baseNo": "OS07/R07-P06",
+    "name": "汚れてしまった制服で 日々姫",
+    "kana": "ヨゴレテシマッタセイフクデ ヒビキ",
+    "product": "PRカード",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【永】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたの〈同OS〉のキャラすべてに、次の能力を与える。『【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。』",
+    "flavor": "あ……うん。ありがと",
+    "releaseDate": "2026-05-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_p06.png",
+        "cardNo": "OS07/R07-P06",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-P06&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_p06s.png",
+        "cardNo": "OS07/R07-P06S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-P06S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-P07EX",
+    "baseNo": "OS07/R07-P07",
+    "name": "常夏のプール 夏葉",
+    "kana": "トコナツノプール ナツハ",
+    "product": "PRカード",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Lose",
+      "妹"
+    ],
+    "text": "【起】【カウンター】 助太刀2500 レベル1 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-03-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_p07ex.png",
+        "cardNo": "OS07/R07-P07EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-P07EX&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS07/R07-P09",
+    "baseNo": "OS07/R07-P09",
+    "name": "8620専用レイルロオド ハチロク",
+    "kana": "8620センヨウレイルロオド ハチロク",
+    "product": "PRカード",
+    "neoStandard": "Lose＆Whisp",
+    "workNo": "OS07",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Lose",
+      "レイルロオド"
+    ],
+    "text": "【自】［手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。\n【自】 アラーム このカードがクロックの1番上にあり、あなたのレベルが1以上なら、あなたのメインフェイズの始めに、あなたは自分の控え室の「レイル・ロマネスク ハチロク」を1枚選び、ストック置場の下に置いてよい。",
+    "flavor": "",
+    "releaseDate": "2026-07-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_p09.png",
+        "cardNo": "OS07/R07-P09",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-P09&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os07/r07/os07_r07_p09s.png",
+        "cardNo": "OS07/R07-P09S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS07%2FR07-P09S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  }
+]

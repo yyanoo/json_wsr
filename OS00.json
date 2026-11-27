@@ -1,0 +1,70 @@
+[
+  {
+    "cardNo": "OS00/RPR-001",
+    "baseNo": "OS00/RPR-001",
+    "name": "Happy Half Anniversary !!",
+    "kana": "ハッピーハーフアニバーサリー",
+    "product": "PRカード",
+    "neoStandard": "",
+    "workNo": "OS00",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "",
+    "releaseDate": "2025-11-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os00/rpr/os00_rpr_001.png",
+        "cardNo": "OS00/RPR-001",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS00%2FRPR-001&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS00/RPR-002",
+    "baseNo": "OS00/RPR-002",
+    "name": "Happy 1st Anniversary !!",
+    "kana": "ハッピーファーストアニバーサリー!!",
+    "product": "PRカード",
+    "neoStandard": "",
+    "workNo": "OS00",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "",
+    "releaseDate": "2026-07-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os00/rpr/os00_rpr_002.png",
+        "cardNo": "OS00/RPR-002",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS00%2FRPR-002&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  }
+]

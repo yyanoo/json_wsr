@@ -1,0 +1,5374 @@
+[
+  {
+    "cardNo": "OS03/R03-001",
+    "baseNo": "OS03/R03-001",
+    "name": "鳴り響く音 パトリシア",
+    "kana": "ナリヒビクオト パトリシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 あなたの手札の枚数上限を＋1。\n【自】 【ターン1】 あなたが『共鳴』を使った時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "もうぜったいに、帰さない",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_001.png",
+        "cardNo": "OS03/R03-001",
+        "rarity": "RR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-001&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_001ofr.png",
+        "cardNo": "OS03/R03-001OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-001OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_001sec.png",
+        "cardNo": "OS03/R03-001SEC",
+        "rarity": "SEC",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-001SEC&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-002",
+    "baseNo": "OS03/R03-002",
+    "name": "抑えきれない愛の光 ルーシア",
+    "kana": "オサエキレナイアイノヒカリ ルーシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 あなたのクロック置場に「鳴り響く音 パトリシア」があるなら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋1000。\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックの下から1枚を、ストックにする。",
+    "flavor": "私を抱きたいと思ったら、素直に抱いてほしい……",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_002.png",
+        "cardNo": "OS03/R03-002",
+        "rarity": "RR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-002&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_002ofr.png",
+        "cardNo": "OS03/R03-002OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-002OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_002ssp.png",
+        "cardNo": "OS03/R03-002SSP",
+        "rarity": "SSP",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-002SSP&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-003",
+    "baseNo": "OS03/R03-003",
+    "name": "1000年ぶりの再会 パトリシア＆ノラ",
+    "kana": "1000ネンブリノサイカイ パトリシア＆ノラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】 共鳴 ［(1) 手札の「冥界からやってきた皇女 パトリシア」を1枚公開する］ このカードがアタックした時、CX置場に「月がきれいね」があるなら、コストを払ってよい。そうしたら、次の3つの効果のうちあなたが選んだ1つを行う。『あなたは相手のキャラを2枚まで選び、手札に戻す。』『あなたは相手の控え室のカードを4枚まで選び、山札に戻し、相手はその山札をシャッフルする。』『 ［(1)］ コストを払ってよい。そうしたら、相手に2ダメージを与える。』",
+    "flavor": "つかまえた",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_003.png",
+        "cardNo": "OS03/R03-003",
+        "rarity": "RR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-003&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_003ofr.png",
+        "cardNo": "OS03/R03-003OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-003OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_003ssp.png",
+        "cardNo": "OS03/R03-003SSP",
+        "rarity": "SSP",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-003SSP&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-004",
+    "baseNo": "OS03/R03-004",
+    "name": "冥界からやってきた皇女 パトリシア",
+    "kana": "メイカイカラヤッテキタオウジョ パトリシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。\n【自】 共鳴 ［手札の「1000年ぶりの再会 パトリシア＆ノラ」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000。",
+    "flavor": "あなたが傍にいる限り、私の音は鳴りやまないわ",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_004.png",
+        "cardNo": "OS03/R03-004",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-004&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_004ofr.png",
+        "cardNo": "OS03/R03-004OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-004OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_004sp.png",
+        "cardNo": "OS03/R03-004SP",
+        "rarity": "SP",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-004SP&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-005",
+    "baseNo": "OS03/R03-005",
+    "name": "妹大好きお姉ちゃん ルーシア",
+    "kana": "イモウトダイスキオネエチャン ルーシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、他のあなたの〈同OS〉のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。\n【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "私の力は妹を護るためだけに",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_005.png",
+        "cardNo": "OS03/R03-005",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-005&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_005ofr.png",
+        "cardNo": "OS03/R03-005OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-005OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_005sp.png",
+        "cardNo": "OS03/R03-005SP",
+        "rarity": "SP",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-005SP&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-006",
+    "baseNo": "OS03/R03-006",
+    "name": "朱ノ色ノ砂漠 ルーシア",
+    "kana": "シュノイロノサバク ルーシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の〈同OS〉のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。\n【自】 共鳴 ［手札の「抑えきれない愛の光 ルーシア」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。",
+    "flavor": "私が――恐いか",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_006.png",
+        "cardNo": "OS03/R03-006",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-006&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_006s.png",
+        "cardNo": "OS03/R03-006S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-006S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-007",
+    "baseNo": "OS03/R03-007",
+    "name": "イグニーース！ ユウラシア",
+    "kana": "イグニーース！ ユウラシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\n【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをストックにしてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+    "flavor": "その先はわーすれた",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_007.png",
+        "cardNo": "OS03/R03-007",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-007&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_007s.png",
+        "cardNo": "OS03/R03-007S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-007S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-008",
+    "baseNo": "OS03/R03-008",
+    "name": "携帯電話と歌が好き ユウラシア",
+    "kana": "ケイタイデンワトウタガスキ ユウラシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】［このカードを【レスト】する］ 相手の控え室が5枚以下なら、相手は自分の山札の上から5枚を、控え室に置く。",
+    "flavor": "きんてきー！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_008.png",
+        "cardNo": "OS03/R03-008",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-008&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_008ofr.png",
+        "cardNo": "OS03/R03-008OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-008OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_008sp.png",
+        "cardNo": "OS03/R03-008SP",
+        "rarity": "SP",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-008SP&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-009",
+    "baseNo": "OS03/R03-009",
+    "name": "海の向こう側 パトリシア",
+    "kana": "ウミノムコウガワ パトリシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_009.png",
+        "cardNo": "OS03/R03-009",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-009&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_009s.png",
+        "cardNo": "OS03/R03-009S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-009S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-010",
+    "baseNo": "OS03/R03-010",
+    "name": "覚醒した姿 ノラ",
+    "kana": "カクセイシタスガタ ノラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "動物"
+    ],
+    "text": "【永】 他のあなたのカード名に「ルーシア」を含むキャラすべてに、《愛》を与え、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】 このカードが手札から登場した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "好きかもしれないって、思ってますから",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_010.png",
+        "cardNo": "OS03/R03-010",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-010&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_010s.png",
+        "cardNo": "OS03/R03-010S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-010S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-011",
+    "baseNo": "OS03/R03-011",
+    "name": "冥界の母",
+    "kana": "メイカイノハハ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 他のあなたのカード名に「パトリシア」か「ルーシア」か「ユウラシア」か「母」を含むキャラ1枚につき、このカードのパワーを＋1000。\n【自】 すべてのプレイヤーのアタックフェイズの始めに、前列にこのカードがいるなら、そのターン中、すべてのプレイヤーは『【自】 アンコール』を使えない。",
+    "flavor": "生きとし生ける地上の者たちが、死を忘れようとしているから",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_011.png",
+        "cardNo": "OS03/R03-011",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-011&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_011s.png",
+        "cardNo": "OS03/R03-011S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-011S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-012",
+    "baseNo": "OS03/R03-012",
+    "name": "目指せアイドル ユウラシア",
+    "kana": "メザセアイドル ユウラシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】【CXコンボ】 あなたのCX置場に「カラオケデート」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがコスト0以下のキャラなら、あなたはそのキャラを舞台の好きな枠に置いてよい。\n【自】［(1)］ このカードの与えたダメージがキャンセルされた時、コストを払ってよい。そうしたら、あなたは1枚引く。",
+    "flavor": "うん、ありがとーっ。最後まで見ていってねー",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_012.png",
+        "cardNo": "OS03/R03-012",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-012&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_012s.png",
+        "cardNo": "OS03/R03-012S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-012S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-013",
+    "baseNo": "OS03/R03-013",
+    "name": "楽しいこと一直線 ユウラシア",
+    "kana": "タノシイコトイッチョクセン ユウラシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 共鳴 ［手札を1枚控え室に置き、手札の「目指せアイドル ユウラシア」を1枚公開する］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "それって、いい人たちじゃん",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_013.png",
+        "cardNo": "OS03/R03-013",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-013&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_013s.png",
+        "cardNo": "OS03/R03-013S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-013S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-014",
+    "baseNo": "OS03/R03-014",
+    "name": "生命の息吹 パトリシア",
+    "kana": "セイメイノイブキ パトリシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\n【自】 このカードが手札から登場した時、相手の控え室のCXが5枚以上なら、このカードを【レスト】する。",
+    "flavor": "私の名前を知っていて？",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_014.png",
+        "cardNo": "OS03/R03-014",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-014&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_014s.png",
+        "cardNo": "OS03/R03-014S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-014S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-015",
+    "baseNo": "OS03/R03-015",
+    "name": "読み聞かせ パトリシア",
+    "kana": "ヨミキカセ パトリシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+    "flavor": "これは、新しい命をつくるための、準備です",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_015.png",
+        "cardNo": "OS03/R03-015",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-015&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_015s.png",
+        "cardNo": "OS03/R03-015S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-015S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-016",
+    "baseNo": "OS03/R03-016",
+    "name": "ぷかぷかタイム ユウラシア",
+    "kana": "プカプカタイム ユウラシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋1500。\n【自】 この能力は1ターンにつき1回まで発動する。あなたが『共鳴』を使った時、そのターン中、このカードのパワーを＋500し、このカードは次の能力を得る。『【自】［(1)］ このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。』",
+    "flavor": "ねーねーすけべねこー。これからどーする？",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_016.png",
+        "cardNo": "OS03/R03-016",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-016&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_016s.png",
+        "cardNo": "OS03/R03-016S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-016S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-017",
+    "baseNo": "OS03/R03-017",
+    "name": "苦手なもの ルーシア＆ノラ",
+    "kana": "ニガテナモノ ルーシア＆ノラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 共鳴 ［(1) 手札の「抑えきれない愛の光 ルーシア」を1枚公開する］ このカードが手札から登場したターン中、このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加え、自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_017.png",
+        "cardNo": "OS03/R03-017",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-017&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_017s.png",
+        "cardNo": "OS03/R03-017S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-017S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-018",
+    "baseNo": "OS03/R03-018",
+    "name": "重い女度880% ルーシア",
+    "kana": "オモイオンナド880% ルーシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストックにしてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+    "flavor": "こんなに好きなのになぜ嫌われなければならない！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_018.png",
+        "cardNo": "OS03/R03-018",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-018&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_018s.png",
+        "cardNo": "OS03/R03-018S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-018S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-019",
+    "baseNo": "OS03/R03-019",
+    "name": "選んだ未来へ ルーシア",
+    "kana": "エランダミライヘ ルーシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 他のあなたの「鳴り響く音 パトリシア」がいるなら、このカードのパワーを＋2000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「永い日」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
+    "flavor": "いくぞ、ノラ！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_019.png",
+        "cardNo": "OS03/R03-019",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-019&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_019s.png",
+        "cardNo": "OS03/R03-019S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-019S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-020",
+    "baseNo": "OS03/R03-020",
+    "name": "護るための剣 ルーシア",
+    "kana": "マモルタメノケン ルーシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの〈同OS〉のキャラの枚数に等しい。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "魔力は手放したのではない。大切なものを護るための盾としただけだ",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_020.png",
+        "cardNo": "OS03/R03-020",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-020&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_020s.png",
+        "cardNo": "OS03/R03-020S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-020S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-021",
+    "baseNo": "OS03/R03-021",
+    "name": "『復讐売りの少女』 パトリシア",
+    "kana": "フクシュウウリノショウジョ パトリシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】［(2) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "今こそ、あなたを雪に閉じ込めた、すべてのものたちに復讐を",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_021.png",
+        "cardNo": "OS03/R03-021",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-021&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_021s.png",
+        "cardNo": "OS03/R03-021S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-021S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-022",
+    "baseNo": "OS03/R03-022",
+    "name": "初めてのプール パトリシア",
+    "kana": "ハジメテノプール パトリシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1500。\n【起】［このカードを山札の下に置く］ あなたは相手のキャラを1枚選び、手札に戻す。",
+    "flavor": "私、水は苦手なのよ",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_022.png",
+        "cardNo": "OS03/R03-022",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-022&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_022s.png",
+        "cardNo": "OS03/R03-022S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-022S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p18.png",
+        "cardNo": "OS03/R03-P18",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P18&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p18s.png",
+        "cardNo": "OS03/R03-P18S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P18S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-023",
+    "baseNo": "OS03/R03-023",
+    "name": "決闘の幕切れ ルーシア",
+    "kana": "ケットウノマクギレ ルーシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 2,
+    "power": 7000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 他のあなたの「鳴り響く音 パトリシア」がいるなら、このカードのパワーを＋3000。\n【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、コストを払ってよい。そうしたら、このカードを【レスト】する。",
+    "flavor": "なぜお前はそこまでする",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_023.png",
+        "cardNo": "OS03/R03-023",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-023&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_023s.png",
+        "cardNo": "OS03/R03-023S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-023S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-024",
+    "baseNo": "OS03/R03-024",
+    "name": "輝ける舞台 ユウラシア＆ノラ",
+    "kana": "カガヤケルブタイ ユウラシア＆ノラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 このカードが手札から登場した時、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻してよい。\n【自】 共鳴 ［手札を1枚控え室に置き、手札の「目指せアイドル ユウラシア」を1枚公開する］ このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、相手に1ダメージを与える。",
+    "flavor": "みんなー！　ありがとー！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_024.png",
+        "cardNo": "OS03/R03-024",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-024&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_024s.png",
+        "cardNo": "OS03/R03-024S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-024S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-025",
+    "baseNo": "OS03/R03-025",
+    "name": "好奇心いっぱい パトリシア",
+    "kana": "コウキシンイッパイ パトリシア",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの〈同OS〉のキャラの枚数×1000に等しい。\n【自】［手札を2枚控え室に置く］ あなたのターン中、このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、相手に2ダメージを与える。",
+    "flavor": "だって目の前で愛が生まれる瞬間が見られるのよ！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_025.png",
+        "cardNo": "OS03/R03-025",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-025&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_025s.png",
+        "cardNo": "OS03/R03-025S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-025S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-026",
+    "baseNo": "OS03/R03-026",
+    "name": "コクハク",
+    "kana": "コクハク",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "EV",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "【カウンター】 あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\nあなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+    "flavor": "アナタが――",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_026.png",
+        "cardNo": "OS03/R03-026",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-026&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_026s.png",
+        "cardNo": "OS03/R03-026S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-026S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-027",
+    "baseNo": "OS03/R03-027",
+    "name": "月がきれいね",
+    "kana": "ツキガキレイネ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "まだまだあるわ！　知りたいこと！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_027.png",
+        "cardNo": "OS03/R03-027",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-027&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_027a.png",
+        "cardNo": "OS03/R03-027A",
+        "rarity": "AGR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-027A&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_027s.png",
+        "cardNo": "OS03/R03-027S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-027S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p01.png",
+        "cardNo": "OS03/R03-P01",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P01&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p01s.png",
+        "cardNo": "OS03/R03-P01S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P01S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-028",
+    "baseNo": "OS03/R03-028",
+    "name": "カラオケデート",
+    "kana": "カラオケデート",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "ユウラシア「ほら、すけべねこも手伝って！　はーやーくっ」",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_028.png",
+        "cardNo": "OS03/R03-028",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-028&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_028s.png",
+        "cardNo": "OS03/R03-028S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-028S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p02.png",
+        "cardNo": "OS03/R03-P02",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P02&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p02s.png",
+        "cardNo": "OS03/R03-P02S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P02S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-029",
+    "baseNo": "OS03/R03-029",
+    "name": "永い日",
+    "kana": "ナガイヒ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "今日の私は、どうだったんだろうな",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_029.png",
+        "cardNo": "OS03/R03-029",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-029&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_029s.png",
+        "cardNo": "OS03/R03-029S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-029S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p03.png",
+        "cardNo": "OS03/R03-P03",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P03&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p03s.png",
+        "cardNo": "OS03/R03-P03S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P03S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-030",
+    "baseNo": "OS03/R03-030",
+    "name": "眩い柔肌 シャチ",
+    "kana": "マバユイヤワハダ シャチ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "料理"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から3枚まで見て、『共鳴』を持つキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。\n【自】 【ターン1】 あなたが『共鳴』を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "少々恥ずかしいのですが……ゆ、勇気をもってお誘いしますので",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_030.png",
+        "cardNo": "OS03/R03-030",
+        "rarity": "RR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-030&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_030ofr.png",
+        "cardNo": "OS03/R03-030OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-030OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_030ssp.png",
+        "cardNo": "OS03/R03-030SSP",
+        "rarity": "SSP",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-030SSP&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-031",
+    "baseNo": "OS03/R03-031",
+    "name": "真面目な幼馴染 黒木",
+    "kana": "マジメナオサナナジミ クロキ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "真面目"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「動き出したふたりの時間」があり、他のあなたのキャラが2枚以上なら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストックにする。",
+    "flavor": "正解。でも実行してくれなきゃ不正解！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_031.png",
+        "cardNo": "OS03/R03-031",
+        "rarity": "RR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-031&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_031ofr.png",
+        "cardNo": "OS03/R03-031OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-031OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_031sp.png",
+        "cardNo": "OS03/R03-031SP",
+        "rarity": "SP",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-031SP&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-032",
+    "baseNo": "OS03/R03-032",
+    "name": "家事はお任せ シャチ",
+    "kana": "カジハオマカセ シャチ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "料理"
+    ],
+    "text": "【自】 あなたのCXがトリガーした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』",
+    "flavor": "ノラさん。私、全部出来ますが",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_032.png",
+        "cardNo": "OS03/R03-032",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-032&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_032ofr.png",
+        "cardNo": "OS03/R03-032OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-032OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_032sp.png",
+        "cardNo": "OS03/R03-032SP",
+        "rarity": "SP",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-032SP&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-033",
+    "baseNo": "OS03/R03-033",
+    "name": "海デートの定番 黒木",
+    "kana": "ウミデートノテイバン クロキ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "真面目"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。",
+    "flavor": "あ、あーん…",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_033.png",
+        "cardNo": "OS03/R03-033",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-033&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_033s.png",
+        "cardNo": "OS03/R03-033S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-033S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-034",
+    "baseNo": "OS03/R03-034",
+    "name": "伸ばせなかった手 黒木",
+    "kana": "ノバセナカッタテ クロキ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "真面目"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の「真面目な幼馴染 黒木」か「少女と獣 黒木＆ノラ」を1枚選び、手札に戻す。\n【自】 このカードがアタックした時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "flavor": "",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_034.png",
+        "cardNo": "OS03/R03-034",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-034&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_034s.png",
+        "cardNo": "OS03/R03-034S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-034S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-035",
+    "baseNo": "OS03/R03-035",
+    "name": "湯上り シャチ",
+    "kana": "ユアガリ シャチ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "料理"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの〈同OS〉のキャラの枚数×500に等しい。\n【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】［(1)］ このカードのトリガーチェックでCXがでた時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストックにし、1枚まで引く。1枚引いたなら、あなたは自分の手札を1枚選び、控え室に置く。』",
+    "flavor": "す、すみません。これでは隠した意味がありませんね",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_035.png",
+        "cardNo": "OS03/R03-035",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-035&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_035s.png",
+        "cardNo": "OS03/R03-035S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-035S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-036",
+    "baseNo": "OS03/R03-036",
+    "name": "お付き合いの障害 シャチ＆ノラ",
+    "kana": "オツキアイノショウガイ シャチ＆ノラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "料理"
+    ],
+    "text": "【自】［(2)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。\n【自】 共鳴 ［手札の「眩い柔肌 シャチ」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "私たち、お付き合いをしているじゃ……ないですか？",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_036.png",
+        "cardNo": "OS03/R03-036",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-036&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_036s.png",
+        "cardNo": "OS03/R03-036S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-036S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-037",
+    "baseNo": "OS03/R03-037",
+    "name": "理想の恋愛 黒木",
+    "kana": "リソウノレンアイ クロキ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "真面目"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［(2) 手札のカード名に「黒木」か「ノラ」を含むキャラを2枚控え室に置く］ 相手のアタックフェイズの始めに、コストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』",
+    "flavor": "大好きな彼氏と困難を乗り越えたい派ですので、なんてことはありません",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_037.png",
+        "cardNo": "OS03/R03-037",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-037&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_037s.png",
+        "cardNo": "OS03/R03-037S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-037S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-038",
+    "baseNo": "OS03/R03-038",
+    "name": "寂しさあまって シャチ",
+    "kana": "サビシサアマッテ シャチ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "料理"
+    ],
+    "text": "【自】 絆／「生ける伝説 ノラ」 ［手札を1枚控え室に置く］\n【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "寂しさのあまり、アナタを普段より１時間早く起こしてしまう今の私は何点でしょう",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_038.png",
+        "cardNo": "OS03/R03-038",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-038&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_038s.png",
+        "cardNo": "OS03/R03-038S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-038S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-039",
+    "baseNo": "OS03/R03-039",
+    "name": "少女と獣 黒木＆ノラ",
+    "kana": "ショウジョトケモノ クロキ＆ノラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "真面目"
+    ],
+    "text": "【自】 このカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの〈同OS〉のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。\n【自】 共鳴 ［手札の「真面目な幼馴染 黒木」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。",
+    "flavor": "謝らなきゃいけないことが、あるんです",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_039.png",
+        "cardNo": "OS03/R03-039",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-039&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_039s.png",
+        "cardNo": "OS03/R03-039S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-039S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-040",
+    "baseNo": "OS03/R03-040",
+    "name": "草葉の陰から ノラの母",
+    "kana": "クサバノカゲカラ ノラノハハ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE"
+    ],
+    "text": "【起】［(1)］ あなたの思い出が2枚以下なら、あなたは自分の山札を上から3枚まで見て、カード名に「ノラ」か「シャチ」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、このカードを思い出にする。",
+    "flavor": "",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_040.png",
+        "cardNo": "OS03/R03-040",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-040&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_040s.png",
+        "cardNo": "OS03/R03-040S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-040S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-041",
+    "baseNo": "OS03/R03-041",
+    "name": "天の落とし物 オルカ",
+    "kana": "テンノオトシモノ オルカ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "ロボ"
+    ],
+    "text": "【永】 他のあなたの「こぼれそうな水着 シャチ」すべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードのパワーを＋3000。』\n【自】 絆／「こぼれそうな水着 シャチ」 ［手札を1枚控え室に置く］",
+    "flavor": "恥じらう必要はない。天は命が増えることを良しとしている",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_041.png",
+        "cardNo": "OS03/R03-041",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-041&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_041s.png",
+        "cardNo": "OS03/R03-041S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-041S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-042",
+    "baseNo": "OS03/R03-042",
+    "name": "冥界大冒険 黒木",
+    "kana": "メイカイダイボウケン クロキ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "真面目"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋1000。\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に置く。",
+    "flavor": "",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_042.png",
+        "cardNo": "OS03/R03-042",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-042&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_042s.png",
+        "cardNo": "OS03/R03-042S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-042S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-043",
+    "baseNo": "OS03/R03-043",
+    "name": "風紀チェック 黒木",
+    "kana": "フウキチェック クロキ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "真面目"
+    ],
+    "text": "【永】 相手のCX置場にCXがあるなら、このカードのパワーを＋2000。\n【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+    "flavor": "って、膝上３０ｃｍ。ちょっと３０ｃｍはマズくないですか",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_043.png",
+        "cardNo": "OS03/R03-043",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-043&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_043s.png",
+        "cardNo": "OS03/R03-043S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-043S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-044",
+    "baseNo": "OS03/R03-044",
+    "name": "こぼれそうな水着 シャチ",
+    "kana": "コボレソウナミズギ シャチ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "料理"
+    ],
+    "text": "-",
+    "flavor": "こちら……どうぞ",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_044.png",
+        "cardNo": "OS03/R03-044",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-044&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_044s.png",
+        "cardNo": "OS03/R03-044S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-044S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-045",
+    "baseNo": "OS03/R03-045",
+    "name": "生ける伝説 ノラ",
+    "kana": "イケルデンセツ ノラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "動物"
+    ],
+    "text": "【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。",
+    "flavor": "にゃ？",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_045.png",
+        "cardNo": "OS03/R03-045",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-045&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_045s.png",
+        "cardNo": "OS03/R03-045S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-045S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-046",
+    "baseNo": "OS03/R03-046",
+    "name": "幸せな家庭 シャチ",
+    "kana": "シアワセナカテイ シャチ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 1,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "料理"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】［手札のCXを1枚控え室に置く］ あなたのCXがトリガーした時、コストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "flavor": "はい。どうぞ",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_046.png",
+        "cardNo": "OS03/R03-046",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-046&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_046s.png",
+        "cardNo": "OS03/R03-046S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-046S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-047",
+    "baseNo": "OS03/R03-047",
+    "name": "結婚はできません シャチ",
+    "kana": "ケッコンハデキマセン シャチ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "料理"
+    ],
+    "text": "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "ノラさん、すみません、今立ち上がりますから",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_047.png",
+        "cardNo": "OS03/R03-047",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-047&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_047s.png",
+        "cardNo": "OS03/R03-047S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-047S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-048",
+    "baseNo": "OS03/R03-048",
+    "name": "伝説のカップル 黒木",
+    "kana": "デンセツノカップル クロキ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "真面目"
+    ],
+    "text": "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。\n【自】【CXコンボ】 このカードがアタックした時、CX置場に「涙の理由」があるなら、あなたは自分の控え室の〈同OS〉のキャラを1枚まで選び、ストックにし、自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加える。",
+    "flavor": "あぁもう！　普通のデートがしたいだけなのにー！！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_048.png",
+        "cardNo": "OS03/R03-048",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-048&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_048s.png",
+        "cardNo": "OS03/R03-048S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-048S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-049",
+    "baseNo": "OS03/R03-049",
+    "name": "豊かな感情 シャチ",
+    "kana": "ユタカナカンジョウ シャチ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "料理"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋1500。\n【自】［手札の「豊かな感情 シャチ」を1枚控え室に置く］ このカードがアタックした時、他のあなたの〈同OS〉のキャラが2枚以上なら、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。\n【自】【CXコンボ】［(2)］ このカードがアタックした時、CX置場に「悩みと不安と求める愛情」があるなら、コストを払ってよい。そうしたら、相手に2ダメージを与える。",
+    "flavor": "これは、その、愛を確かめ合うためなのですからっ！！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_049.png",
+        "cardNo": "OS03/R03-049",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-049&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_049s.png",
+        "cardNo": "OS03/R03-049S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-049S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-050",
+    "baseNo": "OS03/R03-050",
+    "name": "我が家がバーニング",
+    "kana": "ワガヤガバーニング",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "EV",
+    "color": "green",
+    "level": 1,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは自分の手札すべてを、控え室に置き、Ｘ枚引く。Ｘはこの効果で控え室に置かれたカードの枚数＋1に等しい。",
+    "flavor": "ノラの母「バチバチいってるわねー」",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_050.png",
+        "cardNo": "OS03/R03-050",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-050&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_050s.png",
+        "cardNo": "OS03/R03-050S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-050S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-051",
+    "baseNo": "OS03/R03-051",
+    "name": "動き出したふたりの時間",
+    "kana": "ウゴキダシタフタリノジカン",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "男子の中でも一番好き！　ずっと好き！　ちょー好き！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_051.png",
+        "cardNo": "OS03/R03-051",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-051&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_051s.png",
+        "cardNo": "OS03/R03-051S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-051S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p04.png",
+        "cardNo": "OS03/R03-P04",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P04&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p04s.png",
+        "cardNo": "OS03/R03-P04S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P04S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-052",
+    "baseNo": "OS03/R03-052",
+    "name": "涙の理由",
+    "kana": "ナミダノリユウ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "ただどうしようもなく、泣けてくるんです",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_052.png",
+        "cardNo": "OS03/R03-052",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-052&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_052s.png",
+        "cardNo": "OS03/R03-052S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-052S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p05.png",
+        "cardNo": "OS03/R03-P05",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P05&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p05s.png",
+        "cardNo": "OS03/R03-P05S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P05S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-053",
+    "baseNo": "OS03/R03-053",
+    "name": "悩みと不安と求める愛情",
+    "kana": "ナヤミトフアントモトメルアイジョウ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "おつらくないですか",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_053.png",
+        "cardNo": "OS03/R03-053",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-053&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_053s.png",
+        "cardNo": "OS03/R03-053S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-053S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p06.png",
+        "cardNo": "OS03/R03-P06",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P06&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p06s.png",
+        "cardNo": "OS03/R03-P06S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P06S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-054",
+    "baseNo": "OS03/R03-054",
+    "name": "はぐれ一匹オオカミ ノブチナ",
+    "kana": "ハグレイッピキオオカミ ノブチナ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "不良"
+    ],
+    "text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。\n【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "私は私でいたいだけなんだ",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_054.png",
+        "cardNo": "OS03/R03-054",
+        "rarity": "RR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-054&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_054ofr.png",
+        "cardNo": "OS03/R03-054OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-054OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_054sp.png",
+        "cardNo": "OS03/R03-054SP",
+        "rarity": "SP",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-054SP&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-055",
+    "baseNo": "OS03/R03-055",
+    "name": "天真爛漫なバイトギャル 明日原",
+    "kana": "テンシンランマンナバイトギャル アスハラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "ギャル"
+    ],
+    "text": "【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの〈同OS〉のキャラの枚数×500に等しい。\n【自】【CXコンボ】 あなたのCX置場に「遠回りした二人」が置かれた時、他のあなたの〈同OS〉のキャラがいるなら、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。』",
+    "flavor": "そんなに嬉しかったんすかー！？　アタシとのキスー！！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_055.png",
+        "cardNo": "OS03/R03-055",
+        "rarity": "RR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-055&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_055ofr.png",
+        "cardNo": "OS03/R03-055OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-055OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_055sp.png",
+        "cardNo": "OS03/R03-055SP",
+        "rarity": "SP",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-055SP&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-056",
+    "baseNo": "OS03/R03-056",
+    "name": "視線釘付け 明日原",
+    "kana": "シセンクギヅケ アスハラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "ギャル"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。",
+    "flavor": "えー、ノラパイ、マジで言ってんすか",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_056.png",
+        "cardNo": "OS03/R03-056",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-056&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_056s.png",
+        "cardNo": "OS03/R03-056S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-056S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p17ex.png",
+        "cardNo": "OS03/R03-P17EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P17EX&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-057",
+    "baseNo": "OS03/R03-057",
+    "name": "ネコ喫茶営業中 明日原＆ノラ",
+    "kana": "ネコキッサエイギョウチュウ アスハラ＆ノラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "ギャル"
+    ],
+    "text": "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。\n【自】 共鳴 ［手札の「天真爛漫なバイトギャル 明日原」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。",
+    "flavor": "ノラ「にゃ（いらっしゃいませ）」",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_057.png",
+        "cardNo": "OS03/R03-057",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-057&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_057s.png",
+        "cardNo": "OS03/R03-057S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-057S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-058",
+    "baseNo": "OS03/R03-058",
+    "name": "照れガード ノブチナ",
+    "kana": "テレガード ノブチナ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "不良"
+    ],
+    "text": "【自】［(1) あなたの山札の上から1枚をクロックにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは1枚引く。\n【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "ガード",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_058.png",
+        "cardNo": "OS03/R03-058",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-058&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_058s.png",
+        "cardNo": "OS03/R03-058S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-058S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-059",
+    "baseNo": "OS03/R03-059",
+    "name": "初バイト 明日原",
+    "kana": "ハツバイト アスハラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "ギャル"
+    ],
+    "text": "【自】［(1)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を見てCXを1枚まで選んで公開し、自分の手札のCXを1枚まで選んで公開し、それらのCXを入れ替え、その山札をシャッフルする。",
+    "flavor": "アタシ！！　バイト！！　受かったんすよーー！！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_059.png",
+        "cardNo": "OS03/R03-059",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-059&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_059s.png",
+        "cardNo": "OS03/R03-059S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-059S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-060",
+    "baseNo": "OS03/R03-060",
+    "name": "不器用な想い ノブチナ",
+    "kana": "ブキヨウナオモイ ノブチナ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "不良"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】【CXコンボ】 共鳴 ［(2) 手札の「夢の中へ ノブチナ＆ノラ」を1枚公開し、このカードを【レスト】する］ あなたは自分の控え室の「母との再会」を1枚選び、CX置場に置く。",
+    "flavor": "勿論、会うつもりもなかったんだがな",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_060.png",
+        "cardNo": "OS03/R03-060",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-060&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_060s.png",
+        "cardNo": "OS03/R03-060S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-060S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-061",
+    "baseNo": "OS03/R03-061",
+    "name": "辿り着いた合格 明日原",
+    "kana": "タドリツイタゴウカク アスハラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "ギャル"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から2枚を、控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはそれらのカードの〈同OS〉のキャラの枚数×1000に等しい。\n【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の控え室の「天真爛漫なバイトギャル 明日原」を1枚選び、舞台の好きな枠に【レスト】して置く。",
+    "flavor": "あはは、なーんだ",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_061.png",
+        "cardNo": "OS03/R03-061",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-061&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_061s.png",
+        "cardNo": "OS03/R03-061S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-061S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-062",
+    "baseNo": "OS03/R03-062",
+    "name": "姉妹喧嘩 ノブチカ",
+    "kana": "シマイゲンカ ノブチカ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの「任侠一家の娘 ノブチナ＆ノラ」すべてに、パワーを＋2000。\n【起】［このカードを【レスト】する］ あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "flavor": "ノブチカ「久々に会ってなんだその態度は！！」",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_062.png",
+        "cardNo": "OS03/R03-062",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-062&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_062s.png",
+        "cardNo": "OS03/R03-062S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-062S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-063",
+    "baseNo": "OS03/R03-063",
+    "name": "親友への手紙 田中ちゃん",
+    "kana": "シンユウヘノテガミ タナカチャン",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "あっ、そうだ、わたし、ノブチナちゃんに手紙書いたんです",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_063.png",
+        "cardNo": "OS03/R03-063",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-063&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_063s.png",
+        "cardNo": "OS03/R03-063S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-063S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-064",
+    "baseNo": "OS03/R03-064",
+    "name": "父の代わり ノブチナ",
+    "kana": "チチノカワリ ノブチナ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "不良"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "徳重「お嬢！　おけぇりやさい！」",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_064.png",
+        "cardNo": "OS03/R03-064",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-064&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_064s.png",
+        "cardNo": "OS03/R03-064S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-064S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-065",
+    "baseNo": "OS03/R03-065",
+    "name": "ぶっきらぼうな不良少年 井田",
+    "kana": "ブッキラボウナフリョウショウネン イダ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "不良"
+    ],
+    "text": "【永】 他のあなたの赤のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、そのターン中、レベルを＋2。",
+    "flavor": "一日考えたんだけどさ、やっぱオレ、麻婆豆腐が最強だと思うわ",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_065.png",
+        "cardNo": "OS03/R03-065",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-065&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_065s.png",
+        "cardNo": "OS03/R03-065S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-065S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-066",
+    "baseNo": "OS03/R03-066",
+    "name": "後悔と自責 明日原",
+    "kana": "コウカイトジセキ アスハラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "ギャル"
+    ],
+    "text": "【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、赤のCXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。\n【起】［このカードを控え室に置く］ あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "flavor": "ねー？　ミヨキチ",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_066.png",
+        "cardNo": "OS03/R03-066",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-066&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_066s.png",
+        "cardNo": "OS03/R03-066S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-066S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-067",
+    "baseNo": "OS03/R03-067",
+    "name": "任侠一家の娘 ノブチナ＆ノラ",
+    "kana": "ニンキョウイッカノムスメ ノブチナ＆ノラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "不良"
+    ],
+    "text": "-",
+    "flavor": "楽にしろ",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_067.png",
+        "cardNo": "OS03/R03-067",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-067&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_067s.png",
+        "cardNo": "OS03/R03-067S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-067S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-068",
+    "baseNo": "OS03/R03-068",
+    "name": "討ち入り ノブチナ",
+    "kana": "ウチイリ ノブチナ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "不良"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋10000。",
+    "flavor": "たいがいだな。お前",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_068.png",
+        "cardNo": "OS03/R03-068",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-068&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_068s.png",
+        "cardNo": "OS03/R03-068S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-068S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-069",
+    "baseNo": "OS03/R03-069",
+    "name": "学校帰り 明日原",
+    "kana": "ガッコウガエリ アスハラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "ギャル"
+    ],
+    "text": "【永】 他のあなたの「磨いたコミュ力 明日原」すべてに、パワーを＋1000。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［(1) 他のあなたの舞台のキャラを1枚控え室に置き、このカードを【レスト】する］ あなたは1枚引く。",
+    "flavor": "ただいま戻りましたー",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_069.png",
+        "cardNo": "OS03/R03-069",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-069&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_069s.png",
+        "cardNo": "OS03/R03-069S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-069S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-070",
+    "baseNo": "OS03/R03-070",
+    "name": "怒涛のボケ ノブチナ",
+    "kana": "ドトウノボケ ノブチナ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 2,
+    "power": 6000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "不良"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラ1枚につき、このカードのパワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］",
+    "flavor": "ハーレム願望は、ご飯で解消しろ",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_070.png",
+        "cardNo": "OS03/R03-070",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-070&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_070s.png",
+        "cardNo": "OS03/R03-070S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-070S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-071",
+    "baseNo": "OS03/R03-071",
+    "name": "磨いたコミュ力 明日原",
+    "kana": "ミガイタコミュリョク アスハラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "ギャル"
+    ],
+    "text": "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。\n【自】【CXコンボ】 共鳴 ［(1) 手札の「磨いたコミュ力 明日原」を1枚公開する］ あなたのCX置場に「アタシが救う番」が置かれた時、前列にこのカードがいるなら、コストを払ってよい。そうしたら、あなたは自分の控え室のレベル2以下のキャラを2枚まで選び、舞台の好きな枠に置く。",
+    "flavor": "今までやったバイトで５０音リストコンプできますよ",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_071.png",
+        "cardNo": "OS03/R03-071",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-071&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_071s.png",
+        "cardNo": "OS03/R03-071S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-071S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-072",
+    "baseNo": "OS03/R03-072",
+    "name": "夢の中へ ノブチナ＆ノラ",
+    "kana": "ユメノナカヘ ノブチナ＆ノラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "不良"
+    ],
+    "text": "【自】 このカードが手札から登場した時、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。』\n【自】【CXコンボ】 このカードがアタックした時、CX置場に「母との再会」があるなら、あなたは相手に1ダメージを与えてよい。",
+    "flavor": "ノブチナ「Ｚｚｚ……」",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_072.png",
+        "cardNo": "OS03/R03-072",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-072&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_072s.png",
+        "cardNo": "OS03/R03-072S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-072S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-073",
+    "baseNo": "OS03/R03-073",
+    "name": "温めますか？",
+    "kana": "アタタメマスカ？",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "EV",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "このカードは、あなたの〈同OS〉のキャラがいないなら、手札からプレイできない。\nあなたは自分の控え室のキャラを1枚選び、手札に戻す。\nあなたは自分の控え室の『共鳴』を持つキャラを1枚選び、手札に戻してよい。手札に戻したなら、あなたは自分の手札を1枚選び、控え室に置く。",
+    "flavor": "アタシがこの会計をゆっくりやることで、えへへ、ノラパイも遅刻に道連れだー",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_073.png",
+        "cardNo": "OS03/R03-073",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-073&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_073s.png",
+        "cardNo": "OS03/R03-073S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-073S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-074",
+    "baseNo": "OS03/R03-074",
+    "name": "遠回りした二人",
+    "kana": "トオマワリシタフタリ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "ただ、ご安心ください。フィジカルでは処女です",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_074.png",
+        "cardNo": "OS03/R03-074",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-074&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_074s.png",
+        "cardNo": "OS03/R03-074S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-074S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p07.png",
+        "cardNo": "OS03/R03-P07",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P07&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p07s.png",
+        "cardNo": "OS03/R03-P07S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P07S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-075",
+    "baseNo": "OS03/R03-075",
+    "name": "アタシが救う番",
+    "kana": "アタシガスクウバン",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "大丈夫。君にもほら、ちゃんと仲間がついてるみたいだし",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_075.png",
+        "cardNo": "OS03/R03-075",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-075&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_075s.png",
+        "cardNo": "OS03/R03-075S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-075S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p08.png",
+        "cardNo": "OS03/R03-P08",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P08&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p08s.png",
+        "cardNo": "OS03/R03-P08S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P08S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-076",
+    "baseNo": "OS03/R03-076",
+    "name": "母との再会",
+    "kana": "ハハトノサイカイ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "ノブチナ「ただ、ただ、あやまんないでほしいだけなんだ」",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_076.png",
+        "cardNo": "OS03/R03-076",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-076&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_076s.png",
+        "cardNo": "OS03/R03-076S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-076S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p09.png",
+        "cardNo": "OS03/R03-P09",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P09&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p09s.png",
+        "cardNo": "OS03/R03-P09S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P09S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-077",
+    "baseNo": "OS03/R03-077",
+    "name": "積み重ねる思い出 アイリス",
+    "kana": "ツミカサネルオモイデ アイリス",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】［(1) あなたの山札の上から1枚をクロックにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札のレベル1以下のキャラを1枚までサーチし手札に加える。\n【自】［(1) 手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "flavor": "私と一緒に、再興してほしい",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_077.png",
+        "cardNo": "OS03/R03-077",
+        "rarity": "RR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-077&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_077ofr.png",
+        "cardNo": "OS03/R03-077OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-077OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_077sec.png",
+        "cardNo": "OS03/R03-077SEC",
+        "rarity": "SEC",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-077SEC&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-078",
+    "baseNo": "OS03/R03-078",
+    "name": "私の幸せ ノエル",
+    "kana": "ワタシノシアワセ ノエル",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "執事"
+    ],
+    "text": "【永】 あなたの控え室のCXが2枚以下か6枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から登場した時、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻してよい。\n【自】 【ターン1】 あなたが【起】を使った時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストックにしてよい。』",
+    "flavor": "待ちなさい。さ、人の姿に戻してさしあげますから",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_078.png",
+        "cardNo": "OS03/R03-078",
+        "rarity": "RR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-078&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_078ofr.png",
+        "cardNo": "OS03/R03-078OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-078OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_078sp.png",
+        "cardNo": "OS03/R03-078SP",
+        "rarity": "SP",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-078SP&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-079",
+    "baseNo": "OS03/R03-079",
+    "name": "『いっしょに国民つくろうね♪』 アイリス",
+    "kana": "イッショニコクミンツクロウネ♪ アイリス",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】 共鳴 ［(1) 手札の「アンクライ温泉 アイリス＆ノラ」を1枚公開する］ このカードがアタックした時、CX置場に「初めての春」があるなら、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、次の行動を2回行う。『あなたは自分の山札の上から1枚を、控え室に置く。そのカードのトリガーアイコンに【ソウル】があるなら、相手に2ダメージを与える。』",
+    "flavor": "もう、甘えん坊なんだから",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_079.png",
+        "cardNo": "OS03/R03-079",
+        "rarity": "RR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-079&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_079ofr.png",
+        "cardNo": "OS03/R03-079OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-079OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_079ssp.png",
+        "cardNo": "OS03/R03-079SSP",
+        "rarity": "SSP",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-079SSP&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-080",
+    "baseNo": "OS03/R03-080",
+    "name": "アンクライ温泉 ノエル",
+    "kana": "アンクライオンセン ノエル",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "執事"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【起】［手札を1枚控え室に置き、このカードを【レスト】する］ あなたは他の自分の『共鳴』を持つキャラを1枚選び、自分の控え室の、そのキャラの『共鳴』のコストで公開するカード名のキャラを1枚選び、手札に戻す。",
+    "flavor": "『アイリス様、お背中、流します』",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_080.png",
+        "cardNo": "OS03/R03-080",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-080&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_080s.png",
+        "cardNo": "OS03/R03-080S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-080S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-081",
+    "baseNo": "OS03/R03-081",
+    "name": "皇国再興の野望 アイリス",
+    "kana": "オウコクサイコウノヤボウ アイリス",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置いてよい。\n【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "おいで？　一緒にいこ？",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_081.png",
+        "cardNo": "OS03/R03-081",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-081&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_081ofr.png",
+        "cardNo": "OS03/R03-081OFR",
+        "rarity": "OFR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-081OFR&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_081sp.png",
+        "cardNo": "OS03/R03-081SP",
+        "rarity": "SP",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-081SP&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-082",
+    "baseNo": "OS03/R03-082",
+    "name": "アンクライコンビ ノエル＆アイリス",
+    "kana": "アンクライコンビ ノエル＆アイリス",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは1枚引く。",
+    "flavor": "ノエル「……！！　……！！」",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_082.png",
+        "cardNo": "OS03/R03-082",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-082&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_082s.png",
+        "cardNo": "OS03/R03-082S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-082S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p15ex.png",
+        "cardNo": "OS03/R03-P15EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P15EX&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-083",
+    "baseNo": "OS03/R03-083",
+    "name": "言うべきこと言いたいこと アイリス",
+    "kana": "イウベキコトイイタイコト アイリス",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋2000。\n【自】【CXコンボ】 このカードのアタックの終わりに、CX置場に「うんとこしょー、どっこいしょー！！」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加える。",
+    "flavor": "私の名前は、アイリス・ディセンバー・アンクライ！！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_083.png",
+        "cardNo": "OS03/R03-083",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-083&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_083s.png",
+        "cardNo": "OS03/R03-083S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-083S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-084",
+    "baseNo": "OS03/R03-084",
+    "name": "待ち続ける時間 ノエル",
+    "kana": "マチツヅケルジカン ノエル",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "執事"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードは次の2つの能力を得る。『【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。』『【自】 アンコール ［手札のキャラを1枚控え室に置く］』\n【自】 【ターン1】 あなたが【起】を使った時、そのターン中、このカードのソウルを＋1。",
+    "flavor": "あいりすさまよろこんでくれるかなぁ",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_084.png",
+        "cardNo": "OS03/R03-084",
+        "rarity": "R",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-084&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_084s.png",
+        "cardNo": "OS03/R03-084S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-084S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-085",
+    "baseNo": "OS03/R03-085",
+    "name": "観光ガイド サークル・シーズン",
+    "kana": "カンコウガイド サークル・シーズン",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "雪"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。\n【自】 このカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。",
+    "flavor": "わっ、これは法律違反デース",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_085.png",
+        "cardNo": "OS03/R03-085",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-085&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_085s.png",
+        "cardNo": "OS03/R03-085S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-085S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-086",
+    "baseNo": "OS03/R03-086",
+    "name": "アンクライ温泉 アイリス＆ノラ",
+    "kana": "アンクライオンセン アイリス＆ノラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】［このカードを手札に戻す］ あなたのCXがCX置場に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし控え室に置く。\n【自】 共鳴 ［手札の「『いっしょに国民つくろうね♪』 アイリス」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし控え室に置く。",
+    "flavor": "さ、身体洗ってあげるから、ほら、おいでおいで？",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_086.png",
+        "cardNo": "OS03/R03-086",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-086&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_086s.png",
+        "cardNo": "OS03/R03-086S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-086S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-087",
+    "baseNo": "OS03/R03-087",
+    "name": "真夏に降る雪 アイリス",
+    "kana": "マナツニフルユキ アイリス",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、そのターン中、このカードのパワーを＋2000。\n【自】 このカードが手札から登場した時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
+    "flavor": "",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_087.png",
+        "cardNo": "OS03/R03-087",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-087&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_087s.png",
+        "cardNo": "OS03/R03-087S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-087S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-088",
+    "baseNo": "OS03/R03-088",
+    "name": "夢想の残滓 ノエル",
+    "kana": "ムソウノザンシ ノエル",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "執事"
+    ],
+    "text": "【自】 このカードが手札から登場した時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』\n【自】［手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "『我々冬の民は――こうして歴史をつむいできたのです』",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_088.png",
+        "cardNo": "OS03/R03-088",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-088&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_088s.png",
+        "cardNo": "OS03/R03-088S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-088S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-089",
+    "baseNo": "OS03/R03-089",
+    "name": "専用カキ氷マシーン ノラ",
+    "kana": "センヨウカキゴオリマシーン ノラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "動物"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻し、他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "お客A「えー、この子４００円で買えるのー？」",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_089.png",
+        "cardNo": "OS03/R03-089",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-089&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_089s.png",
+        "cardNo": "OS03/R03-089S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-089S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-090",
+    "baseNo": "OS03/R03-090",
+    "name": "幼い頃の思い出 アイリス",
+    "kana": "オサナイコロノオモイデ アイリス",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 相手のターン中、このカードはカード名をすべて失い、カード名を得ない。\n【自】 あなたのCXフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがCXなら、このカードを思い出にする。",
+    "flavor": "あの、えっと……誕生日",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_090.png",
+        "cardNo": "OS03/R03-090",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-090&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_090s.png",
+        "cardNo": "OS03/R03-090S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-090S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-091",
+    "baseNo": "OS03/R03-091",
+    "name": "いいこと アイリス",
+    "kana": "イイコト アイリス",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。\n【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "ねぇ♪　もし、私より点数高かったら",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_091.png",
+        "cardNo": "OS03/R03-091",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-091&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_091s.png",
+        "cardNo": "OS03/R03-091S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-091S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-092",
+    "baseNo": "OS03/R03-092",
+    "name": "氷上のバトル ノエル",
+    "kana": "ヒョウジョウノバトル ノエル",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "執事"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「浜辺での密約」があるなら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "『氷雪の上で何を唱えるかと思えば』",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_092.png",
+        "cardNo": "OS03/R03-092",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-092&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_092s.png",
+        "cardNo": "OS03/R03-092S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-092S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-093",
+    "baseNo": "OS03/R03-093",
+    "name": "好きになれた自分 ノエル＆ノラ",
+    "kana": "スキニナレタジブン ノエル＆ノラ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "執事"
+    ],
+    "text": "【自】 共鳴 ［手札の「私の幸せ ノエル」を1枚公開する］ あなたのCXフェイズの始めに、前列にこのカードがいるなら、コストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "flavor": "すみません、まだ寝ているみたいで",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_093.png",
+        "cardNo": "OS03/R03-093",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-093&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_093s.png",
+        "cardNo": "OS03/R03-093S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-093S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-094",
+    "baseNo": "OS03/R03-094",
+    "name": "忘国の皇女 アイリス",
+    "kana": "ボウコクノオウジョ アイリス",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 1,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。",
+    "flavor": "やっぱり元気じゃなきゃ、忘れられちゃうと思うんです！",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_094.png",
+        "cardNo": "OS03/R03-094",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-094&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_094s.png",
+        "cardNo": "OS03/R03-094S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-094S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-095",
+    "baseNo": "OS03/R03-095",
+    "name": "戦略的幼児退行 アイリス",
+    "kana": "センリャクテキヨウジタイコウ アイリス",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "あーたん、さみしいなぁ……",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_095.png",
+        "cardNo": "OS03/R03-095",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-095&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_095s.png",
+        "cardNo": "OS03/R03-095S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-095S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-096",
+    "baseNo": "OS03/R03-096",
+    "name": "腹ペコ皇女 アイリス",
+    "kana": "ハラペコオウジョ アイリス",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 3,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】 このカードがダイレクトアタックした時、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、ストックにしてよい。",
+    "flavor": "私は今――牛丼が、食べたい",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_096.png",
+        "cardNo": "OS03/R03-096",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-096&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_096s.png",
+        "cardNo": "OS03/R03-096S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-096S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-097",
+    "baseNo": "OS03/R03-097",
+    "name": "ディスイズ、ヤバくない",
+    "kana": "ディスイズ、ヤバクナイ",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "EV",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは自分の【スタンド】している〈同OS〉のキャラを1枚選び【レスト】する。そうしたら、あなたは自分の山札の『共鳴』を持つキャラを1枚までサーチし手札に加え、自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "アイリス「ディスイズ！　やばくない！」",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_097.png",
+        "cardNo": "OS03/R03-097",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-097&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_097s.png",
+        "cardNo": "OS03/R03-097S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-097S&expansion=R03"
+      }
+    ],
+    "expansions": [
+      "R03"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-098",
+    "baseNo": "OS03/R03-098",
+    "name": "初めての春",
+    "kana": "ハジメテノハル",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "そこにまた新しい足跡ができる世界が好き",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_098.png",
+        "cardNo": "OS03/R03-098",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-098&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_098s.png",
+        "cardNo": "OS03/R03-098S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-098S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p10.png",
+        "cardNo": "OS03/R03-P10",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P10&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p10s.png",
+        "cardNo": "OS03/R03-P10S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P10S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-099",
+    "baseNo": "OS03/R03-099",
+    "name": "うんとこしょー、どっこいしょー！！",
+    "kana": "ウントコショー、ドッコイショー！！",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "みんな「うんとこしょー！！　どっこいしょー！！」",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_099.png",
+        "cardNo": "OS03/R03-099",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-099&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_099s.png",
+        "cardNo": "OS03/R03-099S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-099S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p11.png",
+        "cardNo": "OS03/R03-P11",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P11&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p11s.png",
+        "cardNo": "OS03/R03-P11S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P11S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-100",
+    "baseNo": "OS03/R03-100",
+    "name": "浜辺での密約",
+    "kana": "ハマベデノミツヤク",
+    "product": "ブースターパック HARUKAZE",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "『塗りながら、聞きなさい』",
+    "releaseDate": "2025-06-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_100.png",
+        "cardNo": "OS03/R03-100",
+        "rarity": "C",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-100&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_100s.png",
+        "cardNo": "OS03/R03-100S",
+        "rarity": "SR",
+        "expansion": "R03",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-100S&expansion=R03"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p12.png",
+        "cardNo": "OS03/R03-P12",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P12&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p12s.png",
+        "cardNo": "OS03/R03-P12S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P12S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R03",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-06-27",
+        "title": "ブースターパック HARUKAZE"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-P13",
+    "baseNo": "OS03/R03-P13",
+    "name": "はじめての海 パトリシア",
+    "kana": "ハジメテノウミ パトリシア",
+    "product": "PRカード",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の「鳴り響く音 パトリシア」か「抑えきれない愛の光 ルーシア」か「目指せアイドル ユウラシア」を1枚までサーチし手札に加える。",
+    "flavor": "水と砂が、行ったり来たりまるで、生と死が行ったり来たり",
+    "releaseDate": "2025-06-28",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p13.png",
+        "cardNo": "OS03/R03-P13",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P13&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p13s.png",
+        "cardNo": "OS03/R03-P13S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P13S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-P14",
+    "baseNo": "OS03/R03-P14",
+    "name": "ベストパワースポット 黒木",
+    "kana": "ベストパワースポット クロキ",
+    "product": "PRカード",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "真面目"
+    ],
+    "text": "【永】 他のあなたの「真面目な幼馴染 黒木」すべてに、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。』\n【自】［(1)］ あなたのトリガーアイコンが【トレジャー】のCXがトリガーした時、コストを払ってよい。そうしたら、あなたは1枚引く。\n【起】［このカードを【レスト】する］ あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "いいこいいこするのも忘れずに",
+    "releaseDate": "2025-06-28",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p14.png",
+        "cardNo": "OS03/R03-P14",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P14&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p14s.png",
+        "cardNo": "OS03/R03-P14S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P14S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-P16",
+    "baseNo": "OS03/R03-P16",
+    "name": "原点回帰 ノブチナ",
+    "kana": "ゲンテンカイキ ノブチナ",
+    "product": "PRカード",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "不良"
+    ],
+    "text": "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのターン中、他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋4000。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "flavor": "そうか。お母さん、優しいか",
+    "releaseDate": "2025-09-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p16.png",
+        "cardNo": "OS03/R03-P16",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P16&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p16s.png",
+        "cardNo": "OS03/R03-P16S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P16S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-P19",
+    "baseNo": "OS03/R03-P19",
+    "name": "プールデート シャチ",
+    "kana": "プールデート シャチ",
+    "product": "PRカード",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "HARUKAZE",
+      "料理"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラかイベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\n【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "さ、お顔を、こっちに",
+    "releaseDate": "2025-11-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p19.png",
+        "cardNo": "OS03/R03-P19",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P19&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p19s.png",
+        "cardNo": "OS03/R03-P19S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P19S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS03/R03-P20",
+    "baseNo": "OS03/R03-P20",
+    "name": "みんなで海へ アイリス",
+    "kana": "ミンナデウミヘ アイリス",
+    "product": "PRカード",
+    "neoStandard": "HARUKAZE",
+    "workNo": "OS03",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "HARUKAZE",
+      "皇族"
+    ],
+    "text": "【永】 他のあなたのすべての領域の「氷上のバトル ノエル」のトリガーアイコンに【ソウル】を与える。\n【永】 他のあなたの「氷上のバトル ノエル」すべてに、パワーを＋1000。",
+    "flavor": "ねぇ、塗って？　背中、届かないの",
+    "releaseDate": "2026-01-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p20.png",
+        "cardNo": "OS03/R03-P20",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P20&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os03/r03/os03_r03_p20s.png",
+        "cardNo": "OS03/R03-P20S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS03%2FR03-P20S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  }
+]

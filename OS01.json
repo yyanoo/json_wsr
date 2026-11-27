@@ -1,0 +1,6003 @@
+[
+  {
+    "cardNo": "OS01/R01-001",
+    "baseNo": "OS01/R01-001",
+    "name": "君と僕のハジメテ 乃愛",
+    "kana": "キミトボクノハジメテ ノア",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "天使"
+    ],
+    "text": "【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたのレベルが2以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "幸せだ。誰かを好きになるって……",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_001.png",
+        "cardNo": "OS01/R01-001",
+        "rarity": "RR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-001&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_001ofr.png",
+        "cardNo": "OS01/R01-001OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-001OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_001sp.png",
+        "cardNo": "OS01/R01-001SP",
+        "rarity": "SP",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-001SP&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-002",
+    "baseNo": "OS01/R01-002",
+    "name": "レヴィ９ 七海",
+    "kana": "レヴィ９ ナナミ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「きらめく夏の一頁」があり、他のあなたの〈同OS〉のキャラがいるなら、次の2つの効果を好きな順番で1回ずつ行う。『あなたは自分の山札を上から3枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋2000。』『あなたの思い出が2枚以下なら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、思い出にしてよい。』",
+    "flavor": "気を付けてね、おに――レヴィ６",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_002.png",
+        "cardNo": "OS01/R01-002",
+        "rarity": "RR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-002&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_002ofr.png",
+        "cardNo": "OS01/R01-002OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-002OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_002sec.png",
+        "cardNo": "OS01/R01-002SEC",
+        "rarity": "SEC",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-002SEC&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-003",
+    "baseNo": "OS01/R01-003",
+    "name": "Sympathy 七海",
+    "kana": "Sympathy ナナミ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのターン中、あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋2000。\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストックにする。",
+    "flavor": "どうしてもダメかな、お兄ちゃん？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_003.png",
+        "cardNo": "OS01/R01-003",
+        "rarity": "RR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-003&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_003ofr.png",
+        "cardNo": "OS01/R01-003OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-003OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_003ssp.png",
+        "cardNo": "OS01/R01-003SSP",
+        "rarity": "SSP",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-003SSP&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-004",
+    "baseNo": "OS01/R01-004",
+    "name": "正義の裁き 羽月",
+    "kana": "セイギノサバキ ハヅキ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "真面目"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋1000。\n【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+    "flavor": "ワタシがここで裁きの鉄槌を下す！！",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_004.png",
+        "cardNo": "OS01/R01-004",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-004&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_004s.png",
+        "cardNo": "OS01/R01-004S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-004S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-005",
+    "baseNo": "OS01/R01-005",
+    "name": "接客の練習 千咲",
+    "kana": "セッキャクノレンシュウ チサキ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "オシャレ"
+    ],
+    "text": "【自】［(1) 手札の〈同OS〉のキャラを1枚控え室に置き、このカードを思い出にする］ このカードが【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "今から料理が美味しくなる能力を使いますね♪",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_005.png",
+        "cardNo": "OS01/R01-005",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-005&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_005s.png",
+        "cardNo": "OS01/R01-005S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-005S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-006",
+    "baseNo": "OS01/R01-006",
+    "name": "思わぬピンチ 七海",
+    "kana": "オモワヌピンチ ナナミ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】 あなたのCXフェイズの始めに、あなたは自分の山札を上から1枚見てよい。\n【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。",
+    "flavor": "（もう、どうにかなっちゃいそう……）",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_006.png",
+        "cardNo": "OS01/R01-006",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-006&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_006s.png",
+        "cardNo": "OS01/R01-006S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-006S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-007",
+    "baseNo": "OS01/R01-007",
+    "name": "大和撫子はあこがれ 羽月",
+    "kana": "ヤマトナデシコハアコガレ ハヅキ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "真面目"
+    ],
+    "text": "【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "よければワタシと一緒に鍛錬をしないか？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_007.png",
+        "cardNo": "OS01/R01-007",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-007&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_007ofr.png",
+        "cardNo": "OS01/R01-007OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-007OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_007sp.png",
+        "cardNo": "OS01/R01-007SP",
+        "rarity": "SP",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-007SP&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-008",
+    "baseNo": "OS01/R01-008",
+    "name": "使命を帯びた天使 乃愛",
+    "kana": "シメイヲオビタテンシ ノア",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "天使"
+    ],
+    "text": "【永】 記憶 あなたの思い出置場に「君と見る白雪 乃愛」があるなら、このカードのパワーを＋1500。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】 記憶 あなたのアタックフェイズの始めに、CX置場に「天使降臨」があり、あなたの思い出が3枚以上なら、あなたは自分の控え室の〈同OS〉のキャラを1枚まで選び、手札に戻し、自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "flavor": "口づけなんて……ぅぅ、僕はなんて破廉恥な天使なんだっ",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_008.png",
+        "cardNo": "OS01/R01-008",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-008&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_008s.png",
+        "cardNo": "OS01/R01-008S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-008S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-009",
+    "baseNo": "OS01/R01-009",
+    "name": "半分こ 乃愛",
+    "kana": "ハンブンコ ノア",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "天使"
+    ],
+    "text": "【自】 このカードが手札から登場した時かアタックした時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "flavor": "これは、こうやって二人で分け合って食べるものなんだろう？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_009.png",
+        "cardNo": "OS01/R01-009",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-009&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_009s.png",
+        "cardNo": "OS01/R01-009S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-009S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-010",
+    "baseNo": "OS01/R01-010",
+    "name": "任務中 七海",
+    "kana": "ニンムチュウ ナナミ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは1枚引く。",
+    "flavor": "ちゃんと聞こえてるくせに……なんで無視するかなぁ",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_010.png",
+        "cardNo": "OS01/R01-010",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-010&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_010s.png",
+        "cardNo": "OS01/R01-010S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-010S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-011",
+    "baseNo": "OS01/R01-011",
+    "name": "水着を買いに！ 乃愛",
+    "kana": "ミズギヲカイニ！ ノア",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "天使"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\n【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "それに……褒めてもらったから。だから、この水着にするよ",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_011.png",
+        "cardNo": "OS01/R01-011",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-011&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_011s.png",
+        "cardNo": "OS01/R01-011S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-011S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t02.png",
+        "cardNo": "OS01/R01-T02",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T02&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-012",
+    "baseNo": "OS01/R01-012",
+    "name": "一目惚れ？ 彩里",
+    "kana": "ヒトメボレ？ サイリ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "ゲーム"
+    ],
+    "text": "【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。\n【自】 相手のアタックフェイズの始めに、あなたは相手の前列のキャラを1枚選び、前列のキャラのいない他の枠に動かしてよい。",
+    "flavor": "お兄さんのことを、待ってました",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_012.png",
+        "cardNo": "OS01/R01-012",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-012&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_012s.png",
+        "cardNo": "OS01/R01-012S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-012S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-013",
+    "baseNo": "OS01/R01-013",
+    "name": "小さい水着 七海",
+    "kana": "チイサイミズギ ナナミ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。\n【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋1500。",
+    "flavor": "それが、サイズが小さくて",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_013.png",
+        "cardNo": "OS01/R01-013",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-013&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_013s.png",
+        "cardNo": "OS01/R01-013S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-013S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-014",
+    "baseNo": "OS01/R01-014",
+    "name": "初めてのビキニ 羽月",
+    "kana": "ハジメテノビキニ ハヅキ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "真面目"
+    ],
+    "text": "【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "ああっ！？　そんなご無体な！",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_014.png",
+        "cardNo": "OS01/R01-014",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-014&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_014s.png",
+        "cardNo": "OS01/R01-014S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-014S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t03.png",
+        "cardNo": "OS01/R01-T03",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T03&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-015",
+    "baseNo": "OS01/R01-015",
+    "name": "抱きつく千咲",
+    "kana": "ダキツクチサキ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "オシャレ"
+    ],
+    "text": "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「抱きつく千咲」を1枚選び、舞台の好きな枠に置く。",
+    "flavor": "せんぱーい！　とぅ！",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_015.png",
+        "cardNo": "OS01/R01-015",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-015&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_015s.png",
+        "cardNo": "OS01/R01-015S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-015S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p22ex.png",
+        "cardNo": "OS01/R01-P22EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P22EX&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-016",
+    "baseNo": "OS01/R01-016",
+    "name": "手作り弁当 羽月",
+    "kana": "テヅクリベントウ ハヅキ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "真面目"
+    ],
+    "text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを思い出にする］",
+    "flavor": "そこまで喜んでもらえるなら、こちらも作り甲斐があるというものだ",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_016.png",
+        "cardNo": "OS01/R01-016",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-016&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_016s.png",
+        "cardNo": "OS01/R01-016S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-016S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-017",
+    "baseNo": "OS01/R01-017",
+    "name": "快活少女 千咲",
+    "kana": "カイカツショウジョ チサキ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "オシャレ"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "おっはよー！",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_017.png",
+        "cardNo": "OS01/R01-017",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-017&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_017s.png",
+        "cardNo": "OS01/R01-017S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-017S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-018",
+    "baseNo": "OS01/R01-018",
+    "name": "甘え上手 七海",
+    "kana": "アマエジョウズ ナナミ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。",
+    "flavor": "わたしのを分けてあげる",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_018.png",
+        "cardNo": "OS01/R01-018",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-018&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_018s.png",
+        "cardNo": "OS01/R01-018S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-018S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-019",
+    "baseNo": "OS01/R01-019",
+    "name": "可愛い忠犬 羽月",
+    "kana": "カワイイチュウケン ハヅキ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "真面目"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の〈同OS〉のキャラを1枚控え室に置く］』を得る。\n【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの〈同OS〉のキャラの枚数×1000に等しい。",
+    "flavor": "わ、わんわんっ……なんちゃって",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_019.png",
+        "cardNo": "OS01/R01-019",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-019&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_019s.png",
+        "cardNo": "OS01/R01-019S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-019S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-020",
+    "baseNo": "OS01/R01-020",
+    "name": "君と見る白雪 乃愛",
+    "kana": "キミトミルシラユキ ノア",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "天使"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋1500。\n【自】【CXコンボ】［このカードを思い出にする］ あなたのCXフェイズ中、CX置場に「天使降臨」が置かれた時、コストを払ってよい。そうしたら、あなたは自分の手札の「使命を帯びた天使 乃愛」を1枚まで選び、このカードがいた枠に置く。",
+    "flavor": "君がいてくれたから、これまでに経験したことのないような幸せな気持ちを知ることが出来た",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_020.png",
+        "cardNo": "OS01/R01-020",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-020&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_020s.png",
+        "cardNo": "OS01/R01-020S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-020S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-021",
+    "baseNo": "OS01/R01-021",
+    "name": "日々の鍛錬 羽月",
+    "kana": "ヒビノタンレン ハヅキ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 2,
+    "power": 7500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "真面目"
+    ],
+    "text": "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「降り積もった通り道」があるなら、あなたは相手に1ダメージを与えてよい。",
+    "flavor": "初日から遅刻しないようにな",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_021.png",
+        "cardNo": "OS01/R01-021",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-021&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_021s.png",
+        "cardNo": "OS01/R01-021S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-021S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-022",
+    "baseNo": "OS01/R01-022",
+    "name": "O・BA・KA・SAN",
+    "kana": "O・BA・KA・SAN",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "EV",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは自分の【スタンド】しているカード名に「七海」を含むキャラを1枚選び【レスト】する。そうしたら、あなたは自分のクロック置場の〈同OS〉のキャラを1枚選び、手札に戻す。このカードを思い出にする。",
+    "flavor": "おっ、落ちる……落ちちゃう……もうダメぇ、むりぃ……",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_022.png",
+        "cardNo": "OS01/R01-022",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-022&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_022s.png",
+        "cardNo": "OS01/R01-022S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-022S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-023",
+    "baseNo": "OS01/R01-023",
+    "name": "きらめく夏の一頁",
+    "kana": "キラメクナツノイチページ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "変……じゃないかな？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_023.png",
+        "cardNo": "OS01/R01-023",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-023&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_023a.png",
+        "cardNo": "OS01/R01-023A",
+        "rarity": "AGR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-023A&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_023s.png",
+        "cardNo": "OS01/R01-023S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-023S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p02.png",
+        "cardNo": "OS01/R01-P02",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P02&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p02s.png",
+        "cardNo": "OS01/R01-P02S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P02S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-024",
+    "baseNo": "OS01/R01-024",
+    "name": "天使降臨",
+    "kana": "テンシコウリン",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_024.png",
+        "cardNo": "OS01/R01-024",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-024&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_024s.png",
+        "cardNo": "OS01/R01-024S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-024S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p04.png",
+        "cardNo": "OS01/R01-P04",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P04&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p04s.png",
+        "cardNo": "OS01/R01-P04S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P04S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-025",
+    "baseNo": "OS01/R01-025",
+    "name": "降り積もった通り道",
+    "kana": "フリツモッタトオリミチ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "明日は街まで行こう",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_025.png",
+        "cardNo": "OS01/R01-025",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-025&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_025s.png",
+        "cardNo": "OS01/R01-025S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-025S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p03.png",
+        "cardNo": "OS01/R01-P03",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P03&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p03s.png",
+        "cardNo": "OS01/R01-P03S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P03S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-026",
+    "baseNo": "OS01/R01-026",
+    "name": "強がるオトナのSecret Labo 茉優",
+    "kana": "ツヨガルオトナノSecret Labo マユ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "科学"
+    ],
+    "text": "【自】 あなたのCXがCX置場に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "どう？　今度こそ、お姉さんに身も心も委ねてみない？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_026.png",
+        "cardNo": "OS01/R01-026",
+        "rarity": "RR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-026&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_026ofr.png",
+        "cardNo": "OS01/R01-026OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-026OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_026sp.png",
+        "cardNo": "OS01/R01-026SP",
+        "rarity": "SP",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-026SP&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-027",
+    "baseNo": "OS01/R01-027",
+    "name": "惚れて揺れて恋焦がれ かぐ耶",
+    "kana": "ホレテユレテコイコガレ カグヤ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "魔法"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】【CXコンボ】［手札を1枚控え室に置く］ あなたのCX置場に「二人だけの秘密の特訓」が置かれた時、コストを払ってよい。そうしたら、あなたは自分の控え室のコスト0以下の〈同OS〉のキャラを1枚選び、舞台の好きな枠に置く。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「二人だけの秘密の特訓」があり、他のあなたの〈同OS〉のキャラがいるなら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻してよい。",
+    "flavor": "今日は絶対に、アナタと二人っきりじゃなきゃ嫌だったの",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_027.png",
+        "cardNo": "OS01/R01-027",
+        "rarity": "RR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-027&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_027ofr.png",
+        "cardNo": "OS01/R01-027OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-027OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_027sp.png",
+        "cardNo": "OS01/R01-027SP",
+        "rarity": "SP",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-027SP&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-028",
+    "baseNo": "OS01/R01-028",
+    "name": "狩人の一族 梓",
+    "kana": "カリュウドノイチゾク アズサ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "銃"
+    ],
+    "text": "【自】【CXコンボ】 あなたのCX置場に「いつも通りの日常」が置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』\n【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "困ってる人を助けるのは当然のことだよ",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_028.png",
+        "cardNo": "OS01/R01-028",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-028&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_028s.png",
+        "cardNo": "OS01/R01-028S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-028S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p29s.png",
+        "cardNo": "OS01/R01-P29S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P29S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-029",
+    "baseNo": "OS01/R01-029",
+    "name": "Growing! 梓",
+    "kana": "Growing! アズサ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "銃"
+    ],
+    "text": "【自】［(1) 手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。\n【自】［手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "もぉー！　だからエッチな話は禁止なのっ！",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_029.png",
+        "cardNo": "OS01/R01-029",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-029&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_029ofr.png",
+        "cardNo": "OS01/R01-029OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-029OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_029sp.png",
+        "cardNo": "OS01/R01-029SP",
+        "rarity": "SP",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-029SP&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-030",
+    "baseNo": "OS01/R01-030",
+    "name": "潮の香りの去り際に オリエ",
+    "kana": "シオノカオリノサリギワニ オリエ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "魔法"
+    ],
+    "text": "【自】 このカードがアタックした時、他のあなたの〈同OS〉のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。\n【自】［(1) このカードを思い出にする］ 他のあなたの〈同OS〉のキャラがフロントアタックされた時、コストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2500。",
+    "flavor": "キスが嬉しいなんて、言うまでもないことじゃないですか",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_030.png",
+        "cardNo": "OS01/R01-030",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-030&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_030s.png",
+        "cardNo": "OS01/R01-030S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-030S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-031",
+    "baseNo": "OS01/R01-031",
+    "name": "先で待つ 茉優",
+    "kana": "サキデマツ マユ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "科学"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋2000。\n【自】 アンコール ［あなたの山札の上から1枚をクロックにする］",
+    "flavor": "先に行って、待ってるからね",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_031.png",
+        "cardNo": "OS01/R01-031",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-031&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_031s.png",
+        "cardNo": "OS01/R01-031S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-031S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-032",
+    "baseNo": "OS01/R01-032",
+    "name": "暑いのは苦手 梓",
+    "kana": "アツイノハニガテ アズサ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 3500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "銃"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。\n【自】 このカードが手札から登場した時、あなたは1枚引いてよい。\n【起】［このカードを【レスト】する］ そのターン中、このカードは次の能力を得る。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+    "flavor": "毎晩アイス食べてたら太っちゃうよね……",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_032.png",
+        "cardNo": "OS01/R01-032",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-032&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_032s.png",
+        "cardNo": "OS01/R01-032S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-032S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-033",
+    "baseNo": "OS01/R01-033",
+    "name": "舞い落ちる桜 かぐ耶",
+    "kana": "マイオチルサクラ カグヤ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "魔法"
+    ],
+    "text": "【永】 記憶 あなたの思い出置場の〈同OS〉のキャラが3枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "flavor": "だってコッチの世界の方が楽しいんだもの",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_033.png",
+        "cardNo": "OS01/R01-033",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-033&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_033s.png",
+        "cardNo": "OS01/R01-033S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-033S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-034",
+    "baseNo": "OS01/R01-034",
+    "name": "初めての吸血 梓",
+    "kana": "ハジメテノキュウケツ アズサ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "銃"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードは次の能力を得る。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』\n【起】［このカードを【レスト】する］ あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "flavor": "お、男の人に吸われるなんて、初めてで……",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_034.png",
+        "cardNo": "OS01/R01-034",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-034&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_034s.png",
+        "cardNo": "OS01/R01-034S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-034S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t04.png",
+        "cardNo": "OS01/R01-T04",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T04&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-035",
+    "baseNo": "OS01/R01-035",
+    "name": "アクア・エデン市長補佐 アンナ",
+    "kana": "アクア・エデンシチョウホサ アンナ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【永】 他のあなたの「小さな油断 梓」すべてに、パワーを＋1000。\n【自】 絆／「小さな油断 梓」 ［(1)］",
+    "flavor": "この都市の吸血鬼の代表兼市長の手伝い役、といったところかな",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_035.png",
+        "cardNo": "OS01/R01-035",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-035&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_035s.png",
+        "cardNo": "OS01/R01-035S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-035S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-036",
+    "baseNo": "OS01/R01-036",
+    "name": "無茶な接触 茉優",
+    "kana": "ムチャナセッショク マユ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "科学"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\n【起】［手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の「興味本位の身体検査」を1枚選び、手札に戻す。",
+    "flavor": "ゴメンね、アタシが無茶なことしちゃったから……",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_036.png",
+        "cardNo": "OS01/R01-036",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-036&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_036s.png",
+        "cardNo": "OS01/R01-036S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-036S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-037",
+    "baseNo": "OS01/R01-037",
+    "name": "お姉さんの振る舞い 茉優",
+    "kana": "オネエサンノフルマイ マユ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "科学"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』\n【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの〈同OS〉のキャラの枚数×500に等しい。",
+    "flavor": "もう大丈夫だからね、よしよし",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_037.png",
+        "cardNo": "OS01/R01-037",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-037&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_037s.png",
+        "cardNo": "OS01/R01-037S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-037S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t05.png",
+        "cardNo": "OS01/R01-T05",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T05&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-038",
+    "baseNo": "OS01/R01-038",
+    "name": "浜辺のかぐ耶",
+    "kana": "ハマベノカグヤ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "魔法"
+    ],
+    "text": "【永】 他のあなたの【レスト】している〈同OS〉のキャラがいるなら、このカードのレベルを＋1し、パワーを＋1500。\n【自】 このカードが手札から登場した時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
+    "flavor": "ん……では、よろしくね",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_038.png",
+        "cardNo": "OS01/R01-038",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-038&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_038s.png",
+        "cardNo": "OS01/R01-038S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-038S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-039",
+    "baseNo": "OS01/R01-039",
+    "name": "お料理 かぐ耶",
+    "kana": "オリョウリ カグヤ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "魔法"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "なんなら、ふー、ふーってしてあげましょうか？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_039.png",
+        "cardNo": "OS01/R01-039",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-039&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_039s.png",
+        "cardNo": "OS01/R01-039S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-039S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t06.png",
+        "cardNo": "OS01/R01-T06",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T06&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-040",
+    "baseNo": "OS01/R01-040",
+    "name": "幸せの魔法 オリエ",
+    "kana": "シアワセノマホウ オリエ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "魔法"
+    ],
+    "text": "【自】 あなたのCXフェイズの始めに、相手は自分のストックの上から2枚を、控え室に置いてよい。そうしたら、そのターン中、このカードはフロントアタックできない。",
+    "flavor": "好きな人以外だとそうでしょうね",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_040.png",
+        "cardNo": "OS01/R01-040",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-040&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_040s.png",
+        "cardNo": "OS01/R01-040S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-040S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-041",
+    "baseNo": "OS01/R01-041",
+    "name": "小さな油断 梓",
+    "kana": "チイサナユダン アズサ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "銃"
+    ],
+    "text": "-",
+    "flavor": "ふぅー……疲れた",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_041.png",
+        "cardNo": "OS01/R01-041",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-041&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_041s.png",
+        "cardNo": "OS01/R01-041S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-041S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-042",
+    "baseNo": "OS01/R01-042",
+    "name": "異世界からの来訪者 かぐ耶",
+    "kana": "イセカイカラノライホウシャ カグヤ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "魔法"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手の前列のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+    "flavor": "妾はアナタを守るために来たんだから",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_042.png",
+        "cardNo": "OS01/R01-042",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-042&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_042s.png",
+        "cardNo": "OS01/R01-042S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-042S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-043",
+    "baseNo": "OS01/R01-043",
+    "name": "異世界の味 かぐ耶",
+    "kana": "イセカイノアジ カグヤ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "魔法"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロックにする。",
+    "flavor": "はぁむ……んむ、んむ……ん～、美味しい",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_043.png",
+        "cardNo": "OS01/R01-043",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-043&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_043s.png",
+        "cardNo": "OS01/R01-043S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-043S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-044",
+    "baseNo": "OS01/R01-044",
+    "name": "梅雨空のお出迎え オリエ",
+    "kana": "ツユゾラノオデムカエ オリエ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "魔法"
+    ],
+    "text": "【自】［(2) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "お褒めいただき光栄です、マスター",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_044.png",
+        "cardNo": "OS01/R01-044",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-044&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_044s.png",
+        "cardNo": "OS01/R01-044S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-044S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p20ex.png",
+        "cardNo": "OS01/R01-P20EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P20EX&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-045",
+    "baseNo": "OS01/R01-045",
+    "name": "幸せな２人の朝 茉優",
+    "kana": "シアワセナフタリノアサ マユ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "科学"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。",
+    "flavor": "ちょうどよかった。今淹れたところだったんだよ",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_045.png",
+        "cardNo": "OS01/R01-045",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-045&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_045s.png",
+        "cardNo": "OS01/R01-045S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-045S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-046",
+    "baseNo": "OS01/R01-046",
+    "name": "研究員のお姉さん 茉優",
+    "kana": "ケンキュウインノオネエサン マユ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "科学"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 このカードの正面のキャラは他の枠に動かせない。』\n【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのCX置場に「紅に染まる時間」があるなら、コストを払ってよい。そうしたら、あなたはそのキャラをクロックにし、相手の山札を上から1枚見て、山札の上か下に置く。",
+    "flavor": "んーー……ナイショ♪",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_046.png",
+        "cardNo": "OS01/R01-046",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-046&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_046s.png",
+        "cardNo": "OS01/R01-046S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-046S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-047",
+    "baseNo": "OS01/R01-047",
+    "name": "興味本位の身体検査",
+    "kana": "キョウミホンイノシンタイケンサ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "EV",
+    "color": "green",
+    "level": 1,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。このカードを思い出にする。",
+    "flavor": "おー、なかなかいい体してるね",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_047.png",
+        "cardNo": "OS01/R01-047",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-047&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_047s.png",
+        "cardNo": "OS01/R01-047S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-047S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-048",
+    "baseNo": "OS01/R01-048",
+    "name": "二人だけの秘密の特訓",
+    "kana": "フタリダケノヒミツノトックン",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "本当に、アナタと妾、二人だけの……秘密の、特訓……",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_048.png",
+        "cardNo": "OS01/R01-048",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-048&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_048s.png",
+        "cardNo": "OS01/R01-048S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-048S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p05.png",
+        "cardNo": "OS01/R01-P05",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P05&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p05se.png",
+        "cardNo": "OS01/R01-P05S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P05S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-049",
+    "baseNo": "OS01/R01-049",
+    "name": "いつも通りの日常",
+    "kana": "イツモドオリノニチジョウ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "それってプロポーズに聞こえるよ",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_049.png",
+        "cardNo": "OS01/R01-049",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-049&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_049s.png",
+        "cardNo": "OS01/R01-049S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-049S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p06.png",
+        "cardNo": "OS01/R01-P06",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P06&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p06s.png",
+        "cardNo": "OS01/R01-P06S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P06S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-050",
+    "baseNo": "OS01/R01-050",
+    "name": "紅に染まる時間",
+    "kana": "クレナイニソマルジカン",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "コーヒーと緑茶があるけど、どっちがいい？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_050.png",
+        "cardNo": "OS01/R01-050",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-050&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_050s.png",
+        "cardNo": "OS01/R01-050S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-050S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p07.png",
+        "cardNo": "OS01/R01-P07",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P07&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p07s.png",
+        "cardNo": "OS01/R01-P07S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P07S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-051",
+    "baseNo": "OS01/R01-051",
+    "name": "Love Incident 美羽",
+    "kana": "Love Incident ミウ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】［(1) あなたの山札の上から1枚をクロックにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札のレベル1以下のキャラを1枚までサーチし手札に加える。\n【自】 記憶 このカードがアタックした時、あなたの思い出置場にカードがあるなら、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "flavor": "よろしく、新人さん",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_051.png",
+        "cardNo": "OS01/R01-051",
+        "rarity": "RR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-051&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_051ofr.png",
+        "cardNo": "OS01/R01-051OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-051OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_051ssp.png",
+        "cardNo": "OS01/R01-051SSP",
+        "rarity": "SSP",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-051SSP&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p27s.png",
+        "cardNo": "OS01/R01-P27S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P27S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-052",
+    "baseNo": "OS01/R01-052",
+    "name": "NO LIMIT エリナ",
+    "kana": "NO LIMIT エリナ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【永】 記憶 あなたのターン中、あなたの思い出が2枚以上なら、このカードのパワーを＋2000。\n【自】［他のあなたの舞台の〈同OS〉のキャラを1枚控え室に置く］ このカードがアタックした時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加える。",
+    "flavor": "にひひ。今、エッチなこと考えたでしょう？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_052.png",
+        "cardNo": "OS01/R01-052",
+        "rarity": "RR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-052&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_052ofr.png",
+        "cardNo": "OS01/R01-052OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-052OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_052sp.png",
+        "cardNo": "OS01/R01-052SP",
+        "rarity": "SP",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-052SP&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-053",
+    "baseNo": "OS01/R01-053",
+    "name": "大人のいい女 美羽",
+    "kana": "オトナノイイオンナ ミウ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻してよい。\n【自】【CXコンボ】［手札を1枚控え室に置き、他のあなたの舞台のキャラを1枚控え室に置く］ このカードがアタックした時、CX置場に「ふたりで守った未来」があるなら、コストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、相手にＸダメージを与え、次の相手のターンの終わりまで、このカードのパワーを＋1500。Ｘはそのキャラのレベルに等しい。",
+    "flavor": "絶対に離れてあげないから",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_053.png",
+        "cardNo": "OS01/R01-053",
+        "rarity": "RR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-053&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_053ofr.png",
+        "cardNo": "OS01/R01-053OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-053OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_053sec.png",
+        "cardNo": "OS01/R01-053SEC",
+        "rarity": "SEC",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-053SEC&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-054",
+    "baseNo": "OS01/R01-054",
+    "name": "PERFECT GIRL あやせ",
+    "kana": "PERFECT GIRL アヤセ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "嘘"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\n【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】［(1)］ このカードのトリガーチェックでCXがでた時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストックにし、自分のキャラを1枚選び、そのターン中、パワーを＋2000。』",
+    "flavor": "みんなー、今日は楽しかったー？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_054.png",
+        "cardNo": "OS01/R01-054",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-054&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_054ofr.png",
+        "cardNo": "OS01/R01-054OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-054OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_054sp.png",
+        "cardNo": "OS01/R01-054SP",
+        "rarity": "SP",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-054SP&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-055",
+    "baseNo": "OS01/R01-055",
+    "name": "吸血鬼の力 美羽",
+    "kana": "キュウケツキノチカラ ミウ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【永】 このカードは、色条件を満たさずに手札からプレイできる。\n【自】 このカードがアタックした時、他のあなたの〈同OS〉のキャラが2枚以上なら、そのターン中、このカードのパワーを＋6000。\n【自】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのCX置場にCXがあるなら、コストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』",
+    "flavor": "で？　もうお終い？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_055.png",
+        "cardNo": "OS01/R01-055",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-055&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_055s.png",
+        "cardNo": "OS01/R01-055S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-055S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p31s.png",
+        "cardNo": "OS01/R01-P31S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P31S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-056",
+    "baseNo": "OS01/R01-056",
+    "name": "ちょっとエッチな女の子 エリナ",
+    "kana": "チョットエッチナオンナノコ エリナ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から登場した時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの〈同OS〉のキャラの枚数に等しい。",
+    "flavor": "ワタシの制服姿にドキドキする？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_056.png",
+        "cardNo": "OS01/R01-056",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-056&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_056s.png",
+        "cardNo": "OS01/R01-056S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-056S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-057",
+    "baseNo": "OS01/R01-057",
+    "name": "学生会長 あやせ",
+    "kana": "ガクセイカイチョウ アヤセ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "嘘"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】 記憶 あなたのアンコールステップの始めに、CX置場に「猫かぶり少女の恋」があり、前列にこのカードがいて、あなたの思い出置場に「知られた秘密 あやせ」があるなら、相手は自分の山札の上から20枚を、控え室に置き、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』",
+    "flavor": "肩書きだけとはいえ会長ですから",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_057.png",
+        "cardNo": "OS01/R01-057",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-057&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_057s.png",
+        "cardNo": "OS01/R01-057S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-057S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-058",
+    "baseNo": "OS01/R01-058",
+    "name": "ディーラー エリナ",
+    "kana": "ディーラー エリナ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\n【自】 このカードが手札から登場した時、相手は0か1か2か3を宣言する。あなたは自分の山札の上から1枚を、控え室に置き、そのカードが相手の宣言したレベルのカードなら、あなたはＸ枚まで引く。Ｘは相手の宣言した数＋1に等しい。",
+    "flavor": "勝負はお終い。エリナの勝ちだね",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_058.png",
+        "cardNo": "OS01/R01-058",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-058&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_058s.png",
+        "cardNo": "OS01/R01-058S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-058S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-059",
+    "baseNo": "OS01/R01-059",
+    "name": "抑えきれない衝動 エリナ",
+    "kana": "オサエキレナイショウドウ エリナ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【起】［(1) このカードを思い出にする］ あなたは自分の控え室の「カジノのお仕事 エリナ」を1枚選び、手札に戻す。",
+    "flavor": "クローフィ……",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_059.png",
+        "cardNo": "OS01/R01-059",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-059&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_059s.png",
+        "cardNo": "OS01/R01-059S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-059S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-060",
+    "baseNo": "OS01/R01-060",
+    "name": "女の子らしい恰好 ニコラ",
+    "kana": "オンナノコラシイカッコウ ニコラ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】 他のあなたの〈同OS〉のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n【自】［(1)］ 相手のターン中、このカードが【リバース】した時、コストを払ってよい。そうしたら、このカードを【レスト】し、次のあなたのアンコールステップの始めに、このカードを思い出にする。",
+    "flavor": "………ど、どう……かな？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_060.png",
+        "cardNo": "OS01/R01-060",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-060&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_060s.png",
+        "cardNo": "OS01/R01-060S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-060S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t07.png",
+        "cardNo": "OS01/R01-T07",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T07&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-061",
+    "baseNo": "OS01/R01-061",
+    "name": "知られた秘密 あやせ",
+    "kana": "シラレタヒミツ アヤセ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "嘘"
+    ],
+    "text": "【永】 このカードの下にマーカーがないなら、このカードは《嘘》をすべて失う。\n【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】 このカードが手札から登場した時、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、表向きでこのカードのマーカーにしてよい。\n【自】 あなたのターン中、下にマーカーがあるこのカードが舞台から控え室に置かれた時、他のあなたの〈同OS〉のキャラがいるなら、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。",
+    "flavor": "ちょ、待って止めてダメェェェェ！",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_061.png",
+        "cardNo": "OS01/R01-061",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-061&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_061s.png",
+        "cardNo": "OS01/R01-061S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-061S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-062",
+    "baseNo": "OS01/R01-062",
+    "name": "思い出の上書き 美羽",
+    "kana": "オモイデノウワガキ ミウ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】 あなたのCXフェイズの始めに、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、次の行動を行う。『あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加え、自分の手札を1枚選び、控え室に置く。』",
+    "flavor": "くふ、この程度で顔を赤くするなんて、本当にお子様ね",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_062.png",
+        "cardNo": "OS01/R01-062",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-062&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_062s.png",
+        "cardNo": "OS01/R01-062S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-062S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-063",
+    "baseNo": "OS01/R01-063",
+    "name": "２人の夜 あやせ",
+    "kana": "フタリノヨル アヤセ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "嘘"
+    ],
+    "text": "【永】 記憶 あなたの思い出置場に「知られた秘密 あやせ」があるなら、このカードのパワーを＋1500。\n【自】［(1)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の「知られた秘密 あやせ」を1枚選び、思い出にする。",
+    "flavor": "まっ、待って",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_063.png",
+        "cardNo": "OS01/R01-063",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-063&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_063s.png",
+        "cardNo": "OS01/R01-063S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-063S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-064",
+    "baseNo": "OS01/R01-064",
+    "name": "プールサイドの一幕 エリナ",
+    "kana": "プールサイドノヒトマク エリナ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラでないなら、このカードを【レスト】する。\n【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、そのターン中、このカードのパワーを＋2000。",
+    "flavor": "早速お願いしてもいい？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_064.png",
+        "cardNo": "OS01/R01-064",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-064&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_064s.png",
+        "cardNo": "OS01/R01-064S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-064S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-065",
+    "baseNo": "OS01/R01-065",
+    "name": "衝撃の目覚め ニコラ",
+    "kana": "ショウゲキノメザメ ニコラ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』",
+    "flavor": "……え？　ボクの、恰好……？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_065.png",
+        "cardNo": "OS01/R01-065",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-065&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_065s.png",
+        "cardNo": "OS01/R01-065S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-065S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-066",
+    "baseNo": "OS01/R01-066",
+    "name": "カジノのお仕事 エリナ",
+    "kana": "カジノノオシゴト エリナ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「帰ってきた居場所」があり、他のあなたの〈同OS〉のキャラがいるなら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加え、自分のキャラを1枚選び、そのターン中、パワーを＋1000し、《エッチな話題》を与える。",
+    "flavor": "折角来たんだから遊ぼうよ",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_066.png",
+        "cardNo": "OS01/R01-066",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-066&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_066s.png",
+        "cardNo": "OS01/R01-066S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-066S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-067",
+    "baseNo": "OS01/R01-067",
+    "name": "曝された柔肌 美羽",
+    "kana": "サラサレタヤワハダ ミウ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。",
+    "flavor": "ひっ、ひゃんっ！？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_067.png",
+        "cardNo": "OS01/R01-067",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-067&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_067s.png",
+        "cardNo": "OS01/R01-067S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-067S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-068",
+    "baseNo": "OS01/R01-068",
+    "name": "素の態度 あやせ",
+    "kana": "スノタイド アヤセ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "嘘"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］",
+    "flavor": "取り繕うのはここまででいいわよね",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_068.png",
+        "cardNo": "OS01/R01-068",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-068&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_068s.png",
+        "cardNo": "OS01/R01-068S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-068S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t09.png",
+        "cardNo": "OS01/R01-T09",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T09&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-069",
+    "baseNo": "OS01/R01-069",
+    "name": "将来も一緒に あやせ",
+    "kana": "ショウライモイッショニ アヤセ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "嘘"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【永】 記憶 あなたの思い出が3枚以上なら、このカードは次の2つの能力を得る。『【自】 あなたのCXフェイズの始めに、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。』『【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。』",
+    "flavor": "嬉しいから……これからも言って欲しい",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_069.png",
+        "cardNo": "OS01/R01-069",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-069&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_069s.png",
+        "cardNo": "OS01/R01-069S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-069S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t10.png",
+        "cardNo": "OS01/R01-T10",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T10&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-070",
+    "baseNo": "OS01/R01-070",
+    "name": "面倒見のいい女の子 美羽",
+    "kana": "メンドウミノイイオンナノコ ミウ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、コストを払ってよい。そうしたら、あなたは1枚引く。\n【自】 記憶 このカードがアタックした時、あなたの思い出置場の〈同OS〉のキャラが2枚以上なら、そのターン中、このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×2000に等しい。",
+    "flavor": "う・る・さ・い",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_070.png",
+        "cardNo": "OS01/R01-070",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-070&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_070s.png",
+        "cardNo": "OS01/R01-070S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-070S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t11.png",
+        "cardNo": "OS01/R01-T11",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T11&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-071",
+    "baseNo": "OS01/R01-071",
+    "name": "中二病吸血鬼 ニコラ",
+    "kana": "チュウニビョウキュウケツキ ニコラ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+    "flavor": "今宵の月も美しい、いい夜だね",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_071.png",
+        "cardNo": "OS01/R01-071",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-071&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_071s.png",
+        "cardNo": "OS01/R01-071S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-071S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-072",
+    "baseNo": "OS01/R01-072",
+    "name": "ドキドキの間接キス",
+    "kana": "ドキドキノカンセツキス",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "EV",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+    "flavor": "飲まないの？　Ｏ型風味は嫌い？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_072.png",
+        "cardNo": "OS01/R01-072",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-072&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_072s.png",
+        "cardNo": "OS01/R01-072S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-072S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-073",
+    "baseNo": "OS01/R01-073",
+    "name": "ふたりで守った未来",
+    "kana": "フタリデマモッタミライ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "ずっと、私のことを捕まえておかないと、許さないから",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_073.png",
+        "cardNo": "OS01/R01-073",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-073&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_073s.png",
+        "cardNo": "OS01/R01-073S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-073S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p08.png",
+        "cardNo": "OS01/R01-P08",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P08&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p08s.png",
+        "cardNo": "OS01/R01-P08S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P08S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-074",
+    "baseNo": "OS01/R01-074",
+    "name": "猫かぶり少女の恋",
+    "kana": "ネコカブリショウジョノコイ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "猫の気持ち……猫の気持ち……",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_074.png",
+        "cardNo": "OS01/R01-074",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-074&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_074s.png",
+        "cardNo": "OS01/R01-074S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-074S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p10.png",
+        "cardNo": "OS01/R01-P10",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P10&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p10s.png",
+        "cardNo": "OS01/R01-P10S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P10S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-075",
+    "baseNo": "OS01/R01-075",
+    "name": "帰ってきた居場所",
+    "kana": "カエッテキタイバショ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "戻ったらまずデートしよう。もっと普通のデート♪",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_075.png",
+        "cardNo": "OS01/R01-075",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-075&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_075s.png",
+        "cardNo": "OS01/R01-075S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-075S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p09.png",
+        "cardNo": "OS01/R01-P09",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P09&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p09s.png",
+        "cardNo": "OS01/R01-P09S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P09S&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t13.png",
+        "cardNo": "OS01/R01-T13",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T13&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-076",
+    "baseNo": "OS01/R01-076",
+    "name": "アオハルデイズ 来海",
+    "kana": "アオハルデイズ クルミ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "ギャル"
+    ],
+    "text": "【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが〈同OS〉のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。\n【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "クルミ、って呼んでくれないんだ",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_076.png",
+        "cardNo": "OS01/R01-076",
+        "rarity": "RR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-076&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_076ofr.png",
+        "cardNo": "OS01/R01-076OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-076OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_076sp.png",
+        "cardNo": "OS01/R01-076SP",
+        "rarity": "SP",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-076SP&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-077",
+    "baseNo": "OS01/R01-077",
+    "name": "ワタシだけ。 天音",
+    "kana": "ワタシダケ。 アマネ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】 記憶 ［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「嫌いだけど好き」があり、他のあなたの〈同OS〉のキャラがいて、あなたの思い出が3枚以上なら、コストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に3ダメージを与える。』『相手に4ダメージを与える。』",
+    "flavor": "人生勝ち組♪妹ガチャ大成功！おめでとーございまーす！",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_077.png",
+        "cardNo": "OS01/R01-077",
+        "rarity": "RR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-077&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_077ofr.png",
+        "cardNo": "OS01/R01-077OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-077OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_077ssp.png",
+        "cardNo": "OS01/R01-077SSP",
+        "rarity": "SSP",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-077SSP&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-078",
+    "baseNo": "OS01/R01-078",
+    "name": "きっと大丈夫 莉音",
+    "kana": "キットダイジョウブ リオ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】［手札のCXを1枚控え室に置く］ あなたのCXがトリガーした時、コストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "よろしくお願いしますね、先輩♪",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_078.png",
+        "cardNo": "OS01/R01-078",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-078&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_078ofr.png",
+        "cardNo": "OS01/R01-078OFR",
+        "rarity": "OFR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-078OFR&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_078sp.png",
+        "cardNo": "OS01/R01-078SP",
+        "rarity": "SP",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-078SP&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-079",
+    "baseNo": "OS01/R01-079",
+    "name": "背徳的な状況 天音",
+    "kana": "ハイトクテキナジョウキョウ アマネ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【自】［(1) あなたの山札の上から1枚をクロックにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。\n【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。",
+    "flavor": "じゃあ、いただきます……ん、ろ",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_079.png",
+        "cardNo": "OS01/R01-079",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-079&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_079s.png",
+        "cardNo": "OS01/R01-079S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-079S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-080",
+    "baseNo": "OS01/R01-080",
+    "name": "wish 風実花",
+    "kana": "wish フミカ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "先生"
+    ],
+    "text": "【自】［手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。\n【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
+    "flavor": "相談くらいには乗るよ？教師だし。幼馴染だし",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_080.png",
+        "cardNo": "OS01/R01-080",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-080&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_080s.png",
+        "cardNo": "OS01/R01-080S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-080S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-081",
+    "baseNo": "OS01/R01-081",
+    "name": "大胆な姿 莉音",
+    "kana": "ダイタンナスガタ リオ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのパワーを＋1500。\n【自】 このカードかこのカードのバトル相手が【リバース】した時、そのターン中、そのキャラは『【自】 アンコール』を使えない。",
+    "flavor": "先輩の意地悪……",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_081.png",
+        "cardNo": "OS01/R01-081",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-081&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_081s.png",
+        "cardNo": "OS01/R01-081S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-081S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-082",
+    "baseNo": "OS01/R01-082",
+    "name": "前世返り 天音",
+    "kana": "ゼンセガエリ アマネ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』\n【自】 このカードがアタックした時、CX置場にCXがあるなら、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストックにしてよい。』",
+    "flavor": "ワタシと、ヴィズが同調したのって……え？え゛っ！？まさか、そこっ！？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_082.png",
+        "cardNo": "OS01/R01-082",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-082&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_082s.png",
+        "cardNo": "OS01/R01-082S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-082S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-083",
+    "baseNo": "OS01/R01-083",
+    "name": "夏の風物詩 来海",
+    "kana": "ナツノフウブツシ クルミ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 11500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "ギャル"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－3。このカードの正面のキャラはサイドアタックできない。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、相手に1ダメージを与える。\n【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+    "flavor": "そっちの味、確認させて",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_083.png",
+        "cardNo": "OS01/R01-083",
+        "rarity": "R",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-083&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_083s.png",
+        "cardNo": "OS01/R01-083S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-083S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-084",
+    "baseNo": "OS01/R01-084",
+    "name": "チョコに込めた愛情 天音",
+    "kana": "チョコニコメタアイジョウ アマネ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【自】［手札の《妹》のキャラを1枚控え室に置き、このカードを思い出にする］ このカードが【リバース】した時、他のあなたの《妹》のキャラがいて、あなたの思い出が2枚以下なら、コストを払ってよい。そうしたら、あなたは自分の控え室の《妹》のキャラを1枚選び、手札に戻す。",
+    "flavor": "お兄が言ったんじゃん！お兄の隣がワタシの居場所だって！",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_084.png",
+        "cardNo": "OS01/R01-084",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-084&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_084s.png",
+        "cardNo": "OS01/R01-084S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-084S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p16.png",
+        "cardNo": "OS01/R01-P16",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P16&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p16s.png",
+        "cardNo": "OS01/R01-P16S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P16S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-085",
+    "baseNo": "OS01/R01-085",
+    "name": "月見酒に酔いしれて 風実花",
+    "kana": "ツキミサケニヨイシレテ フミカ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "先生"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋500。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "なんだか、すっごくドキドキしちゃうね……あはは",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_085.png",
+        "cardNo": "OS01/R01-085",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-085&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_085s.png",
+        "cardNo": "OS01/R01-085S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-085S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p24ex.png",
+        "cardNo": "OS01/R01-P24EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P24EX&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t14.png",
+        "cardNo": "OS01/R01-T14",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T14&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-086",
+    "baseNo": "OS01/R01-086",
+    "name": "気の置けない仲 チカ＆カエデ",
+    "kana": "キノオケナイナカ チカ＆カエデ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "ギャル"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。\n【自】［このカードを控え室に置く］ 他のあなたのカード名に「来海」を含むキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、コストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+    "flavor": "カエデ「よっすよっす」チカ「よっすー」",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_086.png",
+        "cardNo": "OS01/R01-086",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-086&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_086s.png",
+        "cardNo": "OS01/R01-086S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-086S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-087",
+    "baseNo": "OS01/R01-087",
+    "name": "熱に浮かされて 莉音",
+    "kana": "ネツニウカサレテ リオ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "-",
+    "flavor": "",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_087.png",
+        "cardNo": "OS01/R01-087",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-087&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_087s.png",
+        "cardNo": "OS01/R01-087S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-087S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-088",
+    "baseNo": "OS01/R01-088",
+    "name": "お兄の頼み 天音",
+    "kana": "オニイノタノミ アマネ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "優しく撫でろって言っただけで、止めろとは言ってないでしょ",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_088.png",
+        "cardNo": "OS01/R01-088",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-088&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_088s.png",
+        "cardNo": "OS01/R01-088S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-088S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t15.png",
+        "cardNo": "OS01/R01-T15",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T15&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-089",
+    "baseNo": "OS01/R01-089",
+    "name": "沈めていた気持ち 天音",
+    "kana": "シズメテイタキモチ アマネ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【自】［(1)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の「前世返り 天音」を1枚選び、思い出にする。\n【自】 記憶 ［このカードを【レスト】する］ あなたのアタックフェイズの始めに、あなたのCX置場にCXがあり、前列にこのカードがいるなら、コストを払ってよい。そうしたら、あなたは自分の思い出置場の「前世返り 天音」を1枚とこのカードを選び、入れ替え、アンコールステップの始めに、それらのキャラを入れ替える。",
+    "flavor": "本当にわかってない。ばーかばーか、お兄のばーか",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_089.png",
+        "cardNo": "OS01/R01-089",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-089&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_089s.png",
+        "cardNo": "OS01/R01-089S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-089S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-090",
+    "baseNo": "OS01/R01-090",
+    "name": "夏夜に咲く華 来海",
+    "kana": "ナツヨニサクハナ クルミ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "ギャル"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－1。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「楽しい一日」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
+    "flavor": "うーし、行こ行こー",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_090.png",
+        "cardNo": "OS01/R01-090",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-090&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_090s.png",
+        "cardNo": "OS01/R01-090S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-090S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-091",
+    "baseNo": "OS01/R01-091",
+    "name": "前世返り 来海",
+    "kana": "ゼンセガエリ クルミ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "ギャル"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－1。\n【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの〈同OS〉のキャラの枚数×500に等しい。",
+    "flavor": "て、てれぱ、しー……？アタシが使ってたってこと？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_091.png",
+        "cardNo": "OS01/R01-091",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-091&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_091s.png",
+        "cardNo": "OS01/R01-091S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-091S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t17.png",
+        "cardNo": "OS01/R01-T17",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T17&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-092",
+    "baseNo": "OS01/R01-092",
+    "name": "好きになるためのデート 来海",
+    "kana": "スキニナルタメノデート クルミ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "ギャル"
+    ],
+    "text": "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋8500し、このカードは次の2つの能力を得る。『【永】 舞台のこのカードのレベルを－2。』『【自】 このカードがアタックした時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋3000。』\n【自】 このカードが手札から登場した時、あなたは自分の控え室の「前世返り 来海」を1枚選び、表向きでこのカードのマーカーにしてよい。",
+    "flavor": "もしかしたら、前世の記憶の影響かもしれないじゃん？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_092.png",
+        "cardNo": "OS01/R01-092",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-092&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_092s.png",
+        "cardNo": "OS01/R01-092S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-092S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p32s.png",
+        "cardNo": "OS01/R01-P32S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P32S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-093",
+    "baseNo": "OS01/R01-093",
+    "name": "アレキサンド店員 ひよ里",
+    "kana": "アレキサンドテンイン ヒヨリ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "ウェイトレス"
+    ],
+    "text": "【永】 あなたのクロック置場に「熱に浮かされて 莉音」があるなら、あなたの手札のこのカードのレベルを－1。\n【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋1000。\n【起】［手札の「熱に浮かされて 莉音」を1枚控え室に置き、このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロックにする。",
+    "flavor": "いらっしゃいませ、アレキサンドへようこそ",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_093.png",
+        "cardNo": "OS01/R01-093",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-093&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_093s.png",
+        "cardNo": "OS01/R01-093S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-093S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-094",
+    "baseNo": "OS01/R01-094",
+    "name": "告白のやり直し 風実花",
+    "kana": "コクハクノヤリナオシ フミカ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "先生"
+    ],
+    "text": "【永】 記憶 あなたの思い出置場の異なるカード名のカードが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の〈同OS〉のキャラを1枚控え室に置く］』を得る。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "好き……私も、好き……君が好き",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_094.png",
+        "cardNo": "OS01/R01-094",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-094&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_094s.png",
+        "cardNo": "OS01/R01-094S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-094S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-095",
+    "baseNo": "OS01/R01-095",
+    "name": "ウェイトレスのお仕事 莉音",
+    "kana": "ウェイトレスノオシゴト リオ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 2,
+    "power": 7000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【永】 他のあなたの後列の〈同OS〉のキャラ1枚につき、このカードのパワーを＋1500。\n【自】［他のあなたの舞台の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、他のあなたの〈同OS〉のキャラが4枚以上なら、コストを払ってよい。そうしたら、あなたは自分の山札の上から2枚までを、ストックにする。",
+    "flavor": "今日は何を飲まれますか？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_095.png",
+        "cardNo": "OS01/R01-095",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-095&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_095s.png",
+        "cardNo": "OS01/R01-095S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-095S&expansion=R01"
+      }
+    ],
+    "expansions": [
+      "R01"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-096",
+    "baseNo": "OS01/R01-096",
+    "name": "純真無垢 莉音",
+    "kana": "ジュンシンムク リオ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】［他のあなたの舞台の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストックにする。\n【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのCX置場に「重なったふたりの運命」があるなら、コストを払ってよい。そうしたら、相手に2ダメージを与える。",
+    "flavor": "お夕飯、もう少しでできますから、ちょっとだけ待ってください",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_096.png",
+        "cardNo": "OS01/R01-096",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-096&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_096s.png",
+        "cardNo": "OS01/R01-096S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-096S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t18.png",
+        "cardNo": "OS01/R01-T18",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T18&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-097",
+    "baseNo": "OS01/R01-097",
+    "name": "コミュ力おばけ",
+    "kana": "コミュリョクオバケ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "EV",
+    "color": "blue",
+    "level": 1,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "このカードは、あなたの〈同OS〉のキャラがいないなら、手札からプレイできない。あなたは自分の山札のCXを1枚までサーチし手札に加える。\nこのカードを思い出にする。",
+    "flavor": "来海「面白いゲームをやりたいのもホントだけど、天音ちゃんと一緒に遊びたいんだもん」",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_097.png",
+        "cardNo": "OS01/R01-097",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-097&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_097s.png",
+        "cardNo": "OS01/R01-097S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-097S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t19.png",
+        "cardNo": "OS01/R01-T19",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T19&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-098",
+    "baseNo": "OS01/R01-098",
+    "name": "嫌いだけど好き",
+    "kana": "キライダケドスキ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "これって、そんなにおかしいの？ワタシの気持ち、間違ってるの？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_098.png",
+        "cardNo": "OS01/R01-098",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-098&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_098s.png",
+        "cardNo": "OS01/R01-098S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-098S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p11.png",
+        "cardNo": "OS01/R01-P11",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P11&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p11s.png",
+        "cardNo": "OS01/R01-P11S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P11S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-099",
+    "baseNo": "OS01/R01-099",
+    "name": "楽しい一日",
+    "kana": "タノシイイチニチ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "来海「まだあるよー、ヴェガちゃんがんばってー」",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_099.png",
+        "cardNo": "OS01/R01-099",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-099&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_099s.png",
+        "cardNo": "OS01/R01-099S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-099S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p12.png",
+        "cardNo": "OS01/R01-P12",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P12&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p12s.png",
+        "cardNo": "OS01/R01-P12S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P12S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-100",
+    "baseNo": "OS01/R01-100",
+    "name": "重なったふたりの運命",
+    "kana": "カサナッタフタリノウンメイ",
+    "product": "ブースターパック ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "一同「ご結婚、おめでとうございますっ！」",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_100.png",
+        "cardNo": "OS01/R01-100",
+        "rarity": "C",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-100&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_100s.png",
+        "cardNo": "OS01/R01-100S",
+        "rarity": "SR",
+        "expansion": "R01",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-100S&expansion=R01"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p13.png",
+        "cardNo": "OS01/R01-P13",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P13&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p13s.png",
+        "cardNo": "OS01/R01-P13S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P13S&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t20.png",
+        "cardNo": "OS01/R01-T20",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T20&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01",
+      "PR",
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "ブースターパック ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-P01",
+    "baseNo": "OS01/R01-P01",
+    "name": "新年を迎えて",
+    "kana": "シンネンヲムカエテ",
+    "product": "PRカード",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "EV",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+    "flavor": "",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p01.png",
+        "cardNo": "OS01/R01-P01",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P01&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-P14",
+    "baseNo": "OS01/R01-P14",
+    "name": "KISSしたい好き 七海",
+    "kana": "KISSシタイスキ ナナミ",
+    "product": "PRカード",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【自】 記憶 このカードがアタックした時、あなたの思い出置場にカードがあるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの〈同OS〉のキャラの枚数×500に等しい。",
+    "flavor": "ねぇ、お兄ちゃん。わたしの、好きな相手……気になる？",
+    "releaseDate": "2025-05-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p14.png",
+        "cardNo": "OS01/R01-P14",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P14&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p14s.png",
+        "cardNo": "OS01/R01-P14S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P14S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-P15",
+    "baseNo": "OS01/R01-P15",
+    "name": "新たな被害者 来海",
+    "kana": "アラタナヒガイシャ クルミ",
+    "product": "PRカード",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "ギャル"
+    ],
+    "text": "【自】［手札のCXを1枚控え室に置き、他のあなたの舞台のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "なんでそんな普通に受け入れられてるの？",
+    "releaseDate": "2025-05-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p15.png",
+        "cardNo": "OS01/R01-P15",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P15&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p15s.png",
+        "cardNo": "OS01/R01-P15S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P15S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-P17",
+    "baseNo": "OS01/R01-P17",
+    "name": "猫の気持ち あやせ",
+    "kana": "ネコノキモチ アヤセ",
+    "product": "PRカード",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "嘘"
+    ],
+    "text": "【自】 あなたのCXフェイズの始めに、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、次の行動を行う。『あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加え、自分の手札を1枚選び、控え室に置く。』",
+    "flavor": "ほ、ほらっ、そんなボーっと見てないで、可愛がって。私を猫だと思って可愛がって",
+    "releaseDate": "2025-05-04",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p17.png",
+        "cardNo": "OS01/R01-P17",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P17&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-P18",
+    "baseNo": "OS01/R01-P18",
+    "name": "尽くす女 美羽",
+    "kana": "ツクスオンナ ミウ",
+    "product": "PRカード",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋1500。\n【起】［手札の「大人のいい女 美羽」を1枚控え室に置く］ あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "とにかく、どっちの方が似合うか、ちゃんと見て確認して頂戴",
+    "releaseDate": "2025-06-28",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p18.png",
+        "cardNo": "OS01/R01-P18",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P18&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p18s.png",
+        "cardNo": "OS01/R01-P18S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P18S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-P19",
+    "baseNo": "OS01/R01-P19",
+    "name": "一緒にチェック 梓",
+    "kana": "イッショニチェック アズサ",
+    "product": "PRカード",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "銃"
+    ],
+    "text": "【自】［手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。\n【自】［(1)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "にゃあああああーーっ！　もう始まってるーー！！",
+    "releaseDate": "2025-06-28",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p19.png",
+        "cardNo": "OS01/R01-P19",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P19&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p19s.png",
+        "cardNo": "OS01/R01-P19S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P19S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-P21",
+    "baseNo": "OS01/R01-P21",
+    "name": "ちび天音",
+    "kana": "チビアマネ",
+    "product": "PRカード",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋2000。\n【起】［このカードを思い出にする］ あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2025-09-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p21.png",
+        "cardNo": "OS01/R01-P21",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P21&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p21s.png",
+        "cardNo": "OS01/R01-P21S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P21S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-P23",
+    "baseNo": "OS01/R01-P23",
+    "name": "年上でも恋がしたい 茉優",
+    "kana": "トシウエデモコイガシタイ マユ",
+    "product": "PRカード",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "科学"
+    ],
+    "text": "【自】［(1)］ このカードが【リバース】した時、コストを払ってよい。そうしたら、このカードを思い出にする。\n【自】［(1) 手札を1枚控え室に置く］ このカードのアタックの終わりに、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "",
+    "releaseDate": "2025-11-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p23.png",
+        "cardNo": "OS01/R01-P23",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P23&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p23s.png",
+        "cardNo": "OS01/R01-P23S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P23S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-P25",
+    "baseNo": "OS01/R01-P25",
+    "name": "破廉恥な天使 乃愛",
+    "kana": "ハレンチナテンシ ノア",
+    "product": "PRカード",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "天使"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\n【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2025-08-31",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p25.png",
+        "cardNo": "OS01/R01-P25",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P25&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p25s.png",
+        "cardNo": "OS01/R01-P25S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P25S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-P26",
+    "baseNo": "OS01/R01-P26",
+    "name": "キラめく日常 レモネードファクトリー",
+    "kana": "キラメクニチジョウ レモネードファクトリー",
+    "product": "PRカード",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "音楽"
+    ],
+    "text": "【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2025-09-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p26.png",
+        "cardNo": "OS01/R01-P26",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P26&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-P28S",
+    "baseNo": "OS01/R01-P28",
+    "name": "ブラコンの妹 七海",
+    "kana": "ブラコンノイモウト ナナミ",
+    "product": "PRカード",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-10-30",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p28s.png",
+        "cardNo": "OS01/R01-P28S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P28S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-P30S",
+    "baseNo": "OS01/R01-P30",
+    "name": "異世界のお姫様 かぐ耶",
+    "kana": "イセカイノオヒメサマ カグヤ",
+    "product": "PRカード",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "魔法"
+    ],
+    "text": "【自】 あなたのCXフェイズの始めに、相手は自分のストックの上から2枚を、控え室に置いてよい。そうしたら、そのターン中、このカードはフロントアタックできない。",
+    "flavor": "",
+    "releaseDate": "2026-10-30",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_p30s.png",
+        "cardNo": "OS01/R01-P30S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-P30S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-T01",
+    "baseNo": "OS01/R01-T01",
+    "name": "内緒のキモチ 七海",
+    "kana": "ナイショノキモチ ナナミ",
+    "product": "トライアルデッキ ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（CXのレベルは0として扱う。公開したカードは元に戻す）",
+    "flavor": "妹のお願いを聞いてくれたお兄ちゃんにも、お礼が必要だと……思わない？",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t01.png",
+        "cardNo": "OS01/R01-T01",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T01&expansion=R01-T"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t01s.png",
+        "cardNo": "OS01/R01-T01S",
+        "rarity": "SR",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T01S&expansion=R01-T"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t01sp.png",
+        "cardNo": "OS01/R01-T01SP",
+        "rarity": "SP",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T01SP&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "トライアルデッキ ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-T08",
+    "baseNo": "OS01/R01-T08",
+    "name": "カジノのお仕事 エリナ",
+    "kana": "カジノノオシゴト エリナ",
+    "product": "トライアルデッキ ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「帰ってきた居場所」があり、他のあなたの〈同OS〉のキャラがいるなら、あなたは自分の山札の〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分のキャラを1枚選び、そのターン中、パワーを＋1000し、《エッチな話題》を与える。",
+    "flavor": "折角来たんだから遊ぼうよ",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t08.png",
+        "cardNo": "OS01/R01-T08",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T08&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "トライアルデッキ ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-T12",
+    "baseNo": "OS01/R01-T12",
+    "name": "魅惑の姿 美羽",
+    "kana": "ミワクノスガタ ミウ",
+    "product": "トライアルデッキ ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ゆずソフト",
+      "吸血鬼"
+    ],
+    "text": "【自】 このカードが手札から登場した時、他のあなたの〈同OS〉のキャラが2枚以上なら、あなたは自分のクロック置場のキャラを1枚選び、思い出にしてよい。\n【自】 記憶 ［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたの思い出が3枚以上なら、コストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）",
+    "flavor": "ほら、見るだけならもっと見ていいわよ。お触りは厳禁だけど",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t12.png",
+        "cardNo": "OS01/R01-T12",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T12&expansion=R01-T"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t12s.png",
+        "cardNo": "OS01/R01-T12S",
+        "rarity": "SR",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T12S&expansion=R01-T"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t12sp.png",
+        "cardNo": "OS01/R01-T12SP",
+        "rarity": "SP",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T12SP&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "トライアルデッキ ゆずソフト"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS01/R01-T16",
+    "baseNo": "OS01/R01-T16",
+    "name": "寂しいアピール 天音",
+    "kana": "サビシイアピール アマネ",
+    "product": "トライアルデッキ ゆずソフト",
+    "neoStandard": "ゆずソフト",
+    "workNo": "OS01",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ゆずソフト",
+      "妹"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2000。\n【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から3枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "目がぎらついてるよ？めっちゃ食いついてる",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t16.png",
+        "cardNo": "OS01/R01-T16",
+        "rarity": "TD",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T16&expansion=R01-T"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t16s.png",
+        "cardNo": "OS01/R01-T16S",
+        "rarity": "SR",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T16S&expansion=R01-T"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os01/r01/os01_r01_t16sp.png",
+        "cardNo": "OS01/R01-T16SP",
+        "rarity": "SP",
+        "expansion": "R01-T",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS01%2FR01-T16SP&expansion=R01-T"
+      }
+    ],
+    "expansions": [
+      "R01-T"
+    ],
+    "products": [
+      {
+        "date": "2025-04-25",
+        "title": "トライアルデッキ ゆずソフト"
+      }
+    ]
+  }
+]

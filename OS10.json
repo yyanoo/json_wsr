@@ -1,0 +1,4681 @@
+[
+  {
+    "cardNo": "OS10/R10-001",
+    "baseNo": "OS10/R10-001",
+    "name": "お嬢様の品格 ユルシュール",
+    "kana": "オジョウサマノヒンカク ユルシュール",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "お嬢様"
+    ],
+    "text": "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\n【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_001.png",
+        "cardNo": "OS10/R10-001",
+        "rarity": "RR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-001&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_001s.png",
+        "cardNo": "OS10/R10-001S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-001S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-002",
+    "baseNo": "OS10/R10-002",
+    "name": "人間界のプリンセス 芙蓉楓",
+    "kana": "ニンゲンカイノプリンセス フヨウカエデ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "幼馴染"
+    ],
+    "text": "【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【自】【CXコンボ】［(1)］ このカードがアタックした時、CX置場に「夏の夜の約束」があるなら、コストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックを2枚まで選び、控え室に置く。』『相手に3ダメージを与える。』",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_002.png",
+        "cardNo": "OS10/R10-002",
+        "rarity": "RR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-002&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_002ex.png",
+        "cardNo": "OS10/R10-002EX",
+        "rarity": "SEC",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-002EX&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_002ofr.png",
+        "cardNo": "OS10/R10-002OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-002OFR&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-003",
+    "baseNo": "OS10/R10-003",
+    "name": "あなたのために裸エプロンを 玉泉日和子",
+    "kana": "アナタノタメニハダカエプロンヲ タマイズミヒヨコ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "真面目"
+    ],
+    "text": "【自】［他のあなたの舞台のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を見てCXを1枚まで選んで公開し、自分の手札のCXを1枚まで選んで公開し、それらのCXを入れ替え、その山札をシャッフルする。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_003.png",
+        "cardNo": "OS10/R10-003",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-003&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_003s.png",
+        "cardNo": "OS10/R10-003S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-003S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-004",
+    "baseNo": "OS10/R10-004",
+    "name": "土見稟",
+    "kana": "ツチミリン",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel"
+    ],
+    "text": "【自】 相手のレベルが4になった時、そのターン中、このカードは次の3つの特徴のうちあなたが選んだ1つを得る。《神》《悪魔》《凡人》\n【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_004.png",
+        "cardNo": "OS10/R10-004",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-004&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_004s.png",
+        "cardNo": "OS10/R10-004S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-004S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-005",
+    "baseNo": "OS10/R10-005",
+    "name": "家族で恋人でお隣さん メリル",
+    "kana": "カゾクデコイビトデオトナリサン メリル",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "天才"
+    ],
+    "text": "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。\n【自】 このカードがアタックした時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "flavor": "朝日さ……あ、今日はユーセーさん",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_005.png",
+        "cardNo": "OS10/R10-005",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-005&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_005s.png",
+        "cardNo": "OS10/R10-005S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-005S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-006",
+    "baseNo": "OS10/R10-006",
+    "name": "上は８８センチ、下はベージュ 玉泉日和子",
+    "kana": "ウエハ８８センチ、シタハベージュ タマイズミヒヨコ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "ベージュ"
+    ],
+    "text": "【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】【CXコンボ】 あなたのCX置場に「これが私のタマイズム」が置かれた時、あなたの手札が6枚以下で、あなたの、前列と後列に「上は８８センチ、下はベージュ 玉泉日和子」がいるなら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』",
+    "flavor": "……え？",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_006.png",
+        "cardNo": "OS10/R10-006",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-006&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_006ofr.png",
+        "cardNo": "OS10/R10-006OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-006OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_006sp.png",
+        "cardNo": "OS10/R10-006SP",
+        "rarity": "SP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-006SP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-007",
+    "baseNo": "OS10/R10-007",
+    "name": "蛍舞う夏の夜に 芙蓉楓",
+    "kana": "ホタルマウナツノヨルニ フヨウカエデ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "幼馴染"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_007.png",
+        "cardNo": "OS10/R10-007",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-007&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_007ofr.png",
+        "cardNo": "OS10/R10-007OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-007OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_007sp.png",
+        "cardNo": "OS10/R10-007SP",
+        "rarity": "SP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-007SP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-008",
+    "baseNo": "OS10/R10-008",
+    "name": "貴族の気品と誇り ユルシュール",
+    "kana": "キゾクノキヒントホコリ ユルシュール",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 8500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "お嬢様"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から登場した時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの〈同OS〉のキャラの枚数×500に等しい。\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストックにする。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_008.png",
+        "cardNo": "OS10/R10-008",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-008&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_008s.png",
+        "cardNo": "OS10/R10-008S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-008S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-009",
+    "baseNo": "OS10/R10-009",
+    "name": "輝く主演女優 ブリュエット",
+    "kana": "カガヤクヒロイン ブリュエット",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "お嬢様"
+    ],
+    "text": "【自】［(1)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。\n【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、相手は自分の控え室のCXを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_009.png",
+        "cardNo": "OS10/R10-009",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-009&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_009ofr.png",
+        "cardNo": "OS10/R10-009OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-009OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_009sp.png",
+        "cardNo": "OS10/R10-009SP",
+        "rarity": "SP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-009SP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-010",
+    "baseNo": "OS10/R10-010",
+    "name": "秋風が吹く季節 玉泉日和子",
+    "kana": "アキカゼガフクキセツ タマイズミヒヨコ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "真面目"
+    ],
+    "text": "【永】 他のあなたの「イーグル・イエローグリーン 千歳鷲介」すべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードのパワーを＋1000。』\n【自】 絆／「イーグル・イエローグリーン 千歳鷲介」 ［(1)］",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_010.png",
+        "cardNo": "OS10/R10-010",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-010&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_010s.png",
+        "cardNo": "OS10/R10-010S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-010S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-011",
+    "baseNo": "OS10/R10-011",
+    "name": "世話焼きなドジっ娘 芙蓉楓",
+    "kana": "セワヤキナドジッコ フヨウカエデ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "幼馴染"
+    ],
+    "text": "【永】 他のあなたの「土見稟」すべてに、パワーを＋3500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】 あなたのCXフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがCXなら、このカードを【レスト】する。\n【自】 絆／「土見稟」 ［手札を1枚控え室に置く］",
+    "flavor": "稟くん稟くん、もう朝ですよ",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_011.png",
+        "cardNo": "OS10/R10-011",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-011&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_011s.png",
+        "cardNo": "OS10/R10-011S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-011S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-012",
+    "baseNo": "OS10/R10-012",
+    "name": "七つの大罪全制覇 ブリュエット",
+    "kana": "ナナツノタイザイゼンセイハ ブリュエット",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "お嬢様"
+    ],
+    "text": "【永】 他のあなたの「エッテの付き人 メリル」すべてに、パワーを＋500し、次の5つの能力を与える。『【永】 このカードは相手の効果に選ばれない。』『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』『【永】 このカードのバトル中、相手はイベントを手札からプレイできない。』『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の「エッテの付き人 メリル」を1枚までサーチし手札に加える。",
+    "flavor": "ブリュエット「う、うへへ……私のメリルやあらかい」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_012.png",
+        "cardNo": "OS10/R10-012",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-012&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_012s.png",
+        "cardNo": "OS10/R10-012S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-012S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-013",
+    "baseNo": "OS10/R10-013",
+    "name": "サーシャ",
+    "kana": "サーシャ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "美"
+    ],
+    "text": "【永】 このカードは、あなたのカード名に「杉村北斗」を含むキャラがいるなら、手札からプレイできない。\n【永】 他のあなたの「感謝の心 ユルシュール」すべてに、ソウルを＋1。\n【永】 他のあなたの《女装》のキャラすべてに、次の能力を与える。『【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。』",
+    "flavor": "あら失礼。美リュームを絞ったつもりが、あまりの美声ゆえに図らずも場の円滑な進行を妨げてしまったようね。以後、気を付けるわ。美・サイレンス……",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_013.png",
+        "cardNo": "OS10/R10-013",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-013&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_013s.png",
+        "cardNo": "OS10/R10-013S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-013S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-014",
+    "baseNo": "OS10/R10-014",
+    "name": "融通の利かない鬼教官 玉泉日和子",
+    "kana": "ユウズウノキカナイオニキョウカン タマイズミヒヨコ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "真面目"
+    ],
+    "text": "【永】 あなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストックにしてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+    "flavor": "千歳鷲介「なんで日和子さんだけ制服が他の女子と違うんすか？」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_014.png",
+        "cardNo": "OS10/R10-014",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-014&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_014s.png",
+        "cardNo": "OS10/R10-014S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-014S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-015",
+    "baseNo": "OS10/R10-015",
+    "name": "エッテの付き人 メリル",
+    "kana": "エッテノツキビト メリル",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "天才"
+    ],
+    "text": "【永】 このカードは、あなたの「七つの大罪全制覇 ブリュエット」がいないなら、手札からプレイできない。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_015.png",
+        "cardNo": "OS10/R10-015",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-015&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_015s.png",
+        "cardNo": "OS10/R10-015S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-015S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-016",
+    "baseNo": "OS10/R10-016",
+    "name": "悔しい涙 ユルシュール",
+    "kana": "クヤシイナミダ ユルシュール",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "お嬢様"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋4000。\n【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
+    "flavor": "ううっ、うっく……くっ、ううっ……",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_016.png",
+        "cardNo": "OS10/R10-016",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-016&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_016s.png",
+        "cardNo": "OS10/R10-016S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-016S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-017",
+    "baseNo": "OS10/R10-017",
+    "name": "イーグル・イエローグリーン 千歳鷲介",
+    "kana": "イーグル・イエローグリーン チトセシュウスケ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "多重人格"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋3000。\n【自】 このカードがアタックした時、CX置場にCXがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストックにする。\n【自】［(2)］ このカードがフロントアタックされた時、コストを払ってよい。そうしたら、あなたはこのカードのマーカーの「ファルコン・マゼンダレッド 成田隼人」を1枚選び、このカードがいる枠に防御キャラとして置き、このカードのマーカーすべてとこのカードを、好きな順番で表向きでその「ファルコン・マゼンダレッド 成田隼人」のマーカーにする。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_017.png",
+        "cardNo": "OS10/R10-017",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-017&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_017s.png",
+        "cardNo": "OS10/R10-017S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-017S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-018",
+    "baseNo": "OS10/R10-018",
+    "name": "感謝の心 ユルシュール",
+    "kana": "カンシャノココロ ユルシュール",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "お嬢様"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「アルプスの少女ユーシェ」があるなら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "皆さんにっ……聞きたいことがありますどうか教えていただけませんっ……？",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_018.png",
+        "cardNo": "OS10/R10-018",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-018&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_018s.png",
+        "cardNo": "OS10/R10-018S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-018S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-019",
+    "baseNo": "OS10/R10-019",
+    "name": "幼い嘘と罪 芙蓉楓",
+    "kana": "オサナイウソトツミ フヨウカエデ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "幼馴染"
+    ],
+    "text": "【永】 他のあなたのカード名に「土見稟」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\n【永】 他のあなたの「土見稟」がいるなら、このカードのパワーを＋1500し、このカードは《嘘》と『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+    "flavor": "土見稟「……だから俺は、嘘をついたんです三人を俺が無理やり呼び寄せた。その途中で事故に遭った……って……俺が殺したようなものだって」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_019.png",
+        "cardNo": "OS10/R10-019",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-019&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_019s.png",
+        "cardNo": "OS10/R10-019S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-019S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-020",
+    "baseNo": "OS10/R10-020",
+    "name": "清く美しい心の持ち主 メリル",
+    "kana": "キヨクウツクシイココロノモチヌシ メリル",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "天才"
+    ],
+    "text": "【自】［(2) あなたの舞台の〈同OS〉のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを3枚までサーチし手札に加え、自分の手札を2枚選び、控え室に置く。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_020.png",
+        "cardNo": "OS10/R10-020",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-020&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_020ofr.png",
+        "cardNo": "OS10/R10-020OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-020OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_020sp.png",
+        "cardNo": "OS10/R10-020SP",
+        "rarity": "SP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-020SP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-021",
+    "baseNo": "OS10/R10-021",
+    "name": "メリルの庇護者 ブリュエット",
+    "kana": "メリルノパトロン ブリュエット",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "お嬢様"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の「服作りの天才 メリル」を1枚選び、舞台の好きな枠に置く。\n【自】【CXコンボ】［あなたのCX置場の「危険な関係」を1枚控え室に置く］ あなたのアンコールステップの始めに、前列にこのカードがいるなら、コストを払ってよい。そうしたら、相手に1ダメージを与える。",
+    "flavor": "この子、生地さえあれば自分で服を作っちゃうの。",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_021.png",
+        "cardNo": "OS10/R10-021",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-021&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_021s.png",
+        "cardNo": "OS10/R10-021S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-021S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-022",
+    "baseNo": "OS10/R10-022",
+    "name": "服作りの天才 メリル",
+    "kana": "フクヅクリノテンサイ メリル",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 8000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "天才"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「危険な関係」があるなら、あなたは自分の山札の上から1枚までを、ストックにし、自分の山札を上から2枚まで見て、〈同OS〉のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_022.png",
+        "cardNo": "OS10/R10-022",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-022&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_022s.png",
+        "cardNo": "OS10/R10-022S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-022S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-023",
+    "baseNo": "OS10/R10-023",
+    "name": "コレクション・ド・ラ・フィリア",
+    "kana": "コレクション・ド・ラ・フィリア",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "EV",
+    "color": "yellow",
+    "level": 2,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "集中 このカードは、あなたの〈同OS〉のキャラがいないなら、手札からプレイできない。\nあなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。\nすべてのプレイヤーは自分の山札の上から3枚をめくり、控え室に置く。あなたのこの効果で控え室に置かれたキャラのパワーの合計が、相手のこの効果で控え室に置かれたキャラのパワーの合計以上なら、あなたは自分の控え室の〈同OS〉のキャラを2枚まで選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_023.png",
+        "cardNo": "OS10/R10-023",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-023&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_023s.png",
+        "cardNo": "OS10/R10-023S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-023S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-024",
+    "baseNo": "OS10/R10-024",
+    "name": "夏の夜の約束",
+    "kana": "ナツノヨルノヤクソク",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "私にとって、あの約束は……最後の繋がり……でした……",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_024.png",
+        "cardNo": "OS10/R10-024",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-024&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_024s.png",
+        "cardNo": "OS10/R10-024S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-024S&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p03s.png",
+        "cardNo": "OS10/R10-P03S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P03S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R10",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-025",
+    "baseNo": "OS10/R10-025",
+    "name": "これが私のタマイズム",
+    "kana": "コレガワタシノタマイズム",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "bounce"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【リターン】：このカードがトリガーした時、相手のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "千歳鷲介「先生、今日のパンツの色は？」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_025.png",
+        "cardNo": "OS10/R10-025",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-025&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_025s.png",
+        "cardNo": "OS10/R10-025S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-025S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-026",
+    "baseNo": "OS10/R10-026",
+    "name": "アルプスの少女ユーシェ",
+    "kana": "アルプスノショウジョユーシェ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "ユルシュール「遊星さん、これが我が国の国花、紛うことなき本物のエーデルワイスです！」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_026.png",
+        "cardNo": "OS10/R10-026",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-026&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_026s.png",
+        "cardNo": "OS10/R10-026S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-026S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-027",
+    "baseNo": "OS10/R10-027",
+    "name": "危険な関係",
+    "kana": "キケンナカンケイ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "メリル「エ、エッテ！ドアっ、ドア開いてる！」ブリュエット「え？何事？なんで二人そこにいるの？」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_027.png",
+        "cardNo": "OS10/R10-027",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-027&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_027s.png",
+        "cardNo": "OS10/R10-027S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-027S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-028",
+    "baseNo": "OS10/R10-028",
+    "name": "無邪気な居候娘 プリムラ",
+    "kana": "ムジャキナイソウロウムスメ プリムラ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "人工生命体"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは1枚引く。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_028.png",
+        "cardNo": "OS10/R10-028",
+        "rarity": "RR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-028&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_028ofr.png",
+        "cardNo": "OS10/R10-028OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-028OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_028ssp.png",
+        "cardNo": "OS10/R10-028SSP",
+        "rarity": "SSP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-028SSP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-029",
+    "baseNo": "OS10/R10-029",
+    "name": "二人だけの秘密 時雨亜沙",
+    "kana": "フタリダケノヒミツ シグレアサ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "料理"
+    ],
+    "text": "【永】【CXコンボ】 あなたのCX置場に「朱色に染まる告白」があるなら、このカードは《魔法》を得る。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「朱色に染まる告白」があるなら、あなたは自分の山札の上から1枚までを、ストックにし、自分の控え室の「時雨亜麻」を1枚まで選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_029.png",
+        "cardNo": "OS10/R10-029",
+        "rarity": "RR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-029&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_029ofr.png",
+        "cardNo": "OS10/R10-029OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-029OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_029ssp.png",
+        "cardNo": "OS10/R10-029SSP",
+        "rarity": "SSP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-029SSP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-030",
+    "baseNo": "OS10/R10-030",
+    "name": "隠していた真実 時雨亜沙",
+    "kana": "カクシテイタシンジツ シグレアサ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "料理"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の「時雨亜麻」を1枚までサーチし手札に加える。\n【自】［このカードを手札に戻す］ あなたのアタックフェイズの始めに、他の《魔法》のキャラがいるなら、コストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "うん………………",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_030.png",
+        "cardNo": "OS10/R10-030",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-030&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_030s.png",
+        "cardNo": "OS10/R10-030S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-030S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-031",
+    "baseNo": "OS10/R10-031",
+    "name": "月下美人 ネリネ",
+    "kana": "ゲッカビジン ネリネ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "魔族"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_031.png",
+        "cardNo": "OS10/R10-031",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-031&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_031ofr.png",
+        "cardNo": "OS10/R10-031OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-031OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_031sp.png",
+        "cardNo": "OS10/R10-031SP",
+        "rarity": "SP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-031SP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-032",
+    "baseNo": "OS10/R10-032",
+    "name": "アイドルへの憧れ 花之宮瑞穂",
+    "kana": "アイドルヘノアコガレ ハナノミヤミズホ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "お嬢様"
+    ],
+    "text": "【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。\n【自】 このカードがアタックした時、あなたの手札が5枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_032.png",
+        "cardNo": "OS10/R10-032",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-032&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_032s.png",
+        "cardNo": "OS10/R10-032S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-032S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-033",
+    "baseNo": "OS10/R10-033",
+    "name": "実験体三号 プリムラ",
+    "kana": "ジッケンタイサンゴウ プリムラ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 3000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "人工生命体"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。\n【自】【CXコンボ】［手札の「ずーっと一緒に」を1枚控え室に置く］ あなたのアンコールステップの始めに、コストを払ってよい。そうしたら、相手に2ダメージを与える。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_033.png",
+        "cardNo": "OS10/R10-033",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-033&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_033s.png",
+        "cardNo": "OS10/R10-033S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-033S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-034",
+    "baseNo": "OS10/R10-034",
+    "name": "料理の師匠 時雨亜沙",
+    "kana": "リョウリノシショウ シグレアサ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "料理"
+    ],
+    "text": "【永】 他のあなたのカード名に「芙蓉楓」を含むキャラすべてに、《料理》を与える。\n【自】【CXコンボ】［手札の、「夏の夜の約束」か「朱色に染まる告白」を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の、「夏の夜の約束」か「朱色に染まる告白」を1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_034.png",
+        "cardNo": "OS10/R10-034",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-034&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_034s.png",
+        "cardNo": "OS10/R10-034S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-034S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-035",
+    "baseNo": "OS10/R10-035",
+    "name": "避難誘導 花之宮瑞穂",
+    "kana": "ヒナンユウドウ ハナノミヤミズホ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "お嬢様"
+    ],
+    "text": "【自】 このカードが手札から登場した時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』\n【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードのトリガーアイコンに【ソウル】があるなら、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
+    "flavor": "……私はここにいませんよ？",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_035.png",
+        "cardNo": "OS10/R10-035",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-035&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_035s.png",
+        "cardNo": "OS10/R10-035S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-035S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-036",
+    "baseNo": "OS10/R10-036",
+    "name": "杉村北斗",
+    "kana": "スギムラホクト",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "部族"
+    ],
+    "text": "【永】 このカードは、あなたのカード名に「サーシャ」を含むキャラがいるなら、手札からプレイできない。\n【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「温厚な箱入り娘 花之宮瑞穂」を1枚まで選び、このカードがいた枠に置く。』",
+    "flavor": "あなたに大地の神のご加護があらんことを。ポゥ！",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_036.png",
+        "cardNo": "OS10/R10-036",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-036&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_036s.png",
+        "cardNo": "OS10/R10-036S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-036S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-037",
+    "baseNo": "OS10/R10-037",
+    "name": "世界で一番優しい魔法 時雨亜沙",
+    "kana": "セカイデイチバンヤサシイマホウ シグレアサ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "料理"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの〈同OS〉のキャラの枚数×500に等しい。\n【自】［(1)］ 他のあなたの「土見稟」が舞台から控え室に置かれた時、コストを払ってよい。そうしたら、そのキャラを手札に戻し、そのターン中、このカードは《魔法》を得る。",
+    "flavor": "時雨亜沙「バカ……」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_037.png",
+        "cardNo": "OS10/R10-037",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-037&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_037s.png",
+        "cardNo": "OS10/R10-037S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-037S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-038",
+    "baseNo": "OS10/R10-038",
+    "name": "嘘の終わり 花之宮瑞穂",
+    "kana": "ウソノオワリ ハナノミヤミズホ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "お嬢様"
+    ],
+    "text": "【永】 他のあなたの「夢を追いかけて 小倉朝日」がいるなら、このカードのパワーを＋3000。\n【永】 他のあなたの「大蔵遊星」がいるなら、このカードのソウルを－1。",
+    "flavor": "……違うよね？そんなことないよね……だって、朝日は……",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_038.png",
+        "cardNo": "OS10/R10-038",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-038&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_038s.png",
+        "cardNo": "OS10/R10-038S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-038S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-039",
+    "baseNo": "OS10/R10-039",
+    "name": "『天使の鐘』 ネリネ",
+    "kana": "『テンシノカネ』 ネリネ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "魔族"
+    ],
+    "text": "【自】 このカードがアタックした時、他のあなたの〈同OS〉のキャラがいるなら、そのターン中、このカードのパワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の〈同OS〉のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
+    "flavor": "土見稟「ネリネはやりにくいか？」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_039.png",
+        "cardNo": "OS10/R10-039",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-039&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_039s.png",
+        "cardNo": "OS10/R10-039S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-039S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-040",
+    "baseNo": "OS10/R10-040",
+    "name": "激怒 ネリネ",
+    "kana": "ゲキド ネリネ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "魔族"
+    ],
+    "text": "【自】［(4) 手札を1枚控え室に置く］ このカードがアタックした時、コストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラすべてを、控え室に置く。",
+    "flavor": "今のお言葉は、明らかに稟さまに対する侮辱ですね",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_040.png",
+        "cardNo": "OS10/R10-040",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-040&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_040s.png",
+        "cardNo": "OS10/R10-040S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-040S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-041",
+    "baseNo": "OS10/R10-041",
+    "name": "愛おしい人の記憶 プリムラ",
+    "kana": "イトオシイヒトノキオク プリムラ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 1,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "人工生命体"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手の思い出置場の表向きのカードを1枚選び、裏向きにしてよい。そうしたら、あなたのターンの終わりに、そのカードを表向きにする。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロックにする。",
+    "flavor": "プリムラ「…………これで、おしまいだよね……うん……楽しい夢、だったよ……」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_041.png",
+        "cardNo": "OS10/R10-041",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-041&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_041s.png",
+        "cardNo": "OS10/R10-041S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-041S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-042",
+    "baseNo": "OS10/R10-042",
+    "name": "夕暮れ時 ネリネ",
+    "kana": "ユウグレドキ ネリネ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "魔族"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_042.png",
+        "cardNo": "OS10/R10-042",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-042&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_042s.png",
+        "cardNo": "OS10/R10-042S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-042S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-043",
+    "baseNo": "OS10/R10-043",
+    "name": "白玉と黒玉 プリムラ",
+    "kana": "シロタマトクロタマ プリムラ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "人工生命体"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラ1枚につき、このカードのパワーを＋1000。\n【自】 他のあなたの〈同OS〉のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。\n【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストックにしてよい。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_043.png",
+        "cardNo": "OS10/R10-043",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-043&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_043s.png",
+        "cardNo": "OS10/R10-043S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-043S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-044",
+    "baseNo": "OS10/R10-044",
+    "name": "ガルーダ・ダークブラック 伊丹伽楼羅",
+    "kana": "ガルーダ・ダークブラック イタミカルラ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "多重人格"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札かマーカー置場から登場した時、コストを払ってよい。そうしたら、あなたは他の自分のカード名に「羽田小鳩」を含まない〈同OS〉のキャラを4枚まで選び、控え室に置き、相手は自分のキャラをＸ枚選び、控え室に置く。Ｘはこの効果で控え室に置かれたキャラの枚数に等しい。\n【自】［(1) 手札を1枚控え室に置く］ このカードがダイレクトアタックした時、コストを払ってよい。そうしたら、相手に1ダメージを与える。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_044.png",
+        "cardNo": "OS10/R10-044",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-044&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_044s.png",
+        "cardNo": "OS10/R10-044S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-044S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-045",
+    "baseNo": "OS10/R10-045",
+    "name": "温厚な箱入り娘 花之宮瑞穂",
+    "kana": "オンコウナハコイリムスメ ハナノミヤミズホ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 10500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "お嬢様"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から2枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのトリガーアイコンの【ソウル】の合計に等しい。\n【自】【CXコンボ】 このカードがアタックした時、CX置場に「花爛漫」があるなら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_045.png",
+        "cardNo": "OS10/R10-045",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-045&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_045s.png",
+        "cardNo": "OS10/R10-045S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-045S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-046",
+    "baseNo": "OS10/R10-046",
+    "name": "時雨亜麻",
+    "kana": "シグレアマ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "EV",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "次の2つの効果のうちあなたが選んだ1つを行う。\n『あなたは自分の山札の上から1枚を、ストックにする。』\n『あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下の〈同OS〉のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。』",
+    "flavor": "皆さんも、ぜひ遊びに来てくださいね♪",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_046.png",
+        "cardNo": "OS10/R10-046",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-046&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_046s.png",
+        "cardNo": "OS10/R10-046S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-046S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-047",
+    "baseNo": "OS10/R10-047",
+    "name": "朱色に染まる告白",
+    "kana": "シュイロニソマルコクハク",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "理由……って言われちゃうと困っちゃうんだけど……仕方ないじゃない",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_047.png",
+        "cardNo": "OS10/R10-047",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-047&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_047s.png",
+        "cardNo": "OS10/R10-047S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-047S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-048",
+    "baseNo": "OS10/R10-048",
+    "name": "ずーっと一緒に",
+    "kana": "ズーットイッショニ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "私ね、今日、本当に楽しみにしてたんだから",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_048.png",
+        "cardNo": "OS10/R10-048",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-048&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_048s.png",
+        "cardNo": "OS10/R10-048S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-048S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-049",
+    "baseNo": "OS10/R10-049",
+    "name": "花爛漫",
+    "kana": "ハナランマン",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "flavor": "（遊星さんのことにおいては、私が一番だから……みんなには、負けてあげられない）",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_049.png",
+        "cardNo": "OS10/R10-049",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-049&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_049s.png",
+        "cardNo": "OS10/R10-049S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-049S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-050",
+    "baseNo": "OS10/R10-050",
+    "name": "秋風が吹く季節 鳳鳴",
+    "kana": "アキカゼガフクキセツ オオトリナル",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "マイペース"
+    ],
+    "text": "【自】【CXコンボ】［あなたのCX置場の「胸が高鳴るーっ！」を1枚控え室に置く］ あなたのアンコールステップの始めに、他のあなたの〈同OS〉のキャラがいるなら、コストを払ってよい。そうしたら、次の行動を2回行う。『あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラかイベントなら手札に加える。』\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードにトリガーアイコンが【カムバック】のCXがあるなら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_050.png",
+        "cardNo": "OS10/R10-050",
+        "rarity": "RR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-050&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_050ofr.png",
+        "cardNo": "OS10/R10-050OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-050OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_050sp.png",
+        "cardNo": "OS10/R10-050SP",
+        "rarity": "SP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-050SP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-051",
+    "baseNo": "OS10/R10-051",
+    "name": "秋風が吹く季節 渡来明日香",
+    "kana": "アキカゼガフクキセツ ワタライアスカ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "クラスメイト"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\n【自】【CXコンボ】 共鳴 ［(1) 手札を1枚控え室に置き、手札の「ホーク・シアンブルー 羽田鷹志」を1枚公開する］ このカードがアタックした時、CX置場に「私もやっぱり乙女なのだ」があるなら、コストを払ってよい。そうしたら、あなたは相手の山札を上から1枚見て、山札の上か下に置き、相手に2ダメージを与える。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_051.png",
+        "cardNo": "OS10/R10-051",
+        "rarity": "RR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-051&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_051ofr.png",
+        "cardNo": "OS10/R10-051OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-051OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_051ssp.png",
+        "cardNo": "OS10/R10-051SSP",
+        "rarity": "SSP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-051SSP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-052",
+    "baseNo": "OS10/R10-052",
+    "name": "彼氏の帰りを待ち望んで 渡来明日香",
+    "kana": "カレシノカエリヲマチノゾンデ ワタライアスカ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "クラスメイト"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "彼氏の夢を叶えてあげたいと思うのは、女の子なら誰でも同じなんじゃないかな",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_052.png",
+        "cardNo": "OS10/R10-052",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-052&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_052ex.png",
+        "cardNo": "OS10/R10-052EX",
+        "rarity": "SEC",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-052EX&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_052ofr.png",
+        "cardNo": "OS10/R10-052OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-052OFR&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-053",
+    "baseNo": "OS10/R10-053",
+    "name": "ベントゥー・フォー・ユー 渡来明日香",
+    "kana": "ベントゥー・フォー・ユー ワタライアスカ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "クラスメイト"
+    ],
+    "text": "【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、《お弁当》を与える。\n【自】 相手のアタックフェイズの始めに、あなたは自分のマーカーを持つキャラを1枚選び、そのターン中、次の能力を与える。『【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ アンコールステップの始めに、コストを払ってよい。そうしたら、このカードを【レスト】する。』",
+    "flavor": "彼氏におべんと作ってきた",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_053.png",
+        "cardNo": "OS10/R10-053",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-053&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_053s.png",
+        "cardNo": "OS10/R10-053S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-053S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-054",
+    "baseNo": "OS10/R10-054",
+    "name": "表の顔 リシアンサス",
+    "kana": "オモテノカオ リシアンサス",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "神族"
+    ],
+    "text": "【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの〈同OS〉のキャラの枚数×500に等しい。\n【自】 チェンジ あなたのCXフェイズの始めに、他のあなたの〈同OS〉のキャラがいるなら、あなたはこのカードのマーカーか自分の控え室の、「裏の顔 キキョウ」を1枚選び、このカードがいる枠に置いてよい。そうしたら、このカードを表向きでそのキャラのマーカーにする。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_054.png",
+        "cardNo": "OS10/R10-054",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-054&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_054ofr.png",
+        "cardNo": "OS10/R10-054OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-054OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_054sp.png",
+        "cardNo": "OS10/R10-054SP",
+        "rarity": "SP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-054SP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-055",
+    "baseNo": "OS10/R10-055",
+    "name": "パーティーの夜のその後は 鳳鳴",
+    "kana": "パーティーノヨルノソノアトハ オオトリナル",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 8000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "マイペース"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札のトリガーアイコンが【カムバック】のCXを1枚までサーチし手札に加える。",
+    "flavor": "はー、はー、はー……",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_055.png",
+        "cardNo": "OS10/R10-055",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-055&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_055s.png",
+        "cardNo": "OS10/R10-055S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-055S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-056",
+    "baseNo": "OS10/R10-056",
+    "name": "一途な小娘ギャル 香田亜衣",
+    "kana": "イチズナコムスメギャル コウダアイ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "ギャル"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1500。\n【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、他のあなたの〈同OS〉のキャラがいるなら、コストを払ってよい。そうしたら、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。",
+    "flavor": "やぁ〜ん、私たち気が合う〜、隼人きゅ〜ん",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_056.png",
+        "cardNo": "OS10/R10-056",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-056&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_056s.png",
+        "cardNo": "OS10/R10-056S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-056S&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p11ex.png",
+        "cardNo": "OS10/R10-P11EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P11EX&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R10",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-057",
+    "baseNo": "OS10/R10-057",
+    "name": "ドラキュラに効くチョコを 鳳鳴",
+    "kana": "ドラキュラニキクチョコヲ オオトリナル",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "マイペース"
+    ],
+    "text": "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_057.png",
+        "cardNo": "OS10/R10-057",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-057&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_057s.png",
+        "cardNo": "OS10/R10-057S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-057S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-058",
+    "baseNo": "OS10/R10-058",
+    "name": "鳳翔",
+    "kana": "オオトリカケル",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel"
+    ],
+    "text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［手札のCXを1枚控え室に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の山札の《多重人格》のキャラを1枚までサーチし手札に加える。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_058.png",
+        "cardNo": "OS10/R10-058",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-058&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_058s.png",
+        "cardNo": "OS10/R10-058S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-058S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-059",
+    "baseNo": "OS10/R10-059",
+    "name": "夏の太陽に照らされて リシアンサス",
+    "kana": "ナツノタイヨウニテラサレテ リシアンサス",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "神族"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_059.png",
+        "cardNo": "OS10/R10-059",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-059&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_059s.png",
+        "cardNo": "OS10/R10-059S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-059S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-060",
+    "baseNo": "OS10/R10-060",
+    "name": "コーダイン 香田亜衣",
+    "kana": "コーダイン コウダアイ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "ギャル"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻し、他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】 このカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。",
+    "flavor": "まーま、いいじゃんねー。隼人君オレ様キャラだし、愛想笑いとか似合わないもんねー",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_060.png",
+        "cardNo": "OS10/R10-060",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-060&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_060s.png",
+        "cardNo": "OS10/R10-060S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-060S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-061",
+    "baseNo": "OS10/R10-061",
+    "name": "効果的な諌め方 リシアンサス",
+    "kana": "コウカテキナイサメカタ リシアンサス",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "神族"
+    ],
+    "text": "【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500し、このカードは《椅子》を得る。\n【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、コストを払ってよい。そうしたら、このカードを【レスト】する。",
+    "flavor": "神王「いやな。だから椅子はやめねえか？」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_061.png",
+        "cardNo": "OS10/R10-061",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-061&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_061s.png",
+        "cardNo": "OS10/R10-061S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-061S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-062",
+    "baseNo": "OS10/R10-062",
+    "name": "正体発覚！？柳ヶ瀬湊",
+    "kana": "ショウタイハッカク！？ヤナガセミナト",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "幼馴染"
+    ],
+    "text": "【永】 あなたはイベントと『助太刀』を手札からプレイできない。\n【永】 他のあなたのカード名に「小倉朝日」を含むキャラすべてのカード名は、「ゆうちょ」としても扱う。",
+    "flavor": "柳ヶ瀬湊「何があったって……ゆうちょ？」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_062.png",
+        "cardNo": "OS10/R10-062",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-062&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_062s.png",
+        "cardNo": "OS10/R10-062S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-062S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-063",
+    "baseNo": "OS10/R10-063",
+    "name": "名波七愛",
+    "kana": "ナナミナナイ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "メイド"
+    ],
+    "text": "【永】 あなたの手札の「抱き続けた恋心 柳ヶ瀬湊」のコストを－1。\n【起】［手札の「大蔵遊星」を1枚控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。\n【起】［このカードを【レスト】する］ あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋2500。",
+    "flavor": "お嬢様のお心を奪った、真の怨敵……その名は大蔵遊星ェェェ……",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_063.png",
+        "cardNo": "OS10/R10-063",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-063&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_063s.png",
+        "cardNo": "OS10/R10-063S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-063S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-064",
+    "baseNo": "OS10/R10-064",
+    "name": "恋心の芽生え 柳ヶ瀬湊",
+    "kana": "コイゴコロノメバエ ヤナガセミナト",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "幼馴染"
+    ],
+    "text": "【自】 すべてのプレイヤーのアタックフェイズの始めに、あなたの控え室に「大蔵遊星」があるなら、そのターン中、このカードのパワーを＋4500。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_064.png",
+        "cardNo": "OS10/R10-064",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-064&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_064s.png",
+        "cardNo": "OS10/R10-064S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-064S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-065",
+    "baseNo": "OS10/R10-065",
+    "name": "イマジナリー・コンパニオン 渡来明日香",
+    "kana": "イマジナリー・コンパニオン ワタライアスカ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel"
+    ],
+    "text": "【永】 あなたのレベルが2以下で、舞台にこのカードがいるなら、このカードのカード名は「イマジナリー・コンパニオン 渡来明日香＆明日夢」としても扱う。\n【永】 あなたのターン中、このカードのパワーを＋3000。\n【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+    "flavor": "渡来明日香「他のひとには見えないとか話せないとかどうでもよくない？だって私からすれば、すぐそこに居るんだよ」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_065.png",
+        "cardNo": "OS10/R10-065",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-065&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_065s.png",
+        "cardNo": "OS10/R10-065S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-065S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-066",
+    "baseNo": "OS10/R10-066",
+    "name": "庶民派お嬢様 柳ヶ瀬湊",
+    "kana": "ショミンハオジョウサマ ヤナガセミナト",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "幼馴染"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが〈同OS〉なら、あなたは自分の山札の上から1枚を、ストックにしてよい。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "ぁいっっったああああ――ぃ！！",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_066.png",
+        "cardNo": "OS10/R10-066",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-066&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_066s.png",
+        "cardNo": "OS10/R10-066S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-066S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-067",
+    "baseNo": "OS10/R10-067",
+    "name": "両手にチューリップ 香田亜衣",
+    "kana": "リョウテニチューリップ コウダアイ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "ギャル"
+    ],
+    "text": "【永】 あなたの手札の「ファルコン・マゼンダレッド 成田隼人」のコストを－1。\n【永】 あなたのすべての領域の「ファルコン・マゼンダレッド 成田隼人」のトリガーアイコンに【ソウル】を与える。\n【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+    "flavor": "香田亜衣「鳴ちゃん、よそよそしー。ねー、隼人君」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_067.png",
+        "cardNo": "OS10/R10-067",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-067&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_067s.png",
+        "cardNo": "OS10/R10-067S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-067S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-068",
+    "baseNo": "OS10/R10-068",
+    "name": "ヴァレリア",
+    "kana": "ヴァレリア",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "従者"
+    ],
+    "text": "【永】 他のあなたの「祖父たちの計略 ディートリンデ」すべてに、パワーを＋1000し、次の能力を与える。『【自】［(4)］ このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、相手に2ダメージを与える。』\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_068.png",
+        "cardNo": "OS10/R10-068",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-068&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_068s.png",
+        "cardNo": "OS10/R10-068S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-068S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-069",
+    "baseNo": "OS10/R10-069",
+    "name": "祖父たちの計略 ディートリンデ",
+    "kana": "ソフタチノケイリャク ディートリンデ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "お嬢様"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋4000。\n【自】 このカードがダイレクトアタックした時、あなたは自分の山札の上から1枚を、ストックにしてよい。",
+    "flavor": "こっちは騙されていた側だ。この程度の報復は当然だと思うが？",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_069.png",
+        "cardNo": "OS10/R10-069",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-069&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_069s.png",
+        "cardNo": "OS10/R10-069S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-069S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-070",
+    "baseNo": "OS10/R10-070",
+    "name": "両手にチューリップ 鳳鳴",
+    "kana": "リョウテニチューリップ オオトリナル",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "マイペース"
+    ],
+    "text": "【永】 他のあなたの前列の「ファルコン・マゼンダレッド 成田隼人」がいるなら、このカードのパワーを＋2000。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の「ファルコン・マゼンダレッド 成田隼人」を1枚選び、舞台の好きな枠に置く。\n【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの〈同OS〉のキャラの枚数×500に等しい。",
+    "flavor": "鳳鳴「亜衣ちゃん、なれなれしー。ねー、隼人さん」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_070.png",
+        "cardNo": "OS10/R10-070",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-070&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_070s.png",
+        "cardNo": "OS10/R10-070S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-070S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-071",
+    "baseNo": "OS10/R10-071",
+    "name": "抱き続けた恋心 柳ヶ瀬湊",
+    "kana": "イダキツヅケタコイゴコロ ヤナガセミナト",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "幼馴染"
+    ],
+    "text": "【永】 相手の控え室のCXが5枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】【CXコンボ】［あなたのCX置場の「二人寄り添いこれからも」を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て〈同OS〉のキャラを4枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_071.png",
+        "cardNo": "OS10/R10-071",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-071&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_071s.png",
+        "cardNo": "OS10/R10-071S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-071S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-072",
+    "baseNo": "OS10/R10-072",
+    "name": "ファルコン・マゼンダレッド 成田隼人",
+    "kana": "ファルコン・マゼンダレッド ナリタハヤト",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 8000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "多重人格"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋2000。\n【自】 あなたのドローフェイズの始めに、このカードのマーカーがあるなら、あなたのストックの上から1枚を控え室に置く。1枚置いたなら、あなたはこのカードのマーカーの「ガルーダ・ダークブラック 伊丹伽楼羅」を1枚選び、このカードがいる枠に置き、このカードのマーカーすべてとこのカードを、好きな順番で表向きでその「ガルーダ・ダークブラック 伊丹伽楼羅」のマーカーにする。",
+    "flavor": "ヤロウっ……！",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_072.png",
+        "cardNo": "OS10/R10-072",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-072&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_072s.png",
+        "cardNo": "OS10/R10-072S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-072S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-073",
+    "baseNo": "OS10/R10-073",
+    "name": "DJコンドル",
+    "kana": "DJコンドル",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "EV",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "このカードは、あなたの〈同OS〉のキャラがいないなら、手札からプレイできない。\nあなたは自分の「羽田鷹志」を1枚選ぶ。あなたはそのキャラのマーカーの自分のレベル以下のレベルの〈同OS〉のキャラを1枚選び、その「羽田鷹志」がいる枠に置いてよい。そうしたら、その「羽田鷹志」のマーカーすべてとその「羽田鷹志」を、好きな順番で表向きでその舞台に置かれたキャラのマーカーにする。",
+    "flavor": "えー『DJコンドルさんこんばんは』。は〜い、コンドルワ〜。あれえ、コンドルワなかなか流行らないぞー。おかしいなァ、照れなくていいんだぞおまえらみんなたちも勇気出してコンドれよ？",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_073.png",
+        "cardNo": "OS10/R10-073",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-073&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_073s.png",
+        "cardNo": "OS10/R10-073S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-073S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-074",
+    "baseNo": "OS10/R10-074",
+    "name": "胸が高鳴るーっ！",
+    "kana": "ムネガタカナルーッ！",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "鳳鳴「はいー。長いことご協力ありがとうございましたー」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_074.png",
+        "cardNo": "OS10/R10-074",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-074&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_074s.png",
+        "cardNo": "OS10/R10-074S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-074S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-075",
+    "baseNo": "OS10/R10-075",
+    "name": "私もやっぱり乙女なのだ",
+    "kana": "ワタシモヤッパリオトメナノダ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "分かった。たぶん私がしているのは恋愛じゃなくて、羽田愛なんだ",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_075.png",
+        "cardNo": "OS10/R10-075",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-075&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_075s.png",
+        "cardNo": "OS10/R10-075S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-075S&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p04s.png",
+        "cardNo": "OS10/R10-P04S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P04S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R10",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-076",
+    "baseNo": "OS10/R10-076",
+    "name": "二人寄り添いこれからも",
+    "kana": "フタリヨリソイコレカラモ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストックにし、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "flavor": "……クリスマス、雪が降るんだって。積もるかな？",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_076.png",
+        "cardNo": "OS10/R10-076",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-076&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_076s.png",
+        "cardNo": "OS10/R10-076S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-076S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-077",
+    "baseNo": "OS10/R10-077",
+    "name": "貴女に捧げる永遠の誓い 桜小路ルナ",
+    "kana": "アナタニササゲルエイエンノチカイ サクラコウジルナ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "天才"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラか「フィリア・クリスマス・コレクション」なら、そのターン中、このカードのパワーを＋2000。\n【自】［(1) あなたの山札の上から1枚をクロックにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札のレベル1以下のキャラを1枚までサーチし手札に加える。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_077.png",
+        "cardNo": "OS10/R10-077",
+        "rarity": "RR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-077&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_077ex.png",
+        "cardNo": "OS10/R10-077EX",
+        "rarity": "SEC",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-077EX&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_077ofr.png",
+        "cardNo": "OS10/R10-077OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-077OFR&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-078",
+    "baseNo": "OS10/R10-078",
+    "name": "たとえ桜じゃなくても 大蔵りそな",
+    "kana": "タトエサクラジャナクテモ オオクラリソナ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "妹"
+    ],
+    "text": "【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_078.png",
+        "cardNo": "OS10/R10-078",
+        "rarity": "RR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-078&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_078ex.png",
+        "cardNo": "OS10/R10-078EX",
+        "rarity": "SEC",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-078EX&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_078ofr.png",
+        "cardNo": "OS10/R10-078OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-078OFR&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-079",
+    "baseNo": "OS10/R10-079",
+    "name": "秘められた思慕の情 大蔵りそな",
+    "kana": "ヒメラレタシボノジョウ オオクラリソナ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "妹"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのCX置場に「Rendez-Vous à Paris」があり、他のあなたの〈同OS〉のキャラがいるなら、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラか「コレクション・ド・ラ・フィリア」を2枚まで選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_079.png",
+        "cardNo": "OS10/R10-079",
+        "rarity": "RR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-079&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_079ofr.png",
+        "cardNo": "OS10/R10-079OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-079OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_079ssp.png",
+        "cardNo": "OS10/R10-079SSP",
+        "rarity": "SSP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-079SSP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-080",
+    "baseNo": "OS10/R10-080",
+    "name": "満ち溢れる自信と才能 桜小路ルナ",
+    "kana": "ミチアフレルジシントサイノウ サクラコウジルナ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "天才"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】［(1)］ あなたのCX置場に「そして麗しき日々を」か「そして輝かしき日々を」が置かれた時、前列にこのカードがいて、他のあなたの〈同OS〉のキャラが4枚以上なら、コストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルする。』",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_080.png",
+        "cardNo": "OS10/R10-080",
+        "rarity": "RR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-080&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_080ofr.png",
+        "cardNo": "OS10/R10-080OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-080OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_080ssp.png",
+        "cardNo": "OS10/R10-080SSP",
+        "rarity": "SSP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-080SSP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-081",
+    "baseNo": "OS10/R10-081",
+    "name": "羽田鷹志",
+    "kana": "ハネダヨウジ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "多重人格"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたの手札が5枚以上なら、あなたは自分の山札の「イーグル・イエローグリーン 千歳鷲介」を1枚までと「ガルーダ・ダークブラック 伊丹伽楼羅」を1枚までと「ファルコン・マゼンダレッド 成田隼人」を1枚までと「ホーク・シアンブルー 羽田鷹志」を1枚までサーチし表向きでこのカードのマーカーにする。\n【自】 チェンジ あなたのCXフェイズの始めに、あなたはこのカードのマーカーの「ホーク・シアンブルー 羽田鷹志」を1枚選び、このカードがいる枠に置いてよい。そうしたら、このカードのマーカーすべてとこのカードを、好きな順番で表向きでその「ホーク・シアンブルー 羽田鷹志」のマーカーにする。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_081.png",
+        "cardNo": "OS10/R10-081",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-081&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_081s.png",
+        "cardNo": "OS10/R10-081S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-081S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-082",
+    "baseNo": "OS10/R10-082",
+    "name": "夢を追いかけて 小倉朝日",
+    "kana": "ユメヲオイカケテ コクラアサヒ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "女装"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【自】 チェンジ ［(1) 手札を1枚控え室に置く］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、あなたはこのカードのマーカーか自分の控え室の、「大蔵遊星」を1枚選び、このカードがいる枠に置き、このカードを表向きでそのキャラのマーカーにする。』\n【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_082.png",
+        "cardNo": "OS10/R10-082",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-082&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_082ofr.png",
+        "cardNo": "OS10/R10-082OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-082OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_082sp.png",
+        "cardNo": "OS10/R10-082SP",
+        "rarity": "SP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-082SP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-083",
+    "baseNo": "OS10/R10-083",
+    "name": "傲岸不遜な引きこもり妹 大蔵りそな",
+    "kana": "ゴウガンフソンナヒキコモリイモウト オオクラリソナ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "妹"
+    ],
+    "text": "【自】［手札のトリガーアイコンが【ゲート】のCXを1枚控え室に置く］ このカードが手札から登場した時か舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\n【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_083.png",
+        "cardNo": "OS10/R10-083",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-083&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_083s.png",
+        "cardNo": "OS10/R10-083S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-083S&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p09ex.png",
+        "cardNo": "OS10/R10-P09EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P09EX&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R10",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-084",
+    "baseNo": "OS10/R10-084",
+    "name": "裏の顔 キキョウ",
+    "kana": "ウラノカオ キキョウ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "魔族"
+    ],
+    "text": "【永】 このカードはサイドアタックできない。\n【自】 このカードが手札から登場した時か『チェンジ』で登場した時、他のあなたの〈同OS〉のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\n【自】 チェンジ あなたのCXフェイズの始めに、他のあなたの〈同OS〉のキャラがいるなら、あなたはこのカードのマーカーか自分の控え室の、「表の顔 リシアンサス」を1枚選び、このカードがいる枠に置いてよい。そうしたら、このカードを表向きでそのキャラのマーカーにする。",
+    "flavor": "あたしはもう一人のシア。リシアンサスでありながらリシアンサスでない、リシアンサスの中で眠っている、もう一つの存在",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_084.png",
+        "cardNo": "OS10/R10-084",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-084&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_084s.png",
+        "cardNo": "OS10/R10-084S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-084S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-085",
+    "baseNo": "OS10/R10-085",
+    "name": "ほんとのお兄ちゃんを待つ妹 羽田小鳩",
+    "kana": "ホントノオニイチャンヲマツイモウト ハネダコバト",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "妹"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、手札に戻す。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、他のあなたの〈同OS〉のキャラがいるなら、コストを払ってよい。そうしたら、相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。",
+    "flavor": "せっ、世界が平和でありますように！",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_085.png",
+        "cardNo": "OS10/R10-085",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-085&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_085ofr.png",
+        "cardNo": "OS10/R10-085OFR",
+        "rarity": "OFR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-085OFR&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_085sp.png",
+        "cardNo": "OS10/R10-085SP",
+        "rarity": "SP",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-085SP&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-086",
+    "baseNo": "OS10/R10-086",
+    "name": "大蔵遊星",
+    "kana": "オオクラユウセイ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel"
+    ],
+    "text": "【自】【ターン1】［(3) 手札を2枚控え室に置く］ このカードのアタックの終わりに、他のあなたの〈同OS〉のキャラが3枚以上なら、コストを払ってよい。そうしたら、このカードを【スタンド】する。\n【自】 チェンジ あなたのアンコールステップの始めに、前列にこのカードがいて、他のあなたの〈同OS〉のキャラがいるなら、あなたはこのカードのマーカーか自分の控え室の、「夢を追いかけて 小倉朝日」を1枚選び、このカードがいる枠に置いてよい。そうしたら、このカードを表向きでそのキャラのマーカーにし、自分の山札の上から3枚までを、ストックにする。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_086.png",
+        "cardNo": "OS10/R10-086",
+        "rarity": "R",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-086&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_086s.png",
+        "cardNo": "OS10/R10-086S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-086S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-087",
+    "baseNo": "OS10/R10-087",
+    "name": "ホーク・シアンブルー 羽田鷹志",
+    "kana": "ホーク・シアンブルー ハネダタカシ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "多重人格"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。\n【自】 このカードのバトル相手のアタックの終わりに、そのバトル中、あなたの受けたダメージがキャンセルされていないなら、あなたはこのカードのマーカーの「イーグル・イエローグリーン 千歳鷲介」を1枚選び、このカードがいる枠に置いてよい。そうしたら、このカードのマーカーすべてとこのカードを、好きな順番で表向きでその「イーグル・イエローグリーン 千歳鷲介」のマーカーにする。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_087.png",
+        "cardNo": "OS10/R10-087",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-087&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_087s.png",
+        "cardNo": "OS10/R10-087S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-087S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-088",
+    "baseNo": "OS10/R10-088",
+    "name": "大蔵衣遠",
+    "kana": "オオクライオン",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは次の行動を行ってよい。『あなたは自分の山札のカード名に「大蔵遊星」を含むキャラを1枚までサーチし控え室に置く。』\n【自】 このカードがアタックした時、あなたは自分のレベル2以上のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "flavor": "おまえの才能には期待しているぞ。遊星",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_088.png",
+        "cardNo": "OS10/R10-088",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-088&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_088s.png",
+        "cardNo": "OS10/R10-088S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-088S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-089",
+    "baseNo": "OS10/R10-089",
+    "name": "マンションの前の惨劇 山科京",
+    "kana": "マンションノマエノサンゲキ ヤマシナミヤコ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "ヤンデレ"
+    ],
+    "text": "【自】［他のあなたの舞台の「ホーク・シアンブルー 羽田鷹志」を1枚控え室に置く］ このカードが手札から登場した時か『【自】 アンコール ［(3)］』以外のこのカードの【自】の効果で登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。\n【自】［(1)］ 控え室にこのカードがあり、他のあなたの「ホーク・シアンブルー 羽田鷹志」がいるなら、あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、あなたはこのカードを前列の好きな枠に置く。",
+    "flavor": "あたま、痛い……は、はははネ、羽田君、羽田君、どこ……",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_089.png",
+        "cardNo": "OS10/R10-089",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-089&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_089s.png",
+        "cardNo": "OS10/R10-089S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-089S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-090",
+    "baseNo": "OS10/R10-090",
+    "name": "あたしだけの、たった一つのもの キキョウ",
+    "kana": "アタシダケノ、タッタヒトツノモノ キキョウ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "魔族"
+    ],
+    "text": "【永】 他のあなたの、「表の顔 リシアンサス」と「裏の顔 キキョウ」すべてに、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】 あなたが『チェンジ』を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "そんな世界いらない！誰も、何もあたしを見てくれないような世界、いらない！！",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_090.png",
+        "cardNo": "OS10/R10-090",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-090&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_090s.png",
+        "cardNo": "OS10/R10-090S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-090S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-091",
+    "baseNo": "OS10/R10-091",
+    "name": "プリンセス・ダヴ 羽田小鳩",
+    "kana": "プリンセス・ダヴ ハネダコバト",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "妹"
+    ],
+    "text": "【自】 このカードが手札から登場した時、相手の控え室のCXが5枚以上なら、このカードを【レスト】する。\n【自】 このカードが【リバース】した時、このカードを山札の下に置く。",
+    "flavor": "だってお兄ちゃんのいる場所が私の帰るところだもん",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_091.png",
+        "cardNo": "OS10/R10-091",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-091&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_091s.png",
+        "cardNo": "OS10/R10-091S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-091S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-092",
+    "baseNo": "OS10/R10-092",
+    "name": "兄思いのポッポちゃん 羽田小鳩",
+    "kana": "アニオモイノポッポチャン ハネダコバト",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "妹"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、山札の下に置く。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_092.png",
+        "cardNo": "OS10/R10-092",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-092&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_092s.png",
+        "cardNo": "OS10/R10-092S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-092S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-093",
+    "baseNo": "OS10/R10-093",
+    "name": "桜屋敷の主 桜小路ルナ",
+    "kana": "サクラヤシキノアルジ サクラコウジルナ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "天才"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの〈同OS〉のキャラの枚数×500に等しい。\n【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】［(1)］ このカードのトリガーチェックでCXがでた時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストックにし、1枚まで引く。1枚引いたなら、あなたは自分の手札を1枚選び、控え室に置く。』",
+    "flavor": "そうか、わかった、合格",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_093.png",
+        "cardNo": "OS10/R10-093",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-093&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_093s.png",
+        "cardNo": "OS10/R10-093S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-093S&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p13ex.png",
+        "cardNo": "OS10/R10-P13EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P13EX&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p13s.png",
+        "cardNo": "OS10/R10-P13S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P13S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R10",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-094",
+    "baseNo": "OS10/R10-094",
+    "name": "溢れ出る創作意欲 桜小路ルナ",
+    "kana": "アフレデルソウサクイヨク サクラコウジルナ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "天才"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。\n【起】 集中 ［(1) 他のあなたの「夢を追いかけて 小倉朝日」を1枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の山札のキャラを1枚までサーチし手札に加える。",
+    "flavor": "桜小路ルナ「私の顔が見たいと言っていたな？それじゃ目隠しを取ろうか」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_094.png",
+        "cardNo": "OS10/R10-094",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-094&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_094s.png",
+        "cardNo": "OS10/R10-094S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-094S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-095",
+    "baseNo": "OS10/R10-095",
+    "name": "不意打ちなサイズ測定 大蔵りそな",
+    "kana": "フイウチナサイズソクテイ オオクラリソナ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 1,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "妹"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分か相手の、山札の上から3枚を、控え室に置く。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "…………！！",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_095.png",
+        "cardNo": "OS10/R10-095",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-095&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_095s.png",
+        "cardNo": "OS10/R10-095S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-095S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-096",
+    "baseNo": "OS10/R10-096",
+    "name": "溺れる魚 山科京",
+    "kana": "オボレルサカナ ヤマシナミヤコ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "ヤンデレ"
+    ],
+    "text": "【永】 舞台にこのカードがいるなら、このカードのカード名は「瑠樺」としても扱う。\n【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋1000。\n【自】［(8) 手札を4枚控え室に置き、あなたの控え室のCXを2枚思い出にする］ 相手のアタックフェイズの始めに、コストを払ってよい。そうしたら、すべてのプレイヤーのキャラすべてに、そのターン中、次の2つの能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』『【永】 このカードは【リバース】しない。』",
+    "flavor": "もう傷つきたくないから……ごめんなさい",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_096.png",
+        "cardNo": "OS10/R10-096",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-096&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_096s.png",
+        "cardNo": "OS10/R10-096S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-096S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-097",
+    "baseNo": "OS10/R10-097",
+    "name": "クリスマス・イヴの告白 羽田小鳩",
+    "kana": "クリスマス・イヴノコクハク ハネダコバト",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "妹"
+    ],
+    "text": "【自】 このカードが手札から登場した時、他のあなたの〈同OS〉のキャラが4枚以上なら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、ストックにしてよい。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "こんなに素敵な誕生日、初めて",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_097.png",
+        "cardNo": "OS10/R10-097",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-097&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_097s.png",
+        "cardNo": "OS10/R10-097S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-097S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-098",
+    "baseNo": "OS10/R10-098",
+    "name": "フィリア・クリスマス・コレクション",
+    "kana": "フィリア・クリスマス・コレクション",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "EV",
+    "color": "blue",
+    "level": 2,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "集中 このカードは、あなたの〈同OS〉のキャラがいないなら、手札からプレイできない。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\nすべてのプレイヤーは自分の山札の上から3枚をめくり、控え室に置く。あなたのこの効果で控え室に置かれたキャラのパワーの合計が、相手のこの効果で控え室に置かれたキャラのパワーの合計以上なら、あなたは自分の控え室の〈同OS〉のキャラを2枚まで選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_098.png",
+        "cardNo": "OS10/R10-098",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-098&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_098s.png",
+        "cardNo": "OS10/R10-098S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-098S&expansion=R10"
+      }
+    ],
+    "expansions": [
+      "R10"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-099",
+    "baseNo": "OS10/R10-099",
+    "name": "Rendez-Vous à Paris",
+    "kana": "ランデヴー ア パリ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "大蔵りそな「大きくなったら、妹がお嫁さんになってあげます」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_099.png",
+        "cardNo": "OS10/R10-099",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-099&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_099s.png",
+        "cardNo": "OS10/R10-099S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-099S&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p05s.png",
+        "cardNo": "OS10/R10-P05S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P05S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R10",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-100",
+    "baseNo": "OS10/R10-100",
+    "name": "そして麗しき日々を",
+    "kana": "ソシテウルワシキヒビヲ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 このカードと同じカード名のカードと、「そして輝かしき日々を」は、デッキに合計4枚まで入れることができる。\n【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "桜小路ルナ「しかし君の方から朝日になって話したいと言うとは。もう心から私の従者でいてくれるんだな、君は」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_100.png",
+        "cardNo": "OS10/R10-100",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-100&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_100s.png",
+        "cardNo": "OS10/R10-100S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-100S&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p06s.png",
+        "cardNo": "OS10/R10-P06S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P06S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R10",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-101",
+    "baseNo": "OS10/R10-101",
+    "name": "そして輝かしき日々を",
+    "kana": "ソシテカガヤカシキヒビヲ",
+    "product": "ブースターパック Navel",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 このカードと同じカード名のカードと、「そして麗しき日々を」は、デッキに合計4枚まで入れることができる。\n【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "大蔵遊星「今日はとても良い日になったね」",
+    "releaseDate": "2026-05-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_101.png",
+        "cardNo": "OS10/R10-101",
+        "rarity": "C",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-101&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_101s.png",
+        "cardNo": "OS10/R10-101S",
+        "rarity": "SR",
+        "expansion": "R10",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-101S&expansion=R10"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p07s.png",
+        "cardNo": "OS10/R10-P07S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P07S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R10",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-P01",
+    "baseNo": "OS10/R10-P01",
+    "name": "宵の月のように 桜小路ルナ",
+    "kana": "ヨイノツキノヨウニ サクラコウジルナ",
+    "product": "PRカード",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Navel",
+      "天才"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、山札の下に置く。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-04-08",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p01.png",
+        "cardNo": "OS10/R10-P01",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P01&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-P02",
+    "baseNo": "OS10/R10-P02",
+    "name": "聖なる夜のキャロリング 桜小路ルナ",
+    "kana": "セイナルヨルノキャロリング サクラコウジルナ",
+    "product": "PRカード",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "天才"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、手札に戻す。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、他のあなたの〈同OS〉のキャラがいるなら、コストを払ってよい。そうしたら、相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。",
+    "flavor": "",
+    "releaseDate": "2026-05-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p02.png",
+        "cardNo": "OS10/R10-P02",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P02&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-P08",
+    "baseNo": "OS10/R10-P08",
+    "name": "大切な君と過ごす時間 桜小路ルナ",
+    "kana": "タイセツナキミトスゴスジカン サクラコウジルナ",
+    "product": "PRカード",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 8000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "天才"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋3000。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時かアタックした時、コストを払ってよい。そうしたら、相手は自分の山札の上から9枚を、控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2026-07-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p08.png",
+        "cardNo": "OS10/R10-P08",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P08&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p08s.png",
+        "cardNo": "OS10/R10-P08S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P08S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-P10",
+    "baseNo": "OS10/R10-P10",
+    "name": "大好きなあなたと過ごす時間 大蔵りそな",
+    "kana": "ダイスキナアナタトスゴスジカン オオクラリソナ",
+    "product": "PRカード",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "妹"
+    ],
+    "text": "【永】 あなたのクロック置場に「たとえ桜じゃなくても 大蔵りそな」があるなら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。\n【自】［手札を1枚控え室に置く］ このカードが【リバース】した時、コストを払ってよい。そうしたら、このカードを手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-09-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p10.png",
+        "cardNo": "OS10/R10-P10",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P10&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p10s.png",
+        "cardNo": "OS10/R10-P10S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P10S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS10/R10-P12",
+    "baseNo": "OS10/R10-P12",
+    "name": "いつまでも続く穏やかな時間 芙蓉楓",
+    "kana": "イツマデモツヅクオダヤカナジカン フヨウカエデ",
+    "product": "PRカード",
+    "neoStandard": "Navel",
+    "workNo": "OS10",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Navel",
+      "幼馴染"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたの山札が6枚以下なら、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルする。\n【自】 このカードが手札から登場した時、あなたは自分の山札の上から2枚までを、控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2026-11-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p12.png",
+        "cardNo": "OS10/R10-P12",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P12&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os10/r10/os10_r10_p12s.png",
+        "cardNo": "OS10/R10-P12S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS10%2FR10-P12S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  }
+]

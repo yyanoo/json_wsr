@@ -1,0 +1,4525 @@
+[
+  {
+    "cardNo": "OS06/R06-001",
+    "baseNo": "OS06/R06-001",
+    "name": "櫻の森の中で 夏目藍",
+    "kana": "サクラノモリノナカデ ナツメアイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "先生"
+    ],
+    "text": "【自】 このカードが【リバース】した時、あなたは自分の山札を上から3枚まで見て、CXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。\n【自】［(1) あなたの山札の上から1枚をクロックにする］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_001.png",
+        "cardNo": "OS06/R06-001",
+        "rarity": "RR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-001&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_001ofr.png",
+        "cardNo": "OS06/R06-001OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-001OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_001sec.png",
+        "cardNo": "OS06/R06-001SEC",
+        "rarity": "SEC",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-001SEC&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-002",
+    "baseNo": "OS06/R06-002",
+    "name": "櫻の森の中で 草薙直哉",
+    "kana": "サクラノモリノナカデ クサナギナオヤ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「蝶を夢む」があるなら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。\n【自】 共鳴 ［手札を1枚控え室に置き、手札の「櫻の森の中で 夏目圭」を1枚公開する］ このカードが手札から登場した時、他のあなたの〈同OS〉のキャラが2枚以上なら、コストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋1000。",
+    "flavor": "何でもないんだよ……何でも……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_002.png",
+        "cardNo": "OS06/R06-002",
+        "rarity": "RR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-002&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_002s.png",
+        "cardNo": "OS06/R06-002S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-002S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-003",
+    "baseNo": "OS06/R06-003",
+    "name": "夢に見たはじめて 夏目雫",
+    "kana": "ユメデミタハジメテ ナツメシズク",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 7500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "女優"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋2000。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "flavor": "我慢なんてする必要ない。私は直哉のもの。なんだってして良いんだよ……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_003.png",
+        "cardNo": "OS06/R06-003",
+        "rarity": "RR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-003&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_003ofr.png",
+        "cardNo": "OS06/R06-003OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-003OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_003sp.png",
+        "cardNo": "OS06/R06-003SP",
+        "rarity": "SP",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-003SP&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-004",
+    "baseNo": "OS06/R06-004",
+    "name": "櫻の森の中で 夏目圭",
+    "kana": "サクラノモリノナカデ ナツメケイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】【CXコンボ】【ターン1】 共鳴 ［手札の「櫻の芸術家 草薙直哉」を1枚公開する］ このカードがアタックした時、CX置場に「向日葵」があるなら、コストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『このカードのアタックの終わりに、このカードを【スタンド】し、ターンの終わりに、このカードを控え室に置く。』『あなたは自分のCX置場の「向日葵」を1枚まで選び、手札に戻し、自分の控え室のキャラを1枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置き、相手に1ダメージを与え、そのターン中、このカードのパワーを＋1000。』",
+    "flavor": "終わったな、直哉……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_004.png",
+        "cardNo": "OS06/R06-004",
+        "rarity": "RR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-004&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_004ofr.png",
+        "cardNo": "OS06/R06-004OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-004OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_004sp.png",
+        "cardNo": "OS06/R06-004SP",
+        "rarity": "SP",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-004SP&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-005",
+    "baseNo": "OS06/R06-005",
+    "name": "もう一人の天才 夏目圭",
+    "kana": "モウ一人ノテンサイ ナツメケイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\n【自】 このカードが【リバース】した時、あなたの思い出が2枚以下なら、あなたはこのカードを思い出にしてよい。",
+    "flavor": "ああ、今年の桜は最高にきれいだな……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_005.png",
+        "cardNo": "OS06/R06-005",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-005&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_005s.png",
+        "cardNo": "OS06/R06-005S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-005S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-006",
+    "baseNo": "OS06/R06-006",
+    "name": "二人で歩もう 夏目藍",
+    "kana": "フタリデアユモウ ナツメアイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "先生"
+    ],
+    "text": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの〈同OS〉のキャラが手札から登場した時、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「家族」があるなら、あなたは自分の控え室の〈同OS〉のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+    "flavor": "それじゃ、そろそろ帰るか？私達の家に……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_006.png",
+        "cardNo": "OS06/R06-006",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-006&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_006s.png",
+        "cardNo": "OS06/R06-006S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-006S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-007",
+    "baseNo": "OS06/R06-007",
+    "name": "その手に引かれて 夏目藍",
+    "kana": "ソノテニヒカレテ ナツメアイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "先生"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】【ターン1】 あなたが『共鳴』を使った時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_007.png",
+        "cardNo": "OS06/R06-007",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-007&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_007ofr.png",
+        "cardNo": "OS06/R06-007OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-007OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_007ssp.png",
+        "cardNo": "OS06/R06-007SSP",
+        "rarity": "SSP",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-007SSP&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-008",
+    "baseNo": "OS06/R06-008",
+    "name": "桜舞う帰り道 夏目藍",
+    "kana": "サクラマウカエリミチ ナツメアイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "先生"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋2000。\n【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_008.png",
+        "cardNo": "OS06/R06-008",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-008&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_008ofr.png",
+        "cardNo": "OS06/R06-008OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-008OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_008sec.png",
+        "cardNo": "OS06/R06-008SEC",
+        "rarity": "SEC",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-008SEC&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-009",
+    "baseNo": "OS06/R06-009",
+    "name": "櫻咲くこの森で 夏目雫",
+    "kana": "サクラサクコノモリデ ナツメシズク",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "女優"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋3000。\n【自】 あなたのCXがCX置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_009.png",
+        "cardNo": "OS06/R06-009",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-009&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_009s.png",
+        "cardNo": "OS06/R06-009S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-009S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-010",
+    "baseNo": "OS06/R06-010",
+    "name": "無口な夏目家次女 夏目雫",
+    "kana": "ムクチナナツメケジジョ ナツメシズク",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "女優"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】 あなたのCX置場に「再会」が置かれた時、前列にこのカードがいるなら、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】【ターン1】 このカードの与えたダメージがキャンセルされた時、あなたは相手に2ダメージを与えてよい。』",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_010.png",
+        "cardNo": "OS06/R06-010",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-010&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_010s.png",
+        "cardNo": "OS06/R06-010S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-010S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-011",
+    "baseNo": "OS06/R06-011",
+    "name": "草薙水菜",
+    "kana": "クサナギミズナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "家族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\n【自】 絆／「墓碑銘の素晴らしき混乱 草薙健一郎」「櫻の芸術家 草薙直哉」 ［手札を1枚控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_011.png",
+        "cardNo": "OS06/R06-011",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-011&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_011s.png",
+        "cardNo": "OS06/R06-011S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-011S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-012",
+    "baseNo": "OS06/R06-012",
+    "name": "無知の人となった理由 夏目圭",
+    "kana": "ムチノヒトトナッタリユウ ナツメケイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の「櫻の芸術家 草薙直哉」を1枚までサーチし手札に加える。\n【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "それでもさ。俺はいつまでも待ってるから。だから今じゃなくてもいい俺は直哉と絵を描きたい。それだけでいいんだ",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_012.png",
+        "cardNo": "OS06/R06-012",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-012&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_012s.png",
+        "cardNo": "OS06/R06-012S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-012S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-013",
+    "baseNo": "OS06/R06-013",
+    "name": "墓碑銘の素晴らしき混乱 草薙健一郎",
+    "kana": "ボヒメイノスバラシキコンラン クサナギケンイチロウ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「横たわる櫻」を1枚選び、手札に戻す。",
+    "flavor": "これは、お前が俺に捧げた墓碑銘だ。だから俺は、ここに自分の名を刻む",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_013.png",
+        "cardNo": "OS06/R06-013",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-013&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_013s.png",
+        "cardNo": "OS06/R06-013S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-013S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-014",
+    "baseNo": "OS06/R06-014",
+    "name": "中村水菜",
+    "kana": "ナカムラミズナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "本"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ このカードが【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "ふぅ、あなたまでそんな顔をするのですか……。たった今、先生が思った通り、中村と言えば、あの中村家ですよ……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_014.png",
+        "cardNo": "OS06/R06-014",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-014&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_014s.png",
+        "cardNo": "OS06/R06-014S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-014S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-015",
+    "baseNo": "OS06/R06-015",
+    "name": "夏目家の食卓 夏目藍",
+    "kana": "ナツメケノショクタク ナツアイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "先生"
+    ],
+    "text": "【自】［(2)］ このカードが手札から登場した時か舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。\n【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000し、《炒飯》を与える。",
+    "flavor": "まぁ、いい、とりあえず“あいうえ”と言ってみろ",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_015.png",
+        "cardNo": "OS06/R06-015",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-015&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_015s.png",
+        "cardNo": "OS06/R06-015S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-015S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-016",
+    "baseNo": "OS06/R06-016",
+    "name": "瞬間を閉じこめた永遠 夏目雫",
+    "kana": "シュンカンヲトジコメタエイエン ナツメシズク",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "女優"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ あなたのトリガーアイコンが【チョイス】のCXがトリガーした時、コストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_016.png",
+        "cardNo": "OS06/R06-016",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-016&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_016s.png",
+        "cardNo": "OS06/R06-016S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-016S&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_p06.png",
+        "cardNo": "OS06/R06-P06",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-P06&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R06",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-017",
+    "baseNo": "OS06/R06-017",
+    "name": "小さくて可愛い姉 夏目藍",
+    "kana": "チイサクテカワイイアネ ナツメアイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "先生"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストックにしてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+    "flavor": "そんな意地っ張りな二人には礼を言わなきゃいけないのにな。いや、謝罪かもしれない……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_017.png",
+        "cardNo": "OS06/R06-017",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-017&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_017s.png",
+        "cardNo": "OS06/R06-017S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-017S&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_p02ex.png",
+        "cardNo": "OS06/R06-P02EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-P02EX&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R06",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-018",
+    "baseNo": "OS06/R06-018",
+    "name": "草薙健一郎",
+    "kana": "クサナギケンイチロウ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 記憶 あなたの思い出置場に「中村水菜」があるなら、このカードのパワーを＋5000し、ソウルを＋1。",
+    "flavor": "ややすると天才というのは閉じた世界で生きてしまうものさ。だって、その世界は完璧なのだからな",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_018.png",
+        "cardNo": "OS06/R06-018",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-018&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_018s.png",
+        "cardNo": "OS06/R06-018S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-018S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-019",
+    "baseNo": "OS06/R06-019",
+    "name": "愛され教師 夏目藍",
+    "kana": "アイサレキョウシ ナツメアイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "先生"
+    ],
+    "text": "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。\n【自】 あなたのターン中、このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラか「櫻日狂想」なら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
+    "flavor": "ほらお前ら！うるさいぞ！席につけ！",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_019.png",
+        "cardNo": "OS06/R06-019",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-019&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_019s.png",
+        "cardNo": "OS06/R06-019S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-019S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-020",
+    "baseNo": "OS06/R06-020",
+    "name": "草薙直哉",
+    "kana": "クサナギナオヤ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 あなたのクロック置場に「櫻の森の中で 夏目藍」があるなら、あなたの手札のこのカードのレベルを－1。\n【自】［(1)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の「櫻の森の中で 夏目圭」を1枚選び、舞台の好きな枠に置く。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_020.png",
+        "cardNo": "OS06/R06-020",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-020&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_020s.png",
+        "cardNo": "OS06/R06-020S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-020S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-021",
+    "baseNo": "OS06/R06-021",
+    "name": "あの人を偲んで 夏目藍",
+    "kana": "アノヒトヲシノンデ ナツメアイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 11000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "先生"
+    ],
+    "text": "【自】 このカードが手札か思い出置場から登場した時、あなたは相手のキャラを1枚選び、手札に戻してよい。\n【自】 このカードが【リバース】した時、このカードを思い出にする。\n【自】 記憶 ［手札を2枚控え室に置く］ 思い出置場にこのカードがあり、あなたのCXフェイズの始めに、あなたのレベルが3以上なら、コストを払ってよい。そうしたら、あなたはこのカードを舞台のキャラのいない枠に置く。",
+    "flavor": "この森の桜も今日で終わりだろうから……もしかしたら奇遇なんて事じゃないのかもな……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_021.png",
+        "cardNo": "OS06/R06-021",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-021&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_021s.png",
+        "cardNo": "OS06/R06-021S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-021S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-022",
+    "baseNo": "OS06/R06-022",
+    "name": "横たわる櫻",
+    "kana": "ヨコタワルサクラ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "EV",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。\nこのカードを思い出にする。\nあなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上ならストックにする。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_022.png",
+        "cardNo": "OS06/R06-022",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-022&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_022s.png",
+        "cardNo": "OS06/R06-022S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-022S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-023",
+    "baseNo": "OS06/R06-023",
+    "name": "蝶を夢む",
+    "kana": "チョウヲユメム",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_023.png",
+        "cardNo": "OS06/R06-023",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-023&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_023s.png",
+        "cardNo": "OS06/R06-023S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-023S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-024",
+    "baseNo": "OS06/R06-024",
+    "name": "向日葵",
+    "kana": "ヒマワリ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_024.png",
+        "cardNo": "OS06/R06-024",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-024&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_024s.png",
+        "cardNo": "OS06/R06-024S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-024S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-025",
+    "baseNo": "OS06/R06-025",
+    "name": "家族",
+    "kana": "カゾク",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_025.png",
+        "cardNo": "OS06/R06-025",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-025&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_025s.png",
+        "cardNo": "OS06/R06-025S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-025S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-026",
+    "baseNo": "OS06/R06-026",
+    "name": "再会",
+    "kana": "サイカイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_026.png",
+        "cardNo": "OS06/R06-026",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-026&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_026a.png",
+        "cardNo": "OS06/R06-026A",
+        "rarity": "AGR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-026A&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_026s.png",
+        "cardNo": "OS06/R06-026S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-026S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-027",
+    "baseNo": "OS06/R06-027",
+    "name": "二人の天才のために 鳥谷真琴",
+    "kana": "フタリノテンサイノタメニ トリタニマコト",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_027.png",
+        "cardNo": "OS06/R06-027",
+        "rarity": "RR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-027&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_027ofr.png",
+        "cardNo": "OS06/R06-027OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-027OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_027ssp.png",
+        "cardNo": "OS06/R06-027SSP",
+        "rarity": "SSP",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-027SSP&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-028",
+    "baseNo": "OS06/R06-028",
+    "name": "背中合わせ 夏目雫",
+    "kana": "セナカアワセ ナツメシズク",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「また、明日、お会いしましょう」があり、他のあなたの〈同OS〉のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から2枚まで見て、〈同OS〉のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』『あなたは自分の控え室のキャラを1枚選び、手札に戻す。』",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_028.png",
+        "cardNo": "OS06/R06-028",
+        "rarity": "RR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-028&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_028ofr.png",
+        "cardNo": "OS06/R06-028OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-028OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_028ssp.png",
+        "cardNo": "OS06/R06-028SSP",
+        "rarity": "SSP",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-028SSP&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-029",
+    "baseNo": "OS06/R06-029",
+    "name": "妄想ヌードデッサン 鳥谷真琴",
+    "kana": "モウソウヌードデッサン トリタニマコト",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。\n【自】 このカードがアタックした時、他のあなたの後列のキャラがいないなら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、あなたはそのキャラを後列の好きな枠に置く。",
+    "flavor": "…………",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_029.png",
+        "cardNo": "OS06/R06-029",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-029&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_029s.png",
+        "cardNo": "OS06/R06-029S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-029S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-030",
+    "baseNo": "OS06/R06-030",
+    "name": "夢呑みの副作用 夏目雫",
+    "kana": "ユメノミノフクサヨウ ナツメシズク",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "女優"
+    ],
+    "text": "【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。\n【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+    "flavor": "あなたの寵愛を受ける事が出来ない私でしたから……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_030.png",
+        "cardNo": "OS06/R06-030",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-030&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_030s.png",
+        "cardNo": "OS06/R06-030S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-030S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-031",
+    "baseNo": "OS06/R06-031",
+    "name": "喫茶キマイラ 鳥谷真琴",
+    "kana": "キッサキマイラ トリタニマコト",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 この能力は1ターンにつき1回まで発動する。あなたが『共鳴』を使った時、そのターン中、このカードのパワーを＋500し、このカードは次の能力を得る。『【自】［(1)］ このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。』\n【自】 共鳴 ［手札の「櫻の芸術家 草薙直哉」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。",
+    "flavor": "ま、でも、今日はお客さんなのでしょ？だったらサービスしてあげるわよ。笑ってあげようか？極上のスマイルで",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_031.png",
+        "cardNo": "OS06/R06-031",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-031&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_031ofr.png",
+        "cardNo": "OS06/R06-031OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-031OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_031sp.png",
+        "cardNo": "OS06/R06-031SP",
+        "rarity": "SP",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-031SP&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-032",
+    "baseNo": "OS06/R06-032",
+    "name": "窯と向き合って 鳥谷真琴",
+    "kana": "カマトムキアッテ トリタニマコト",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「月と梯子」があるなら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "私はこのムーア展にかけている。絶対に賞を取ろうと思っている",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_032.png",
+        "cardNo": "OS06/R06-032",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-032&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_032s.png",
+        "cardNo": "OS06/R06-032S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-032S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-033",
+    "baseNo": "OS06/R06-033",
+    "name": "遺産相続の放棄 草薙直哉",
+    "kana": "イサンソウゾクノホウキ クサナギナオヤ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】［(2) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、他のあなたの〈同OS〉のキャラがいるなら、コストを払ってよい。そうしたら、あなたは自分の山札のカード名に「雫」か「葛」を含むキャラを2枚までサーチし手札に加える。\n【自】［(2)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。",
+    "flavor": "俺はこの金は受け取れません……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_033.png",
+        "cardNo": "OS06/R06-033",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-033&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_033s.png",
+        "cardNo": "OS06/R06-033S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-033S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-034",
+    "baseNo": "OS06/R06-034",
+    "name": "腹ペコの共犯者 鳥谷真琴",
+    "kana": "ハラペコノキョウハンシャ トリタニマコト",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】［手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "な、何笑ってるの！不愉快な男ね。一口だけ味見してから行くのよ！文句あるかしら？",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_034.png",
+        "cardNo": "OS06/R06-034",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-034&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_034s.png",
+        "cardNo": "OS06/R06-034S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-034S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-035",
+    "baseNo": "OS06/R06-035",
+    "name": "伯奇の少女 夏目雫",
+    "kana": "ハクキノショウジョ ナツメシズク",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "夢"
+    ],
+    "text": "【永】 他のあなたの「才能の具現化 吹」がいるなら、このカードは次の能力を得る。『【起】 ［このカードを控え室に置く］ あなたは自分の控え室の「櫻咲くこの森で 夏目雫」を1枚選び、このカードがいた枠に置く。』\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "大丈夫……じろじろ見られても、何も見えてないのだから……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_035.png",
+        "cardNo": "OS06/R06-035",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-035&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_035s.png",
+        "cardNo": "OS06/R06-035S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-035S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-036",
+    "baseNo": "OS06/R06-036",
+    "name": "慈しみの眼差し 鳥谷真琴",
+    "kana": "イツクシミノマナザシ　トリタニマコト",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「櫻の森の中で 夏目圭」を1枚まで選び、このカードがいた枠に置く。』\n【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "それは、圭も私も望んでいないから。だからあなたは、見ようともしなかった",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_036.png",
+        "cardNo": "OS06/R06-036",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-036&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_036s.png",
+        "cardNo": "OS06/R06-036S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-036S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-037",
+    "baseNo": "OS06/R06-037",
+    "name": "部員勧誘 夏目圭",
+    "kana": "ブインカンユウ ナツメケイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500し、このカードは《女装》を得る。\n【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、コストを払ってよい。そうしたら、このカードを【レスト】する。",
+    "flavor": "はぁ……んじゃ、さっさとチラシ配って撤収しましょう",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_037.png",
+        "cardNo": "OS06/R06-037",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-037&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_037s.png",
+        "cardNo": "OS06/R06-037S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-037S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-038",
+    "baseNo": "OS06/R06-038",
+    "name": "明石小牧",
+    "kana": "アカシコマキ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "生徒会"
+    ],
+    "text": "【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+    "flavor": "二人とも推定無罪です",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_038.png",
+        "cardNo": "OS06/R06-038",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-038&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_038s.png",
+        "cardNo": "OS06/R06-038S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-038S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-039",
+    "baseNo": "OS06/R06-039",
+    "name": "明石小沙智",
+    "kana": "アカシコサチ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "生徒会"
+    ],
+    "text": "【自】［(1)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を見てCXを1枚まで選んで公開し、自分の手札のCXを1枚まで選んで公開し、それらのCXを入れ替え、その山札をシャッフルする。",
+    "flavor": "それはこっちの台詞よ！今の今まで退学にならなかったのが不思議だわ！",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_039.png",
+        "cardNo": "OS06/R06-039",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-039&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_039s.png",
+        "cardNo": "OS06/R06-039S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-039S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-040",
+    "baseNo": "OS06/R06-040",
+    "name": "恩田寧",
+    "kana": "オンダネイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_040.png",
+        "cardNo": "OS06/R06-040",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-040&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_040s.png",
+        "cardNo": "OS06/R06-040S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-040S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-041",
+    "baseNo": "OS06/R06-041",
+    "name": "夏目圭",
+    "kana": "ナツメケイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_041.png",
+        "cardNo": "OS06/R06-041",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-041&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_041s.png",
+        "cardNo": "OS06/R06-041S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-041S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-042",
+    "baseNo": "OS06/R06-042",
+    "name": "明石亘",
+    "kana": "アカシワタル",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードがアタックした時、他のあなたの〈同OS〉のキャラがいるなら、そのターン中、このカードのパワーを＋1500。\n【自】 記憶 このカードがアタックした時、あなたの思い出置場に「櫻達の足跡」があるなら、そのターン中、このカードのパワーを＋500し、あなたは自分の山札の上から1枚を公開する。そのカードの、レベルが2以上かカード名が「櫻の芸術家 草薙直哉」ならストックにする。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_042.png",
+        "cardNo": "OS06/R06-042",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-042&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_042s.png",
+        "cardNo": "OS06/R06-042S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-042S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-043",
+    "baseNo": "OS06/R06-043",
+    "name": "鳥谷紗希",
+    "kana": "トリタニサキ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕"
+    ],
+    "text": "【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
+    "flavor": "ご迷惑？あなたは今回は何もやってないでしょ？",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_043.png",
+        "cardNo": "OS06/R06-043",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-043&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_043s.png",
+        "cardNo": "OS06/R06-043S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-043S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-044",
+    "baseNo": "OS06/R06-044",
+    "name": "桜舞う春の空 夏目圭",
+    "kana": "サクラマウハルノソラ ナツメケイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】［(2) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "どんな理由だ！人の顔を見て笑いやがって！",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_044.png",
+        "cardNo": "OS06/R06-044",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-044&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_044s.png",
+        "cardNo": "OS06/R06-044S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-044S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-045",
+    "baseNo": "OS06/R06-045",
+    "name": "羞恥プレイ好き疑惑 夏目雫",
+    "kana": "シュウチプレイズキギワク ナツメシズク",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "女優"
+    ],
+    "text": "【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストックにしてよい。\n【自】 共鳴 ［手札の「櫻の芸術家 草薙直哉」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "な、直哉ぁ……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_045.png",
+        "cardNo": "OS06/R06-045",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-045&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_045s.png",
+        "cardNo": "OS06/R06-045S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-045S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-046",
+    "baseNo": "OS06/R06-046",
+    "name": "部員勧誘 草薙直哉",
+    "kana": "ブインカンユウ クサナギナオヤ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 2,
+    "power": 7000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ 相手のターン中、このカードが【リバース】した時、コストを払ってよい。そうしたら、このカードを【レスト】し、次のあなたのアンコールステップの始めに、このカードを控え室に置く。\n【自】 共鳴 ［手札の「部員勧誘 夏目圭」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "君の素敵な瞳をより輝かせるためには、精神のエステティックが必要なのさ",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_046.png",
+        "cardNo": "OS06/R06-046",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-046&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_046s.png",
+        "cardNo": "OS06/R06-046S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-046S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-047",
+    "baseNo": "OS06/R06-047",
+    "name": "当たり前の時間 鳥谷真琴",
+    "kana": "アタリマエノジカン トリタニマコト",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 共鳴 ［手札の「櫻の芸術家 草薙直哉」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋2000。",
+    "flavor": "何、考えてるの？",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_047.png",
+        "cardNo": "OS06/R06-047",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-047&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_047s.png",
+        "cardNo": "OS06/R06-047S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-047S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-048",
+    "baseNo": "OS06/R06-048",
+    "name": "頑張り屋 鳥谷真琴",
+    "kana": "ガンバリヤ トリタニマコト",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 前列にこのカードがいるなら、あなたの〈同OS〉のキャラすべてに、パワーを＋1500。\n【自】［(1) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、相手に1ダメージを与える。",
+    "flavor": "すう……くぅ……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_048.png",
+        "cardNo": "OS06/R06-048",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-048&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_048s.png",
+        "cardNo": "OS06/R06-048S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-048S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-049",
+    "baseNo": "OS06/R06-049",
+    "name": "櫻達の足跡",
+    "kana": "サクラタチノアシアト",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "EV",
+    "color": "green",
+    "level": 1,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "このカードは、あなたの〈同OS〉のキャラがいないなら、手札からプレイできない。\n共鳴 ［手札の「櫻の芸術家 草薙直哉」を1枚公開する］ コストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。このカードを思い出にする。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_049.png",
+        "cardNo": "OS06/R06-049",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-049&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_049s.png",
+        "cardNo": "OS06/R06-049S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-049S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-050",
+    "baseNo": "OS06/R06-050",
+    "name": "また、明日、お会いしましょう",
+    "kana": "マタ、アシタ、オアイシマショウ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "吹「わたしは……吹は……忘れ去られると……思っていた……」",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_050.png",
+        "cardNo": "OS06/R06-050",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-050&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_050s.png",
+        "cardNo": "OS06/R06-050S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-050S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-051",
+    "baseNo": "OS06/R06-051",
+    "name": "月と梯子",
+    "kana": "ツキトハシゴ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_051.png",
+        "cardNo": "OS06/R06-051",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-051&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_051s.png",
+        "cardNo": "OS06/R06-051S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-051S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-052",
+    "baseNo": "OS06/R06-052",
+    "name": "永遠の相 御桜稟",
+    "kana": "エイエンノソウ ミサクラリン",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "草薙くんには神さまはいないの？",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_052.png",
+        "cardNo": "OS06/R06-052",
+        "rarity": "RR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-052&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_052ofr.png",
+        "cardNo": "OS06/R06-052OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-052OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_052sp.png",
+        "cardNo": "OS06/R06-052SP",
+        "rarity": "SP",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-052SP&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-053",
+    "baseNo": "OS06/R06-053",
+    "name": "背中合わせ 御桜稟",
+    "kana": "セナカアワセ ミサクラリン",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが手札から登場した時か『合体』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】 ［(2) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「地上に舞い戻った天才」があり、他のあなたの〈同OS〉のキャラが2枚以上なら、コストを払ってよい。そうしたら、相手に4ダメージを与え、あなたは相手の控え室のカードを1枚まで選び、山札の上に置く。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_053.png",
+        "cardNo": "OS06/R06-053",
+        "rarity": "RR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-053&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_053ofr.png",
+        "cardNo": "OS06/R06-053OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-053OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_053ssp.png",
+        "cardNo": "OS06/R06-053SSP",
+        "rarity": "SSP",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-053SSP&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-054",
+    "baseNo": "OS06/R06-054",
+    "name": "櫻の芸術家 草薙直哉",
+    "kana": "サクラノゲイジュツカ クサナギナオヤ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。\n【起】［他のあなたの舞台のキャラを1枚控え室に置き、このカードを【レスト】する］ このカードを手札に戻す。",
+    "flavor": "人と共にある神は弱い神だが、それでも、人が信じた時にそばにいる",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_054.png",
+        "cardNo": "OS06/R06-054",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-054&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_054s.png",
+        "cardNo": "OS06/R06-054S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-054S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-055",
+    "baseNo": "OS06/R06-055",
+    "name": "真夜中のプールで勝負を 吹",
+    "kana": "マヨナカノプールデショウブヲ スイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。",
+    "flavor": "制限時間は三時間！スタートですっ",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_055.png",
+        "cardNo": "OS06/R06-055",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-055&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_055ofr.png",
+        "cardNo": "OS06/R06-055OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-055OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_055sp.png",
+        "cardNo": "OS06/R06-055SP",
+        "rarity": "SP",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-055SP&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-056",
+    "baseNo": "OS06/R06-056",
+    "name": "ストーカー？の少女 長山香奈",
+    "kana": "ストーカー？ノショウジョ ナガヤマカナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 あなたのターン中、あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』\n【自】［手札を1枚控え室に置く］ 控え室にこのカードがあるなら、あなたの「櫻の芸術家 草薙直哉」が手札から登場した時、コストを払ってよい。そうしたら、あなたはこのカードを舞台の好きな枠に置く。",
+    "flavor": "はぁ、はぁ、はぁ、ひ、ひさしぶり、長山香奈だよ。ぐ、偶然だね。こんな場所で会うなんて！",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_056.png",
+        "cardNo": "OS06/R06-056",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-056&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_056s.png",
+        "cardNo": "OS06/R06-056S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-056S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-057",
+    "baseNo": "OS06/R06-057",
+    "name": "君が立つ大地だ 御桜稟",
+    "kana": "キミノタツダイチダ ミサクラリン",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 このカードはサイドアタックできない。\n【自】【CXコンボ】 共鳴 ［手札の「櫻の芸術家 草薙直哉」を1枚公開する］ このカードのバトル相手が【リバース】した時、あなたのCX置場に「ツバメと幸福な王子」があるなら、コストを払ってよい。そうしたら、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_057.png",
+        "cardNo": "OS06/R06-057",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-057&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_057s.png",
+        "cardNo": "OS06/R06-057S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-057S&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_p07.png",
+        "cardNo": "OS06/R06-P07",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-P07&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R06",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-058",
+    "baseNo": "OS06/R06-058",
+    "name": "蘇る記憶 御桜稟",
+    "kana": "ヨミガエルルキオク ミサクラリン",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の控え室の「背中合わせ 御桜稟」を2枚まで選び、山札の下に好きな順番で置く。\n【起】 合体 ［あなたの舞台の「真夜中のプールで勝負を 吹」を1枚表向きでこのカードのマーカーにする］ あなたは自分の山札の「背中合わせ 御桜稟」を1枚まで選び、このカードがいる枠に置き、このカードの下のマーカーすべてとこのカードをその「背中合わせ 御桜稟」の下にマーカーとして好きな順番で表向きに置き、その山札をシャッフルする。",
+    "flavor": "覚えてる……この風景……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_058.png",
+        "cardNo": "OS06/R06-058",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-058&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_058s.png",
+        "cardNo": "OS06/R06-058S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-058S&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_p04ex.png",
+        "cardNo": "OS06/R06-P04EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-P04EX&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_p04s.png",
+        "cardNo": "OS06/R06-P04S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-P04S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R06",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-059",
+    "baseNo": "OS06/R06-059",
+    "name": "神を宿す少女 御桜稟",
+    "kana": "カミヲヤドスショウジョ ミサクラリン",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から登場した時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。\n【自】 このカードが手札から登場した時、他のあなたの〈同OS〉のキャラがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000。",
+    "flavor": "私は、人の夢を水に変えることも、その夢を食べる事も出来ない……けど、千年桜は咲かせられる……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_059.png",
+        "cardNo": "OS06/R06-059",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-059&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_059s.png",
+        "cardNo": "OS06/R06-059S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-059S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-060",
+    "baseNo": "OS06/R06-060",
+    "name": "お節介な教え子 咲崎桜子",
+    "kana": "オセッカイナオシエゴ サキザキサクラコ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_060.png",
+        "cardNo": "OS06/R06-060",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-060&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_060ofr.png",
+        "cardNo": "OS06/R06-060OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-060OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_060sp.png",
+        "cardNo": "OS06/R06-060SP",
+        "rarity": "SP",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-060SP&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-061",
+    "baseNo": "OS06/R06-061",
+    "name": "転入生 御桜稟",
+    "kana": "テンニュウセイ ミサクラリン",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが手札から登場した時、他のあなたの〈同OS〉のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは1枚引く。",
+    "flavor": "み、みみ、御桜稟です。よろしくお願いします",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_061.png",
+        "cardNo": "OS06/R06-061",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-061&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_061s.png",
+        "cardNo": "OS06/R06-061S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-061S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-062",
+    "baseNo": "OS06/R06-062",
+    "name": "ブルバギの紅一点 長山香奈",
+    "kana": "ブルバギノコウイッテン ナガヤマカナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。\n【自】 このカードが手札から登場した時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
+    "flavor": "わ、私はブルバギの長山香奈です。今回は皆様の前で作品を公開出来て光栄です",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_062.png",
+        "cardNo": "OS06/R06-062",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-062&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_062s.png",
+        "cardNo": "OS06/R06-062S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-062S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-063",
+    "baseNo": "OS06/R06-063",
+    "name": "マーティ・フリッドマン",
+    "kana": "マーティ・フリッドマン",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】［(2) 他のあなたの舞台のキャラを1枚クロックにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の、イベントかCXを1枚選び、手札に戻す。",
+    "flavor": "礼には及ばない。私は金になる事しかしない。あの時もそう言っただろ",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_063.png",
+        "cardNo": "OS06/R06-063",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-063&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_063s.png",
+        "cardNo": "OS06/R06-063S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-063S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-064",
+    "baseNo": "OS06/R06-064",
+    "name": "差し出す手 御桜稟",
+    "kana": "サシダステ ミサクラリン",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_064.png",
+        "cardNo": "OS06/R06-064",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-064&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_064s.png",
+        "cardNo": "OS06/R06-064S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-064S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-065",
+    "baseNo": "OS06/R06-065",
+    "name": "才人の執念 長山香奈",
+    "kana": "サイジンノシュウネン ナガヤマカナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+    "flavor": "天才の価値は、才人にしか分からない",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_065.png",
+        "cardNo": "OS06/R06-065",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-065&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_065s.png",
+        "cardNo": "OS06/R06-065S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-065S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-066",
+    "baseNo": "OS06/R06-066",
+    "name": "触れ合う指 御桜稟",
+    "kana": "フレアウユビ ミサクラリン",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたのカード名に「直哉」か「稟」を含むキャラがいるなら、このカードのパワーを＋3000。",
+    "flavor": "あ……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_066.png",
+        "cardNo": "OS06/R06-066",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-066&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_066s.png",
+        "cardNo": "OS06/R06-066S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-066S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-067",
+    "baseNo": "OS06/R06-067",
+    "name": "吹",
+    "kana": "スイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_067.png",
+        "cardNo": "OS06/R06-067",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-067&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_067s.png",
+        "cardNo": "OS06/R06-067S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-067S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-068",
+    "baseNo": "OS06/R06-068",
+    "name": "君が立つ大地だ 草薙直哉",
+    "kana": "キミガタツダイチダ クサナギナオヤ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 記憶 このカードがアタックした時、あなたの思い出置場に「もう一人の天才 夏目圭」があるなら、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "flavor": "ツバメは南に旅立ったが、それでもいつかは帰ってくる。この大地に",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_068.png",
+        "cardNo": "OS06/R06-068",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-068&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_068s.png",
+        "cardNo": "OS06/R06-068S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-068S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-069",
+    "baseNo": "OS06/R06-069",
+    "name": "才能の具現化 吹",
+    "kana": "サイノウノグゲンカ スイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたの「伯奇の少女 夏目雫」がいるなら、他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+    "flavor": "なんですか？あれは？人をじろじろ見て……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_069.png",
+        "cardNo": "OS06/R06-069",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-069&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_069s.png",
+        "cardNo": "OS06/R06-069S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-069S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-070",
+    "baseNo": "OS06/R06-070",
+    "name": "栗山奈津子",
+    "kana": "クリヤマナツコ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［手札を1枚控え室に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の控え室のレベル0以下の〈同OS〉のキャラを1枚選び、舞台の好きな枠に置く。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_070.png",
+        "cardNo": "OS06/R06-070",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-070&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_070s.png",
+        "cardNo": "OS06/R06-070S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-070S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-071",
+    "baseNo": "OS06/R06-071",
+    "name": "咲崎桜子",
+    "kana": "サキザキサクラコ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラ1枚につき、このカードのパワーを＋500。\n【自】【CXコンボ】 このカードがアタックした時、CX置場に「教え子の膝枕」があるなら、あなたは自分の山札を上から2枚まで見て、〈同OS〉のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_071.png",
+        "cardNo": "OS06/R06-071",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-071&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_071s.png",
+        "cardNo": "OS06/R06-071S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-071S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-072",
+    "baseNo": "OS06/R06-072",
+    "name": "櫻日狂想",
+    "kana": "サクラビキョウソウ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "EV",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\n次の2つの効果のうちあなたが選んだ1つを行う。\n『あなたは自分の山札の上から1枚を、ストックにする。あなたは自分のストックを見てキャラを1枚まで選んで相手に見せ、手札に戻し、そのストックをシャッフルする。』\n『相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。』",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_072.png",
+        "cardNo": "OS06/R06-072",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-072&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_072s.png",
+        "cardNo": "OS06/R06-072S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-072S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-073",
+    "baseNo": "OS06/R06-073",
+    "name": "地上に舞い戻った天才",
+    "kana": "チジョウニマイモドッタテンサイ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_073.png",
+        "cardNo": "OS06/R06-073",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-073&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_073s.png",
+        "cardNo": "OS06/R06-073S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-073S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-074",
+    "baseNo": "OS06/R06-074",
+    "name": "ツバメと幸福な王子",
+    "kana": "ツバメトコウフクナオウジ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "はい、この桜の下で、私はある直感を得ました。だから、その直感を信じたいと思います",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_074.png",
+        "cardNo": "OS06/R06-074",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-074&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_074a.png",
+        "cardNo": "OS06/R06-074A",
+        "rarity": "AGR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-074A&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_074s.png",
+        "cardNo": "OS06/R06-074S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-074S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-075",
+    "baseNo": "OS06/R06-075",
+    "name": "教え子の膝枕",
+    "kana": "オシエゴノヒザマクラ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "ほら、打撲は後から腫れるんですよ。ちゃんと消毒して、湿布して……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_075.png",
+        "cardNo": "OS06/R06-075",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-075&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_075s.png",
+        "cardNo": "OS06/R06-075S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-075S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-076",
+    "baseNo": "OS06/R06-076",
+    "name": "ひとつのMarchen 氷川里奈",
+    "kana": "ヒトツノMarchen ヒカワリナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが手札から登場した時、他のあなたの〈同OS〉のキャラがいるなら、そのターン中、このカードのレベルを＋1し、パワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の〈同OS〉のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_076.png",
+        "cardNo": "OS06/R06-076",
+        "rarity": "RR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-076&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_076ofr.png",
+        "cardNo": "OS06/R06-076OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-076OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_076ssp.png",
+        "cardNo": "OS06/R06-076SSP",
+        "rarity": "SSP",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-076SSP&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-077",
+    "baseNo": "OS06/R06-077",
+    "name": "winwinの関係 優美＆里奈",
+    "kana": "winwinノカンケイ ユウミ＆リナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「キスと涙」があり、他のあなたの前列の「winwinの関係 優美＆里奈」がいるなら、あなたは自分の山札を上から1枚見て、山札の上か下か控え室に置き、あなたは自分の控え室のレベル1以下のキャラを2枚まで選び、1枚選び、手札に加え、残りのカードをストックにする。",
+    "flavor": "優美「いいじゃない。私の頭を撫でて、私は里奈の胸に顔を埋める」里奈「何がいいのか分からない」",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_077.png",
+        "cardNo": "OS06/R06-077",
+        "rarity": "RR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-077&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_077ofr.png",
+        "cardNo": "OS06/R06-077OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-077OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_077sp.png",
+        "cardNo": "OS06/R06-077SP",
+        "rarity": "SP",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-077SP&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-078",
+    "baseNo": "OS06/R06-078",
+    "name": "「精神的妹」 氷川里奈",
+    "kana": "「セイシンテキイモウト」 ヒカワリナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】［手札のCXを1枚控え室に置く］ あなたのCXがトリガーした時、コストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "はい、なんといいますか、本当の妹というわけではないのです。",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_078.png",
+        "cardNo": "OS06/R06-078",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-078&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_078ofr.png",
+        "cardNo": "OS06/R06-078OFR",
+        "rarity": "OFR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-078OFR&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_078sp.png",
+        "cardNo": "OS06/R06-078SP",
+        "rarity": "SP",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-078SP&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-079",
+    "baseNo": "OS06/R06-079",
+    "name": "気の強い新入生 川内野優美",
+    "kana": "キノツヨイシンニュウセイ カワチノユウミ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 あなたのトリガーアイコンに【ソウル】があるカードがトリガーした時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】【CXコンボ】 あなたのCX置場に「愛してしまったから」が置かれた時、他のあなたの〈同OS〉のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
+    "flavor": "……セクハラ？",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_079.png",
+        "cardNo": "OS06/R06-079",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-079&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_079s.png",
+        "cardNo": "OS06/R06-079S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-079S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-080",
+    "baseNo": "OS06/R06-080",
+    "name": "一緒にいるために 氷川里奈",
+    "kana": "イッショニイルタメニ ヒカワリナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにCXがあるなら、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。\n【自】 共鳴 ［手札の「櫻の芸術家 草薙直哉」を1枚公開する］ あなたのCXフェイズの始めに、前列にこのカードがいるなら、コストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "flavor": "妹はいつでも微妙な立ち位置でいられる……ハズですから",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_080.png",
+        "cardNo": "OS06/R06-080",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-080&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_080s.png",
+        "cardNo": "OS06/R06-080S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-080S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-081",
+    "baseNo": "OS06/R06-081",
+    "name": "黄昏の海辺で 川内野優美",
+    "kana": "タソガレノウミベデ カワチノユウミ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 経験 あなたのレベル置場に、「黄昏の海辺で 川内野優美」と「毒きのこの少女 氷川里奈」があるなら、あなたの手札のこのカードのレベルを－1。\n【永】 他のあなたの「“赤ずきんちゃん”氷川里奈」がいるなら、このカードのパワーを＋1000。\n【自】 共鳴 ［手札の「毒きのこの少女 氷川里奈」を1枚公開する］ このカードが手札から登場した時、コストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを与える。』『あなたは自分のクロックの上から1枚を、控え室に置く。』",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_081.png",
+        "cardNo": "OS06/R06-081",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-081&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_081s.png",
+        "cardNo": "OS06/R06-081S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-081S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-082",
+    "baseNo": "OS06/R06-082",
+    "name": "毒きのこの少女 氷川里奈",
+    "kana": "ドクキノコノショウジョ ヒカワリナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】［(2) 手札を2枚控え室に置き、このカードを手札に戻す］ このカードのアタックの終わりに、CX置場に「三人でデート」があり、他のあなたの「“赤ずきんちゃん”氷川里奈」がいるなら、コストを払ってよい。そうしたら、あなたは自分の手札の「黄昏の海辺で 川内野優美」を1枚まで選び、このカードがいた枠に置き、そのターン中、そのキャラのパワーを＋2000。",
+    "flavor": "私の傘は白い。そういうものだと思ってました",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_082.png",
+        "cardNo": "OS06/R06-082",
+        "rarity": "R",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-082&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_082s.png",
+        "cardNo": "OS06/R06-082S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-082S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-083",
+    "baseNo": "OS06/R06-083",
+    "name": "プール釣り 氷川里奈",
+    "kana": "プールツリ ヒカワリナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。\n【自】 共鳴 ［手札の「毒きのこの少女 氷川里奈」を1枚公開する］ 相手のアタックフェイズの始めに、コストを払ってよい。そうしたら、あなたはこのカードを前列のキャラのいない枠に動かす。",
+    "flavor": "神さまは個々の諸事情なんて関係ないのよ。同じ生産ラインにのせて作らないとめんどくさいからね。そんなこんなでみんな同じ仕様なのよ",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_083.png",
+        "cardNo": "OS06/R06-083",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-083&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_083s.png",
+        "cardNo": "OS06/R06-083S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-083S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-084",
+    "baseNo": "OS06/R06-084",
+    "name": "糸杉を桜に 草薙直哉",
+    "kana": "イトスギヲサクラニ クサナギナオヤ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［このカードを控え室に置く］ 他のあなたのカード名に「里奈」を含むキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、コストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+    "flavor": "こんな狂った嵐の夜ならーーそうだなーーそろそろ花をつけてもいい時期だと思ってな",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_084.png",
+        "cardNo": "OS06/R06-084",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-084&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_084s.png",
+        "cardNo": "OS06/R06-084S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-084S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-085",
+    "baseNo": "OS06/R06-085",
+    "name": "川内野鈴菜",
+    "kana": "カワチノスズナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたの「氷川ルリヲ」すべてに、パワーを＋1000し、ソウルを＋1。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_085.png",
+        "cardNo": "OS06/R06-085",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-085&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_085s.png",
+        "cardNo": "OS06/R06-085S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-085S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-086",
+    "baseNo": "OS06/R06-086",
+    "name": "“赤ずきんちゃん”氷川里奈",
+    "kana": "“アカズキンチャン”ヒカワリナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【起】［あなたの青のキャラを1枚【レスト】する］ あなたは自分のレベル置場の青のキャラと控え室の青のキャラを1枚ずつ選び、入れ替える。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室の青のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "ねぇ、気がついてた……優美私は毒を有してたんだよ……",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_086.png",
+        "cardNo": "OS06/R06-086",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-086&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_086s.png",
+        "cardNo": "OS06/R06-086S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-086S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-087",
+    "baseNo": "OS06/R06-087",
+    "name": "ZYPRESSENの公園で 里奈＆優美",
+    "kana": "ZYPRESSENノコウエンデ リナ＆ユウミ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「里奈」か「優美」を含むキャラか「糸杉の少女」なら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。",
+    "flavor": "優美「今日は、絵描かないの？」里奈「うん、なんかね……。今日は休み……」優美「そうなんだ……」",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_087.png",
+        "cardNo": "OS06/R06-087",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-087&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_087s.png",
+        "cardNo": "OS06/R06-087S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-087S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-088",
+    "baseNo": "OS06/R06-088",
+    "name": "柊ノノ未",
+    "kana": "ヒイラギノノミ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕"
+    ],
+    "text": "【自】［他のあなたの〈同OS〉のキャラを1枚【レスト】する］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。\n【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_088.png",
+        "cardNo": "OS06/R06-088",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-088&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_088s.png",
+        "cardNo": "OS06/R06-088S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-088S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-089",
+    "baseNo": "OS06/R06-089",
+    "name": "氷川ルリヲ",
+    "kana": "ヒカワルリヲ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "-",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_089.png",
+        "cardNo": "OS06/R06-089",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-089&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_089s.png",
+        "cardNo": "OS06/R06-089S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-089S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-090",
+    "baseNo": "OS06/R06-090",
+    "name": "タキザワ・トーマス",
+    "kana": "タキザワ・トーマス",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋4000。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_090.png",
+        "cardNo": "OS06/R06-090",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-090&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_090s.png",
+        "cardNo": "OS06/R06-090S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-090S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-091",
+    "baseNo": "OS06/R06-091",
+    "name": "旧知の仲 氷川ルリヲ",
+    "kana": "キュウノナカ ヒカワルリヲ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたの前列の「旧知の仲 川内野鈴菜」がいるなら、このカードのパワーを＋2000。\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の「旧知の仲 川内野鈴菜」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。",
+    "flavor": "ルリヲ「これいいねぇ。サクサクだねぇ。おいしいね」",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_091.png",
+        "cardNo": "OS06/R06-091",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-091&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_091s.png",
+        "cardNo": "OS06/R06-091S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-091S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-092",
+    "baseNo": "OS06/R06-092",
+    "name": "旧知の仲 川内野鈴菜",
+    "kana": "キュウチノナカ カワチノスズナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたの前列の「旧知の仲 氷川ルリヲ」がいるなら、このカードのパワーを＋2000。\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の「旧知の仲 氷川ルリヲ」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。",
+    "flavor": "それで、先生はどうですか？",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_092.png",
+        "cardNo": "OS06/R06-092",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-092&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_092s.png",
+        "cardNo": "OS06/R06-092S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-092S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-093",
+    "baseNo": "OS06/R06-093",
+    "name": "“オオカミさん”川内野優美",
+    "kana": "“オオカミサン”カワチノユウミ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 あなたの手札の「“赤ずきんちゃん”氷川里奈」すべてに、『【起】【カウンター】 助太刀2500 レベル1 ［(1) 手札のこのカードを控え室に置く］』を与える。\n【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_093.png",
+        "cardNo": "OS06/R06-093",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-093&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_093s.png",
+        "cardNo": "OS06/R06-093S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-093S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-094",
+    "baseNo": "OS06/R06-094",
+    "name": "若田清二郎",
+    "kana": "ワカタセイジロウ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの〈同OS〉のキャラが4枚以上なら、あなたのCXフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "これやるから。持って行け",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_094.png",
+        "cardNo": "OS06/R06-094",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-094&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_094s.png",
+        "cardNo": "OS06/R06-094S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-094S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-095",
+    "baseNo": "OS06/R06-095",
+    "name": "非常勤美術教師 草薙直哉",
+    "kana": "ヒジョウキンビジュツコウシ クサナギナオヤ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－6000。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。",
+    "flavor": "ああ、ただでなくても、クビが飛びそうなのに、生徒とそんな関係などまっぴらごめんだ",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_095.png",
+        "cardNo": "OS06/R06-095",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-095&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_095s.png",
+        "cardNo": "OS06/R06-095S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-095S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-096",
+    "baseNo": "OS06/R06-096",
+    "name": "幸せをかみしめて 氷川里奈",
+    "kana": "シアワセヲカミシメテ ヒカワリナ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋4000。\n【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋3000。",
+    "flavor": "うわ、ぎゅっとしてもらった。すごいぎゅっとしてもらえました",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_096.png",
+        "cardNo": "OS06/R06-096",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-096&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_096s.png",
+        "cardNo": "OS06/R06-096S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-096S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-097",
+    "baseNo": "OS06/R06-097",
+    "name": "糸杉の少女",
+    "kana": "イトスギノショウジョ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "EV",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "このカードは、あなたのカード名に「里奈」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_097.png",
+        "cardNo": "OS06/R06-097",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-097&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_097s.png",
+        "cardNo": "OS06/R06-097S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-097S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-098",
+    "baseNo": "OS06/R06-098",
+    "name": "キスと涙",
+    "kana": "キストナミダ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "里奈「私は、川内野優美に命令します泣かないで」",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_098.png",
+        "cardNo": "OS06/R06-098",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-098&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_098s.png",
+        "cardNo": "OS06/R06-098S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-098S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-099",
+    "baseNo": "OS06/R06-099",
+    "name": "愛してしまったから",
+    "kana": "アイシテシマッタカラ",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストックにし、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "flavor": "だから、無理なんですよ最初っから無理……あなたには勝てないんです",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_099.png",
+        "cardNo": "OS06/R06-099",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-099&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_099s.png",
+        "cardNo": "OS06/R06-099S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-099S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-100",
+    "baseNo": "OS06/R06-100",
+    "name": "三人でデート",
+    "kana": "サンニンデデート",
+    "product": "ブースタパック 枕",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "",
+    "releaseDate": "2025-12-26",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_100.png",
+        "cardNo": "OS06/R06-100",
+        "rarity": "C",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-100&expansion=R06"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_100s.png",
+        "cardNo": "OS06/R06-100S",
+        "rarity": "SR",
+        "expansion": "R06",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-100S&expansion=R06"
+      }
+    ],
+    "expansions": [
+      "R06"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-P01",
+    "baseNo": "OS06/R06-P01",
+    "name": "出会った時の姿で 夏目雫",
+    "kana": "デアッタトキノスガダデ ナツメシズク",
+    "product": "PRカード",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "女優"
+    ],
+    "text": "【自】 他のあなたの〈同OS〉のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n【自】［(1) 手札のCXを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-01-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_p01.png",
+        "cardNo": "OS06/R06-P01",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-P01&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_p01s.png",
+        "cardNo": "OS06/R06-P01S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-P01S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-P03",
+    "baseNo": "OS06/R06-P03",
+    "name": "夕日を背に 夏目藍",
+    "kana": "ユウヒヲセニ ナツメアイ",
+    "product": "PRカード",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "枕",
+      "先生"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラがいるなら、このカードのパワーを＋1500。\n【自】 共鳴 ［手札の「櫻の芸術家 草薙直哉」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋1。",
+    "flavor": "",
+    "releaseDate": "2026-03-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_p03.png",
+        "cardNo": "OS06/R06-P03",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-P03&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_p03s.png",
+        "cardNo": "OS06/R06-P03S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-P03S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS06/R06-P05",
+    "baseNo": "OS06/R06-P05",
+    "name": "謹賀新年 御桜稟",
+    "kana": "キンガシンネン ミサクラリン",
+    "product": "PRカード",
+    "neoStandard": "枕",
+    "workNo": "OS06",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "枕",
+      "芸術"
+    ],
+    "text": "【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋1500し、このカードは次の2つの能力を得る。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』『【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを2枚まで選び、次の相手のターンの終わりまで、パワーを＋1500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。』",
+    "flavor": "",
+    "releaseDate": "2026-05-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_p05.png",
+        "cardNo": "OS06/R06-P05",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-P05&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os06/r06/os06_r06_p05s.png",
+        "cardNo": "OS06/R06-P05S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS06%2FR06-P05S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  }
+]

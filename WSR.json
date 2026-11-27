@@ -1,0 +1,36 @@
+[
+  {
+    "cardNo": "WSR/RPR-P01",
+    "baseNo": "WSR/RPR-P01",
+    "name": "ヴァイスシュヴァルツロゼ、始動！",
+    "kana": "ヴァイスシュヴァルツロゼ、シドウ！",
+    "product": "PRカード",
+    "neoStandard": "",
+    "workNo": "WSR",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "",
+    "releaseDate": "2025-04-25",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/wsr/rpr/wsr_rpr_p01.png",
+        "cardNo": "WSR/RPR-P01",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=WSR%2FRPR-P01&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  }
+]

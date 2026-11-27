@@ -1,0 +1,4635 @@
+[
+  {
+    "cardNo": "OS08/R08-001",
+    "baseNo": "OS08/R08-001",
+    "name": "黒い翼 カミュ",
+    "kana": "クロイツバサ カミュ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "皇族"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋1000。\n【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+    "flavor": "また今度も、遊びに来ていい？",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_001.png",
+        "cardNo": "OS08/R08-001",
+        "rarity": "RR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-001&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_001ofr.png",
+        "cardNo": "OS08/R08-001OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-001OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_001sp.png",
+        "cardNo": "OS08/R08-001SP",
+        "rarity": "SP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-001SP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-002",
+    "baseNo": "OS08/R08-002",
+    "name": "孤高を気取ったピアニスト かずさ",
+    "kana": "ココウヲキドッタピアニスト カズサ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】 このカードが手札から登場した時、他のあなたの〈同OS〉のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\n【自】［(1) あなたの山札の上から1枚をクロックにする］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、〈同OS〉のキャラか「届かない恋」を2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "でも今からのお前は、間違った週末を過ごすんだ。あたしの、あたしだけの春希になるんだ",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_002.png",
+        "cardNo": "OS08/R08-002",
+        "rarity": "RR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-002&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_002ofr.png",
+        "cardNo": "OS08/R08-002OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-002OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_002sec.png",
+        "cardNo": "OS08/R08-002SEC",
+        "rarity": "SEC",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-002SEC&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-003",
+    "baseNo": "OS08/R08-003",
+    "name": "初恋の行方 かずさ",
+    "kana": "ハツコイノユクエ カズサ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】【CXコンボ】【ターン1】［(3) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのCX置場に「初めての、きっと最後の裏切り」があるなら、コストを払ってよい。そうしたら、このカードを【スタンド】する。\n【自】 記憶 このカードがアタックした時、他のあなたの「峰城大付属軽音楽同好会 春希&雪菜&かずさ」がいて、あなたの思い出置場の「届かない恋」が2枚以上なら、あなたは相手に1ダメージを与えてよい。",
+    "flavor": "聞かせてよ、北原のギター",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_003.png",
+        "cardNo": "OS08/R08-003",
+        "rarity": "RR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-003&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_003ofr.png",
+        "cardNo": "OS08/R08-003OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-003OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_003ssp.png",
+        "cardNo": "OS08/R08-003SSP",
+        "rarity": "SSP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-003SSP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-004",
+    "baseNo": "OS08/R08-004",
+    "name": "教室のお隣さん かずさ",
+    "kana": "キョウシツノオトナリサン カズサ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【永】【CXコンボ】 あなたのCX置場に「秘密のファーストキス」があるなら、すべての領域にあるこのカードはトリガーアイコンに【チョイス】を得る。\n【永】 あなたは【チョイス】の効果で自分の控え室の「届かない恋」を選んでよい。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_004.png",
+        "cardNo": "OS08/R08-004",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-004&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_004ofr.png",
+        "cardNo": "OS08/R08-004OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-004OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_004sp.png",
+        "cardNo": "OS08/R08-004SP",
+        "rarity": "SP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-004SP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-005",
+    "baseNo": "OS08/R08-005",
+    "name": "ふたりの二十四時間 かずさ＆雪菜",
+    "kana": "フタリノニジュウヨジカン カズサ＆セツナ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。",
+    "flavor": "雪菜「さ！　次は冬馬さんの番だよ？」",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_005.png",
+        "cardNo": "OS08/R08-005",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-005&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_005s.png",
+        "cardNo": "OS08/R08-005S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-005S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-006",
+    "baseNo": "OS08/R08-006",
+    "name": "オンカミヤムカイの皇女 ウルトリィ",
+    "kana": "オンカミヤムカイノオウジョ ウルトリィ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "皇族"
+    ],
+    "text": "【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。\n【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、コストを払ってよい。そうしたら、このカードを【レスト】する。",
+    "flavor": "それに私自身、皇の力になりたいのです",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_006.png",
+        "cardNo": "OS08/R08-006",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-006&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_006ofr.png",
+        "cardNo": "OS08/R08-006OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-006OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_006sp.png",
+        "cardNo": "OS08/R08-006SP",
+        "rarity": "SP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-006SP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-007",
+    "baseNo": "OS08/R08-007",
+    "name": "豪放にして豪腕 クロウ",
+    "kana": "ゴウホウニシテゴウワン クロウ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "武器"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋5000。\n【永】 他のあなたの前列の中央の枠の〈同OS〉のキャラに、パワーを＋1500。",
+    "flavor": "総大将の言葉、しかと承りやしたぜ",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_007.png",
+        "cardNo": "OS08/R08-007",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-007&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_007s.png",
+        "cardNo": "OS08/R08-007S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-007S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-008",
+    "baseNo": "OS08/R08-008",
+    "name": "敏腕編集者 麻理",
+    "kana": "ビンワンヘンシュウシャ マリ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "仕事"
+    ],
+    "text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが〈同OS〉のキャラかイベントなら、あなたは相手に1ダメージを与えてよい。\n【自】【ターン1】［(4) 手札を2枚控え室に置く］ このカードのアタックの終わりに、他のあなたの〈同OS〉のキャラが4枚以上なら、コストを払ってよい。そうしたら、このカードを【スタンド】する。",
+    "flavor": "さてと、それじゃ乾杯しようか",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_008.png",
+        "cardNo": "OS08/R08-008",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-008&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_008ofr.png",
+        "cardNo": "OS08/R08-008OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-008OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_008sp.png",
+        "cardNo": "OS08/R08-008SP",
+        "rarity": "SP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-008SP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-009",
+    "baseNo": "OS08/R08-009",
+    "name": "メリークリスマス 麻理",
+    "kana": "メリークリスマス マリ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "仕事"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から2枚までを、控え室に置く。\n【自】 このカードが手札から登場した時、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロックにする。",
+    "flavor": "どうだ北原？　これでなんとか格好ついただろ？",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_009.png",
+        "cardNo": "OS08/R08-009",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-009&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_009s.png",
+        "cardNo": "OS08/R08-009S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-009S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-010",
+    "baseNo": "OS08/R08-010",
+    "name": "完璧なコントラスト 雪菜＆かずさ",
+    "kana": "カンペキナコントラスト セツナ＆カズサ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】［(2) 他のあなたの舞台のキャラを1枚クロックにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の、イベントかCXを1枚選び、手札に戻す。",
+    "flavor": "雪菜「あと、わたしのことは雪菜でいいんだけど」",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_010.png",
+        "cardNo": "OS08/R08-010",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-010&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_010s.png",
+        "cardNo": "OS08/R08-010S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-010S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-011",
+    "baseNo": "OS08/R08-011",
+    "name": "ストレス解消法 麻理",
+    "kana": "ストレスカイショウホウ マリ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "仕事"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "あ～、惜しい！　あと１メートル！",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_011.png",
+        "cardNo": "OS08/R08-011",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-011&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_011s.png",
+        "cardNo": "OS08/R08-011S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-011S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-012",
+    "baseNo": "OS08/R08-012",
+    "name": "学園祭のステージ かずさ",
+    "kana": "ガクエンサイノステージ カズサ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋2000し、このカードは《キーボード》を得る。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「秘密のファーストキス」があるなら、あなたは自分の控え室のキャラか「届かない恋」を1枚まで選び、手札に戻す。\n【自】［(2)］ このカードがフロントアタックされた時、コストを払ってよい。そうしたら、あなたは自分の手札の「巧みな演奏 かずさ」を1枚選び、防御キャラとしてこのカードと入れ替え、そのターン中、そのキャラに《サックス》を与える。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_012.png",
+        "cardNo": "OS08/R08-012",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-012&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_012s.png",
+        "cardNo": "OS08/R08-012S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-012S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-013",
+    "baseNo": "OS08/R08-013",
+    "name": "珍客暁を覚えず カミュ",
+    "kana": "チンキャクアカツキヲオボエズ カミュ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "皇族"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋2000。\n【自】【CXコンボ】【ターン1】 このカードの与えたダメージがキャンセルされた時、あなたのCX置場に「月下の巫」があるなら、あなたは自分の控え室の〈同OS〉のキャラを1枚まで選び、ストックにし、自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラか「夜の訪問者」なら手札に加える。",
+    "flavor": "くか～‥‥すぴゅ～‥‥",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_013.png",
+        "cardNo": "OS08/R08-013",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-013&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_013s.png",
+        "cardNo": "OS08/R08-013S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-013S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-014",
+    "baseNo": "OS08/R08-014",
+    "name": "休暇のひととき 麻理",
+    "kana": "キュウカノヒトトキ マリ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "仕事"
+    ],
+    "text": "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「休暇のひととき 麻理」を1枚選び、舞台の好きな枠に置く。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_014.png",
+        "cardNo": "OS08/R08-014",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-014&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_014s.png",
+        "cardNo": "OS08/R08-014S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-014S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-015",
+    "baseNo": "OS08/R08-015",
+    "name": "母なるもの ウルトリィ",
+    "kana": "ハハナルモノ ウルトリィ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "皇族"
+    ],
+    "text": "【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが【リバース】した時、相手はあなたの控え室のキャラを1枚選び、山札の上に置いてよい。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_015.png",
+        "cardNo": "OS08/R08-015",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-015&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_015s.png",
+        "cardNo": "OS08/R08-015S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-015S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-016",
+    "baseNo": "OS08/R08-016",
+    "name": "新しい名 ハクオロ",
+    "kana": "アタラシイナ ハクオロ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "仮面"
+    ],
+    "text": "【永】 前列にこのカードがいるなら、他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］",
+    "flavor": "ハクオロ‥‥ですか",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_016.png",
+        "cardNo": "OS08/R08-016",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-016&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_016s.png",
+        "cardNo": "OS08/R08-016S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-016S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-017",
+    "baseNo": "OS08/R08-017",
+    "name": "剝き出しにした心 かずさ＆雪菜",
+    "kana": "ムキダシニシタココロ カズサ＆セツナ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】 このカードが手札から登場した時、すべてのプレイヤーのクロックが4枚以下なら、あなたは相手に1ダメージを与えてよい。そうしたら、相手はあなたに1ダメージを与えてよい。",
+    "flavor": "雪菜「春希くんは全然忘れなかった！　かずさのこと、一度たりとも忘れてはくれなかった！」",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_017.png",
+        "cardNo": "OS08/R08-017",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-017&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_017s.png",
+        "cardNo": "OS08/R08-017S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-017S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-018",
+    "baseNo": "OS08/R08-018",
+    "name": "密かな好意 カムチャタール",
+    "kana": "ヒソカナコウイ カムチャタール",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "武器"
+    ],
+    "text": "【永】 他のあなたの「豪放にして豪腕 クロウ」すべてに、パワーを＋1000し、次の能力を与える。『【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。』\n【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋1500。",
+    "flavor": "カムチャタール「クロウ様でなければ、こんな事はお願いできへんわぁ」",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_018.png",
+        "cardNo": "OS08/R08-018",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-018&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_018s.png",
+        "cardNo": "OS08/R08-018S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-018S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-019",
+    "baseNo": "OS08/R08-019",
+    "name": "巧みな演奏 かずさ",
+    "kana": "タクミナエンソウ カズサ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】［(2)］ このカードがフロントアタックされた時、コストを払ってよい。そうしたら、あなたは自分の手札の「初恋の行方 かずさ」を1枚選び、防御キャラとしてこのカードと入れ替え、そのターン中、そのキャラに《ベース》を与える。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_019.png",
+        "cardNo": "OS08/R08-019",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-019&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_019s.png",
+        "cardNo": "OS08/R08-019S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-019S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-020",
+    "baseNo": "OS08/R08-020",
+    "name": "侍大将 ベナウィ",
+    "kana": "オムツィケル ベナウィ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 8000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "武器"
+    ],
+    "text": "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。\n【永】 大活躍 （相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする）\n【自】 このカードがアタックした時、あなたは自分の〈同OS〉のキャラを2枚まで選び、そのターン中、パワーを＋1500。",
+    "flavor": "聖上、ここは私に",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_020.png",
+        "cardNo": "OS08/R08-020",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-020&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_020s.png",
+        "cardNo": "OS08/R08-020S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-020S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-021",
+    "baseNo": "OS08/R08-021",
+    "name": "夜の訪問者",
+    "kana": "ヨルノホウモンシャ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "EV",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "［あなたの舞台のキャラを1枚控え室に置く］ コストを払ってよい。そうしたら、あなたは自分の山札のCXを1枚までサーチし手札に加える。",
+    "flavor": "クスッ…美味しい‥‥",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_021.png",
+        "cardNo": "OS08/R08-021",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-021&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_021s.png",
+        "cardNo": "OS08/R08-021S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-021S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-022",
+    "baseNo": "OS08/R08-022",
+    "name": "届かない恋",
+    "kana": "トドカナイコイ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "EV",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の〈同OS〉のキャラを1枚選び、手札に戻し、このカードを思い出にする。Ｘはそれらのカードの〈同OS〉のキャラの枚数に等しい。\n【自】 記憶 思い出置場にこのカードがあり、あなたのターンの終わりに、そのターン中、あなたのキャラの与えたダメージが2回以上キャンセルされたなら、あなたはこのカードを手札に戻してよい。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_022.png",
+        "cardNo": "OS08/R08-022",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-022&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_022s.png",
+        "cardNo": "OS08/R08-022S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-022S&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p01sp.png",
+        "cardNo": "OS08/R08-P01S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P01S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R08",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-023",
+    "baseNo": "OS08/R08-023",
+    "name": "初めての、きっと最後の裏切り",
+    "kana": "ハジメテノ、キットサイゴノウラギリ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "かずさって呼べよ…それがあたしだ",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_023.png",
+        "cardNo": "OS08/R08-023",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-023&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_023a.png",
+        "cardNo": "OS08/R08-023A",
+        "rarity": "AGR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-023A&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_023s.png",
+        "cardNo": "OS08/R08-023S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-023S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-024",
+    "baseNo": "OS08/R08-024",
+    "name": "秘密のファーストキス",
+    "kana": "ヒミツノファーストキス",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "幸せそうな顔、しやがって。そんなに嬉しかったか？　あのステージが",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_024.png",
+        "cardNo": "OS08/R08-024",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-024&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_024s.png",
+        "cardNo": "OS08/R08-024S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-024S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-025",
+    "baseNo": "OS08/R08-025",
+    "name": "月下の巫",
+    "kana": "ゲッカノカムナギ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "flavor": "おいで。一緒にあそぼ",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_025.png",
+        "cardNo": "OS08/R08-025",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-025&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_025s.png",
+        "cardNo": "OS08/R08-025S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-025S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-026",
+    "baseNo": "OS08/R08-026",
+    "name": "自由気まま アルルゥ",
+    "kana": "ジユウキママ アルルゥ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "動物"
+    ],
+    "text": "【自】［あなたの山札の上から1枚をクロックにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストックにする。\n【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "いっしょに食べる",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_026.png",
+        "cardNo": "OS08/R08-026",
+        "rarity": "RR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-026&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_026ofr.png",
+        "cardNo": "OS08/R08-026OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-026OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_026sp.png",
+        "cardNo": "OS08/R08-026SP",
+        "rarity": "SP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-026SP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-027",
+    "baseNo": "OS08/R08-027",
+    "name": "キミガタメ ハクオロ＆エルルゥ",
+    "kana": "キミガタメ ハクオロ＆エルルゥ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "仮面",
+      "薬師"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの〈同OS〉のキャラの枚数に等しい。\n【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「散りゆく者への子守唄」があり、あなたの控え室のイベントが4枚以上なら、コストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、相手に4ダメージを与える。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_027.png",
+        "cardNo": "OS08/R08-027",
+        "rarity": "RR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-027&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_027ofr.png",
+        "cardNo": "OS08/R08-027OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-027OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_027ssp.png",
+        "cardNo": "OS08/R08-027SSP",
+        "rarity": "SSP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-027SSP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-028",
+    "baseNo": "OS08/R08-028",
+    "name": "イメージチェンジ 美緒",
+    "kana": "イメージチェンジ ミオ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "メガネ"
+    ],
+    "text": "【永】 舞台にこのカードがいるなら、このカードは《メガネ》をすべて失う。\n【永】 このカードは相手の効果に選ばれない。\n【自】【クロック】 アラーム ［手札を1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_028.png",
+        "cardNo": "OS08/R08-028",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-028&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_028s.png",
+        "cardNo": "OS08/R08-028S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-028S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-029",
+    "baseNo": "OS08/R08-029",
+    "name": "“うー”のための“るー”るーこ",
+    "kana": "“ウー”ノタメノ“ルー”ルーコ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "宇宙人"
+    ],
+    "text": "【起】［(1) 手札の〈同OS〉のキャラを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが【ソウル】【ソウル】のCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "今日は一際、“くー” がキレイだぞ",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_029.png",
+        "cardNo": "OS08/R08-029",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-029&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_029s.png",
+        "cardNo": "OS08/R08-029S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-029S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-030",
+    "baseNo": "OS08/R08-030",
+    "name": "森の母 アルルゥ",
+    "kana": "ヤーナマゥナ アルルゥ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "動物"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋1000。\n【自】【CXコンボ】 あなたのCX置場に「響き渡る獣の咆哮」が置かれた時、他のあなたの〈同OS〉のキャラがいるなら、そのターン中、このカードは次の2つの能力のうちあなたが選んだ1つを得る。『【自】 このカードがアタックした時、あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置き、そのターン中、このカードのパワーを＋1000。』『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』",
+    "flavor": "ガチャタラ、おいで",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_030.png",
+        "cardNo": "OS08/R08-030",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-030&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_030s.png",
+        "cardNo": "OS08/R08-030S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-030S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-031",
+    "baseNo": "OS08/R08-031",
+    "name": "うたたね 愛佳",
+    "kana": "ウタタネ マナカ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 1,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "委員長"
+    ],
+    "text": "【自】［(4) 手札のイベントを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【レスト】する。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "……んぅ……柿ピーが平泳ぎぃ……",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_031.png",
+        "cardNo": "OS08/R08-031",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-031&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_031s.png",
+        "cardNo": "OS08/R08-031S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-031S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-032",
+    "baseNo": "OS08/R08-032",
+    "name": "男のコは苦手 愛佳",
+    "kana": "オトコノコハニガテ マナカ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "委員長"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのターン中、他のあなたの〈同OS〉のキャラ1枚につき、このカードのパワーを＋500。\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札のイベントを1枚までサーチし手札に加える。",
+    "flavor": "もお、たかあきくんイタズラっコなんだから……めっ",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_032.png",
+        "cardNo": "OS08/R08-032",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-032&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_032ofr.png",
+        "cardNo": "OS08/R08-032OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-032OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_032sp.png",
+        "cardNo": "OS08/R08-032SP",
+        "rarity": "SP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-032SP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-033",
+    "baseNo": "OS08/R08-033",
+    "name": "ヤマユラの姉妹 アルルゥ＆エルルゥ",
+    "kana": "ヤマユラノシマイ アルルゥ＆エルルゥ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "薬師",
+      "動物"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードは次の能力を得る。『【永】 あなたのイベントは、色条件を満たさずに手札からプレイできる。』\n【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の山札を上から1枚見て、裏向きでこのカードのマーカーにする。\n【起】［このカードを【レスト】する］ 次の相手のターンの終わりまで、あなたが自分の手札のイベントのコストを払う時、このカードの下のマーカー1枚を、ストック1枚のかわりに控え室に置いてよい。",
+    "flavor": "エルルゥ「行こ、アルルゥ」アルルゥ「ん」",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_033.png",
+        "cardNo": "OS08/R08-033",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-033&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_033s.png",
+        "cardNo": "OS08/R08-033S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-033S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-034",
+    "baseNo": "OS08/R08-034",
+    "name": "旧知の仲 愛佳＆由真",
+    "kana": "キュウチノナカ マナカ＆ユマ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "委員長",
+      "勝負"
+    ],
+    "text": "【永】 あなたの手札の「バトルガール 由真」のコストを－2。\n【自】［手札を2枚控え室に置く］ このカードが手札から登場した時、あなたの手札が6枚以下で、他のあなたの〈同OS〉のキャラが2枚以上なら、コストを払ってよい。そうしたら、あなたは自分の山札の「バトルガール 由真」を2枚までサーチし手札に加える。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_034.png",
+        "cardNo": "OS08/R08-034",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-034&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_034s.png",
+        "cardNo": "OS08/R08-034S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-034S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-035",
+    "baseNo": "OS08/R08-035",
+    "name": "ミステリ研会長 花梨",
+    "kana": "ミステリケンカイチョウ カリン",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "オカルト"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 このカードが手札から登場した時、相手は0か1か2か3を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのキャラなら、舞台の好きな枠に置く。",
+    "flavor": "これで宇宙人を見つけられるんだって！",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_035.png",
+        "cardNo": "OS08/R08-035",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-035&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_035s.png",
+        "cardNo": "OS08/R08-035S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-035S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-036",
+    "baseNo": "OS08/R08-036",
+    "name": "射撃の名手 ドリィ&グラァ",
+    "kana": "シャゲキノメイシュ ドリィ＆グラァ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "武器"
+    ],
+    "text": "【永】 他のあなたの「ただ一人の家族 ユズハ＆オボロ」すべてに、パワーを＋1000し、次の3つの能力を与える。『【永】 このカードは相手の効果に選ばれない。』『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』『【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
+    "flavor": "「「あっ、待って下さい若様」」",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_036.png",
+        "cardNo": "OS08/R08-036",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-036&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_036s.png",
+        "cardNo": "OS08/R08-036S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-036S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-037",
+    "baseNo": "OS08/R08-037",
+    "name": "本当の自分 由真",
+    "kana": "ホントウノジブン ユマ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "勝負"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、ストックにする。\n【自】 このカードが手札から登場した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "みんな、自分にとって都合のいい姿を見ているだけ。もう放っといてよ",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_037.png",
+        "cardNo": "OS08/R08-037",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-037&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_037s.png",
+        "cardNo": "OS08/R08-037S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-037S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-038",
+    "baseNo": "OS08/R08-038",
+    "name": "お気楽極楽マイペース 珊瑚",
+    "kana": "オキラクゴクラクマイペース サンゴ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "双子"
+    ],
+    "text": "【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。\n【自】 絆／「やきもち焼きの意地っ張り 瑠璃」 ［手札を1枚控え室に置く］\n【自】 共鳴 ［手札の「やきもち焼きの意地っ張り 瑠璃」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。",
+    "flavor": "ほらほら、瑠璃ちゃ～ん",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_038.png",
+        "cardNo": "OS08/R08-038",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-038&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_038s.png",
+        "cardNo": "OS08/R08-038S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-038S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-039",
+    "baseNo": "OS08/R08-039",
+    "name": "やきもち焼きの意地っ張り 瑠璃",
+    "kana": "ヤキモチヤキノイジッパリ ルリ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "双子"
+    ],
+    "text": "【永】 このカードはサイドアタックできない。\n【自】 絆／「お気楽極楽マイペース 珊瑚」 ［(1)］\n【自】 共鳴 ［手札の「お気楽極楽マイペース 珊瑚」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "もう、さんちゃんてば～！",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_039.png",
+        "cardNo": "OS08/R08-039",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-039&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_039s.png",
+        "cardNo": "OS08/R08-039S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-039S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-040",
+    "baseNo": "OS08/R08-040",
+    "name": "自称宇宙人 るーこ",
+    "kana": "ジショウウチュウジン ルーコ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "宇宙人"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの〈同OS〉のキャラの枚数×500に等しい。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "るぅ～……",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_040.png",
+        "cardNo": "OS08/R08-040",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-040&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_040s.png",
+        "cardNo": "OS08/R08-040S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-040S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-041",
+    "baseNo": "OS08/R08-041",
+    "name": "頼りになる委員長 愛佳",
+    "kana": "タヨリニナルイインチョウ マナカ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "委員長"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「委員ちょの災難」があるなら、あなたは自分の山札の上から3枚を、控え室に置き、自分の控え室の〈同OS〉のキャラをＸ枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたトリガーアイコンに【ソウル】があるカードの枚数に等しい。",
+    "flavor": "いえ……その、ちょっとくすぐったい……",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_041.png",
+        "cardNo": "OS08/R08-041",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-041&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_041s.png",
+        "cardNo": "OS08/R08-041S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-041S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-042",
+    "baseNo": "OS08/R08-042",
+    "name": "ただ一人の家族 ユズハ＆オボロ",
+    "kana": "タダヒトリノカゾク ユズハ＆オボロ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 0,
+    "power": 8000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "武器"
+    ],
+    "text": "-",
+    "flavor": "オボロ「ユズハが自分の気持ちを口にしたんだ」",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_042.png",
+        "cardNo": "OS08/R08-042",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-042&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_042s.png",
+        "cardNo": "OS08/R08-042S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-042S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-043",
+    "baseNo": "OS08/R08-043",
+    "name": "病弱な少女 ユズハ",
+    "kana": "ビョウジャクナショウジョ ユズハ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS"
+    ],
+    "text": "【永】 このカードの下にマーカーがあるなら、このカードは次の2つの能力を得る。『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。』『【自】 このカードが思い出になった時、あなたは1枚引いてよい。』\n【自】 このカードが手札から登場した時、あなたは自分の控え室の「トゥスクルの皇 ハクオロ」を1枚選び、裏向きでこのカードのマーカーにしてよい。\n【自】 あなたのドローフェイズの始めに、あなたは自分の山札の上から1枚を、クロックにしてよい。そうしないなら、このカードを思い出にする。",
+    "flavor": "幸せな気分‥‥",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_043.png",
+        "cardNo": "OS08/R08-043",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-043&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_043s.png",
+        "cardNo": "OS08/R08-043S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-043S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-044",
+    "baseNo": "OS08/R08-044",
+    "name": "薬師の卵 エルルゥ",
+    "kana": "クスシノタマゴ エルルゥ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "薬師"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。",
+    "flavor": "ハイ、好きにします！",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_044.png",
+        "cardNo": "OS08/R08-044",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-044&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_044s.png",
+        "cardNo": "OS08/R08-044S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-044S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-045",
+    "baseNo": "OS08/R08-045",
+    "name": "バトルガール 由真",
+    "kana": "バトルガール ユマ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 2,
+    "power": 8500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "勝負"
+    ],
+    "text": "【自】［(4)］ このカードが【リバース】した時、コストを払ってよい。そうしたら、相手に3ダメージを与え、このカードを山札に戻し、その山札をシャッフルする。",
+    "flavor": "これで勝ったと思うなよぉ～～～!!",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_045.png",
+        "cardNo": "OS08/R08-045",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-045&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_045s.png",
+        "cardNo": "OS08/R08-045S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-045S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-046",
+    "baseNo": "OS08/R08-046",
+    "name": "がんばれエルルゥ",
+    "kana": "ガンバレエルルゥ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "EV",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "【カウンター】 このカードは、あなたの〈同OS〉のキャラがいないなら、手札からプレイできない。あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "今までの、ずっと見てたんですか!?",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_046.png",
+        "cardNo": "OS08/R08-046",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-046&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_046s.png",
+        "cardNo": "OS08/R08-046S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-046S&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p02sp.png",
+        "cardNo": "OS08/R08-P02S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P02S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R08",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-047",
+    "baseNo": "OS08/R08-047",
+    "name": "ウィツァルネミテアの契約",
+    "kana": "ウィツァルネミテアノケイヤク",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "EV",
+    "color": "green",
+    "level": 1,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "［あなたの控え室のCXを1枚思い出にする］ コストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、相手の控え室のカードを1枚選び、思い出にする。",
+    "flavor": "『今ココニ、契約ハ成立シタ。汝ガソノ願イ、叶エヨウ』",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_047.png",
+        "cardNo": "OS08/R08-047",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-047&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_047s.png",
+        "cardNo": "OS08/R08-047S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-047S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-048",
+    "baseNo": "OS08/R08-048",
+    "name": "散りゆく者への子守唄",
+    "kana": "チリユクモノヘノコモリウタ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_048.png",
+        "cardNo": "OS08/R08-048",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-048&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_048s.png",
+        "cardNo": "OS08/R08-048S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-048S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-049",
+    "baseNo": "OS08/R08-049",
+    "name": "響き渡る獣の咆哮",
+    "kana": "ヒビキワタルケモノノホウコウ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "おと～さんの敵‥‥ゆるさない",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_049.png",
+        "cardNo": "OS08/R08-049",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-049&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_049s.png",
+        "cardNo": "OS08/R08-049S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-049S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-050",
+    "baseNo": "OS08/R08-050",
+    "name": "委員ちょの災難",
+    "kana": "イインチョノサイナン",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。",
+    "flavor": "もぉ～、みんな聞いてよぉ～！",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_050.png",
+        "cardNo": "OS08/R08-050",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-050&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_050s.png",
+        "cardNo": "OS08/R08-050S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-050S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-051",
+    "baseNo": "OS08/R08-051",
+    "name": "好き好き大好き♥大作戦 環",
+    "kana": "スキスキダイスキ♥ダイサクセン タマキ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "姉"
+    ],
+    "text": "【永】 あなたのイベントは、色条件を満たさずに手札からプレイできる。\n【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】 あなたがイベントをプレイした時、あなたはこのカードをストックにしてよい。",
+    "flavor": "さては、このタマお姉ちゃんに見惚れてたな",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_051.png",
+        "cardNo": "OS08/R08-051",
+        "rarity": "RR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-051&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_051ofr.png",
+        "cardNo": "OS08/R08-051OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-051OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_051ssp.png",
+        "cardNo": "OS08/R08-051SSP",
+        "rarity": "SSP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-051SSP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-052",
+    "baseNo": "OS08/R08-052",
+    "name": "幼い頃の約束 環",
+    "kana": "オサナイコロノヤクソク タマキ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "姉"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「わが青春、順風満帆」があるなら、次の行動を2回行う。『あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラかイベントなら手札に加える。』",
+    "flavor": "だって、甘いモノは別腹だし",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_052_1.png",
+        "cardNo": "OS08/R08-052",
+        "rarity": "RR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-052&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_052ofr_1.png",
+        "cardNo": "OS08/R08-052OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-052OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_052sec_1.png",
+        "cardNo": "OS08/R08-052SEC",
+        "rarity": "SEC",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-052SEC&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-053",
+    "baseNo": "OS08/R08-053",
+    "name": "甘えん坊な幼なじみ このみ",
+    "kana": "アマエンボウナオサナナジミ コノミ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 8500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "幼馴染"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのターン中、このカードのパワーを＋2000。\n【自】［手札を2枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラかイベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のクロックの上から1枚までを、ストックにする。",
+    "flavor": "だって、春休みになったらいっぱい遊ぼって、約束したよね",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_053.png",
+        "cardNo": "OS08/R08-053",
+        "rarity": "RR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-053&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_053ofr.png",
+        "cardNo": "OS08/R08-053OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-053OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_053sp.png",
+        "cardNo": "OS08/R08-053SP",
+        "rarity": "SP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-053SP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-054",
+    "baseNo": "OS08/R08-054",
+    "name": "幸せになる決意 小春",
+    "kana": "シアワセニナルケツイ コハル",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "委員長"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】［(1)］ 他のあなたの〈同OS〉のキャラの与えたダメージがキャンセルされた時、コストを払ってよい。そうしたら、あなたは1枚引き、そのターン中、このカードは次の能力を得る。『【永】 このカードのカード名は「幸せになる決意 小春＆春希」としても扱う。』",
+    "flavor": "だから先輩が許せなかった。だから先輩とぶつかった。…だから先輩のこと、好きになったんです",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_054.png",
+        "cardNo": "OS08/R08-054",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-054&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_054s.png",
+        "cardNo": "OS08/R08-054S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-054S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-055",
+    "baseNo": "OS08/R08-055",
+    "name": "寂しがり屋 ささら",
+    "kana": "サビシガリヤ ササラ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "生徒会"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラがいるなら、このカードのパワーを＋3000。\n【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の〈同OS〉のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
+    "flavor": "だから、あなたの特別になりたいの、して欲しいの",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_055.png",
+        "cardNo": "OS08/R08-055",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-055&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_055ofr.png",
+        "cardNo": "OS08/R08-055OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-055OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_055sp.png",
+        "cardNo": "OS08/R08-055SP",
+        "rarity": "SP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-055SP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-056",
+    "baseNo": "OS08/R08-056",
+    "name": "峰城大付属軽音楽同好会 春希&雪菜&かずさ",
+    "kana": "ホウジョウダイフゾクケイオンガクドウコウカイ ハルキ＆セツナ＆カズサ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【永】 このカードは、色条件を満たさずに手札からプレイできる。\n【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのCXがCX置場に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたの思い出が2枚以下なら、あなたは自分の控え室の「届かない恋」を1枚まで選び、思い出にする。』『［(1)］ コストを払ってよい。そうしたら、あなたは自分の控え室の「届かない恋」を1枚選び、手札に戻す。』",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_056.png",
+        "cardNo": "OS08/R08-056",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-056&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_056s.png",
+        "cardNo": "OS08/R08-056S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-056S&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p08ex.png",
+        "cardNo": "OS08/R08-P08EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P08EX&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R08",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-057",
+    "baseNo": "OS08/R08-057",
+    "name": "忠義の武人 ゲンジマル",
+    "kana": "チュウギノブジン ゲンジマル",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "武器"
+    ],
+    "text": "【自】【ターン1】 記憶 思い出置場にこのカードがあるなら、あなたのターン中、あなたがイベントをプレイした時、あなたは自分の山札を上から4枚まで見て、CXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1000。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。\n【起】［このカードを思い出にする］ あなたは相手のキャラを1枚選び、手札に戻す。",
+    "flavor": "これが牙を抜かれた男の‥‥精一杯の‥‥そして最後の願いであります",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_057.png",
+        "cardNo": "OS08/R08-057",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-057&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_057s.png",
+        "cardNo": "OS08/R08-057S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-057S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-058",
+    "baseNo": "OS08/R08-058",
+    "name": "気の置けない男友達 雄二",
+    "kana": "キノオケナイオトコトモダチ ユウジ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "親友"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上ならストックにする。\n【自】［(2)］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "この恋愛ブルジョワジーめっ！",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_058.png",
+        "cardNo": "OS08/R08-058",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-058&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_058s.png",
+        "cardNo": "OS08/R08-058S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-058S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-059",
+    "baseNo": "OS08/R08-059",
+    "name": "手作りカレー このみ",
+    "kana": "テヅクリカレー コノミ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "幼馴染"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】【CXコンボ】 相手がレベルアップした時、あなたのCX置場に「ずっとずっとこれからも」があるなら、あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "隊長隊長、このワインとってもいい香りでありますよ～！",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_059.png",
+        "cardNo": "OS08/R08-059",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-059&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_059s.png",
+        "cardNo": "OS08/R08-059S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-059S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-060",
+    "baseNo": "OS08/R08-060",
+    "name": "クリスマスの休戦協定 小春",
+    "kana": "クリスマスノキュウセンキョウテイ コハル",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "委員長"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の手札を公開してよい。そうしたら、それらのカードにCXがあるなら、相手の前列のキャラすべてに、そのターン中、パワーを－500。\n【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "いいんです。今日は先輩に話し相手になってもらうって決めたんだから",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_060.png",
+        "cardNo": "OS08/R08-060",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-060&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_060s.png",
+        "cardNo": "OS08/R08-060S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-060S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-061",
+    "baseNo": "OS08/R08-061",
+    "name": "運命的出会い 優季",
+    "kana": "ウンメイテキデアイ ユウキ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "時間"
+    ],
+    "text": "【自】 あなたのCXフェイズの始めに、このカードが【レスト】しているなら、このカードを思い出にする。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「運命的出会い 優季」を1枚選び、舞台の好きな枠に置く。\n【起】［このカードを【レスト】する］ あなたは自分の〈同OS〉のキャラを2枚まで選び、そのターン中、パワーを＋500。",
+    "flavor": "たぶん、これが『恋は人を詩人にする』って事なのかなって、思います……",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_061.png",
+        "cardNo": "OS08/R08-061",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-061&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_061s.png",
+        "cardNo": "OS08/R08-061S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-061S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-062",
+    "baseNo": "OS08/R08-062",
+    "name": "委員長気質 小春",
+    "kana": "イインチョウキシツ コハル",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "委員長"
+    ],
+    "text": "【永】 あなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 このカードのバトル相手が【リバース】した時、他のあなたの〈同OS〉のキャラがいるなら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_062.png",
+        "cardNo": "OS08/R08-062",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-062&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_062s.png",
+        "cardNo": "OS08/R08-062S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-062S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-063",
+    "baseNo": "OS08/R08-063",
+    "name": "クンネカムンの皇 クーヤ",
+    "kana": "クンネカムンノオゥルォ クーヤ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "皇族"
+    ],
+    "text": "【自】［手札を2枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、相手の前列のキャラすべてに、そのターン中、パワーを－Ｘし、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。Ｘはあなたの控え室のCXの枚数×500に等しい。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_063.png",
+        "cardNo": "OS08/R08-063",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-063&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_063s.png",
+        "cardNo": "OS08/R08-063S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-063S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-064",
+    "baseNo": "OS08/R08-064",
+    "name": "自覚した恋心 このみ",
+    "kana": "ジカクシタコイゴコロ コノミ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "幼馴染"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の「Heart To Heart」を1枚選び、手札に戻す。\n【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードのパワーを＋2000。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_064.png",
+        "cardNo": "OS08/R08-064",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-064&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_064s.png",
+        "cardNo": "OS08/R08-064S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-064S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-065",
+    "baseNo": "OS08/R08-065",
+    "name": "仲良し ささら＆まーりゃん先輩",
+    "kana": "ナカヨシ ササラ＆マーリャンセンパイ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "生徒会"
+    ],
+    "text": "【自】［手札のイベントを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_065.png",
+        "cardNo": "OS08/R08-065",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-065&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_065s.png",
+        "cardNo": "OS08/R08-065S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-065S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-066",
+    "baseNo": "OS08/R08-066",
+    "name": "お父様のため ムツミ",
+    "kana": "オトウサマノタメ ムツミ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 2,
+    "power": 6500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "実験体"
+    ],
+    "text": "【永】 相手の控え室のCXが3枚以下なら、あなたの手札のこのカードのレベルを－1。\n【永】 手札のこのカードをプレイするにあたり、あなたは自分の「黒い翼 カミュ」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。\n【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋3000。",
+    "flavor": "お父様に仇なす人‥‥許さない",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_066.png",
+        "cardNo": "OS08/R08-066",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-066&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_066s.png",
+        "cardNo": "OS08/R08-066S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-066S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-067",
+    "baseNo": "OS08/R08-067",
+    "name": "もう一人の神 ディー",
+    "kana": "モウヒトリノカミ ディー",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "神"
+    ],
+    "text": "【自】 あなたのCXフェイズの始めに、あなたは自分の〈同OS〉のキャラを1枚選び、次の相手のターンの終わりまで、次の2つの能力を与える。『【永】 他のあなたの「もう一人の神 ディー」がいるなら、このカードのパワーを＋2000。』『【自】 他のあなたの「もう一人の神 ディー」が舞台から控え室に置かれた時、このカードを控え室に置く。』\n【自】【ターン1】 このカードが【リバース】した時、このカードを【レスト】する。",
+    "flavor": "汝に打込まれた楔‥‥我に牙を剥いた時にどうなるか忘れたか",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_067.png",
+        "cardNo": "OS08/R08-067",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-067&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_067s.png",
+        "cardNo": "OS08/R08-067S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-067S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-068",
+    "baseNo": "OS08/R08-068",
+    "name": "完璧超人なお姉ちゃん 環",
+    "kana": "カンペキチョウジンナオネエチャン タマキ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "姉"
+    ],
+    "text": "【自】［あなたの舞台の「気の置けない男友達 雄二」を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】【ターン1】 このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。』\n【自】【ターン1】 このカードが手札から登場したターン中、このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。",
+    "flavor": "もう、しょうがないわね",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_068.png",
+        "cardNo": "OS08/R08-068",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-068&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_068s.png",
+        "cardNo": "OS08/R08-068S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-068S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-069",
+    "baseNo": "OS08/R08-069",
+    "name": "誰かの“特別”ささら",
+    "kana": "ダレカノ“トクベツ”ササラ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "生徒会"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】［(1)］ このカードがアタックした時、CX置場に「未来を探す旅へ」があるなら、コストを払ってよい。そうしたら、あなたは自分の山札の上から3枚を公開し、その山札をシャッフルし、相手にＸダメージを与える。Ｘはそれらのカードのトリガーアイコンの【ソウル】の合計に等しい。",
+    "flavor": "あなたのじゃないとダメなの。あなたのがいいの",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_069.png",
+        "cardNo": "OS08/R08-069",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-069&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_069s.png",
+        "cardNo": "OS08/R08-069S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-069S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-070",
+    "baseNo": "OS08/R08-070",
+    "name": "好みの下着は？",
+    "kana": "コノミノシタギハ？",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "EV",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "次の3つの効果のうちあなたが選んだ1つを行う。\n『あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラか「好みの下着は？」なら、あなたは相手に1ダメージを与える。』\n『相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』\n『［あなたの舞台のキャラを1枚控え室に置く］ コストを払ってよい。そうしたら、あなたは自分の山札のイベントを1枚までサーチし手札に加える。』",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_070.png",
+        "cardNo": "OS08/R08-070",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-070&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_070s.png",
+        "cardNo": "OS08/R08-070S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-070S&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p03sp.png",
+        "cardNo": "OS08/R08-P03S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P03S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R08",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-071",
+    "baseNo": "OS08/R08-071",
+    "name": "Heart To Heart",
+    "kana": "ハート トゥ ハート",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "EV",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "【カウンター】 このカードは、あなたの〈同OS〉のキャラが2枚以下なら、手札からプレイできない。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】［(1)］ このカードのバトル相手でレベル1以上のキャラが【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_071.png",
+        "cardNo": "OS08/R08-071",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-071&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_071s.png",
+        "cardNo": "OS08/R08-071S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-071S&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p12ex.png",
+        "cardNo": "OS08/R08-P12EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P12EX&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p12s.png",
+        "cardNo": "OS08/R08-P12S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P12S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R08",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-072",
+    "baseNo": "OS08/R08-072",
+    "name": "三年ぶりのクリスマス",
+    "kana": "サンネンブリノクリスマス",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "EV",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは1枚引いてよい。\nこのカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたのカード名に「雪菜」を含むキャラすべてに、次の2つの能力を与える。『【永】 相手のターン中、他のあなたの〈同OS〉のキャラがいるなら、このカードのパワーを＋1500。』『【永】 他のあなたの〈同OS〉のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。』",
+    "flavor": "雪菜「わたしはね、この、空白の三年間を取り戻さなくちゃならない」",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_072.png",
+        "cardNo": "OS08/R08-072",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-072&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_072s.png",
+        "cardNo": "OS08/R08-072S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-072S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-073",
+    "baseNo": "OS08/R08-073",
+    "name": "わが青春、順風満帆",
+    "kana": "ワガセイシュン、ジュンプウマンパン",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "あ、そうそう。お父様がタカ坊に会いたがっていたわ",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_073.png",
+        "cardNo": "OS08/R08-073",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-073&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_073s.png",
+        "cardNo": "OS08/R08-073S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-073S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-074",
+    "baseNo": "OS08/R08-074",
+    "name": "ずっとずっとこれからも",
+    "kana": "ズットズットコレカラモ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "大丈夫だよ、タカくんといっしょなら",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_074.png",
+        "cardNo": "OS08/R08-074",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-074&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_074s.png",
+        "cardNo": "OS08/R08-074S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-074S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-075",
+    "baseNo": "OS08/R08-075",
+    "name": "未来を探す旅へ",
+    "kana": "ミライヲサガスタビヘ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストックにし、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "flavor": "貴明「行こう、ささら！」",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_075.png",
+        "cardNo": "OS08/R08-075",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-075&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_075s.png",
+        "cardNo": "OS08/R08-075S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-075S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-076",
+    "baseNo": "OS08/R08-076",
+    "name": "愛する彼女 雪菜",
+    "kana": "アイスルカノジョ セツナ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】【ターン3】 あなたがイベントをプレイした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "これからも、ずっと一緒にいてね？",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_076.png",
+        "cardNo": "OS08/R08-076",
+        "rarity": "RR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-076&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_076ofr.png",
+        "cardNo": "OS08/R08-076OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-076OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_076ssp.png",
+        "cardNo": "OS08/R08-076SSP",
+        "rarity": "SSP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-076SSP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-077",
+    "baseNo": "OS08/R08-077",
+    "name": "小悪魔な素顔 雪菜",
+    "kana": "コアクマナスガオ セツナ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「三人でいられた最後の日」があり、他のあなたの〈同OS〉のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室のキャラを1枚選び、手札に戻す。』『［(1)］ コストを払ってよい。そうしたら、あなたは自分の控え室の「届かない恋」を2枚まで選び、手札に戻す。』",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_077.png",
+        "cardNo": "OS08/R08-077",
+        "rarity": "RR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-077&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_077ofr.png",
+        "cardNo": "OS08/R08-077OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-077OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_077sp.png",
+        "cardNo": "OS08/R08-077SP",
+        "rarity": "SP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-077SP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-078",
+    "baseNo": "OS08/R08-078",
+    "name": "再会の日 かずさ＆雪菜",
+    "kana": "サイカイノヒ カズサ＆セツナ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から3枚まで見て、イベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
+    "flavor": "かずさ「ま…あたしは、嬉しかったけど」",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_078.png",
+        "cardNo": "OS08/R08-078",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-078&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_078s.png",
+        "cardNo": "OS08/R08-078S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-078S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-079",
+    "baseNo": "OS08/R08-079",
+    "name": "身代わりはサンタクロース 千晶",
+    "kana": "ミガワリハサンタクロース チアキ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "演劇"
+    ],
+    "text": "【永】 他のあなたのカード名に「雪菜」を含むキャラがいるなら、このカードのカード名は「長瀬 晶子」としても扱う。\n【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】［(2)］ あなたのアンコールステップの始めに、コストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚と、このカードを選び、思い出にする。次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそれらのキャラを、舞台の別々の枠に置く。",
+    "flavor": "あたし…あんたの逃げ道になったげるよ、春希",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_079.png",
+        "cardNo": "OS08/R08-079",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-079&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_079s2.png",
+        "cardNo": "OS08/R08-079S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-079S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-080",
+    "baseNo": "OS08/R08-080",
+    "name": "エヴェンクルガ族の剣豪 トウカ",
+    "kana": "エヴェンクルガゾクノケンゴウ トウカ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "武器"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋10000。\n【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室のイベントの枚数×1500に等しい。",
+    "flavor": "有難き御言葉！　この恩は一生忘れませぬ",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_080.png",
+        "cardNo": "OS08/R08-080",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-080&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_080ofr.png",
+        "cardNo": "OS08/R08-080OFR",
+        "rarity": "OFR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-080OFR&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_080sp.png",
+        "cardNo": "OS08/R08-080SP",
+        "rarity": "SP",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-080SP&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-081",
+    "baseNo": "OS08/R08-081",
+    "name": "全ては目的のため 千晶",
+    "kana": "スベテハモクテキノタメ チアキ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 6500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "演劇"
+    ],
+    "text": "【永】 舞台にこのカードがいるなら、このカードのカード名は「瀬之内 昌」としても扱う。\n【自】 このカードが手札から登場した時、次の行動を2回行う。『あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。』\n【自】 チェンジ ［このカードを手札に戻す］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、あなたは自分の手札のカード名に「かずさ」か「雪菜」を含むキャラを1枚まで選び、このカードがいた枠に置く。",
+    "flavor": "子供産めない身体にされても仕方ないけど、顔にだけは、傷つけないでね？",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_081.png",
+        "cardNo": "OS08/R08-081",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-081&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_081s.png",
+        "cardNo": "OS08/R08-081S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-081S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-082",
+    "baseNo": "OS08/R08-082",
+    "name": "時の魔法 雪菜",
+    "kana": "トキノマホウ セツナ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】［手札の「届かない恋」を1枚控え室に置く］ このカードがアタックした時、CX置場に「時の魔法」があるなら、コストを払ってよい。そうしたら、あなたは相手の山札の下から7枚を、控え室に置き、相手にＸダメージを与える。ＸはそれらのカードのCXの枚数に等しい。",
+    "flavor": "だって、勝手に歌が口から出てきちゃうんだもん。心から幸せって、言えるんだもん",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_082.png",
+        "cardNo": "OS08/R08-082",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-082&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_082s.png",
+        "cardNo": "OS08/R08-082S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-082S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-083",
+    "baseNo": "OS08/R08-083",
+    "name": "オカルト好きなお嬢様 芹香",
+    "kana": "オカルトズキナオジョウサマ セリカ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "オカルト"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\n【自】［(1) 手札のイベントを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のイベントを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_083.png",
+        "cardNo": "OS08/R08-083",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-083&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_083s.png",
+        "cardNo": "OS08/R08-083S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-083S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-084",
+    "baseNo": "OS08/R08-084",
+    "name": "関西弁の同級生 智子",
+    "kana": "カンサイベンノドウキュウセイ トモコ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "メガネ"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。\n【自】 このカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの〈同OS〉のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_084.png",
+        "cardNo": "OS08/R08-084",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-084&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_084s.png",
+        "cardNo": "OS08/R08-084S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-084S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-085",
+    "baseNo": "OS08/R08-085",
+    "name": "なくなった秘密 雪菜",
+    "kana": "ナクナッタヒミツ セツナ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の手札を公開してよい。そうしたら、それらのカードにレベル0以下のキャラがないなら、あなたは自分の山札の「愛する彼女 雪菜」を1枚までサーチし手札に加え、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "これにて、小木曽雪菜の秘密は、一つもなくなってしまいました。…あなたに、全部知られてしまったから",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_085.png",
+        "cardNo": "OS08/R08-085",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-085&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_085s.png",
+        "cardNo": "OS08/R08-085S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-085S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-086",
+    "baseNo": "OS08/R08-086",
+    "name": "わがままな女の子 雪菜",
+    "kana": "ワガママナオンナノコ セツナ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋1500。\n【自】［(1) あなたの山札の上から1枚をクロックにする］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_086.png",
+        "cardNo": "OS08/R08-086",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-086&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_086s.png",
+        "cardNo": "OS08/R08-086S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-086S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-087",
+    "baseNo": "OS08/R08-087",
+    "name": "寒空の下 千晶",
+    "kana": "サムゾラノシタ チアキ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "演劇"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札の「峰城大付属軽音楽同好会 春希&雪菜&かずさ」か「届かない恋」を1枚までサーチし手札に加える。",
+    "flavor": "…よい子に呼ばれたからやってきたよ～？",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_087.png",
+        "cardNo": "OS08/R08-087",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-087&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_087s.png",
+        "cardNo": "OS08/R08-087S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-087S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-088",
+    "baseNo": "OS08/R08-088",
+    "name": "夏休みのひととき 千晶",
+    "kana": "ナツヤスミノヒトトキ チアキ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "演劇"
+    ],
+    "text": "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\n【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を、表向きでこのカードのマーカーにしてよい。\n【自】［このカードの下のマーカーを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、あなたはこのカードを【レスト】し、後列のキャラのいない枠に動かす。",
+    "flavor": "よい子でも、いけない子でも、春希ならなんでもおっけ～だよ？",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_088.png",
+        "cardNo": "OS08/R08-088",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-088&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_088s.png",
+        "cardNo": "OS08/R08-088S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-088S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-089",
+    "baseNo": "OS08/R08-089",
+    "name": "うっかり侍 トウカ",
+    "kana": "ウッカリザムライ トウカ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "武器"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにCXがあるなら、このカードを【レスト】する。",
+    "flavor": "そ、某としたことが、修繕をした時に穴を塞ぎ忘れておりましたぁ！",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_089.png",
+        "cardNo": "OS08/R08-089",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-089&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_089s.png",
+        "cardNo": "OS08/R08-089S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-089S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-090",
+    "baseNo": "OS08/R08-090",
+    "name": "『WHITE ALBUMの季節』雪菜＆かずさ",
+    "kana": "『ホワイトアルバムノキセツ』セツナ＆カズサ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の「届かない恋」を1枚選び、手札に戻す。\n【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
+    "flavor": "かずさ「あたしが、先だった…先だったんだ」",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_090.png",
+        "cardNo": "OS08/R08-090",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-090&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_090s.png",
+        "cardNo": "OS08/R08-090S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-090S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-091",
+    "baseNo": "OS08/R08-091",
+    "name": "トゥスクルの皇 ハクオロ",
+    "kana": "トゥスクルノオゥルォ ハクオロ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "仮面"
+    ],
+    "text": "【自】 このカードがアタックした時、他のあなたの〈同OS〉のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。\n【自】【ターン1】 このカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを【レスト】してよい。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_091.png",
+        "cardNo": "OS08/R08-091",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-091&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_091s.png",
+        "cardNo": "OS08/R08-091S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-091S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-092",
+    "baseNo": "OS08/R08-092",
+    "name": "ギリヤギナ族の豪傑 カルラ",
+    "kana": "ギリヤギナゾクノゴウケツ カルラ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "武器"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードのソウルを＋50。",
+    "flavor": "私、こう見えても剣奴ですの。いくさ場では役立ちますわよ",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_092.png",
+        "cardNo": "OS08/R08-092",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-092&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_092s.png",
+        "cardNo": "OS08/R08-092S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-092S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-093",
+    "baseNo": "OS08/R08-093",
+    "name": "夢見るロボット マルチ",
+    "kana": "ユメミルロボット マルチ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 1,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "ロボ"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_093.png",
+        "cardNo": "OS08/R08-093",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-093&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_093s.png",
+        "cardNo": "OS08/R08-093S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-093S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-094",
+    "baseNo": "OS08/R08-094",
+    "name": "三人でいる誓い かずさ＆春希＆雪菜",
+    "kana": "サンニンデイルチカイ カズサ＆ハルキ＆セツナ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】［手札を2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、山札の下に置く。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "かずさ「北原の彼女だろ！　お前がしつけろよ」",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_094.png",
+        "cardNo": "OS08/R08-094",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-094&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_094s.png",
+        "cardNo": "OS08/R08-094S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-094S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-095",
+    "baseNo": "OS08/R08-095",
+    "name": "月下の契約 カルラ",
+    "kana": "ゲッカノケイヤク カルラ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 8000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "武器"
+    ],
+    "text": "【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「永久の誓い」があるなら、コストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、思い出にし、そのターン中、このカードのパワーを＋1000。",
+    "flavor": "では単刀直入に言いますわ。貴方様にお願いしたい事がありますの",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_095.png",
+        "cardNo": "OS08/R08-095",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-095&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_095s.png",
+        "cardNo": "OS08/R08-095S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-095S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-096",
+    "baseNo": "OS08/R08-096",
+    "name": "Feeling Heart",
+    "kana": "フィーリング ハート",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "EV",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは自分のクロックの上から2枚までを、控え室に置く。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。このカードを思い出にする。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_096.png",
+        "cardNo": "OS08/R08-096",
+        "rarity": "R",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-096&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_096s.png",
+        "cardNo": "OS08/R08-096S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-096S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-097",
+    "baseNo": "OS08/R08-097",
+    "name": "届かない恋",
+    "kana": "トドカナイコイ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "EV",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の〈同OS〉のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの〈同OS〉のキャラの枚数に等しい。",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_097.png",
+        "cardNo": "OS08/R08-097",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-097&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_097s.png",
+        "cardNo": "OS08/R08-097S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-097S&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p04sp.png",
+        "cardNo": "OS08/R08-P04S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P04S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R08",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-098",
+    "baseNo": "OS08/R08-098",
+    "name": "三人でいられた最後の日",
+    "kana": "サンニンデイラレタサイゴノヒ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "雪菜「だって………ファーストキスなんだ」",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_098.png",
+        "cardNo": "OS08/R08-098",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-098&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_098s.png",
+        "cardNo": "OS08/R08-098S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-098S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-099",
+    "baseNo": "OS08/R08-099",
+    "name": "時の魔法",
+    "kana": "トキノマホウ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_099.png",
+        "cardNo": "OS08/R08-099",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-099&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_099s.png",
+        "cardNo": "OS08/R08-099S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-099S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-100",
+    "baseNo": "OS08/R08-100",
+    "name": "永久の誓い",
+    "kana": "トコシエノチカイ",
+    "product": "ブースターパック AQUAPLUS",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "私はカルラゥアツゥレイ。大神ウィツァルネミテアの名において、貴方様にこの名を献上いたします",
+    "releaseDate": "2026-02-27",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_100.png",
+        "cardNo": "OS08/R08-100",
+        "rarity": "C",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-100&expansion=R08"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_100s.png",
+        "cardNo": "OS08/R08-100S",
+        "rarity": "SR",
+        "expansion": "R08",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-100S&expansion=R08"
+      }
+    ],
+    "expansions": [
+      "R08"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-P05",
+    "baseNo": "OS08/R08-P05",
+    "name": "幸せの道 雪菜＆かずさ",
+    "kana": "シアワセノミチ セツナ＆カズサ",
+    "product": "PRカード",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【永】 手札のこのカードをプレイするにあたり、あなたは自分の「再会の日 かずさ＆雪菜」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "flavor": "",
+    "releaseDate": "2026-03-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p05.png",
+        "cardNo": "OS08/R08-P05",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P05&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p05s.png",
+        "cardNo": "OS08/R08-P05S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P05S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-P06EX",
+    "baseNo": "OS08/R08-P06",
+    "name": "昔語り カルラ",
+    "kana": "ムカシガタリ カルラ",
+    "product": "PRカード",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "武器"
+    ],
+    "text": "【自】［手札を2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、山札の下に置く。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-03-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p06ex.png",
+        "cardNo": "OS08/R08-P06EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P06EX&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-P07",
+    "baseNo": "OS08/R08-P07",
+    "name": "サムライ 環",
+    "kana": "サムライ タマキ",
+    "product": "PRカード",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "姉"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から6枚をめくり、控え室に置く。それらのカードにトリガーアイコンが【カムバック】のCXがあるなら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-05-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p07.png",
+        "cardNo": "OS08/R08-P07",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P07&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p07s.png",
+        "cardNo": "OS08/R08-P07S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P07S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-P09",
+    "baseNo": "OS08/R08-P09",
+    "name": "お出かけ日和 エルルゥ",
+    "kana": "オデカケビヨリ エルルゥ",
+    "product": "PRカード",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "AQUAPLUS",
+      "薬師"
+    ],
+    "text": "【起】【カウンター】 助太刀3500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "わ、わたしだって――はじめてワガママ言うんですから！",
+    "releaseDate": "2026-07-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p09.png",
+        "cardNo": "OS08/R08-P09",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P09&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p09s.png",
+        "cardNo": "OS08/R08-P09S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P09S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-P10",
+    "baseNo": "OS08/R08-P10",
+    "name": "夕焼けの教室 環",
+    "kana": "ユウヤケノキョウシツ タマキ",
+    "product": "PRカード",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "姉"
+    ],
+    "text": "【自】 ［手札を2枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、相手の前列のキャラすべてに、そのターン中、パワーを－Ｘし、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。Ｘはあなたの控え室のCXの枚数×500に等しい。",
+    "flavor": "",
+    "releaseDate": "2025-12-30",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p10.png",
+        "cardNo": "OS08/R08-P10",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P10&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS08/R08-P11S",
+    "baseNo": "OS08/R08-P11",
+    "name": "15th Anniversary 雪菜＆かずさ",
+    "kana": "15th Anniversary セツナ＆カズサ",
+    "product": "PRカード",
+    "neoStandard": "AQUAPLUS",
+    "workNo": "OS08",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "AQUAPLUS",
+      "音楽"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-02-22",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os08/r08/os08_r08_p11s.png",
+        "cardNo": "OS08/R08-P11S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS08%2FR08-P11S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  }
+]

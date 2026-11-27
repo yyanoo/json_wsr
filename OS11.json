@@ -1,0 +1,4619 @@
+[
+  {
+    "cardNo": "OS11/R11-001",
+    "baseNo": "OS11/R11-001",
+    "name": "血統書付きロックンローラー猫 景子",
+    "kana": "ケットウショツキロックンローラーネコ ケイコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "音楽"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは次の行動を行ってよい。『あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし控え室に置く。』\n【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "私に魅力が無い訳じゃあない。そう言ってくれたのはセンパイですよね",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_001.png",
+        "cardNo": "OS11/R11-001",
+        "rarity": "RR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-001&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_001ofr.png",
+        "cardNo": "OS11/R11-001OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-001OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_001sp.png",
+        "cardNo": "OS11/R11-001SP",
+        "rarity": "SP",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-001SP&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-002",
+    "baseNo": "OS11/R11-002",
+    "name": "“八剣”への憧れ 優里",
+    "kana": "“ハッケン”ヘノアコガレ ユウリ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラ1枚につき、このカードのパワーを＋500。\n【自】［(1) 他のあなたの【スタンド】している〈同OS〉のキャラを1枚【レスト】する］ このカードが手札から登場したターン中、このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、〈同OS〉のキャラか「言霊」を2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_002.png",
+        "cardNo": "OS11/R11-002",
+        "rarity": "RR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-002&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_002ofr.png",
+        "cardNo": "OS11/R11-002OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-002OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_002sp.png",
+        "cardNo": "OS11/R11-002SP",
+        "rarity": "SP",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-002SP&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-003",
+    "baseNo": "OS11/R11-003",
+    "name": "“八剣”一之神 春姫",
+    "kana": "“ハッケン”イチノカミ ハルヒメ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】 このカードがアタックした時、CX置場に「クナド国記」があるなら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。\n【自】【CXコンボ】［(1)］ このカードのアタックの終わりに、CX置場に「クナド国記」があるなら、コストを払ってよい。そうしたら、次の行動を2回行う。『あなたは自分の山札の上から1枚を、控え室に置く。そのカードのトリガーアイコンに【ショット】があるなら、相手に1ダメージを与える。』",
+    "flavor": "“このカントの国に、失われた“希望”や“幸せ”をもたらすと約束してくれたあなたを、信じます”",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_003.png",
+        "cardNo": "OS11/R11-003",
+        "rarity": "RR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-003&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_003ofr.png",
+        "cardNo": "OS11/R11-003OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-003OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_003sec.png",
+        "cardNo": "OS11/R11-003SEC",
+        "rarity": "SEC",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-003SEC&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-004",
+    "baseNo": "OS11/R11-004",
+    "name": "悪だくみ 凛",
+    "kana": "ワルダクミ リン",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "幼馴染"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラがいるなら、このカードのパワーを＋3000。\n【自】 このカードが手札から登場した時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにCXがあるなら、あなたは自分の控え室の〈同OS〉のキャラを1枚まで選び、ストックにする。",
+    "flavor": "あの動画使えば、かなり稼げそう。だから買い取りたい",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_004.png",
+        "cardNo": "OS11/R11-004",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-004&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_004s.png",
+        "cardNo": "OS11/R11-004S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-004S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-005",
+    "baseNo": "OS11/R11-005",
+    "name": "本気の挑戦 優里",
+    "kana": "ホンキノチョウセン ユウリ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「積み重なった想い」があるなら、あなたは自分の控え室の「“八剣”一之神 春姫」を1枚まで選び、手札に戻し、自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加える。",
+    "flavor": "は……あ、は……！",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_005.png",
+        "cardNo": "OS11/R11-005",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-005&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_005s.png",
+        "cardNo": "OS11/R11-005S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-005S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-006",
+    "baseNo": "OS11/R11-006",
+    "name": "ひび割れから差し込む光 メリル",
+    "kana": "ヒビワレカラサシコムヒカリ メリル",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "Nest"
+    ],
+    "text": "【永】 このカードのマーカー1枚につき、このカードのパワーを＋1000。\n【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見てよい。そうしたら、あなたはそのカードを裏向きでこのカードのマーカーにする。",
+    "flavor": "……別に、理由はない。そういう生き方しか、できなかっただけ",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_006.png",
+        "cardNo": "OS11/R11-006",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-006&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_006ofr.png",
+        "cardNo": "OS11/R11-006OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-006OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_006sp.png",
+        "cardNo": "OS11/R11-006SP",
+        "rarity": "SP",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-006SP&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-007",
+    "baseNo": "OS11/R11-007",
+    "name": "カントの統治者 春姫",
+    "kana": "カントノトウチシャ ハルヒメ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】【CXコンボ】［手札のカード名に「春姫」を含むキャラを1枚控え室に置く］ あなたのCX置場に「クナド国記」が置かれた時、他のあなたの〈同OS〉のキャラが2枚以上なら、コストを払ってよい。そうしたら、言霊を発動する。\n【リプレイ】言霊 そのターン中、このカードは次の能力を得る。『【永】 他のあなたのすべての領域の、「“八剣”一之神 春姫」と「“八剣”二之神 茜」と「“八剣”二之神 葵」と「“八剣”五之神 冬人」と「“八剣”八之神 信」と「“八剣”への憧れ 優里」のトリガーアイコンに【ショット】を与える。』",
+    "flavor": "\"吾らは千年戦い続けた人の果てにいる、カントの民\"！“八百の剣となり、その恐ろしさを鉄鬼に見せつけてやりなさい”！",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_007.png",
+        "cardNo": "OS11/R11-007",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-007&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_007ofr.png",
+        "cardNo": "OS11/R11-007OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-007OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_007sp.png",
+        "cardNo": "OS11/R11-007SP",
+        "rarity": "SP",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-007SP&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-008",
+    "baseNo": "OS11/R11-008",
+    "name": "踏み越える“決意”凛",
+    "kana": "フミコエル“ケツイ”リン",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "Nest"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「光の中を一人歩むより闇の中を君と」があり、他のあなたの〈同OS〉のキャラが2枚以上なら、コストを払ってよい。そうしたら、相手に3ダメージを与える。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_008.png",
+        "cardNo": "OS11/R11-008",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-008&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_008ofr.png",
+        "cardNo": "OS11/R11-008OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-008OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_008sp.png",
+        "cardNo": "OS11/R11-008SP",
+        "rarity": "SP",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-008SP&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-009",
+    "baseNo": "OS11/R11-009",
+    "name": "“八剣”八之神 信",
+    "kana": "“ハッケン”ハチノカミ シン",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【自】 このカードのトリガーチェックでトリガーアイコンが【ショット】のCXがでた時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。\n【自】 絆／「“八剣”への憧れ 優里」「共にする食事 春姫」 ［手札を1枚控え室に置く］",
+    "flavor": "“吾が一撃は、鉄をも砕く”",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_009.png",
+        "cardNo": "OS11/R11-009",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-009&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_009s.png",
+        "cardNo": "OS11/R11-009S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-009S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-010",
+    "baseNo": "OS11/R11-010",
+    "name": "青春の一コマ メリル",
+    "kana": "セイシュンノヒトコマ メリル",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "銃"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストックにしてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_010.png",
+        "cardNo": "OS11/R11-010",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-010&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_010s.png",
+        "cardNo": "OS11/R11-010S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-010S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-011",
+    "baseNo": "OS11/R11-011",
+    "name": "憎たらしい幼馴染み 凛",
+    "kana": "ニクタラシイオサナナジミ リン",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "幼馴染"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【永】 記憶 あなたの思い出置場に「楽しい日々 ひな」があるなら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』",
+    "flavor": "裏社会でのし上がって力を手に入れるか、雨紋会を潰すか。それしかない",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_011.png",
+        "cardNo": "OS11/R11-011",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-011&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_011s.png",
+        "cardNo": "OS11/R11-011S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-011S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-012",
+    "baseNo": "OS11/R11-012",
+    "name": "降り注ぐ日差し 景子",
+    "kana": "フリソソグヒザシ ケイコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "音楽"
+    ],
+    "text": "【自】 このカードが手札から登場した時かアタックした時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "flavor": "だって、センパイに好きって言わせる為に色々すると思います",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_012.png",
+        "cardNo": "OS11/R11-012",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-012&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_012s.png",
+        "cardNo": "OS11/R11-012S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-012S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-013",
+    "baseNo": "OS11/R11-013",
+    "name": "未来を切り開く選択 春姫",
+    "kana": "ミライヲキリヒラクセンタク ハルヒメ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】【CXコンボ】［手札の〈同OS〉のキャラを1枚控え室に置く］ あなたのCXフェイズ中、CX置場に「交差する閃光」が置かれた時、コストを払ってよい。そうしたら、あなたは自分の「必殺の奇襲 葵」を1枚選び、そのターン中、次の能力を与える。『【自】 このカードのアタックの終わりに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが0以下なら、あなたは相手に3ダメージを与えてよい。』",
+    "flavor": "わたしは今宵、この時をもって、一之神と統治者の座をおります",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_013.png",
+        "cardNo": "OS11/R11-013",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-013&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_013s.png",
+        "cardNo": "OS11/R11-013S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-013S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-014",
+    "baseNo": "OS11/R11-014",
+    "name": "青春の一コマ 凛",
+    "kana": "セイシュンノヒトコマ リン",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "幼馴染"
+    ],
+    "text": "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室の〈同OS〉のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_014.png",
+        "cardNo": "OS11/R11-014",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-014&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_014s.png",
+        "cardNo": "OS11/R11-014S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-014S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-015",
+    "baseNo": "OS11/R11-015",
+    "name": "1年越しの約束 弥生",
+    "kana": "イチネンゴシノヤクソク ヤヨイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "科学"
+    ],
+    "text": "【自】［他のあなたの舞台のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を見てCXを1枚まで選んで公開し、自分の手札のCXを1枚まで選んで公開し、それらのCXを入れ替え、その山札をシャッフルする。",
+    "flavor": "……まあ、そんな事になるだろうとは思ったんだけど",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_015.png",
+        "cardNo": "OS11/R11-015",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-015&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_015s.png",
+        "cardNo": "OS11/R11-015S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-015S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-016",
+    "baseNo": "OS11/R11-016",
+    "name": "転校生 メリル",
+    "kana": "テンコウセイ メリル",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "銃"
+    ],
+    "text": "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
+    "flavor": "メリル・ハサウェイです。アメリカから来ました",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_016.png",
+        "cardNo": "OS11/R11-016",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-016&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_016s.png",
+        "cardNo": "OS11/R11-016S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-016S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-017",
+    "baseNo": "OS11/R11-017",
+    "name": "お望みの夢 弥生",
+    "kana": "オノゾミノユメ ヤヨイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "科学"
+    ],
+    "text": "【永】 あなたのキャラすべてに、次の能力を与える。『【自】 このカードが【リバース】した時、このカードを山札の下に置く。』",
+    "flavor": "あとは高エネルギーで電荷がゼロになるとか。夢が広がるわよね",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_017.png",
+        "cardNo": "OS11/R11-017",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-017&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_017s.png",
+        "cardNo": "OS11/R11-017S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-017S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-018",
+    "baseNo": "OS11/R11-018",
+    "name": "『普通』を望む少女 メリル",
+    "kana": "『フツウ』ヲノゾムショウジョ メリル",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "銃"
+    ],
+    "text": "【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのパワーを＋3000。\n【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+    "flavor": "私を……“普通”にしてくれる？",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_018.png",
+        "cardNo": "OS11/R11-018",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-018&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_018s.png",
+        "cardNo": "OS11/R11-018S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-018S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-019",
+    "baseNo": "OS11/R11-019",
+    "name": "共にする食事 春姫",
+    "kana": "トモニスルショクジ ハルヒメ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【永】 他のあなたの後列の「“八剣”二之神 茜」がいるなら、このカードは次の2つの能力を得る。『【永】 あなたのターン中、このカードのパワーを＋2000。』『【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。』\n【自】［(1)］ あなたのトリガーアイコンが【ショット】のCXがトリガーした時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "夏の夜風を肴に、まずは一献",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_019.png",
+        "cardNo": "OS11/R11-019",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-019&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_019s.png",
+        "cardNo": "OS11/R11-019S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-019S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-020",
+    "baseNo": "OS11/R11-020",
+    "name": "甘くて幸せな悪い夢のお話 景子",
+    "kana": "アマクテシアワセナワルイユメノオハナシ ケイコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "音楽"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻し、他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "……私は、ただ。誰にも邪魔をされずに、1人だけで生きて行けるようになりたい。それだけです――",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_020.png",
+        "cardNo": "OS11/R11-020",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-020&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_020s.png",
+        "cardNo": "OS11/R11-020S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-020S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-021",
+    "baseNo": "OS11/R11-021",
+    "name": "甘くて幸せな悪い夢のお話 弥生",
+    "kana": "アマクテシアワセナワルイユメノオハナシ ヤヨイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "科学"
+    ],
+    "text": "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「甘くて幸せな悪い夢のお話 弥生」を1枚選び、舞台の好きな枠に置く。",
+    "flavor": "本当に、この夢が覚めなければいいのに。ずっと、このままで居ればいいのに。そう思う時もあるわ",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_021.png",
+        "cardNo": "OS11/R11-021",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-021&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_021s.png",
+        "cardNo": "OS11/R11-021S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-021S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-022",
+    "baseNo": "OS11/R11-022",
+    "name": "自分のための贖罪 凛",
+    "kana": "ジブンノタメノショクザイ リン",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "Nest"
+    ],
+    "text": "【永】 他のあなたの後列の「咎人の境界線 樹」がいるなら、このカードのパワーを＋4000。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の「咎人の境界線 樹」を1枚選び、舞台の好きな枠に置く。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_022.png",
+        "cardNo": "OS11/R11-022",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-022&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_022s.png",
+        "cardNo": "OS11/R11-022S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-022S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-023",
+    "baseNo": "OS11/R11-023",
+    "name": "誇示する“力”メリル",
+    "kana": "コジスル“チカラ”メリル",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "Nest"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手に1ダメージを与えてよい。",
+    "flavor": "試してみようか。おもちゃか、偽物か",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_023.png",
+        "cardNo": "OS11/R11-023",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-023&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_023s.png",
+        "cardNo": "OS11/R11-023S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-023S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-024",
+    "baseNo": "OS11/R11-024",
+    "name": "言霊",
+    "kana": "コトダマ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "EV",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』\nこのカードをストック置場の下に置く。",
+    "flavor": "“吾が一撃は、鉄をも砕く”",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_024.png",
+        "cardNo": "OS11/R11-024",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-024&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_024s.png",
+        "cardNo": "OS11/R11-024S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-024S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-025",
+    "baseNo": "OS11/R11-025",
+    "name": "クナド国記",
+    "kana": "クナドコクキ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "shot"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ショット】：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_025.png",
+        "cardNo": "OS11/R11-025",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-025&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_025s.png",
+        "cardNo": "OS11/R11-025S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-025S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-026",
+    "baseNo": "OS11/R11-026",
+    "name": "積み重なった想い",
+    "kana": "ツミカサナッタオモイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "shot"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ショット】：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+    "flavor": "優里「……信じてるかどうかなんてどうでもいい！」",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_026.png",
+        "cardNo": "OS11/R11-026",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-026&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_026s.png",
+        "cardNo": "OS11/R11-026S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-026S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-027",
+    "baseNo": "OS11/R11-027",
+    "name": "光の中を一人歩むより闇の中を君と",
+    "kana": "ヒカリノナカヲヒトリアユムヨリヤミノナカヲキミト",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "メリル「明日のおやつはチョコケーキにする」",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_027.png",
+        "cardNo": "OS11/R11-027",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-027&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_027s.png",
+        "cardNo": "OS11/R11-027S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-027S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-028",
+    "baseNo": "OS11/R11-028",
+    "name": "楽しい日々 ひな",
+    "kana": "タノシイヒビ ヒナ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "料理"
+    ],
+    "text": "【自】［(1) あなたの山札の上から1枚をクロックにする］ このカードが手札か思い出置場から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札のレベル1以下のキャラを1枚までサーチし手札に加える。\n【自】 このカードが【リバース】した時、あなたの思い出が2枚以下なら、あなたはこのカードを思い出にしてよい。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_028.png",
+        "cardNo": "OS11/R11-028",
+        "rarity": "RR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-028&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_028ofr.png",
+        "cardNo": "OS11/R11-028OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-028OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_028sec.png",
+        "cardNo": "OS11/R11-028SEC",
+        "rarity": "SEC",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-028SEC&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-029",
+    "baseNo": "OS11/R11-029",
+    "name": "頼りになるけど困った先輩 弥生",
+    "kana": "タヨリニナルケドコマッタセンパイ ヤヨイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "科学"
+    ],
+    "text": "【永】 記憶 あなたの思い出置場に「二回目の初めて 弥生」があるなら、このカードのパワーを＋1000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「はじめてのおはなし」があるなら、あなたは自分の控え室の〈同OS〉のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "モテる男は大変ね？",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_029.png",
+        "cardNo": "OS11/R11-029",
+        "rarity": "RR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-029&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_029ofr.png",
+        "cardNo": "OS11/R11-029OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-029OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_029sp.png",
+        "cardNo": "OS11/R11-029SP",
+        "rarity": "SP",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-029SP&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-030",
+    "baseNo": "OS11/R11-030",
+    "name": "逸脱者の矜持 ひな",
+    "kana": "アウトローノキョウジ ヒナ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "料理"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札か思い出置場から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。\n【自】【CXコンボ】［手札の、「光の中を一人歩むより闇の中を君と」か「反抗の一歩目」を1枚控え室に置く］ このカードが手札か思い出置場から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の、「光の中を一人歩むより闇の中を君と」か「反抗の一歩目」を1枚選び、手札に戻す。",
+    "flavor": "暴力は嫌い。けど――人を裏切って、自分だけ助かろうとする人は、もっと嫌い",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_030.png",
+        "cardNo": "OS11/R11-030",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-030&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_030ofr.png",
+        "cardNo": "OS11/R11-030OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-030OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_030sp.png",
+        "cardNo": "OS11/R11-030SP",
+        "rarity": "SP",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-030SP&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-031",
+    "baseNo": "OS11/R11-031",
+    "name": "示す“覚悟”琴子",
+    "kana": "シメス“カクゴ”コトコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "和服"
+    ],
+    "text": "【起】［あなたの舞台の「転校生 メリル」を1枚クロックにする］ あなたは自分のクロック置場の「ひび割れから差し込む光 メリル」を1枚選び、舞台の好きな枠に置く。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。』",
+    "flavor": "それは……、卑怯ではありませんか……？",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_031.png",
+        "cardNo": "OS11/R11-031",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-031&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_031s.png",
+        "cardNo": "OS11/R11-031S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-031S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-032",
+    "baseNo": "OS11/R11-032",
+    "name": "将来の夢 ひな",
+    "kana": "ショウライノユメ ヒナ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "料理"
+    ],
+    "text": "【自】 このカードが手札か思い出置場から登場した時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】［手札のCXを1枚控え室に置く］ このカードのトリガーチェックでCXがでた時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。』",
+    "flavor": "いただきま～す",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_032.png",
+        "cardNo": "OS11/R11-032",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-032&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_032s.png",
+        "cardNo": "OS11/R11-032S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-032S&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_p07ex.png",
+        "cardNo": "OS11/R11-P07EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-P07EX&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R11",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-033",
+    "baseNo": "OS11/R11-033",
+    "name": "悪の一分 琴子",
+    "kana": "アクノイチブン コトコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "和服"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋1000。\n【自】【CXコンボ】［手札を1枚控え室に置く］ あなたのCXフェイズ中、CX置場に「反抗の一歩目」が置かれた時、前列にこのカードがいて、他のあなたの〈同OS〉のキャラがいるなら、コストを払ってよい。そうしたら、あなたは自分の控え室のレベル1以下の〈同OS〉のキャラを1枚まで選び、舞台の好きな枠に置き、次の相手のターンの終わりまで、そのキャラのレベルを＋1。",
+    "flavor": "わたくしは、この道を……外道を、歩みます",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_033.png",
+        "cardNo": "OS11/R11-033",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-033&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_033ofr.png",
+        "cardNo": "OS11/R11-033OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-033OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_033sp.png",
+        "cardNo": "OS11/R11-033SP",
+        "rarity": "SP",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-033SP&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-034",
+    "baseNo": "OS11/R11-034",
+    "name": "続けたい女王様 弥生",
+    "kana": "ツヅケタイジョオウサマ ヤヨイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "科学"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 記憶 このカードがアタックした時、あなたの思い出置場に「二回目の初めて 弥生」があるなら、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_034.png",
+        "cardNo": "OS11/R11-034",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-034&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_034s.png",
+        "cardNo": "OS11/R11-034S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-034S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-035",
+    "baseNo": "OS11/R11-035",
+    "name": "雨紋会 琴子",
+    "kana": "ウモンカイ コトコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "Nest"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋1000。\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストックにする。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_035.png",
+        "cardNo": "OS11/R11-035",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-035&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_035s.png",
+        "cardNo": "OS11/R11-035S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-035S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-036",
+    "baseNo": "OS11/R11-036",
+    "name": "街中はネバーランド 景子",
+    "kana": "マチジュウハネバーランド ケイコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "音楽"
+    ],
+    "text": "【自】［手札を2枚控え室に置く］ このカードが手札から登場した時、他のあなたの〈同OS〉のキャラが2枚以上なら、コストを払ってよい。そうしたら、あなたは2枚まで引く。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_036.png",
+        "cardNo": "OS11/R11-036",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-036&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_036s.png",
+        "cardNo": "OS11/R11-036S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-036S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-037",
+    "baseNo": "OS11/R11-037",
+    "name": "二回目の初めて 弥生",
+    "kana": "ニカイメノハジメテ ヤヨイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "科学"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋3000。\n【自】 このカードが【リバース】した時、あなたの思い出が2枚以下なら、あなたはこのカードを思い出にしてよい。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_037.png",
+        "cardNo": "OS11/R11-037",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-037&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_037s.png",
+        "cardNo": "OS11/R11-037S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-037S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-038",
+    "baseNo": "OS11/R11-038",
+    "name": "夢の中のお茶会 弥生",
+    "kana": "ユメノナカノオチャカイ ヤヨイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "科学"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_038.png",
+        "cardNo": "OS11/R11-038",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-038&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_038s.png",
+        "cardNo": "OS11/R11-038S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-038S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-039",
+    "baseNo": "OS11/R11-039",
+    "name": "誰かの“特別”ひな",
+    "kana": "ダレカノ“トクベツ”ヒナ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "料理"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札か思い出置場から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の「一線を越えたなにか」を1枚選び、手札に戻す。",
+    "flavor": "適当にブラブラしましょ～",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_039.png",
+        "cardNo": "OS11/R11-039",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-039&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_039s.png",
+        "cardNo": "OS11/R11-039S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-039S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-040",
+    "baseNo": "OS11/R11-040",
+    "name": "方向音痴 琴子",
+    "kana": "ホウコウオンチ コトコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "和服"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードがCXなら、そのターン中、このカードは次の能力を得る。『【永】 このカードはアタックできない。』\n【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+    "flavor": "では……、はじめる前に。ひとつだけ、いいですか？",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_040.png",
+        "cardNo": "OS11/R11-040",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-040&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_040s.png",
+        "cardNo": "OS11/R11-040S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-040S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-041",
+    "baseNo": "OS11/R11-041",
+    "name": "青春の一コマ ひな",
+    "kana": "セイシュンノヒトコマ ヒナ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "料理"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋6000。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_041.png",
+        "cardNo": "OS11/R11-041",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-041&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_041s.png",
+        "cardNo": "OS11/R11-041S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-041S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-042",
+    "baseNo": "OS11/R11-042",
+    "name": "初めての反抗 景子",
+    "kana": "ハジメテノハンコウ ケイコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 1,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "音楽"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「歌いたいから歌う 景子」を1枚選び、思い出にしてよい。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロックにする。",
+    "flavor": "止めて、下さい……！",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_042.png",
+        "cardNo": "OS11/R11-042",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-042&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_042s.png",
+        "cardNo": "OS11/R11-042S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-042S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-043",
+    "baseNo": "OS11/R11-043",
+    "name": "青春の一コマ 琴子",
+    "kana": "セイシュンノヒトコマ コトコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "和服"
+    ],
+    "text": "【自】【CXコンボ】［あなたのCX置場の「反抗の一歩目」を1枚控え室に置く］ 控え室にこのカードがあるなら、あなたのアンコールステップの始めに、コストを払ってよい。そうしたら、このカードを手札に戻す。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_043.png",
+        "cardNo": "OS11/R11-043",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-043&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_043s.png",
+        "cardNo": "OS11/R11-043S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-043S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-044",
+    "baseNo": "OS11/R11-044",
+    "name": "地獄行きの“復讐”辰也",
+    "kana": "ジゴクイキノ“フクシュウ”タツヤ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "Nest"
+    ],
+    "text": "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。\n【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストックにしてよい。",
+    "flavor": "コテコテすぎて、おかしくなっちまって。……映画の見すぎじゃねぇっすか？",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_044.png",
+        "cardNo": "OS11/R11-044",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-044&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_044s.png",
+        "cardNo": "OS11/R11-044S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-044S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-045",
+    "baseNo": "OS11/R11-045",
+    "name": "咎人の境界線 樹",
+    "kana": "クリミナルボーダー イツキ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "Nest"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ 他のあなたの《Nest》のキャラが2枚以上なら、あなたは自分の思い出置場の自分のレベル以下でコスト0以下のカード名に「ひな」を含むキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのソウルを＋1し、ターンの終わりに、そのキャラを思い出にする。",
+    "flavor": "……まぁいいか。どうせもう、会うこともない",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_045.png",
+        "cardNo": "OS11/R11-045",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-045&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_045s.png",
+        "cardNo": "OS11/R11-045S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-045S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-046",
+    "baseNo": "OS11/R11-046",
+    "name": "歌いたいから歌う 景子",
+    "kana": "ウタイタイカラウタウ ケイコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "音楽"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードを思い出にする。\n【起】 記憶 ［(1) 思い出置場のこのカードを控え室に置く］ あなたのレベルが2以上なら、あなたは自分の手札の「歌に乗せるメッセージ 景子」を1枚まで選び、舞台の好きな枠に置く。",
+    "flavor": "むしろお兄様も物好きですね、なんで寒い中私についてきたんですか",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_046.png",
+        "cardNo": "OS11/R11-046",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-046&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_046s.png",
+        "cardNo": "OS11/R11-046S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-046S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-047",
+    "baseNo": "OS11/R11-047",
+    "name": "歌に乗せるメッセージ 景子",
+    "kana": "ウタニノセルメッセージ ケイコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "音楽"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】 このカードがアタックした時、CX置場に「何が不満なんですか」があり、他のあなたの〈同OS〉のキャラがいるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』",
+    "flavor": "冗談です。わたしも愛してますよ――透センパイ",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_047.png",
+        "cardNo": "OS11/R11-047",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-047&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_047s.png",
+        "cardNo": "OS11/R11-047S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-047S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-048",
+    "baseNo": "OS11/R11-048",
+    "name": "一線を越えたなにか",
+    "kana": "イッセンヲコエタナニカ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "EV",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "［あなたの舞台の「楽しい日々 ひな」を1枚思い出にする］ コストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、自分の控え室の〈同OS〉のキャラを1枚選び手札に戻し、このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの《Nest》のキャラすべてに、次の能力を与える。『【永】 他のあなたの「咎人の境界線 樹」がいるなら、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』』",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_048.png",
+        "cardNo": "OS11/R11-048",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-048&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_048s.png",
+        "cardNo": "OS11/R11-048S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-048S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-049",
+    "baseNo": "OS11/R11-049",
+    "name": "はじめてのおはなし",
+    "kana": "ハジメテノオハナシ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "弥生「まあいいや、とりあえずお兄さんが変な人だっていうのは分かった」",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_049.png",
+        "cardNo": "OS11/R11-049",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-049&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_049s.png",
+        "cardNo": "OS11/R11-049S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-049S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-050",
+    "baseNo": "OS11/R11-050",
+    "name": "反抗の一歩目",
+    "kana": "ハンコウノイッポメ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_050.png",
+        "cardNo": "OS11/R11-050",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-050&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_050s.png",
+        "cardNo": "OS11/R11-050S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-050S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-051",
+    "baseNo": "OS11/R11-051",
+    "name": "何が不満なんですか",
+    "kana": "ナニガフマンナンデスカ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストックにし、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "flavor": "センパイは良いんですか？",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_051.png",
+        "cardNo": "OS11/R11-051",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-051&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_051s.png",
+        "cardNo": "OS11/R11-051S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-051S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-052",
+    "baseNo": "OS11/R11-052",
+    "name": "Real×Dream 舞亜",
+    "kana": "リアル×ドリーム マイア",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ このカードが【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。\n【自】 記憶 思い出置場にこのカードがあり、あなたのキャラすべてが〈同OS〉なら、あなたのメインフェイズの始めに、あなたは自分の控え室の〈同OS〉のキャラを1枚とこのカードを選び、入れ替えてよい。",
+    "flavor": "ええ、そうよ。わたしは舞台を整えるだけなのよ",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_052.png",
+        "cardNo": "OS11/R11-052",
+        "rarity": "RR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-052&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_052s.png",
+        "cardNo": "OS11/R11-052S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-052S&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_p03s.png",
+        "cardNo": "OS11/R11-P03S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-P03S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R11",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-053",
+    "baseNo": "OS11/R11-053",
+    "name": "“八剣”二之神 茜",
+    "kana": "“ハッケン”ニノカミ アカネ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【自】 共鳴 ［手札の「“八剣”二之神 葵」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、あなたは自分の山札を上から1枚見て、山札の上か下か控え室に置き、自分の〈同OS〉のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。』\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "は、恥ずかしくないわよ！",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_053.png",
+        "cardNo": "OS11/R11-053",
+        "rarity": "RR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-053&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_053ofr.png",
+        "cardNo": "OS11/R11-053OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-053OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_053ssp.png",
+        "cardNo": "OS11/R11-053SSP",
+        "rarity": "SSP",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-053SSP&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-054",
+    "baseNo": "OS11/R11-054",
+    "name": "最愛のトラウマ 舞亜",
+    "kana": "サイアイノトラウマ マイア",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【自】 このカードが手札か思い出置場から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「夢の続き」があり、他のあなたの〈同OS〉のキャラが2枚以上なら、コストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをクロックにしてよい。』\n【自】 このカードが【リバース】した時、このカードを思い出にする。",
+    "flavor": "それじゃあごきげんよう、またいつか夢の舞台でお会いしましょう♪",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_054.png",
+        "cardNo": "OS11/R11-054",
+        "rarity": "RR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-054&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_054ofr.png",
+        "cardNo": "OS11/R11-054OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-054OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_054ssp.png",
+        "cardNo": "OS11/R11-054SSP",
+        "rarity": "SSP",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-054SSP&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-055",
+    "baseNo": "OS11/R11-055",
+    "name": "Dream memory 透＆舞亜",
+    "kana": "ドリームメモリー トオル＆マイア",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から3枚まで見て、イベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。\n【自】 このカードが手札から登場した時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「Real×Dream 舞亜」を1枚選び、思い出にしてよい。",
+    "flavor": "舞亜「――その手を離さないでね、お兄ちゃん」",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_055.png",
+        "cardNo": "OS11/R11-055",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-055&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_055s.png",
+        "cardNo": "OS11/R11-055S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-055S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-056",
+    "baseNo": "OS11/R11-056",
+    "name": "ドSで妹な幼なじみ 咲",
+    "kana": "ドエスデイモウトナオサナナジミ サキ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+    "flavor": "血はつながって無くてもわたしは兄さんにとって妹でしょ？",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_056.png",
+        "cardNo": "OS11/R11-056",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-056&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_056ofr.png",
+        "cardNo": "OS11/R11-056OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-056OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_056sp.png",
+        "cardNo": "OS11/R11-056SP",
+        "rarity": "SP",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-056SP&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-057",
+    "baseNo": "OS11/R11-057",
+    "name": "ちっくたっくちっくたっく 舞亜",
+    "kana": "チックタックチックタック マイア",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』\n【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードとクロック置場のこのカードを入れ替えてよい）",
+    "flavor": "ちっくたっくちっくたっく――ああ、とても良い匂い。美味しそうな匂いがするわ",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_057.png",
+        "cardNo": "OS11/R11-057",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-057&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_057s.png",
+        "cardNo": "OS11/R11-057S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-057S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-058",
+    "baseNo": "OS11/R11-058",
+    "name": "兄妹の関係 咲",
+    "kana": "キョウダイノカンケイ サキ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【永】 記憶 あなたの思い出置場に「押しかけ妹 咲」があるなら、このカードは次の2つの能力を得る。『【永】 あなたのターン中、このカードのパワーを＋4000。』『【自】 アンコール ［手札のキャラを1枚控え室に置く］』\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「本当のお別れ」があり、他のあなたの〈同OS〉のキャラがいるなら、次の2つの効果を好きな順番で1回ずつ行う。『あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』『あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。』",
+    "flavor": "……わたしに、助けて欲しい？",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_058.png",
+        "cardNo": "OS11/R11-058",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-058&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_058s.png",
+        "cardNo": "OS11/R11-058S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-058S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-059",
+    "baseNo": "OS11/R11-059",
+    "name": "必殺の奇襲 茜＆信",
+    "kana": "ヒッサツノキシュウ アカネ＆シン",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】 このカードのアタックの終わりに、CX置場に「交差する閃光」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが0以下なら、あなたは相手に3ダメージを与えてよい。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_059.png",
+        "cardNo": "OS11/R11-059",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-059&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_059s.png",
+        "cardNo": "OS11/R11-059S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-059S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-060",
+    "baseNo": "OS11/R11-060",
+    "name": "押しかけ妹 咲",
+    "kana": "オシカケイモウト サキ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【起】［(1) このカードを思い出にする］ あなたは自分の控え室の「兄妹の関係 咲」を1枚選び、手札に戻す。",
+    "flavor": "あら、妹が兄さんの部屋に入るのはそんなにいけない事かしら",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_060.png",
+        "cardNo": "OS11/R11-060",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-060&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_060s.png",
+        "cardNo": "OS11/R11-060S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-060S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-061",
+    "baseNo": "OS11/R11-061",
+    "name": "小さなころの記憶 舞亜",
+    "kana": "チイサナコロノキオク マイア",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「Real×Dream 舞亜」を1枚選び、思い出にしてよい。\n【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "flavor": "ええ。お兄ちゃんと咲ちゃんが居ればきっと楽しいわ、それって凄く素敵よ",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_061.png",
+        "cardNo": "OS11/R11-061",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-061&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_061s.png",
+        "cardNo": "OS11/R11-061S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-061S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-062",
+    "baseNo": "OS11/R11-062",
+    "name": "最初の命令 茜",
+    "kana": "サイショノメイレイ アカネ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】 このカードが【リバース】した時、あなたは自分の山札を上から3枚まで見て、CXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+    "flavor": "だから、茜が統治者として、最初の命令をするわ！",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_062.png",
+        "cardNo": "OS11/R11-062",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-062&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_062s.png",
+        "cardNo": "OS11/R11-062S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-062S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-063",
+    "baseNo": "OS11/R11-063",
+    "name": "下着チェック 咲",
+    "kana": "シタギチェック サキ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【自】 あなたのCXフェイズの始めに、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋500。\n【自】【ターン1】［手札を1枚控え室に置く］ あなたのカードが思い出置場に置かれた時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "確か夢の中で、今日着る予定の下着を兄さんに教えたと思うんだけど",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_063.png",
+        "cardNo": "OS11/R11-063",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-063&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_063s.png",
+        "cardNo": "OS11/R11-063S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-063S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-064",
+    "baseNo": "OS11/R11-064",
+    "name": "大好きな兄さんのため 咲",
+    "kana": "ダイスキナニイサンノタメ サキ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の〈同OS〉のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
+    "flavor": "兄さんの考えてる事なんて言わなくても分かるもの、しょうがないでしょ",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_064.png",
+        "cardNo": "OS11/R11-064",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-064&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_064s.png",
+        "cardNo": "OS11/R11-064S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-064S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-065",
+    "baseNo": "OS11/R11-065",
+    "name": "小さなころの記憶 咲",
+    "kana": "チイサナコロノキオク サキ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple"
+    ],
+    "text": "【自】 このカードが手札から登場した時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』\n【自】 このカードが【リバース】した時、あなたは自分の山札を上から3枚まで見て、CXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+    "flavor": "……ん、そうかも。透ちゃんと舞亜ちゃんが居れば、何処でも楽しいから",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_065.png",
+        "cardNo": "OS11/R11-065",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-065&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_065s.png",
+        "cardNo": "OS11/R11-065S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-065S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-066",
+    "baseNo": "OS11/R11-066",
+    "name": "膝枕 優里",
+    "kana": "ヒザマクラ ユウリ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "あなたに教わった大事なことを無駄にはしません",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_066.png",
+        "cardNo": "OS11/R11-066",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-066&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_066s.png",
+        "cardNo": "OS11/R11-066S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-066S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-067",
+    "baseNo": "OS11/R11-067",
+    "name": "意図しない言霊 優里",
+    "kana": "イトシナイコトダマ ユウリ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【永】 このカードは他の枠に動かせない。\n【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋3000。",
+    "flavor": "……これで、満足ですか？",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_067.png",
+        "cardNo": "OS11/R11-067",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-067&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_067s.png",
+        "cardNo": "OS11/R11-067S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-067S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-068",
+    "baseNo": "OS11/R11-068",
+    "name": "かわいい風神雷神 茜＆葵",
+    "kana": "カワイイフウジンライジン アカネ＆アオイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「変わりゆく関係」があり、他のあなたの〈同OS〉のキャラが2枚以上なら、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "茜「あなたが黒神の落とし子ね！」",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_068.png",
+        "cardNo": "OS11/R11-068",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-068&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_068s.png",
+        "cardNo": "OS11/R11-068S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-068S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-069",
+    "baseNo": "OS11/R11-069",
+    "name": "最強無敵の二人 茜",
+    "kana": "サイキョウムテキノフタリ アカネ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【永】 他のあなたの前列の「最強無敵の二人 葵」がいるなら、このカードのパワーを＋4500し、ソウルを＋1し、このカードは『【自】 アンコール ［手札の〈同OS〉のキャラを1枚控え室に置く］』を得る。\n【永】 他のあなたの「最強無敵の二人 葵」すべてに、パワーを＋2000し、ソウルを＋1。",
+    "flavor": "よく集まってくれたわね、皆！　歴代でも最強無敵の統治者である茜から礼を言うわ！",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_069.png",
+        "cardNo": "OS11/R11-069",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-069&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_069s.png",
+        "cardNo": "OS11/R11-069S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-069S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-070",
+    "baseNo": "OS11/R11-070",
+    "name": "甘くて幸せな悪い夢のお話 舞亜＆咲",
+    "kana": "アマクテシアワセナワルイユメノオハナシ マイア＆サキ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_070.png",
+        "cardNo": "OS11/R11-070",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-070&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_070s.png",
+        "cardNo": "OS11/R11-070S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-070S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-071",
+    "baseNo": "OS11/R11-071",
+    "name": "恋人になった二人 咲",
+    "kana": "コイビトニナッタフタリ サキ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【自】［手札を3枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを2枚までサーチし手札に加える。",
+    "flavor": "分かる……？　すごいドキドキしてるの",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_071.png",
+        "cardNo": "OS11/R11-071",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-071&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_071s.png",
+        "cardNo": "OS11/R11-071S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-071S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-072",
+    "baseNo": "OS11/R11-072",
+    "name": "大好きなお兄ちゃんへ 舞亜",
+    "kana": "ダイスキナオニイチャンヘ マイア",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【自】【CXコンボ】［手札を1枚控え室に置き、このカードを思い出にする］ あなたのCX置場に「夢の続き」が置かれた時、コストを払ってよい。そうしたら、あなたは自分の思い出置場の「最愛のトラウマ 舞亜」を1枚選び、このカードがいた枠に置く。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。",
+    "flavor": "わたしに出来るのは夢の望む形を表に出すだけなの。脚本を書き換えるような真似は無理だわ",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_072.png",
+        "cardNo": "OS11/R11-072",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-072&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_072s.png",
+        "cardNo": "OS11/R11-072S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-072S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-073",
+    "baseNo": "OS11/R11-073",
+    "name": "永遠の愛の誓い 優里",
+    "kana": "エイエンノアイノチカイ ユウリ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【永】 他のあなたの後列の〈同OS〉のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から登場した時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの〈同OS〉のキャラの枚数に等しい。",
+    "flavor": "信さまー！",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_073.png",
+        "cardNo": "OS11/R11-073",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-073&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_073s.png",
+        "cardNo": "OS11/R11-073S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-073S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-074",
+    "baseNo": "OS11/R11-074",
+    "name": "ハピメア",
+    "kana": "ハピメア",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "EV",
+    "color": "red",
+    "level": 3,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "記憶 あなたは自分の思い出置場の「最愛のトラウマ 舞亜」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_074.png",
+        "cardNo": "OS11/R11-074",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-074&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_074s.png",
+        "cardNo": "OS11/R11-074S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-074S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-075",
+    "baseNo": "OS11/R11-075",
+    "name": "変わりゆく関係",
+    "kana": "カワリユクカンケイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "葵「信お兄ちゃんは、葵にも初めての男の子の友達♪」",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_075.png",
+        "cardNo": "OS11/R11-075",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-075&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_075s.png",
+        "cardNo": "OS11/R11-075S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-075S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-076",
+    "baseNo": "OS11/R11-076",
+    "name": "夢の続き",
+    "kana": "ユメノツヅキ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "舞亜「だからその夢を叶えてあげるわ♪」",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_076.png",
+        "cardNo": "OS11/R11-076",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-076&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_076s.png",
+        "cardNo": "OS11/R11-076S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-076S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-077",
+    "baseNo": "OS11/R11-077",
+    "name": "本当のお別れ",
+    "kana": "ホントウノオワカレ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室のトリガーアイコンに【ソウル】があるキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。",
+    "flavor": "咲「ダメ。相手の分も1人で全部背負おうとすると、わたしみたいになっちゃうわよ」",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_077.png",
+        "cardNo": "OS11/R11-077",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-077&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_077s.png",
+        "cardNo": "OS11/R11-077S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-077S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-078",
+    "baseNo": "OS11/R11-078",
+    "name": "“八剣”二之神 葵",
+    "kana": "“ハッケン”ニノカミ アオイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【永】 他のあなたの後列の「“八剣”二之神 茜」がいるなら、このカードのパワーを＋2000。\n【自】 共鳴 ［手札の「“八剣”二之神 茜」を1枚公開する］ あなたのCXフェイズの始めに、他のあなたの〈同OS〉のキャラがいるなら、コストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『そのターン中、このカードのソウルを＋1。』『自分の〈同OS〉のキャラを2枚まで選び、そのターン中、パワーを＋500。』",
+    "flavor": "えへへ。見せちゃった♪",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_078.png",
+        "cardNo": "OS11/R11-078",
+        "rarity": "RR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-078&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_078ofr.png",
+        "cardNo": "OS11/R11-078OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-078OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_078ssp.png",
+        "cardNo": "OS11/R11-078SSP",
+        "rarity": "SSP",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-078SSP&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-079",
+    "baseNo": "OS11/R11-079",
+    "name": "夢の中でしか会えない女の子 有栖",
+    "kana": "ユメノナカデシカアエナイオンナノコ アリス",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "夢"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「不思議な夢の住人」があり、他のあなたの〈同OS〉のキャラがいるなら、次の2つの効果を好きな順番で1回ずつ行う。『あなたは自分の山札を上から3枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。この効果で控え室に置かれたカードにCXがあるなら、あなたは自分の山札の上から1枚を、ストックにしてよい。』『あなたの思い出が2枚以下なら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、思い出にしてよい。』",
+    "flavor": "好きな所に遊びに行ける鍵！　というわけで、いっけるっかな、いけるかなー",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_079.png",
+        "cardNo": "OS11/R11-079",
+        "rarity": "RR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-079&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_079ofr.png",
+        "cardNo": "OS11/R11-079OFR",
+        "rarity": "OFR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-079OFR&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_079ssp.png",
+        "cardNo": "OS11/R11-079SSP",
+        "rarity": "SSP",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-079SSP&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-080",
+    "baseNo": "OS11/R11-080",
+    "name": "避難先でのハプニング 有栖",
+    "kana": "ヒナンサキデノハプニング アリス",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "夢"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】［手札のCXを1枚控え室に置く］ あなたのCXがトリガーした時、コストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "透。景子ならちゃんと誤魔化すと思うから落ち着いて",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_080.png",
+        "cardNo": "OS11/R11-080",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-080&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_080s.png",
+        "cardNo": "OS11/R11-080S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-080S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-081",
+    "baseNo": "OS11/R11-081",
+    "name": "現実を諦めた女の子 有子",
+    "kana": "ゲンジツヲアキラメタオンナノコ ユウコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple"
+    ],
+    "text": "【自】［手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の自分のレベル以下のレベルでコスト0以下の、〈同OS〉のキャラを1枚選び、舞台の好きな枠に置く。\n【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "――なあ、生きているのは、辛く無いかい？",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_081.png",
+        "cardNo": "OS11/R11-081",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-081&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_081s.png",
+        "cardNo": "OS11/R11-081S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-081S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-082",
+    "baseNo": "OS11/R11-082",
+    "name": "“ただひとりの少女”夏姫",
+    "kana": "“タダヒトリノショウジョ”ナツヒメ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 8000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "言霊"
+    ],
+    "text": "【自】［(2)］ このカードが手札か思い出置場から登場した時、コストを払ってよい。そうしたら、相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。\n【自】 このカードが【リバース】した時、このカードを思い出にする。\n【自】 記憶 ［(1) あなたの舞台のキャラを1枚控え室に置く］ 思い出置場にこのカードがあり、あなたのレベルが2以上なら、あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、あなたはこのカードを舞台のキャラのいない枠に置く。",
+    "flavor": "『あなたの声で、私の名前を、呼んでみてもらえませんか？』",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_082.png",
+        "cardNo": "OS11/R11-082",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-082&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_082s.png",
+        "cardNo": "OS11/R11-082S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-082S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-083",
+    "baseNo": "OS11/R11-083",
+    "name": "必殺の奇襲 葵",
+    "kana": "ヒッサツノキシュウ アオイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【自】【CXコンボ】 このカードが手札から登場した時、あなたは自分の控え室の「交差する閃光」を1枚選び、手札に戻すかストックにしてよい。\n【自】【CXコンボ】 共鳴 ［(1) 手札の「“八剣”二之神 茜」を1枚公開する］ このカードがアタックした時、CX置場に「交差する閃光」があり、他のあなたの前列の「必殺の奇襲 茜＆信」がいるなら、コストを払ってよい。そうしたら、あなたは相手に2ダメージを与え、そのターン中、このカードのパワーを＋3000。",
+    "flavor": "お姉ちゃん、ひとり占めはダメだよ！",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_083.png",
+        "cardNo": "OS11/R11-083",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-083&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_083s.png",
+        "cardNo": "OS11/R11-083S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-083S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-084",
+    "baseNo": "OS11/R11-084",
+    "name": "絶望をもたらす者 夏姫",
+    "kana": "ゼツボウヲモタラスモノ ナツヒメ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "言霊"
+    ],
+    "text": "【自】 記憶 ［手札を1枚ストックにする］ このカードが手札から登場した時、あなたの思い出置場の〈同OS〉のキャラが2枚以上なら、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを2枚までサーチし手札に加える。",
+    "flavor": "全部、消して、全部、私が幸せに生きられる世界に作り直してあげる",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_084.png",
+        "cardNo": "OS11/R11-084",
+        "rarity": "R",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-084&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_084s.png",
+        "cardNo": "OS11/R11-084S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-084S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-085",
+    "baseNo": "OS11/R11-085",
+    "name": "甘味をもぐもぐ 茜＆葵",
+    "kana": "カンミヲモグモグ アカネ＆アオイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】【CXコンボ】［あなたのCX置場の「変わりゆく関係」を1枚控え室に置く］ あなたのアンコールステップの始めに、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "茜「もぐもぐ」葵「もそもそ」",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_085.png",
+        "cardNo": "OS11/R11-085",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-085&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_085s.png",
+        "cardNo": "OS11/R11-085S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-085S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-086",
+    "baseNo": "OS11/R11-086",
+    "name": "好きって気持ち 葵",
+    "kana": "スキッテキモチ アオイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【永】 他のあなたの「“八剣”二之神 茜」がいるなら、このカードは次の2つの能力を得る。『【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。』『【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』\n【自】【CXコンボ】 あなたのCXフェイズ中、CX置場に「疾風迅雷の手合わせ」が置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラならストックにし、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_086.png",
+        "cardNo": "OS11/R11-086",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-086&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_086s.png",
+        "cardNo": "OS11/R11-086S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-086S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-087",
+    "baseNo": "OS11/R11-087",
+    "name": "銀の花園 夏姫",
+    "kana": "ギンノハナゾノ ナツヒメ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "言霊"
+    ],
+    "text": "【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "黒神の一角を崩した程度では終わらない永遠の戦いを、真に終わらせるための、使者",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_087.png",
+        "cardNo": "OS11/R11-087",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-087&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_087s.png",
+        "cardNo": "OS11/R11-087S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-087S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-088",
+    "baseNo": "OS11/R11-088",
+    "name": "巻き込まれていく夢の中で 有栖",
+    "kana": "マキコマレテイクユメノナカデ アリス",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "夢"
+    ],
+    "text": "【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "それに今夜はこんなに綺麗なんだから。楽しくなっちゃっても仕方無いよね",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_088.png",
+        "cardNo": "OS11/R11-088",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-088&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_088s.png",
+        "cardNo": "OS11/R11-088S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-088S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-089",
+    "baseNo": "OS11/R11-089",
+    "name": "楽しい夢の代理人 有栖",
+    "kana": "タノシイユメノダイリニン アリス",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "夢"
+    ],
+    "text": "【永】 記憶 あなたの思い出置場に「現実を諦めた女の子 有子」があるなら、このカードのパワーを＋3000。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_089.png",
+        "cardNo": "OS11/R11-089",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-089&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_089s.png",
+        "cardNo": "OS11/R11-089S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-089S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-090",
+    "baseNo": "OS11/R11-090",
+    "name": "迎えてくれる仲間 有子",
+    "kana": "ムカエテクレルナカマ ユウコ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札の上から4枚を、控え室に置き、自分の控え室のレベルＸ以下の〈同OS〉のキャラを1枚まで選び、手札に戻す。Ｘはそれらのカードのトリガーアイコンの【ソウル】の合計に等しい。",
+    "flavor": "透「――夢から覚めてもみんな居る。だから、大丈夫だ」",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_090.png",
+        "cardNo": "OS11/R11-090",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-090&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_090s.png",
+        "cardNo": "OS11/R11-090S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-090S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-091",
+    "baseNo": "OS11/R11-091",
+    "name": "最強無敵の二人 葵",
+    "kana": "サイキョウムテキノフタリ アオイ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "-",
+    "flavor": "お姉ちゃんが最強無敵なのは統治者の中で、一之神として最強無敵なのは葵だけどねー♪",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_091.png",
+        "cardNo": "OS11/R11-091",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-091&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_091s.png",
+        "cardNo": "OS11/R11-091S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-091S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-092",
+    "baseNo": "OS11/R11-092",
+    "name": "置いてきた時間 夏姫",
+    "kana": "オイテキタジカン ナツヒメ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "言霊"
+    ],
+    "text": "【自】 他のあなたの〈同OS〉のキャラがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの〈同OS〉のキャラの枚数×500に等しい。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］",
+    "flavor": "さて――これで、私の側の条件はすべて整いました",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_092.png",
+        "cardNo": "OS11/R11-092",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-092&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_092s.png",
+        "cardNo": "OS11/R11-092S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-092S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-093",
+    "baseNo": "OS11/R11-093",
+    "name": "“八剣”五之神 冬人",
+    "kana": "“ハッケン”ゴノカミ フユト",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【自】［(2) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "簡単なことだが……君は私を殺せるだろうか？",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_093.png",
+        "cardNo": "OS11/R11-093",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-093&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_093s.png",
+        "cardNo": "OS11/R11-093S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-093S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-094",
+    "baseNo": "OS11/R11-094",
+    "name": "『組織』の幹部 ルカ",
+    "kana": "『ソシキ』ノカンブ ルカ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple"
+    ],
+    "text": "【永】 他のあなたのカード名に「メリル」を含むキャラがいるなら、このカードのパワーを＋7500。\n【自】 このカードが手札から登場した時かアタックした時、あなたは自分の控え室の「悪だくみ 凛」を1枚選び、ストックにしてよい。",
+    "flavor": "それでは、はじめましょうか　ビジネスの話を",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_094.png",
+        "cardNo": "OS11/R11-094",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-094&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_094s.png",
+        "cardNo": "OS11/R11-094S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-094S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-095",
+    "baseNo": "OS11/R11-095",
+    "name": "夢の中のお茶会 有栖",
+    "kana": "ユメノナカノオチャカイ アリス",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "夢"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが4枚以上なら、このカードのパワーを＋6000。\n【自】 このカードが手札から登場した時、他のあなたの〈同OS〉のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
+    "flavor": "あ、この間の事覚えてるんだ！　へえ、君凄いね",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_095.png",
+        "cardNo": "OS11/R11-095",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-095&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_095s.png",
+        "cardNo": "OS11/R11-095S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-095S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-096",
+    "baseNo": "OS11/R11-096",
+    "name": "最後のデート 透＆有栖",
+    "kana": "サイゴノデート トオル＆アリス",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "夢"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\n【自】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、コストを払ってよい。そうしたら、相手に1ダメージを与える。",
+    "flavor": "有栖「何も、聞かないの？」",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_096.png",
+        "cardNo": "OS11/R11-096",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-096&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_096s.png",
+        "cardNo": "OS11/R11-096S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-096S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-097",
+    "baseNo": "OS11/R11-097",
+    "name": "夢の終着点",
+    "kana": "ユメノシュウチャクテン",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "EV",
+    "color": "blue",
+    "level": 3,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたの、「恋人になった二人 咲」と「血統書付きロックンローラー猫 景子」がいるなら、あなたは自分の「最後のデート 透＆有栖」を1枚選び、そのターン中、パワーを＋3000し、次の2つの能力を与える。\n『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』\n『【自】【ターン1】 共鳴 ［あなたの控え室の「お望みの夢 弥生」を裏向きで「血統書付きロックンローラー猫 景子」のマーカーにし、手札の「甘くて幸せな悪い夢のお話 舞亜＆咲」を1枚公開し、このカードを控え室に置く］ このカードのアタックの終わりに、コストを払ってよい。そうしたら、あなたは自分の控え室の「迎えてくれる仲間 有子」を1枚選び、舞台の好きな枠に置く。』",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_097.png",
+        "cardNo": "OS11/R11-097",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-097&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_097s.png",
+        "cardNo": "OS11/R11-097S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-097S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-098",
+    "baseNo": "OS11/R11-098",
+    "name": "交差する閃光",
+    "kana": "コウサスルセンコウ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "draw"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、1枚引いてよい）",
+    "flavor": "信「“お前にすべての力を預けるぞ”！」",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_098.png",
+        "cardNo": "OS11/R11-098",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-098&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_098s.png",
+        "cardNo": "OS11/R11-098S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-098S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-099",
+    "baseNo": "OS11/R11-099",
+    "name": "不思議な夢の住人",
+    "kana": "フシギナユメノジュウニン",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "ま、ゆっくりしていきなさい。ここには美味しい紅茶もお茶菓子も、あたしという話し相手まで居るんだから",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_099.png",
+        "cardNo": "OS11/R11-099",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-099&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_099s.png",
+        "cardNo": "OS11/R11-099S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-099S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-100",
+    "baseNo": "OS11/R11-100",
+    "name": "疾風迅雷の手合わせ",
+    "kana": "シップウジンライノテアワセ",
+    "product": "ブースターパック Purple software",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室のトリガーアイコンに【ソウル】があるキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_100.png",
+        "cardNo": "OS11/R11-100",
+        "rarity": "C",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-100&expansion=R11"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_100s.png",
+        "cardNo": "OS11/R11-100S",
+        "rarity": "SR",
+        "expansion": "R11",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-100S&expansion=R11"
+      }
+    ],
+    "expansions": [
+      "R11"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-P01S",
+    "baseNo": "OS11/R11-P01",
+    "name": "積極的な後輩たち 景子＆咲",
+    "kana": "セッキョクテキナコウハイタチ ケイコ＆サキ",
+    "product": "PRカード",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "妹",
+      "音楽"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラがいるなら、このカードのパワーを＋3000。\n【自】 このカードが手札から登場した時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにCXがあるなら、あなたは自分の控え室の〈同OS〉のキャラを1枚まで選び、ストックにする。",
+    "flavor": "",
+    "releaseDate": "2026-08-22",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_p01s.png",
+        "cardNo": "OS11/R11-P01S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-P01S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-P02S",
+    "baseNo": "OS11/R11-P02",
+    "name": "寂しがり屋の彼女 弥生",
+    "kana": "サミシガリヤノカノジョ ヤヨイ",
+    "product": "PRカード",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "科学"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋1000。\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストックにする。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_p02s.png",
+        "cardNo": "OS11/R11-P02S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-P02S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-P04S",
+    "baseNo": "OS11/R11-P04",
+    "name": "約束 有栖",
+    "kana": "ヤクソク アリス",
+    "product": "PRカード",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 8000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "夢"
+    ],
+    "text": "【自】［(2)］ このカードが手札か思い出置場から登場した時、コストを払ってよい。そうしたら、相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。\n【自】 このカードが【リバース】した時、このカードを思い出にする。\n【自】 記憶 ［(1) あなたの舞台のキャラを1枚控え室に置く］ 思い出置場にこのカードがあり、あなたのレベルが2以上なら、あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、あなたはこのカードを舞台のキャラのいない枠に置く。",
+    "flavor": "",
+    "releaseDate": "2026-07-03",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_p04s.png",
+        "cardNo": "OS11/R11-P04S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-P04S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-P05EX",
+    "baseNo": "OS11/R11-P05",
+    "name": "幸せな夢 舞亜",
+    "kana": "シアワセナユメ マイア",
+    "product": "PRカード",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "Purple",
+      "妹"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-09-06",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_p05ex.png",
+        "cardNo": "OS11/R11-P05EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-P05EX&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_p05s.png",
+        "cardNo": "OS11/R11-P05S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-P05S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-P06",
+    "baseNo": "OS11/R11-P06",
+    "name": "甘くて幸せな悪い夢のお話 有栖＆舞亜",
+    "kana": "アマクテシアワセナワルイユメノオハナシ アリス＆マイア",
+    "product": "PRカード",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "夢",
+      "妹"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは1枚引く。\n【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-09-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_p06.png",
+        "cardNo": "OS11/R11-P06",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-P06&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_p06s.png",
+        "cardNo": "OS11/R11-P06S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-P06S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-P08",
+    "baseNo": "OS11/R11-P08",
+    "name": "お嬢さん 琴子＆咲",
+    "kana": "オジョウサン コトコ＆サキ",
+    "product": "PRカード",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "和服",
+      "妹"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\n【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-11-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_p08.png",
+        "cardNo": "OS11/R11-P08",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-P08&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_p08s.png",
+        "cardNo": "OS11/R11-P08S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-P08S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS11/R11-P09EX",
+    "baseNo": "OS11/R11-P09",
+    "name": "昔の遊び 茜",
+    "kana": "ムカシノアソビ アカネ",
+    "product": "PRカード",
+    "neoStandard": "Purple software",
+    "workNo": "OS11",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "Purple",
+      "カント"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-11-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os11/r11/os11_r11_p09ex.png",
+        "cardNo": "OS11/R11-P09EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS11%2FR11-P09EX&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  }
+]

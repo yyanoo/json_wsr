@@ -1,0 +1,4988 @@
+[
+  {
+    "cardNo": "OS04/R04-001",
+    "baseNo": "OS04/R04-001",
+    "name": "エルフのおやど エルマ",
+    "kana": "エルフノオヤド エルマ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\n【自】［(1) あなたの山札の上から1枚をクロックにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札のレベル1以下のキャラを1枚までサーチし手札に加える。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_001.png",
+        "cardNo": "OS04/R04-001",
+        "rarity": "RR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-001&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_001ofr.png",
+        "cardNo": "OS04/R04-001OFR",
+        "rarity": "OFR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-001OFR&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_001sp.png",
+        "cardNo": "OS04/R04-001SP",
+        "rarity": "SP",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-001SP&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-002",
+    "baseNo": "OS04/R04-002",
+    "name": "いつもと違うレビュアーズ メスタンク",
+    "kana": "イツモトチガウレビュアーズ メスタンク",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【永】 他のあなたの後列の「サマーバケーション メイドリー」がいるなら、このカードのパワーを＋2000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「相手の気持ち」があるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室の「旅の思い出」を1枚選び、手札に戻す。』『あなたは自分の山札の「旅の思い出」を1枚までサーチし手札に加える。』その後、あなたは1枚まで引く。1枚引いたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_002.png",
+        "cardNo": "OS04/R04-002",
+        "rarity": "RR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-002&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_002ofr.png",
+        "cardNo": "OS04/R04-002OFR",
+        "rarity": "OFR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-002OFR&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_002ssp.png",
+        "cardNo": "OS04/R04-002SSP",
+        "rarity": "SSP",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-002SSP&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-003",
+    "baseNo": "OS04/R04-003",
+    "name": "単眼娘のサキュ嬢 アイシャ",
+    "kana": "タンガンムスメノサキュジョウ アイシャ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。\n【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋1500。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_003.png",
+        "cardNo": "OS04/R04-003",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-003&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_003s.png",
+        "cardNo": "OS04/R04-003S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-003S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-004",
+    "baseNo": "OS04/R04-004",
+    "name": "ゾンビの受付嬢 フランパー",
+    "kana": "ゾンビノウケツケジョウ フランパー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "受付嬢"
+    ],
+    "text": "【自】 このカードが手札から登場した時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に置く。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_004.png",
+        "cardNo": "OS04/R04-004",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-004&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_004s.png",
+        "cardNo": "OS04/R04-004S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-004S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-005",
+    "baseNo": "OS04/R04-005",
+    "name": "エルフのサキュ嬢 エルマ",
+    "kana": "エルフノサキュジョウ エルマ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－1。\n【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋1000。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_005.png",
+        "cardNo": "OS04/R04-005",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-005&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_005s.png",
+        "cardNo": "OS04/R04-005S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-005S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-006",
+    "baseNo": "OS04/R04-006",
+    "name": "牛乳牧場 ミルキー",
+    "kana": "ギュウニュウボクジョウ ミルキー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_006.png",
+        "cardNo": "OS04/R04-006",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-006&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_006s.png",
+        "cardNo": "OS04/R04-006S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-006S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-007",
+    "baseNo": "OS04/R04-007",
+    "name": "人間女剣士 メスタンク",
+    "kana": "ニンゲンオンナケンシ メスタンク",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【永】 他のあなたの「サマーバケーション メイドリー」がいるなら、他のあなたの、《サキュ嬢》か《ウェイトレス》のキャラすべてに、次の能力を与える。『【自】［手札を1枚控え室に置く］ このカードがフロントアタックされた時、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。』\n【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋1000。",
+    "flavor": "レビューする者達がいる！",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_007.png",
+        "cardNo": "OS04/R04-007",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-007&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_007s.png",
+        "cardNo": "OS04/R04-007S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-007S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-008",
+    "baseNo": "OS04/R04-008",
+    "name": "有翼人のサキュ嬢 エルドリー",
+    "kana": "ユウヨクジンノサキュジョウ エルドリー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 あなたのクロック置場に「サマーバケーション メイドリー」があるなら、あなたの手札のこのカードのレベルを－1。\n【永】 前列にこのカードがいるなら、あなたの〈同OS〉のキャラすべてに、パワーを＋1500。\n【自】【CXコンボ】［(2)］ あなたのCX置場に「森の湖でのんびり」が置かれた時、前列にこのカードがいるなら、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを2枚までサーチし手札に加え、自分の手札の「有翼人のサキュ嬢 エルドリー」を1枚まで選び、舞台の好きな枠に置く。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_008.png",
+        "cardNo": "OS04/R04-008",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-008&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_008ofr.png",
+        "cardNo": "OS04/R04-008OFR",
+        "rarity": "OFR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-008OFR&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_008sp.png",
+        "cardNo": "OS04/R04-008SP",
+        "rarity": "SP",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-008SP&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-009",
+    "baseNo": "OS04/R04-009",
+    "name": "デコイ人形",
+    "kana": "デコイイシュゾク",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "デコイ人形"
+    ],
+    "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【自】［(2)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。』『あなたは相手のキャラを1枚選び、手札に戻す。』",
+    "flavor": "あっ♪",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_009.png",
+        "cardNo": "OS04/R04-009",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-009&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_009s.png",
+        "cardNo": "OS04/R04-009S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-009S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-010",
+    "baseNo": "OS04/R04-010",
+    "name": "異種族レビュアーズ スタンク",
+    "kana": "イシュゾクレビュアーズ スタンク",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【自】【CXコンボ】［あなたのCX置場の「レビュー」を1枚控え室に置く］ あなたのアンコールステップの始めに、他のあなたの〈同OS〉のキャラがいるなら、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《サキュ嬢》か《受付嬢》のキャラを2枚まで選んで相手に見せ、1枚選び、手札に加え、1枚選び、ストックにし、残りのカードを控え室に置く。\n【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、コストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_010.png",
+        "cardNo": "OS04/R04-010",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-010&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_010s.png",
+        "cardNo": "OS04/R04-010S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-010S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-011",
+    "baseNo": "OS04/R04-011",
+    "name": "異種族レビュアーズ ブルーズ",
+    "kana": "イシュゾクレビュアーズ ブルーズ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【自】【ターン1】［手札を1枚控え室に置く］ 他のあなたの「白熊獣人のサキュ嬢 アイス」が手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\n【自】 絆／「白熊獣人のサキュ嬢 アイス」 ［手札を1枚控え室に置く］",
+    "flavor": "つまり、本物じゃないけど――",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_011.png",
+        "cardNo": "OS04/R04-011",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-011&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_011s.png",
+        "cardNo": "OS04/R04-011S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-011S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-012",
+    "baseNo": "OS04/R04-012",
+    "name": "白熊獣人のサキュ嬢 アイス",
+    "kana": "シロクマジュウジンノサキュジョウ アイス",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋1000。\n【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+    "flavor": "忘れてって言ったのに …",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_012.png",
+        "cardNo": "OS04/R04-012",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-012&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_012s.png",
+        "cardNo": "OS04/R04-012S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-012S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-013",
+    "baseNo": "OS04/R04-013",
+    "name": "ミノタウロスのサキュ嬢 ミルキー",
+    "kana": "ミノタウロスノサキュジョウ ミルキー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】［(1)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を見てCXを1枚まで選んで公開し、自分の手札のCXを1枚まで選んで公開し、それらのCXを入れ替え、その山札をシャッフルする。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_013.png",
+        "cardNo": "OS04/R04-013",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-013&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_013s.png",
+        "cardNo": "OS04/R04-013S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-013S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-014",
+    "baseNo": "OS04/R04-014",
+    "name": "オーケストラコンサートホール エルドリー",
+    "kana": "オーケストラコンサートホール エルドリー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』\n【自】［このカードを手札に戻す］ あなたのCXがCX置場に置かれた時、コストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_014.png",
+        "cardNo": "OS04/R04-014",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-014&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_014s.png",
+        "cardNo": "OS04/R04-014S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-014S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-015",
+    "baseNo": "OS04/R04-015",
+    "name": "エルフのサキュ嬢 ローナ",
+    "kana": "エルフノサキュジョウ ローナ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは相手のレベル1以上のキャラを1枚選び、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_015.png",
+        "cardNo": "OS04/R04-015",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-015&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_015s.png",
+        "cardNo": "OS04/R04-015S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-015S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-016",
+    "baseNo": "OS04/R04-016",
+    "name": "マイコニドのサキュ嬢 シィル",
+    "kana": "マイコニドノサキュジョウ シィル",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "-",
+    "flavor": "なめこ類の娘っ子をおすすめするよ",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_016.png",
+        "cardNo": "OS04/R04-016",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-016&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_016s.png",
+        "cardNo": "OS04/R04-016S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-016S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-017",
+    "baseNo": "OS04/R04-017",
+    "name": "人間のサキュ嬢 プリッツ",
+    "kana": "ニンゲンノサキュジョウ プリッツ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋10000。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラをストックにしてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+    "flavor": "今回は女騎士シチュだったけど",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_017.png",
+        "cardNo": "OS04/R04-017",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-017&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_017s.png",
+        "cardNo": "OS04/R04-017S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-017S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-018",
+    "baseNo": "OS04/R04-018",
+    "name": "乳の重力 ミルキー",
+    "kana": "チチノジュウリョク ミルキー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 他のあなたの「乳の重力 ギニー」すべてに、パワーを＋3000。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_018.png",
+        "cardNo": "OS04/R04-018",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-018&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_018s.png",
+        "cardNo": "OS04/R04-018S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-018S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-019",
+    "baseNo": "OS04/R04-019",
+    "name": "フェアリーのサキュ嬢 ブブララ",
+    "kana": "フェアリーノサキュジョウ ブブララ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】［(2)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。",
+    "flavor": "んひっー…",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_019.png",
+        "cardNo": "OS04/R04-019",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-019&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_019s.png",
+        "cardNo": "OS04/R04-019S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-019S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-020",
+    "baseNo": "OS04/R04-020",
+    "name": "500歳のエルフ エルマ",
+    "kana": "500サイノエルフ エルマ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 9000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－2。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_020.png",
+        "cardNo": "OS04/R04-020",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-020&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_020s.png",
+        "cardNo": "OS04/R04-020S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-020S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-021",
+    "baseNo": "OS04/R04-021",
+    "name": "ウィルオーウィスプのサキュ嬢 ルクス",
+    "kana": "ウィルオーウィスプノサキュジョウ ルクス",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 このカードは相手の効果に選ばれない。\n【自】 このカードが手札から登場した時、あなたは他の自分のキャラを2枚まで選び、そのターン中、パワーを＋1000し、ソウルを＋1。\n【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、コストを払ってよい。そうしたら、あなたは相手の前列のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
+    "flavor": "この光、私の意思で消したり動かしたりできませんのでー",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_021.png",
+        "cardNo": "OS04/R04-021",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-021&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_021s.png",
+        "cardNo": "OS04/R04-021S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-021S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-022",
+    "baseNo": "OS04/R04-022",
+    "name": "旅の思い出",
+    "kana": "タビノオモイデ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "EV",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の〈同OS〉のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。",
+    "flavor": "私も何だか自信でました！",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_022.png",
+        "cardNo": "OS04/R04-022",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-022&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_022s.png",
+        "cardNo": "OS04/R04-022S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-022S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-023",
+    "baseNo": "OS04/R04-023",
+    "name": "レビュー",
+    "kana": "レビュー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "bounce"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【リターン】：このカードがトリガーした時、相手のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "10点満点中9点！",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_023.png",
+        "cardNo": "OS04/R04-023",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-023&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_023s.png",
+        "cardNo": "OS04/R04-023S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-023S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-024",
+    "baseNo": "OS04/R04-024",
+    "name": "相手の気持ち",
+    "kana": "アイテノキモチ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "優しくするから……",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_024.png",
+        "cardNo": "OS04/R04-024",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-024&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_024s.png",
+        "cardNo": "OS04/R04-024S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-024S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-025",
+    "baseNo": "OS04/R04-025",
+    "name": "森の湖でのんびり",
+    "kana": "モリノミズウミデノンビリ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "冷たくて気持ちいいです",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_025.png",
+        "cardNo": "OS04/R04-025",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-025&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_025s.png",
+        "cardNo": "OS04/R04-025S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-025S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-026",
+    "baseNo": "OS04/R04-026",
+    "name": "ダゴンのサキュ嬢 オクパ",
+    "kana": "ダゴンノサキュジョウ オクパ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。\n【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_026.png",
+        "cardNo": "OS04/R04-026",
+        "rarity": "RR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-026&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_026ofr.png",
+        "cardNo": "OS04/R04-026OFR",
+        "rarity": "OFR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-026OFR&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_026sp.png",
+        "cardNo": "OS04/R04-026SP",
+        "rarity": "SP",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-026SP&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-027",
+    "baseNo": "OS04/R04-027",
+    "name": "いつもと違うレビュアーズ ゼルゼル",
+    "kana": "イツモトチガウレビュアーズ ゼルゼル",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「極上のとろける感覚」があるなら、あなたは自分の山札の上から2枚までを、ストックにする。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_027.png",
+        "cardNo": "OS04/R04-027",
+        "rarity": "RR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-027&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_027ofr.png",
+        "cardNo": "OS04/R04-027OFR",
+        "rarity": "OFR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-027OFR&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_027ssp.png",
+        "cardNo": "OS04/R04-027SSP",
+        "rarity": "SSP",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-027SSP&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-028",
+    "baseNo": "OS04/R04-028",
+    "name": "ボインエルフ ゼルゼル",
+    "kana": "ボインエルフ ゼルゼル",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【永】 他のあなたの、《サキュ嬢》か《ウェイトレス》のキャラすべてに、パワーを＋500。\n【自】［手札のCXを1枚控え室に置く］ あなたのCXがトリガーした時、コストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "レビューする者達がいる！",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_028.png",
+        "cardNo": "OS04/R04-028",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-028&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_028s.png",
+        "cardNo": "OS04/R04-028S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-028S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-029",
+    "baseNo": "OS04/R04-029",
+    "name": "ハーフリングのサキュ嬢 ピルティア",
+    "kana": "ハーフリングノサキュジョウ ピルティア",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ あなたのCXフェイズの始めに、他のあなたの〈同OS〉のキャラがいるなら、コストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚と、そのキャラ以外の相手のレベル0以下のキャラを1枚選び、それぞれを【スタンド】して入れ替える。\n【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが〈同OS〉のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_029.png",
+        "cardNo": "OS04/R04-029",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-029&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_029ofr.png",
+        "cardNo": "OS04/R04-029OFR",
+        "rarity": "OFR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-029OFR&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_029sp.png",
+        "cardNo": "OS04/R04-029SP",
+        "rarity": "SP",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-029SP&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-030",
+    "baseNo": "OS04/R04-030",
+    "name": "女ハーフリング チャル美",
+    "kana": "オンナハーフリング チャル美",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【永】 他のあなたの、「いつもと違うレビュアーズ メスタンク」と「いつもと違うレビュアーズ ゼルゼル」すべてに、次の能力を与える。『【自】［(2)］ このカードのアタックの終わりに、コストを払ってよい。そうしたら、あなたは自分の控え室の、《サキュ嬢》か《ウェイトレス》のキャラを1枚選び、手札に戻す。』\n【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の、《サキュ嬢》か《ウェイトレス》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "レビューする者達がいる！",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_030.png",
+        "cardNo": "OS04/R04-030",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-030&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_030s.png",
+        "cardNo": "OS04/R04-030S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-030S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-031",
+    "baseNo": "OS04/R04-031",
+    "name": "乳の重力 ギニー",
+    "kana": "チチノジュウリョク ギニー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 他のあなたの「乳の重力 ミルキー」すべてに、パワーを＋3000。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_031.png",
+        "cardNo": "OS04/R04-031",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-031&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_031s.png",
+        "cardNo": "OS04/R04-031S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-031S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-032",
+    "baseNo": "OS04/R04-032",
+    "name": "巻き付く触手 オクパ",
+    "kana": "マキツクショクシュ オクパ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\n【自】【CXコンボ】［(5) 手札を3枚控え室に置く］ このカードがアタックした時、CX置場に「情熱の極み」があるなら、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000し、次の行動を2回行う。『あなたは相手の山札の下から8枚を、控え室に置き、相手にＸダメージを与える。ＸはそれらのカードのCXの枚数に等しい。』",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_032.png",
+        "cardNo": "OS04/R04-032",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-032&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_032s.png",
+        "cardNo": "OS04/R04-032S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-032S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-033",
+    "baseNo": "OS04/R04-033",
+    "name": "ウィルオーウィスプのサキュ嬢 ニト",
+    "kana": "ウィルオーウィスプノサキュジョウ ニト",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "光に包まれてまったり～……",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_033.png",
+        "cardNo": "OS04/R04-033",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-033&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_033s.png",
+        "cardNo": "OS04/R04-033S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-033S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-034",
+    "baseNo": "OS04/R04-034",
+    "name": "異種族レビュアーズ ゼル",
+    "kana": "イシュゾクレビュアーズ ゼル",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【自】【CXコンボ】 あなたのCX置場に「魔法の講義」が置かれた時、他のあなたの、《サキュ嬢》か《ウェイトレス》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加える。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。』",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_034.png",
+        "cardNo": "OS04/R04-034",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-034&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_034s.png",
+        "cardNo": "OS04/R04-034S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-034S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-035",
+    "baseNo": "OS04/R04-035",
+    "name": "エルフのサキュ嬢 エルシャ",
+    "kana": "エルフノサキュジョウ エルシャ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロックにする。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロックにする。",
+    "flavor": "姫が何人も地下牢にいるのか…",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_035.png",
+        "cardNo": "OS04/R04-035",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-035&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_035s.png",
+        "cardNo": "OS04/R04-035S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-035S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-036",
+    "baseNo": "OS04/R04-036",
+    "name": "異種族レビュアーズ カンチャル",
+    "kana": "イシュゾクレビュアーズ カンチャル",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【永】 他のあなたの「メイドリー人形」すべてに、パワーを＋2000。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の「メイドリー人形」を1枚までサーチし手札に加える。",
+    "flavor": "で、クリムにも作る？",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_036.png",
+        "cardNo": "OS04/R04-036",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-036&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_036s.png",
+        "cardNo": "OS04/R04-036S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-036S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-037",
+    "baseNo": "OS04/R04-037",
+    "name": "メイドリー人形",
+    "kana": "メイドリーニンギョウ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "ほほう、さすがシーフ様",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_037.png",
+        "cardNo": "OS04/R04-037",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-037&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_037s.png",
+        "cardNo": "OS04/R04-037S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-037S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-038",
+    "baseNo": "OS04/R04-038",
+    "name": "ミノタウロスのサキュ嬢 ギニー",
+    "kana": "ミノタウロスノサキュジョウ ギニー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_038.png",
+        "cardNo": "OS04/R04-038",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-038&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_038s.png",
+        "cardNo": "OS04/R04-038S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-038S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-039",
+    "baseNo": "OS04/R04-039",
+    "name": "マイコニドのサキュ嬢 ニュウ",
+    "kana": "マイコニドノサキュジョウ ニュウ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "-",
+    "flavor": "チチタケちゃんを推しとくよ！",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_039.png",
+        "cardNo": "OS04/R04-039",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-039&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_039s.png",
+        "cardNo": "OS04/R04-039S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-039S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-040",
+    "baseNo": "OS04/R04-040",
+    "name": "ウィルオーウィスプのサキュ嬢 ランベルト",
+    "kana": "ウィルオーウィスプノサキュジョウ ランベルト",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2500し、このカードは相手の効果に選ばれない。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "らしいっちゃらしいんだけど……",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_040.png",
+        "cardNo": "OS04/R04-040",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-040&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_040s.png",
+        "cardNo": "OS04/R04-040S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-040S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-041",
+    "baseNo": "OS04/R04-041",
+    "name": "ミノタウロスのサキュ嬢 トーギュ",
+    "kana": "ミノタウロスノサキュジョウ トーギュ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】［手札のCXを1枚控え室に置く］ このカードのトリガーチェックでCXがでた時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。』\n【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロックにする。",
+    "flavor": "不自然だなぁ…",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_041.png",
+        "cardNo": "OS04/R04-041",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-041&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_041s.png",
+        "cardNo": "OS04/R04-041S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-041S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-042",
+    "baseNo": "OS04/R04-042",
+    "name": "キョンシーのサキュ嬢 メンメン",
+    "kana": "キョンシーノサキュジョウ メンメン",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋2000。\n【自】 アンコール ［あなたの山札の上から1枚をクロックにする］",
+    "flavor": "はーい、メンメンでーす",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_042.png",
+        "cardNo": "OS04/R04-042",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-042&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_042s.png",
+        "cardNo": "OS04/R04-042S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-042S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-043",
+    "baseNo": "OS04/R04-043",
+    "name": "単眼娘のサキュ嬢 コモク",
+    "kana": "タンガンムスメノサキュジョウ コモク",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋3000し、ソウルを＋1。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_043.png",
+        "cardNo": "OS04/R04-043",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-043&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_043s.png",
+        "cardNo": "OS04/R04-043S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-043S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-044",
+    "baseNo": "OS04/R04-044",
+    "name": "単眼娘のサキュ嬢 メガロ",
+    "kana": "タンガンムスメノサキュジョウ メガロ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 前列の中央の枠にこのカードがいるなら、他のあなたの〈同OS〉のキャラ1枚につき、このカードのパワーを＋1500。\n【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻してよい。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_044.png",
+        "cardNo": "OS04/R04-044",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-044&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_044s.png",
+        "cardNo": "OS04/R04-044S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-044S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-045",
+    "baseNo": "OS04/R04-045",
+    "name": "スライム娘のサキュ嬢 ライミィ",
+    "kana": "スライムムスメノサキュジョウ ライミィ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。\n【自】［(1)］ 相手のアタックフェイズの始めに、コストを払ってよい。そうしたら、あなたは自分の〈同OS〉のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_045.png",
+        "cardNo": "OS04/R04-045",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-045&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_045s.png",
+        "cardNo": "OS04/R04-045S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-045S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-046",
+    "baseNo": "OS04/R04-046",
+    "name": "ベテランのサキュ嬢 ミツエ",
+    "kana": "ベテランノサキュジョウ ミツエ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 2,
+    "power": 5500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 他のあなたの、《サキュ嬢》か《受付嬢》のキャラすべてに、パワーを＋1000。\n【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの〈同OS〉のキャラの枚数×1500に等しい。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_046.png",
+        "cardNo": "OS04/R04-046",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-046&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_046s.png",
+        "cardNo": "OS04/R04-046S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-046S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-047",
+    "baseNo": "OS04/R04-047",
+    "name": "デコイ人形",
+    "kana": "デコイイシュゾク",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "デコイ人形"
+    ],
+    "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【自】 このカードが手札から登場した時、次の3つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』『あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻してよい。』",
+    "flavor": "単純な動作をするのが精々なはずなんだが…",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_047.png",
+        "cardNo": "OS04/R04-047",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-047&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_047s.png",
+        "cardNo": "OS04/R04-047S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-047S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-048",
+    "baseNo": "OS04/R04-048",
+    "name": "異種族レビュアーズ",
+    "kana": "イシュゾクレビュアーズ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "EV",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "【カウンター】 あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。このカードを山札の下に置く。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_048.png",
+        "cardNo": "OS04/R04-048",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-048&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_048s.png",
+        "cardNo": "OS04/R04-048S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-048S&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_p02.png",
+        "cardNo": "OS04/R04-P02",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-P02&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_p02s.png",
+        "cardNo": "OS04/R04-P02S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-P02S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R04",
+      "PR"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-049",
+    "baseNo": "OS04/R04-049",
+    "name": "魔法の講義",
+    "kana": "マホウノコウギ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "stock"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【プール】：このカードがトリガーした時、あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "これまでの魔法概念がひっくり返るような世界最高レベルの授業",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_049.png",
+        "cardNo": "OS04/R04-049",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-049&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_049s.png",
+        "cardNo": "OS04/R04-049S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-049S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-050",
+    "baseNo": "OS04/R04-050",
+    "name": "極上のとろける感覚",
+    "kana": "ゴクジョウノトロケルカンカク",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "はーい",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_050.png",
+        "cardNo": "OS04/R04-050",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-050&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_050s.png",
+        "cardNo": "OS04/R04-050S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-050S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-051",
+    "baseNo": "OS04/R04-051",
+    "name": "情熱の極み",
+    "kana": "ジョウネツノキワミ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_051.png",
+        "cardNo": "OS04/R04-051",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-051&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_051s.png",
+        "cardNo": "OS04/R04-051S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-051S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-052",
+    "baseNo": "OS04/R04-052",
+    "name": "ニャンニャン天国 みー",
+    "kana": "ニャンニャンテンゴク ミー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\n【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_052.png",
+        "cardNo": "OS04/R04-052",
+        "rarity": "RR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-052&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_052ofr.png",
+        "cardNo": "OS04/R04-052OFR",
+        "rarity": "OFR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-052OFR&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_052sp.png",
+        "cardNo": "OS04/R04-052SP",
+        "rarity": "SP",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-052SP&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-053",
+    "baseNo": "OS04/R04-053",
+    "name": "異種族レビュアーズ クリム",
+    "kana": "イシュゾクレビュアーズ クリム",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 6500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋2000し、次の能力を与える。『【自】 このカードがダイレクトアタックした時、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、ストックにしてよい。』\n【自】 このカードが手札から登場した時、あなたは1枚引いてよい。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは1枚まで引く。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_053.png",
+        "cardNo": "OS04/R04-053",
+        "rarity": "RR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-053&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_053s.png",
+        "cardNo": "OS04/R04-053S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-053S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-054",
+    "baseNo": "OS04/R04-054",
+    "name": "疑惑の天使 クリム",
+    "kana": "ギワクノテンシ クリム",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【永】 他のあなたの後列の〈同OS〉のキャラ1枚につき、このカードのパワーを＋1000。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「1人でレビュー」があり、他のあなたの『集中』を持つキャラが2枚以上なら、コストを払ってよい。そうしたら、相手に4ダメージを与える。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_054.png",
+        "cardNo": "OS04/R04-054",
+        "rarity": "RR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-054&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_054ofr.png",
+        "cardNo": "OS04/R04-054OFR",
+        "rarity": "OFR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-054OFR&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_054ssp.png",
+        "cardNo": "OS04/R04-054SSP",
+        "rarity": "SSP",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-054SSP&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-055",
+    "baseNo": "OS04/R04-055",
+    "name": "光のパレード クリム",
+    "kana": "ヒカリノパレード クリム",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【自】【CXコンボ】 あなたのアンコールステップの始めに、CX置場に「奈落に落ちた尊厳」があり、他のあなたの、《サキュ嬢》か《ウェイトレス》のキャラがいるなら、あなたは自分の手札を1枚選び、表向きでこのカードのマーカーにしてよい。\n【起】［このカードの下のマーカーを1枚控え室に置く］ あなたは自分の山札のCXを1枚までサーチし手札に加える。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが【カムバック】のCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "店の入口ですよ、ここ！！",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_055.png",
+        "cardNo": "OS04/R04-055",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-055&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_055s.png",
+        "cardNo": "OS04/R04-055S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-055S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-056",
+    "baseNo": "OS04/R04-056",
+    "name": "ハイエナ獣人のサキュ嬢 エルザ",
+    "kana": "ハイエナジュウジンノサキュジョウ エルザ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】［(1)］ 相手のアタックフェイズの始めに、コストを払ってよい。そうしたら、あなたは自分の〈同OS〉のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_056.png",
+        "cardNo": "OS04/R04-056",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-056&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_056ofr.png",
+        "cardNo": "OS04/R04-056OFR",
+        "rarity": "OFR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-056OFR&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_056sp.png",
+        "cardNo": "OS04/R04-056SP",
+        "rarity": "SP",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-056SP&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-057",
+    "baseNo": "OS04/R04-057",
+    "name": "サラマンダーのサキュ嬢 ティアプレート",
+    "kana": "サラマンダーノサキュジョウ ティアプレート",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_057.png",
+        "cardNo": "OS04/R04-057",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-057&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_057ofr.png",
+        "cardNo": "OS04/R04-057OFR",
+        "rarity": "OFR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-057OFR&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_057sp.png",
+        "cardNo": "OS04/R04-057SP",
+        "rarity": "SP",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-057SP&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-058",
+    "baseNo": "OS04/R04-058",
+    "name": "優しいお姉さん みー",
+    "kana": "ヤサシイオネエサン ミー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「サキュバス嬢」があるなら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_058.png",
+        "cardNo": "OS04/R04-058",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-058&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_058s.png",
+        "cardNo": "OS04/R04-058S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-058S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-059",
+    "baseNo": "OS04/R04-059",
+    "name": "マイコニドのサキュ嬢 ホーシィ",
+    "kana": "マイコニドノサキュジョウ ホーシィ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 0,
+    "power": 8000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "-",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_059.png",
+        "cardNo": "OS04/R04-059",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-059&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_059s.png",
+        "cardNo": "OS04/R04-059S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-059S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-060",
+    "baseNo": "OS04/R04-060",
+    "name": "猫獣人のサキュ嬢 みー",
+    "kana": "ネコジュウジンノサキュジョウ みー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは次の行動を行ってよい。『あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし控え室に置く。』\n【自】［(2)］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_060.png",
+        "cardNo": "OS04/R04-060",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-060&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_060s.png",
+        "cardNo": "OS04/R04-060S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-060S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-061",
+    "baseNo": "OS04/R04-061",
+    "name": "レビューの依頼 クリム",
+    "kana": "レビューノイライ　クリム",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは自分の、《サキュ嬢》か《ウェイトレス》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "……でも",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_061.png",
+        "cardNo": "OS04/R04-061",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-061&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_061s.png",
+        "cardNo": "OS04/R04-061S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-061S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-062",
+    "baseNo": "OS04/R04-062",
+    "name": "ペンギン有翼人のサキュ嬢 デリー",
+    "kana": "ペンギンユウヨクジンノサキュジョウ デリー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_062.png",
+        "cardNo": "OS04/R04-062",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-062&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_062s.png",
+        "cardNo": "OS04/R04-062S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-062S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-063",
+    "baseNo": "OS04/R04-063",
+    "name": "ウィルオーウィスプのサキュ嬢 ルーメン",
+    "kana": "ウィルオーウィスプノサキュジョウ ルーメン",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは相手の効果に選ばれない。",
+    "flavor": "いらっしゃーい♡",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_063.png",
+        "cardNo": "OS04/R04-063",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-063&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_063s.png",
+        "cardNo": "OS04/R04-063S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-063S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-064",
+    "baseNo": "OS04/R04-064",
+    "name": "狼獣人のサキュ嬢 ミグ",
+    "kana": "オオカミジュウジンノサキュジョウ ミグ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+    "flavor": "早くきてー",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_064.png",
+        "cardNo": "OS04/R04-064",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-064&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_064s.png",
+        "cardNo": "OS04/R04-064S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-064S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-065",
+    "baseNo": "OS04/R04-065",
+    "name": "興味津々 クリム",
+    "kana": "キョウミシンシン クリム",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "天使か……",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_065.png",
+        "cardNo": "OS04/R04-065",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-065&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_065s.png",
+        "cardNo": "OS04/R04-065S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-065S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-066",
+    "baseNo": "OS04/R04-066",
+    "name": "ワイルドなケモお姉さん エルザ",
+    "kana": "ワイルドナケモオネエサン エルザ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ 控え室にこのカードがあるなら、あなたの「ハイエナ獣人のサキュ嬢 エルザ」が舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたはこのカードを舞台の好きな枠に【レスト】して置く。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_066.png",
+        "cardNo": "OS04/R04-066",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-066&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_066s.png",
+        "cardNo": "OS04/R04-066S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-066S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-067",
+    "baseNo": "OS04/R04-067",
+    "name": "“とらぶる焼き” ティアプレート",
+    "kana": "トラブルヤキ ティアプレート",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードを山札の下に置く。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_067.png",
+        "cardNo": "OS04/R04-067",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-067&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_067s.png",
+        "cardNo": "OS04/R04-067S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-067S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-068",
+    "baseNo": "OS04/R04-068",
+    "name": "堕ちた天使 クリム",
+    "kana": "オチタテンシ クリム",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "レビュアーズ"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】 集中 ［(2) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のCXを1枚まで選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_068.png",
+        "cardNo": "OS04/R04-068",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-068&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_068s.png",
+        "cardNo": "OS04/R04-068S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-068S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-069",
+    "baseNo": "OS04/R04-069",
+    "name": "デコイ人形",
+    "kana": "デコイイシュゾク",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 4000,
+    "soul": 2,
+    "trigger": [],
+    "traits": [
+      "デコイ人形"
+    ],
+    "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋1000。\n【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの〈同OS〉のキャラが4枚以上なら、あなたのCXフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。",
+    "flavor": "彼女がいるとこんな感じなのかなって気分になって",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_069.png",
+        "cardNo": "OS04/R04-069",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-069&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_069s.png",
+        "cardNo": "OS04/R04-069S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-069S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-070",
+    "baseNo": "OS04/R04-070",
+    "name": "ウィルオーウィスプのサキュ嬢 カンデラ",
+    "kana": "ウィルオーウィスプノサキュジョウ カンデラ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋3000し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』",
+    "flavor": "なんかもう頭が真っ白でよく覚えてません！",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_070.png",
+        "cardNo": "OS04/R04-070",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-070&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_070s.png",
+        "cardNo": "OS04/R04-070S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-070S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-071",
+    "baseNo": "OS04/R04-071",
+    "name": "魔道士のサキュ嬢 ドローン",
+    "kana": "マドウシノサキュジョウ ドローン",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 8500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。\n【永】 他のあなたの前列の〈同OS〉のキャラ1枚につき、このカードのパワーを＋1500。\n【自】 このカードが手札から登場した時、あなたは自分の控え室の〈同OS〉のキャラを1枚まで選び、ストックにし、相手のキャラを1枚まで選び、思い出にし、アンコールステップの始めに、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_071.png",
+        "cardNo": "OS04/R04-071",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-071&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_071s.png",
+        "cardNo": "OS04/R04-071S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-071S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-072",
+    "baseNo": "OS04/R04-072",
+    "name": "サキュバスのサキュ嬢 マヨスペル",
+    "kana": "サキュバスノサキュジョウ マヨスペル",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの〈同OS〉のキャラの枚数×500に等しい。",
+    "flavor": "お風呂気持ちよかった～",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_072.png",
+        "cardNo": "OS04/R04-072",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-072&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_072s.png",
+        "cardNo": "OS04/R04-072S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-072S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-073",
+    "baseNo": "OS04/R04-073",
+    "name": "サキュバス店",
+    "kana": "サキュバステン",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "EV",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "このカードは、あなたの《レビュアーズ》のキャラがいないなら、手札からプレイできない。\nあなたは自分の山札の《サキュ嬢》か《ウェイトレス》のキャラを2枚までサーチし手札に加え、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_073.png",
+        "cardNo": "OS04/R04-073",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-073&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_073s.png",
+        "cardNo": "OS04/R04-073S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-073S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-074",
+    "baseNo": "OS04/R04-074",
+    "name": "奈落に落ちた尊厳",
+    "kana": "ナラクニオチタソンゲン",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "エレクトして……パレード……",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_074.png",
+        "cardNo": "OS04/R04-074",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-074&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_074s.png",
+        "cardNo": "OS04/R04-074S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-074S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-075",
+    "baseNo": "OS04/R04-075",
+    "name": "1人でレビュー",
+    "kana": "ヒトリデレビュー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "ああっ……",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_075.png",
+        "cardNo": "OS04/R04-075",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-075&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_075a.png",
+        "cardNo": "OS04/R04-075A",
+        "rarity": "AGR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-075A&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_075s.png",
+        "cardNo": "OS04/R04-075S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-075S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-076",
+    "baseNo": "OS04/R04-076",
+    "name": "サキュバス嬢",
+    "kana": "サキュバスジョウ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_076.png",
+        "cardNo": "OS04/R04-076",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-076&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_076s.png",
+        "cardNo": "OS04/R04-076S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-076S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-077",
+    "baseNo": "OS04/R04-077",
+    "name": "サマーバケーション メイドリー",
+    "kana": "サマーバケーション メイドリー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ウェイトレス"
+    ],
+    "text": "【起】【ターン1】［手札の「サマーバケーション メイドリー」を1枚控え室に置く］ あなたは自分の山札を上から5枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_077.png",
+        "cardNo": "OS04/R04-077",
+        "rarity": "RR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-077&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_077s.png",
+        "cardNo": "OS04/R04-077S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-077S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-078",
+    "baseNo": "OS04/R04-078",
+    "name": "フェアリーの受付嬢 アロエ",
+    "kana": "フェアリーノウケツケジョウ アロエ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 8500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "受付嬢"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1500。\n【自】 このカードの与えたダメージがキャンセルされた時、他のあなたの〈同OS〉のキャラが3枚以上なら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、ストックにしてよい。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_078.png",
+        "cardNo": "OS04/R04-078",
+        "rarity": "RR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-078&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_078ofr.png",
+        "cardNo": "OS04/R04-078OFR",
+        "rarity": "OFR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-078OFR&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_078sp.png",
+        "cardNo": "OS04/R04-078SP",
+        "rarity": "SP",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-078SP&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-079",
+    "baseNo": "OS04/R04-079",
+    "name": "看板娘 メイドリー",
+    "kana": "カンバンムスメ メイドリー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ウェイトレス"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】［(3) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのCX置場に「怒りの一撃」があり、他のあなたの〈同OS〉のキャラが2枚以上なら、コストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置き、相手に2ダメージを与える。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_079.png",
+        "cardNo": "OS04/R04-079",
+        "rarity": "RR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-079&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_079ofr.png",
+        "cardNo": "OS04/R04-079OFR",
+        "rarity": "OFR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-079OFR&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_079ssp.png",
+        "cardNo": "OS04/R04-079SSP",
+        "rarity": "SSP",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-079SSP&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-080",
+    "baseNo": "OS04/R04-080",
+    "name": "マイコニドの受付嬢 レイシ",
+    "kana": "マイコニドノウケツケジョウ レイシ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "受付嬢"
+    ],
+    "text": "【永】 他のあなたの「マイコニドのサキュ嬢 ニュウ」すべてに、パワーを＋1000し、ソウルを＋1。\n【永】 他のあなたの「マイコニドの受付嬢 レイシ」がいないなら、他のあなたの、「マイコニドのサキュ嬢 シィル」と「マイコニドのサキュ嬢 ホーシィ」すべてに、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にCXがあるなら、あなたは自分の控え室の、「マイコニドのサキュ嬢 シィル」か「マイコニドのサキュ嬢 ニュウ」か「マイコニドのサキュ嬢 ホーシィ」を1枚選び、ストックにしてよい。』",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_080.png",
+        "cardNo": "OS04/R04-080",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-080&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_080s.png",
+        "cardNo": "OS04/R04-080S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-080S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-081",
+    "baseNo": "OS04/R04-081",
+    "name": "水浴び映像 メイドリー",
+    "kana": "ミズアビエイゾウ メイドリー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ウェイトレス"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "諸事情によりメイドリーちゃんの水浴びの様子をお送りしております",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_081.png",
+        "cardNo": "OS04/R04-081",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-081&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_081s.png",
+        "cardNo": "OS04/R04-081S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-081S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-082",
+    "baseNo": "OS04/R04-082",
+    "name": "やさぐれフェアリー アロエ",
+    "kana": "ヤサグレフェアリー アロエ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "受付嬢"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】［手札のCXを1枚控え室に置く］ あなたのCXがトリガーした時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_082.png",
+        "cardNo": "OS04/R04-082",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-082&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_082s.png",
+        "cardNo": "OS04/R04-082S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-082S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-083",
+    "baseNo": "OS04/R04-083",
+    "name": "大魔導師 デミア",
+    "kana": "ダイマドウシ デミア",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "魔導師"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、他のあなたの〈同OS〉のキャラがいるなら、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】【ターン1】［(2) 手札を2枚控え室に置く］ このカードのアタックの終わりに、CX置場に「優れたサンプル」があるなら、コストを払ってよい。そうしたら、このカードを【スタンド】する。",
+    "flavor": "輪っかが欠けた天使クンいたでしょ？",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_083.png",
+        "cardNo": "OS04/R04-083",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-083&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_083s.png",
+        "cardNo": "OS04/R04-083S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-083S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-084",
+    "baseNo": "OS04/R04-084",
+    "name": "『花蜜』店長 アロエ",
+    "kana": "ハナミツテンチョウ アロエ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "受付嬢"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。\n【自】［手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の、《サキュ嬢》か《受付嬢》のキャラを1枚選び、手札に戻す。",
+    "flavor": "全員初顔のようだねぇ",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_084.png",
+        "cardNo": "OS04/R04-084",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-084&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_084s.png",
+        "cardNo": "OS04/R04-084S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-084S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-085",
+    "baseNo": "OS04/R04-085",
+    "name": "悪魔党の党首 デスアビス",
+    "kana": "アクマトウノトウシュ デスアビス",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "魔王"
+    ],
+    "text": "【自】［(2)］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。\n【自】 絆／「大魔導師 デミア」 ［(1)］",
+    "flavor": "便利な魔法技術が、研究段階で滞っている現状にあるッ！！",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_085.png",
+        "cardNo": "OS04/R04-085",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-085&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_085s.png",
+        "cardNo": "OS04/R04-085S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-085S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-086",
+    "baseNo": "OS04/R04-086",
+    "name": "パペットの受付嬢 ラヴネット",
+    "kana": "パペットノウケツケジョウ ラヴネット",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "受付嬢"
+    ],
+    "text": "【永】 他のキャラすべてに、《サキュ嬢》を与える。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の、自分か相手の舞台にいるキャラと同じカード名のキャラを1枚選び、手札に戻す。",
+    "flavor": "いらっしゃーい",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_086.png",
+        "cardNo": "OS04/R04-086",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-086&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_086s.png",
+        "cardNo": "OS04/R04-086S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-086S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-087",
+    "baseNo": "OS04/R04-087",
+    "name": "おかしらのアジトの店長 ウリゴ",
+    "kana": "オカシラノアジトノテンチョウ ウリゴ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "店長"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの、「人間のサキュ嬢 プリッツ」と「エルフのサキュ嬢 エルシャ」と「ミノタウロスのサキュ嬢 トーギュ」と「狼獣人のサキュ嬢 ミグ」すべてに、パワーを＋1000。\n【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。",
+    "flavor": "おー、もり上がってんな",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_087.png",
+        "cardNo": "OS04/R04-087",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-087&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_087s.png",
+        "cardNo": "OS04/R04-087S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-087S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-088",
+    "baseNo": "OS04/R04-088",
+    "name": "性転換の宿屋の受付嬢 ティエス",
+    "kana": "セイテンカンノヤドヤノウケツケジョウ ティエス",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "受付嬢"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』\n【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの〈同OS〉のキャラの枚数×500に等しい。",
+    "flavor": "お客様！",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_088.png",
+        "cardNo": "OS04/R04-088",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-088&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_088s.png",
+        "cardNo": "OS04/R04-088S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-088S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-089",
+    "baseNo": "OS04/R04-089",
+    "name": "獣魔の受付嬢 データー",
+    "kana": "ジュウマノウケツケジョウ データー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "受付嬢"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは自分の控え室の「獣魔の受付嬢 データー」を1枚選び、手札に戻す。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "絶対途中では解放してもらえませんし",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_089.png",
+        "cardNo": "OS04/R04-089",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-089&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_089s.png",
+        "cardNo": "OS04/R04-089S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-089S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-090",
+    "baseNo": "OS04/R04-090",
+    "name": "超えられたライン メイドリー",
+    "kana": "コエラレタライン メイドリー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ウェイトレス"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの〈同OS〉のキャラの枚数×500に等しい。\n【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】［(1)］ このカードのトリガーチェックでCXがでた時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストックにし、1枚まで引く。1枚引いたなら、あなたは自分の手札を1枚選び、控え室に置く。』",
+    "flavor": "……！！",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_090.png",
+        "cardNo": "OS04/R04-090",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-090&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_090s.png",
+        "cardNo": "OS04/R04-090S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-090S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-091",
+    "baseNo": "OS04/R04-091",
+    "name": "有翼人の受付嬢 ミミロ",
+    "kana": "ユウヨクジンノウケツケジョウ ミミロ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "受付嬢"
+    ],
+    "text": "【自】 このカードが手札から登場した時、他のあなたの〈同OS〉のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\n【自】［手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、思い出にし、アンコールステップの始めに、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_091.png",
+        "cardNo": "OS04/R04-091",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-091&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_091s.png",
+        "cardNo": "OS04/R04-091S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-091S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-092",
+    "baseNo": "OS04/R04-092",
+    "name": "サキュバスの受付嬢 アサテント",
+    "kana": "サキュバスノウケツケジョウ アサテント",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "受付嬢"
+    ],
+    "text": "【永】 相手のターン中、他のあなたの後列の〈同OS〉のキャラ1枚につき、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの〈同OS〉のキャラの枚数×500に等しい。",
+    "flavor": "あっは～ん",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_092.png",
+        "cardNo": "OS04/R04-092",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-092&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_092s.png",
+        "cardNo": "OS04/R04-092S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-092S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-093",
+    "baseNo": "OS04/R04-093",
+    "name": "その日 メイドリー",
+    "kana": "ソノヒ メイドリー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "ウェイトレス"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「メイドリーのひみつ」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
+    "flavor": "クリムくぅ～ん",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_093.png",
+        "cardNo": "OS04/R04-093",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-093&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_093s.png",
+        "cardNo": "OS04/R04-093S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-093S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-094",
+    "baseNo": "OS04/R04-094",
+    "name": "有翼人の弱点 メイドリー",
+    "kana": "ユウヨクジンノジャクテン メイドリー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ウェイトレス"
+    ],
+    "text": "【自】［(2) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "チュピッ！？",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_094.png",
+        "cardNo": "OS04/R04-094",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-094&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_094s.png",
+        "cardNo": "OS04/R04-094S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-094S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-095",
+    "baseNo": "OS04/R04-095",
+    "name": "悪魔の穴の受付嬢 ホワック",
+    "kana": "アクマノアナノウケツケジョウ ホワック",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "受付嬢"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】［このカードを【レスト】する］ あなたは相手の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+    "flavor": "どちらさまからのご紹介でいらっしゃいました？",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_095.png",
+        "cardNo": "OS04/R04-095",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-095&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_095s.png",
+        "cardNo": "OS04/R04-095S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-095S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-096",
+    "baseNo": "OS04/R04-096",
+    "name": "食酒亭のウエイトレス メイドリー",
+    "kana": "ショクシュテイノウエイトレス メイドリー",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "ウェイトレス"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［手札を2枚控え室に置く］ このカードがアタックした時、コストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。ＸはそれらのカードのCXの枚数に等しい。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_096.png",
+        "cardNo": "OS04/R04-096",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-096&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_096s.png",
+        "cardNo": "OS04/R04-096S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-096S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-097",
+    "baseNo": "OS04/R04-097",
+    "name": "天国",
+    "kana": "テンゴク",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "EV",
+    "color": "blue",
+    "level": 3,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは自分のクロックの上から1枚までを、控え室に置き、自分の山札を見て〈同OS〉のキャラを1枚までサーチし手札に加える。このカードを思い出にする。",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_097.png",
+        "cardNo": "OS04/R04-097",
+        "rarity": "R",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-097&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_097s.png",
+        "cardNo": "OS04/R04-097S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-097S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-098",
+    "baseNo": "OS04/R04-098",
+    "name": "怒りの一撃",
+    "kana": "イカリノイチゲキ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_098.png",
+        "cardNo": "OS04/R04-098",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-098&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_098s.png",
+        "cardNo": "OS04/R04-098S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-098S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-099",
+    "baseNo": "OS04/R04-099",
+    "name": "メイドリーのひみつ",
+    "kana": "メイドリーノヒミツ",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "んっ……",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_099.png",
+        "cardNo": "OS04/R04-099",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-099&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_099s.png",
+        "cardNo": "OS04/R04-099S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-099S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-100",
+    "baseNo": "OS04/R04-100",
+    "name": "優れたサンプル",
+    "kana": "スグレタサンプル",
+    "product": "ブースターパック 異種族レビュアーズ",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "draw"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、1枚引いてよい）",
+    "flavor": "ちなみにこれ",
+    "releaseDate": "2025-08-29",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_100.png",
+        "cardNo": "OS04/R04-100",
+        "rarity": "C",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-100&expansion=R04"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_100s.png",
+        "cardNo": "OS04/R04-100S",
+        "rarity": "SR",
+        "expansion": "R04",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-100S&expansion=R04"
+      }
+    ],
+    "expansions": [
+      "R04"
+    ],
+    "products": [
+      {
+        "date": "2025-08-29",
+        "title": "ブースターパック 異種族レビュアーズ"
+      }
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-P01",
+    "baseNo": "OS04/R04-P01",
+    "name": "keep out エルマ",
+    "kana": "keep out エルマ",
+    "product": "PRカード",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－1。\n【永】 あなたのCXフェイズの始めに、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "",
+    "releaseDate": "2025-09-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_p01.png",
+        "cardNo": "OS04/R04-P01",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-P01&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_p01s.png",
+        "cardNo": "OS04/R04-P01S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-P01S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-P03",
+    "baseNo": "OS04/R04-P03",
+    "name": "keep out みー",
+    "kana": "keep out ミー",
+    "product": "PRカード",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、次の能力を与える。『【起】 集中 ［(1)］ あなたは自分の山札の上から1枚をめくり、控え室に置く。そのカードが〈同OS〉のキャラなら、そのターン中、このカードのパワーを＋2000し、ソウルを＋1。』\n【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、あなたは相手に1ダメージを与えてよい。",
+    "flavor": "",
+    "releaseDate": "2025-11-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_p03.png",
+        "cardNo": "OS04/R04-P03",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-P03&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_p03s.png",
+        "cardNo": "OS04/R04-P03S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-P03S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS04/R04-P04",
+    "baseNo": "OS04/R04-P04",
+    "name": "keep out エルドリー",
+    "kana": "keep out エルドリー",
+    "product": "PRカード",
+    "neoStandard": "異種族レビュアーズ",
+    "workNo": "OS04",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "サキュ嬢"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、【スタンド】して相手の舞台のキャラのいない他の枠に動かすか、他の相手のキャラを1枚選び、それぞれを【スタンド】して入れ替える。",
+    "flavor": "",
+    "releaseDate": "2026-01-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_p04.png",
+        "cardNo": "OS04/R04-P04",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-P04&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os04/r04/os04_r04_p04s.png",
+        "cardNo": "OS04/R04-P04S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS04%2FR04-P04S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  }
+]

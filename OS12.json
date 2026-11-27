@@ -1,0 +1,4425 @@
+[
+  {
+    "cardNo": "OS12/R12-001",
+    "baseNo": "OS12/R12-001",
+    "name": "年上のプレイガール好き 麻沙音",
+    "kana": "トシウエノプレイガールズキ アサネ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "オタク"
+    ],
+    "text": "【自】 あなたのCXがCX置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置き、自分のキャラを1枚選び、そのターン中、パワーを＋500。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "ななななんだ　この幸せすぎる感覚は……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_001.png",
+        "cardNo": "OS12/R12-001",
+        "rarity": "RR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-001&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_001ofr.png",
+        "cardNo": "OS12/R12-001OFR",
+        "rarity": "OFR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-001OFR&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_001ssp.png",
+        "cardNo": "OS12/R12-001SSP",
+        "rarity": "SSP",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-001SSP&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-002",
+    "baseNo": "OS12/R12-002",
+    "name": "史上最強のプレイガール 奈々瀬",
+    "kana": "シジョウサイキョウノプレイガール ナナセ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS",
+      "ギャル"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】［(1) 手札を1枚控え室に置き、あなたの思い出置場の表向きの《モブ》のキャラを1枚裏向きにする］ このカードがアタックした時、CX置場に「その奥の手の奥に届いたふたりのムラハメ」があり、あなたのキャラすべてが《NLNS》なら、コストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを2回与える。』『相手に3ダメージを与える。』",
+    "flavor": "じゅーん!!",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_002.png",
+        "cardNo": "OS12/R12-002",
+        "rarity": "RR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-002&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_002ofr.png",
+        "cardNo": "OS12/R12-002OFR",
+        "rarity": "OFR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-002OFR&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_002ssp.png",
+        "cardNo": "OS12/R12-002SSP",
+        "rarity": "SSP",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-002SSP&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-003",
+    "baseNo": "OS12/R12-003",
+    "name": "ヤる気満々 ヒナミ",
+    "kana": "ヤルキマンマン ヒナミ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10500,
+    "soul": 3,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS",
+      "パイプ椅子"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 舞台のこのカードのレベルを－3。このカードは相手の効果に選ばれない。\n【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "flavor": "お船も奪えるなっ！いつでも●●●んだなっ！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_003.png",
+        "cardNo": "OS12/R12-003",
+        "rarity": "RR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-003&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_003ofr.png",
+        "cardNo": "OS12/R12-003OFR",
+        "rarity": "OFR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-003OFR&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_003ssp.png",
+        "cardNo": "OS12/R12-003SSP",
+        "rarity": "SSP",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-003SSP&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-004",
+    "baseNo": "OS12/R12-004",
+    "name": "変わった遊び 奈々瀬",
+    "kana": "カワッタアソビ ナナセ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "ギャル"
+    ],
+    "text": "【自】［他のあなたの〈同OS〉のキャラを1枚【レスト】する］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。\n【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "やっぱり●●●●●●●●●するならコレ一択よねぇ～",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_004.png",
+        "cardNo": "OS12/R12-004",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-004&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_004s.png",
+        "cardNo": "OS12/R12-004S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-004S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-005",
+    "baseNo": "OS12/R12-005",
+    "name": "年齢証明 ヒナミ",
+    "kana": "ネンレイショウメイ ヒナミ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS",
+      "パイプ椅子"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－1。このカードは相手の効果に選ばれない。\n【永】 あなたのターン中、このカードのパワーを＋2000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「大人の女性なんですけど！」があるなら、あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "flavor": "ほら、見て！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_005.png",
+        "cardNo": "OS12/R12-005",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-005&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_005s.png",
+        "cardNo": "OS12/R12-005S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-005S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-006",
+    "baseNo": "OS12/R12-006",
+    "name": "ベストマッチな友情 ヒナミ",
+    "kana": "ベストマッチナユウジョウ ヒナミ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "パイプ椅子"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－1。このカードは相手の効果に選ばれない。\n【永】 あなたのCX置場にトリガーアイコンが【ソウル】【ソウル】のCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに【ソウル】【ソウル】を得る。\n【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』",
+    "flavor": "",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_006.png",
+        "cardNo": "OS12/R12-006",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-006&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_006s.png",
+        "cardNo": "OS12/R12-006S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-006S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-007",
+    "baseNo": "OS12/R12-007",
+    "name": "無二の妹 麻沙音",
+    "kana": "ムニノイモウト アサネ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 7500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS",
+      "オタク"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋2000。\n【自】 このカードが手札から登場した時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの〈同OS〉のキャラの枚数に等しい。\n【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚まで見て、山札の上に置き、相手の山札を上から1枚まで見て、山札の上に置く。",
+    "flavor": "そうだよ、兄……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_007.png",
+        "cardNo": "OS12/R12-007",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-007&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_007s.png",
+        "cardNo": "OS12/R12-007S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-007S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-008",
+    "baseNo": "OS12/R12-008",
+    "name": "秘密の友情 ヒナミ",
+    "kana": "ヒミツノユウジョウ ヒナミ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "パイプ椅子"
+    ],
+    "text": "【自】［手札のトリガーアイコンが【ソウル】【ソウル】のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のトリガーアイコンが【ソウル】【ソウル】のCXを1枚選び、手札に戻す。",
+    "flavor": "ノロマン「ちょっと君」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_008.png",
+        "cardNo": "OS12/R12-008",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-008&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_008s.png",
+        "cardNo": "OS12/R12-008S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-008S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-009",
+    "baseNo": "OS12/R12-009",
+    "name": "お子様？ ヒナミ",
+    "kana": "オコサマ？ ヒナミ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "パイプ椅子"
+    ],
+    "text": "【自】［手札の「友達思い 礼」を1枚表向きでこのカードのマーカーにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。\n【自】 絆／「友達思い 礼」 ［手札を1枚控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_009.png",
+        "cardNo": "OS12/R12-009",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-009&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_009s.png",
+        "cardNo": "OS12/R12-009S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-009S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-010",
+    "baseNo": "OS12/R12-010",
+    "name": "全員棄権 モブ",
+    "kana": "ゼンインキケン モブ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "モブ"
+    ],
+    "text": "【自】 このカードが【リバース】した時、あなたの思い出が2枚以下なら、あなたはこのカードを思い出にしてよい。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストックにしてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+    "flavor": "ム～～リ～～～～！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_010.png",
+        "cardNo": "OS12/R12-010",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-010&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_010s.png",
+        "cardNo": "OS12/R12-010S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-010S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-011",
+    "baseNo": "OS12/R12-011",
+    "name": "おいしいごはん 麻沙音",
+    "kana": "オイシイゴハン アサネ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "オタク"
+    ],
+    "text": "【自】［(1)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚選び、クロックにし、残りのカードを控え室に置く。1枚クロックにしたなら、あなたは自分の控え室のレベル1以下のキャラを1枚選び、手札に戻す。",
+    "flavor": "……兄！……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_011.png",
+        "cardNo": "OS12/R12-011",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-011&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_011s.png",
+        "cardNo": "OS12/R12-011S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-011S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-012",
+    "baseNo": "OS12/R12-012",
+    "name": "垂涎三尺 麻沙音",
+    "kana": "スイゼンサンジャク アサネ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "オタク"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《NLNS》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "あはぁ、●●●●●●●最高……♡",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_012.png",
+        "cardNo": "OS12/R12-012",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-012&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_012s.png",
+        "cardNo": "OS12/R12-012S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-012S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-013",
+    "baseNo": "OS12/R12-013",
+    "name": "初物食い!? 奈々瀬",
+    "kana": "ハツモノグイ!? ナナセ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "ギャル"
+    ],
+    "text": "【自】［(2)］ あなたのアンコールステップの始めに、コストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚と、このカードを選び、思い出にする。次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそれらのキャラを、舞台の別々の枠に置く。",
+    "flavor": "ちょっと借りるわよ",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_013.png",
+        "cardNo": "OS12/R12-013",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-013&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_013s.png",
+        "cardNo": "OS12/R12-013S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-013S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-014",
+    "baseNo": "OS12/R12-014",
+    "name": "学園嫌い 麻沙音",
+    "kana": "ガクエンギライ アサネ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "オタク"
+    ],
+    "text": "【永】 このカードはパワーが増減しない。\n【自】【CXコンボ】 このカードがアタックした時、CX置場に「初チン者マーク」があり、あなたの手札が6枚以下なら、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加える。",
+    "flavor": "やっぱ学校行きたくないよぉ～",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_014.png",
+        "cardNo": "OS12/R12-014",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-014&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_014s.png",
+        "cardNo": "OS12/R12-014S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-014S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-015",
+    "baseNo": "OS12/R12-015",
+    "name": "偽装工作 奈々瀬",
+    "kana": "ギソウコウサク ナナセ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "ギャル"
+    ],
+    "text": "【自】 経験 ［手札を1枚控え室に置く］ このカードが手札から登場した時、あなたのレベル置場にカードがあり、あなたのレベル置場のカードのレベルの合計が0以下なら、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘが3以上なら、あなたは自分の山札の上から1枚までを、ストックにする。Ｘは公開されたカードのレベルに等しい。",
+    "flavor": "やり過ごしましょう……●●●●で",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_015.png",
+        "cardNo": "OS12/R12-015",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-015&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_015s.png",
+        "cardNo": "OS12/R12-015S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-015S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-016",
+    "baseNo": "OS12/R12-016",
+    "name": "馳せる思い 奈々瀬",
+    "kana": "ハセルオモイ ナナセ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "ギャル"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。",
+    "flavor": "……もしかすると……他にもいるのかもね",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_016.png",
+        "cardNo": "OS12/R12-016",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-016&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_016s.png",
+        "cardNo": "OS12/R12-016S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-016S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-017",
+    "baseNo": "OS12/R12-017",
+    "name": "ちいちゃい誘導者 ヒナミ",
+    "kana": "チイチャイユウドウシャ ヒナミ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "パイプ椅子"
+    ],
+    "text": "【永】 舞台のこのカードのレベルを－1。このカードは相手の効果に選ばれない。\n【永】 経験 レベル置場にこのカードがあるなら、このカードのレベルを－1。\n【自】 このカードが手札から登場した時かアタックした時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "flavor": "私だよぉ～！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_017.png",
+        "cardNo": "OS12/R12-017",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-017&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_017s.png",
+        "cardNo": "OS12/R12-017S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-017S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-018",
+    "baseNo": "OS12/R12-018",
+    "name": "エーロ交換 奈々瀬",
+    "kana": "エーロコウカン ナナセ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS",
+      "ギャル"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "負けろ！　負けろ！　●●●！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_018.png",
+        "cardNo": "OS12/R12-018",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-018&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_018s.png",
+        "cardNo": "OS12/R12-018S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-018S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-019",
+    "baseNo": "OS12/R12-019",
+    "name": "決戦兵器投入 麻沙音",
+    "kana": "ケッセンヘイキトウニュウ アサネ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 0,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "オタク"
+    ],
+    "text": "【永】 経験 レベル置場にこのカードがあるなら、このカードのレベルを－2。\n【自】 経験 このカードが手札から登場した時、あなたのレベル置場にカードがあり、あなたのレベル置場のカードのレベルの合計が0以下なら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "駄目だ。体重差がエグすぎる、親方！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_019.png",
+        "cardNo": "OS12/R12-019",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-019&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_019s.png",
+        "cardNo": "OS12/R12-019S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-019S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-020",
+    "baseNo": "OS12/R12-020",
+    "name": "でかい棒倒し 奈々瀬",
+    "kana": "デカイボウタオシ ナナセ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS",
+      "ギャル"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】【ターン1】 他のあなたの「でかい棒倒し 淳之介」が手札から登場した時、あなたは自分の山札の「史上最強のプレイガール 奈々瀬」を1枚までサーチし手札に加える。\n【自】 あなたのアタックフェイズの始めに、あなたは自分の【レスト】しているカード名に「淳之介」を含むキャラを3枚まで選び、【スタンド】する。",
+    "flavor": "だ、大丈夫！淳のが、なるべく誰にも見られないよう……頑張るから……！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_020.png",
+        "cardNo": "OS12/R12-020",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-020&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_020s.png",
+        "cardNo": "OS12/R12-020S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-020S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-021",
+    "baseNo": "OS12/R12-021",
+    "name": "500人斬りの噂 奈々瀬",
+    "kana": "500ニンギリノウワサ ナナセ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS",
+      "ギャル"
+    ],
+    "text": "【永】 記憶 あなたの思い出置場のレベル0以下のキャラが500枚以上なら、このカードのパワーを＋1919。\n【自】 このカードが手札から登場した時、あなたは自分の山札を上から4枚まで見て、CXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+    "flavor": "あいにく、●●●なのだわ",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_021.png",
+        "cardNo": "OS12/R12-021",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-021&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_021s.png",
+        "cardNo": "OS12/R12-021S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-021S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-022",
+    "baseNo": "OS12/R12-022",
+    "name": "忌まわしき鎖",
+    "kana": "イマワシキクサリ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "EV",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "このカードは、あなたの〈同OS〉のキャラがいないなら、手札からプレイできない。\nあなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の〈同OS〉のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。\nあなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
+    "flavor": "南風成「●●●●●●●●●●●●●は……　あらゆるものを検知する」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_022.png",
+        "cardNo": "OS12/R12-022",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-022&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_022s.png",
+        "cardNo": "OS12/R12-022S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-022S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-023",
+    "baseNo": "OS12/R12-023",
+    "name": "その奥の手の奥に届いたふたりのムラハメ",
+    "kana": "ソノオクノテノオクニトドイタフタリノムラハメ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "奈々瀬「ふたりならどうかしら……　ねっ!!」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_023.png",
+        "cardNo": "OS12/R12-023",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-023&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_023s.png",
+        "cardNo": "OS12/R12-023S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-023S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-024",
+    "baseNo": "OS12/R12-024",
+    "name": "大人の女性なんですけど！",
+    "kana": "オトナノジョセイナンデスケド！",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストックにし、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "flavor": "ヒナミ「違うよぉ！写真！私だよね!?」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_024.png",
+        "cardNo": "OS12/R12-024",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-024&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_024s.png",
+        "cardNo": "OS12/R12-024S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-024S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-025",
+    "baseNo": "OS12/R12-025",
+    "name": "初チン者マーク",
+    "kana": "ショチンシャマーク",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。",
+    "flavor": "麻沙音「島に来たばかりの女子は、●●●の効果が出るまで●●●●禁止らしくて……」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_025.png",
+        "cardNo": "OS12/R12-025",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-025&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_025s.png",
+        "cardNo": "OS12/R12-025S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-025S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-026",
+    "baseNo": "OS12/R12-026",
+    "name": "水乃月学園生徒会長 桐香",
+    "kana": "ミノツキガクエンセイトカイチョウ トウカ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "生徒会長"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 このカードの正面のキャラは他の枠に動かせない。』\n【自】［(1) あなたの山札の上から1枚をクロックにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "……みなさん、おはようございます",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_026.png",
+        "cardNo": "OS12/R12-026",
+        "rarity": "RR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-026&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_026s.png",
+        "cardNo": "OS12/R12-026S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-026S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-027",
+    "baseNo": "OS12/R12-027",
+    "name": "商売上手っす スス子",
+    "kana": "ショウバイジョウズッス ススコ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "パンツ"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、CX置場にCXがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストックにする。",
+    "flavor": "お兄さんお目が高い●●が高ぁい！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_027.png",
+        "cardNo": "OS12/R12-027",
+        "rarity": "RR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-027&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_027ofr.png",
+        "cardNo": "OS12/R12-027OFR",
+        "rarity": "OFR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-027OFR&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_027sp.png",
+        "cardNo": "OS12/R12-027SP",
+        "rarity": "SP",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-027SP&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-028",
+    "baseNo": "OS12/R12-028",
+    "name": "冷泉の糸使い 桐香",
+    "kana": "レイゼイノイトツカイ トウカ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "生徒会長"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストックにし、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ このカードのアタックの終わりに、CX置場に「納涼の檻」があり、あなたのキャラすべてが《FS》か《モブ》なら、コストを払ってよい。そうしたら、あなたは自分の思い出置場の《モブ》のキャラを1枚まで選び、このカードがいた枠に置く。",
+    "flavor": "……でしたら、私の奥の手、お見せしますね？",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_028.png",
+        "cardNo": "OS12/R12-028",
+        "rarity": "RR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-028&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_028ofr.png",
+        "cardNo": "OS12/R12-028OFR",
+        "rarity": "OFR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-028OFR&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_028sp.png",
+        "cardNo": "OS12/R12-028SP",
+        "rarity": "SP",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-028SP&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-029",
+    "baseNo": "OS12/R12-029",
+    "name": "世界平和への第一歩 桐香",
+    "kana": "セカイヘイワヘノダイイッポ トウカ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "生徒会長"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚クロックにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\n【起】【CXコンボ】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードの「納涼の檻」か「イクのささやき」1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "……そうねぇ……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_029.png",
+        "cardNo": "OS12/R12-029",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-029&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_029s.png",
+        "cardNo": "OS12/R12-029S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-029S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-030",
+    "baseNo": "OS12/R12-030",
+    "name": "エーロ交換っす スス子",
+    "kana": "エーロコウカンッス ススコ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "パンツ"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。",
+    "flavor": "フレ！　フレ！　す・す・すぅ♡",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_030.png",
+        "cardNo": "OS12/R12-030",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-030&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_030s.png",
+        "cardNo": "OS12/R12-030S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-030S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-031",
+    "baseNo": "OS12/R12-031",
+    "name": "僕のデータにないものはない シューベルト",
+    "kana": "ボクノデータニナイモノハナイ シューベルト",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "眼鏡"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】 相手のCXがCX置場に置かれた時、あなたは『僕のデータにはないですね』と宣言してよい。\n【起】［(1) 手札のCXを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+    "flavor": "僕のデータにはないですね",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_031.png",
+        "cardNo": "OS12/R12-031",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-031&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_031s.png",
+        "cardNo": "OS12/R12-031S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-031S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-032",
+    "baseNo": "OS12/R12-032",
+    "name": "広げようドスケベの輪 モブ",
+    "kana": "ヒロゲヨウドスケベノワ モブ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "モブ"
+    ],
+    "text": "【自】 このカードが手札か思い出置場から登場した時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にCXがあるなら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。』\n【起】［このカードを思い出にする］ あなたは相手のキャラを1枚選び、手札に戻す。",
+    "flavor": "皆様！署名にご協力を！青藍島の尊い文化を日本全土に届けましょう",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_032.png",
+        "cardNo": "OS12/R12-032",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-032&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_032s.png",
+        "cardNo": "OS12/R12-032S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-032S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-033",
+    "baseNo": "OS12/R12-033",
+    "name": "いつでもスッスっす スス子",
+    "kana": "イツデモスッスッス ススコ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "パンツ"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋4000。\n【自】【CXコンボ】 あなたのアンコールステップの始めに、CX置場に「スー・イエス・スーっす！」があり、前列にこのカードがいて、他のあなたの〈同OS〉のキャラが2枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "flavor": "礼「貴様はスス子だ！」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_033.png",
+        "cardNo": "OS12/R12-033",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-033&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_033s.png",
+        "cardNo": "OS12/R12-033S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-033S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-034",
+    "baseNo": "OS12/R12-034",
+    "name": "チュパちゃん",
+    "kana": "チュパチャン",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "動物"
+    ],
+    "text": "【自】［(1) 手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "んじゅっ、じゅっ、ジュルルル……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_034.png",
+        "cardNo": "OS12/R12-034",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-034&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_034s.png",
+        "cardNo": "OS12/R12-034S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-034S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-035",
+    "baseNo": "OS12/R12-035",
+    "name": "ドスケベ音頭 桐香",
+    "kana": "ドスケベオンド トウカ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "生徒会長"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは相手のキャラを1枚選び、そのターン中、パワーを－500。",
+    "flavor": "郁子「●●●●●なら●●らにゃ●●●●♪」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_035.png",
+        "cardNo": "OS12/R12-035",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-035&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_035s.png",
+        "cardNo": "OS12/R12-035S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-035S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-036",
+    "baseNo": "OS12/R12-036",
+    "name": "SHO公式マスコットキャラクター",
+    "kana": "SHOコウシキマスコットキャラクター",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "SHO",
+      "マスコット"
+    ],
+    "text": "【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+    "flavor": "●●●●くんだハメ",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_036.png",
+        "cardNo": "OS12/R12-036",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-036&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_036s.png",
+        "cardNo": "OS12/R12-036S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-036S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-037",
+    "baseNo": "OS12/R12-037",
+    "name": "大器晩成 ノロマン",
+    "kana": "タイキバンセイ ノロマン",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "風紀委員"
+    ],
+    "text": "【自】 このカードがフロントアタックされた時、他のあなたの〈同OS〉のキャラが2枚以上なら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+    "flavor": "あ、明日までの宿題やってない",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_037.png",
+        "cardNo": "OS12/R12-037",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-037&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_037s.png",
+        "cardNo": "OS12/R12-037S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-037S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-038",
+    "baseNo": "OS12/R12-038",
+    "name": "粘膜接触 桐香",
+    "kana": "ネンマクセッショク トウカ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "生徒会長"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「キスの試練」があり、他のあなたの〈同OS〉のキャラが3枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、あなたは相手の手札を見てよい。",
+    "flavor": "淳之介「確認、って……？っ!?」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_038.png",
+        "cardNo": "OS12/R12-038",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-038&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_038s.png",
+        "cardNo": "OS12/R12-038S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-038S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-039",
+    "baseNo": "OS12/R12-039",
+    "name": "ショータイム 桐香",
+    "kana": "ショータイム トウカ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "生徒会長"
+    ],
+    "text": "【自】 このカードが手札から登場した時、他のあなたの〈同OS〉のキャラがいないなら、このカードを控え室に置く。\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に置く。",
+    "flavor": "FSモブたち「会長？」「シルクハットだ」「汁●●●●●●ハット？」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_039.png",
+        "cardNo": "OS12/R12-039",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-039&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_039s.png",
+        "cardNo": "OS12/R12-039S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-039S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-040",
+    "baseNo": "OS12/R12-040",
+    "name": "開会の言葉 桐香",
+    "kana": "カイカイノコトバ トウカ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 2,
+    "power": 7500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "生徒会長"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラ1枚につき、このカードのパワーを＋500。",
+    "flavor": "それではこれより――　水乃月学園体イク祭を開始いたします",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_040.png",
+        "cardNo": "OS12/R12-040",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-040&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_040s.png",
+        "cardNo": "OS12/R12-040S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-040S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-041",
+    "baseNo": "OS12/R12-041",
+    "name": "無知蒙昧 クールフール",
+    "kana": "ムチモウマイ クールフール",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "眼鏡"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "百戦錬磨！　色即是空！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_041.png",
+        "cardNo": "OS12/R12-041",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-041&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_041s.png",
+        "cardNo": "OS12/R12-041S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-041S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-042",
+    "baseNo": "OS12/R12-042",
+    "name": "バブみ系女子 物集女さん",
+    "kana": "バブミケイジョシ モズメサン",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "隊長"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードのレベルを＋2。\n【永】 このカードのマーカー1枚につき、このカードのパワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のレベル0以下のキャラを1枚選び、裏向きでこのカードのマーカーにしてよい。",
+    "flavor": "●●●●●●●●●",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_042.png",
+        "cardNo": "OS12/R12-042",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-042&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_042s.png",
+        "cardNo": "OS12/R12-042S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-042S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-043",
+    "baseNo": "OS12/R12-043",
+    "name": "脳筋ゴリラ ゴリマス",
+    "kana": "ノウキンゴリラ ゴリマス",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 2,
+    "power": 11500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "筋肉"
+    ],
+    "text": "【永】 このカードはサイドアタックできない。",
+    "flavor": "ウホァアアアッ！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_043.png",
+        "cardNo": "OS12/R12-043",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-043&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_043s.png",
+        "cardNo": "OS12/R12-043S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-043S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-044",
+    "baseNo": "OS12/R12-044",
+    "name": "オススメっす スス子",
+    "kana": "オススメッス ススコ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "パンツ"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 他のあなたの〈同OS〉のキャラすべてに、《スルメ》を与える。\n【自】［他のあなたの舞台の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストックにする。",
+    "flavor": "スルメイカっす",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_044.png",
+        "cardNo": "OS12/R12-044",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-044&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_044s.png",
+        "cardNo": "OS12/R12-044S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-044S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-045",
+    "baseNo": "OS12/R12-045",
+    "name": "花丸の姉 蘭",
+    "kana": "ハナマルノアネ ラン",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "委員長"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。",
+    "flavor": "起立。●●●。●っ！●●！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_045.png",
+        "cardNo": "OS12/R12-045",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-045&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_045s.png",
+        "cardNo": "OS12/R12-045S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-045S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-046",
+    "baseNo": "OS12/R12-046",
+    "name": "ドスケベ条例の提案者 仁浦県知事",
+    "kana": "ドスケベジョウレイノテイショウシャ ヒトウラケンチジ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "知事"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードに《FS》か《SHO》か《モブ》のキャラが1枚以上なら、そのターン中、このカードのパワーを＋3000。それらのカードに《FS》か《SHO》か《モブ》のキャラが2枚以上なら、あなたは自分のクロックの上から1枚までを、控え室に置く。それらのカードに《FS》か《SHO》か《モブ》のキャラが3枚以上なら、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをクロックにしてよい。』",
+    "flavor": "異次元の性策なのです。すでに各地の地方自治体からも注目されており",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_046.png",
+        "cardNo": "OS12/R12-046",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-046&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_046s.png",
+        "cardNo": "OS12/R12-046S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-046S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-047",
+    "baseNo": "OS12/R12-047",
+    "name": "ギロチンの刑",
+    "kana": "ギロチンノケイ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "EV",
+    "color": "green",
+    "level": 1,
+    "cost": 9,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "［手札を3枚控え室に置く］ 相手のレベルが2以下なら、コストを払ってよい。そうしたら、あなたは相手の控え室のレベル1のカードを1枚選び、相手のレベル置場に置き、このカードをクロックにする。あなたのメインフェイズを終了しアンコールステップに進む。",
+    "flavor": "光姫「ギロチン、それはドスケベ条例の象徴……」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_047.png",
+        "cardNo": "OS12/R12-047",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-047&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_047s.png",
+        "cardNo": "OS12/R12-047S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-047S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-048",
+    "baseNo": "OS12/R12-048",
+    "name": "納涼の檻",
+    "kana": "ノウリョウノオリ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "桐香「あなたはもう檻の中……」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_048.png",
+        "cardNo": "OS12/R12-048",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-048&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_048s.png",
+        "cardNo": "OS12/R12-048S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-048S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-049",
+    "baseNo": "OS12/R12-049",
+    "name": "スー・イエス・スーっす！",
+    "kana": "スー・イエス・スーッス！",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "スス子「スー・イエス・スーっす！」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_049.png",
+        "cardNo": "OS12/R12-049",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-049&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_049s.png",
+        "cardNo": "OS12/R12-049S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-049S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-050",
+    "baseNo": "OS12/R12-050",
+    "name": "キスの試練",
+    "kana": "キスノシレン",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "淳之介「くっ……！近頃妙に●●しやすい！」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_050.png",
+        "cardNo": "OS12/R12-050",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-050&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_050s.png",
+        "cardNo": "OS12/R12-050S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-050S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-051",
+    "baseNo": "OS12/R12-051",
+    "name": "チツ序を守る風紀委員長 礼",
+    "kana": "チツジョヲマモルフウキイインチョウ レイ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "風紀委員長"
+    ],
+    "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から3枚まで見て、CXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+    "flavor": "このようなことが起こらぬよう、みなも日々ドスケベ●●●●に励むことだ！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_051.png",
+        "cardNo": "OS12/R12-051",
+        "rarity": "RR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-051&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_051ofr.png",
+        "cardNo": "OS12/R12-051OFR",
+        "rarity": "OFR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-051OFR&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_051sp.png",
+        "cardNo": "OS12/R12-051SP",
+        "rarity": "SP",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-051SP&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-052",
+    "baseNo": "OS12/R12-052",
+    "name": "女部田流剣術継承者 郁子",
+    "kana": "オナブタリュウケンジュツケイショウシャ イクコ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "戦闘狂"
+    ],
+    "text": "【自】［(1)］ あなたのメインフェイズ中、このカードが、手札か山札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の「女部田流剣術継承者 郁子」を1枚までサーチし舞台の好きな枠に置く。\n【自】［手札を1枚控え室に置き、このカードを【レスト】する］ あなたのアタックフェイズの始めに、前列にこのカードがいて、他のあなたの〈同OS〉のキャラが2枚以上なら、コストを払ってよい。そうしたら、相手に2ダメージを2回与える。",
+    "flavor": "あははっ、激しい責め……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_052.png",
+        "cardNo": "OS12/R12-052",
+        "rarity": "RR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-052&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_052ofr.png",
+        "cardNo": "OS12/R12-052OFR",
+        "rarity": "OFR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-052OFR&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_052sp.png",
+        "cardNo": "OS12/R12-052SP",
+        "rarity": "SP",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-052SP&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-053",
+    "baseNo": "OS12/R12-053",
+    "name": "ベストマッチな友情 礼",
+    "kana": "ベストマッチナユウジョウ レイ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "風紀委員長"
+    ],
+    "text": "【永】 他のあなたのレベル0以下のキャラすべてに、パワーを＋1000。\n【起】 共鳴 ［(1) 手札の「ヤる気満々 ヒナミ」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から4枚まで見て、カード名に「ヒナミ」か「礼」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "例えどんなヒナミでも……幼馴染を嫌いになんてならないよ……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_053.png",
+        "cardNo": "OS12/R12-053",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-053&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_053s.png",
+        "cardNo": "OS12/R12-053S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-053S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-054",
+    "baseNo": "OS12/R12-054",
+    "name": "悪くないもん 郁子",
+    "kana": "ワルクナイモン イクコ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "戦闘狂"
+    ],
+    "text": "【自】［(2)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "しょうがないじゃん、ジャミングで指揮系統が機能しなかったんだから",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_054.png",
+        "cardNo": "OS12/R12-054",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-054&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_054s.png",
+        "cardNo": "OS12/R12-054S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-054S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-055",
+    "baseNo": "OS12/R12-055",
+    "name": "SHO観光大使 光姫",
+    "kana": "SHOカンコウタイシ コウキ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "SHO"
+    ],
+    "text": "【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［(1) あなたの〈同OS〉のキャラを2枚【レスト】する］ あなたは自分の手札の自分のレベル以下のレベルでコスト2以下のキャラを1枚選び、舞台の好きな枠に置く。",
+    "flavor": "こちらの黒アワビと●●●●の●●●●●！●●●●●●●●●●●と言ってもらえれば！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_055.png",
+        "cardNo": "OS12/R12-055",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-055&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_055s.png",
+        "cardNo": "OS12/R12-055S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-055S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-056",
+    "baseNo": "OS12/R12-056",
+    "name": "選手宣誓 礼",
+    "kana": "センシュセンセイ レイ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "風紀委員長"
+    ],
+    "text": "【自】 このカードが手札から登場した時、他のあなたの〈同OS〉のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「ドエロスコードはきちんと守れ！」があるなら、あなたは自分の山札の上から3枚を、控え室に置き、自分の控え室のレベルＸ以下の〈同OS〉のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。Ｘはこの効果で控え室に置かれた〈同OS〉のキャラの枚数に等しい。",
+    "flavor": "私たち●●一同は●●●●●●●●●●にのっとり、絶頂まで●●●●戦い、●●●●を誓います！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_056.png",
+        "cardNo": "OS12/R12-056",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-056&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_056s.png",
+        "cardNo": "OS12/R12-056S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-056S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-057",
+    "baseNo": "OS12/R12-057",
+    "name": "あなたの全てを受け入れる 茅津野アナ",
+    "kana": "アナタノスベテヲウケイレル チツノアナ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "アナウンサー"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』",
+    "flavor": "中村さん、本大会の見どころはどのようなところでしょう",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_057.png",
+        "cardNo": "OS12/R12-057",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-057&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_057s.png",
+        "cardNo": "OS12/R12-057S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-057S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-058",
+    "baseNo": "OS12/R12-058",
+    "name": "理解不能 モブ",
+    "kana": "リカイフノウ モブ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "モブ"
+    ],
+    "text": "【自】 このカードが手札か思い出置場から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【起】［このカードを思い出にする］ あなたは自分の控え室の〈同OS〉のキャラを2枚まで選び、手札に戻す。",
+    "flavor": "何考えてんだ？こんなに●●●があるのにわけわかんねぇ……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_058.png",
+        "cardNo": "OS12/R12-058",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-058&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_058s.png",
+        "cardNo": "OS12/R12-058S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-058S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-059",
+    "baseNo": "OS12/R12-059",
+    "name": "催淫術師 郁子",
+    "kana": "サイインジュツシ イクコ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "戦闘狂"
+    ],
+    "text": "【永】 経験 あなたのレベル置場のカード名に「淳之介」を含むキャラすべてに、レベルを＋1。\n【自】 あなたのアタックフェイズの始めに、あなたは自分の【レスト】しているカード名に「淳之介」を含むキャラを1枚選び、【スタンド】してよい。\n【起】［このカードを【レスト】する］ あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "flavor": "●●よ",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_059.png",
+        "cardNo": "OS12/R12-059",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-059&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_059s.png",
+        "cardNo": "OS12/R12-059S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-059S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-060",
+    "baseNo": "OS12/R12-060",
+    "name": "花丸のアレ 凛",
+    "kana": "ハナマルノアレ リン",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "委員長"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、ストックにする。\n【自】［(1) このカードをクロックにする］ このカードが【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "売ってやってもいいですよ？",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_060.png",
+        "cardNo": "OS12/R12-060",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-060&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_060s.png",
+        "cardNo": "OS12/R12-060S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-060S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-061",
+    "baseNo": "OS12/R12-061",
+    "name": "友達思い 礼",
+    "kana": "トモダチオモイ レイ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "風紀委員長"
+    ],
+    "text": "-",
+    "flavor": "その子、結局大人ぶってただけで実際は性人前のお子様だったって話だし……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_061.png",
+        "cardNo": "OS12/R12-061",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-061&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_061s.png",
+        "cardNo": "OS12/R12-061S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-061S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-062",
+    "baseNo": "OS12/R12-062",
+    "name": "仮面の下の笑み 礼",
+    "kana": "カメンノシタノエミ レイ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "風紀委員長"
+    ],
+    "text": "【永】 このカードの正面のキャラのレベルが0以下なら、このカードは次の能力を得る。『【永】 このカードはフロントアタックできない。』",
+    "flavor": "",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_062.png",
+        "cardNo": "OS12/R12-062",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-062&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_062s.png",
+        "cardNo": "OS12/R12-062S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-062S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-063",
+    "baseNo": "OS12/R12-063",
+    "name": "エーススナイパー イモ",
+    "kana": "エーススナイパー イモ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "銃"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "こりゃ反交尾勢力が来ても……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_063.png",
+        "cardNo": "OS12/R12-063",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-063&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_063s.png",
+        "cardNo": "OS12/R12-063S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-063S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-064",
+    "baseNo": "OS12/R12-064",
+    "name": "エースドライバー ハモ",
+    "kana": "エースドライバー ハモ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "隊長"
+    ],
+    "text": "【永】 このカードのマーカーがあるなら、このカードのパワーを＋2000。\n【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら裏向きでこのカードのマーカーにしてよい。",
+    "flavor": "……助からないわね、片桐さん……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_064.png",
+        "cardNo": "OS12/R12-064",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-064&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_064s.png",
+        "cardNo": "OS12/R12-064S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-064S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-065",
+    "baseNo": "OS12/R12-065",
+    "name": "ドスケベ音頭 郁子",
+    "kana": "ドスケベオンド イクコ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": 500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "戦闘狂"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の控え室の《モブ》のキャラを1枚選び、思い出にしてよい。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを思い出にしてよい。",
+    "flavor": "元気●●●●●♪",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_065.png",
+        "cardNo": "OS12/R12-065",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-065&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_065s.png",
+        "cardNo": "OS12/R12-065S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-065S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-066",
+    "baseNo": "OS12/R12-066",
+    "name": "“運命”との出会い 郁子",
+    "kana": "“ウンメイ”トノデアイ イクコ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "戦闘狂"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラすべてに、パワーを＋2000。\n【自】 相手のキャラが手札から登場した時、あなたは相手の山札を下から1枚見てよい。",
+    "flavor": "つ、ついに見つけたぁ！イクの運命●●●●！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_066.png",
+        "cardNo": "OS12/R12-066",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-066&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_066s.png",
+        "cardNo": "OS12/R12-066S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-066S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-067",
+    "baseNo": "OS12/R12-067",
+    "name": "とっておきの寝技 郁子",
+    "kana": "トッテオキノネワザ イクコ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "戦闘狂"
+    ],
+    "text": "【永】 あなたの、《FS》か《モブ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】【CXコンボ】［あなたのCX置場の「イクのささやき」を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、〈同OS〉のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋2000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+    "flavor": "ふふっ、奥の手は最後まで取っておくものでしょ？本当の奥がどこか見せてあげる♡",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_067.png",
+        "cardNo": "OS12/R12-067",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-067&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_067s.png",
+        "cardNo": "OS12/R12-067S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-067S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-068",
+    "baseNo": "OS12/R12-068",
+    "name": "愛の鞭 礼",
+    "kana": "アイノムチ レイ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "風紀委員長"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの、《FS》か《モブ》のキャラが4枚以上なら、このカードのパワーを＋5000し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』",
+    "flavor": "声も立たない分際でタチバナなど片腹痛い！ネコバナがお似合いだな!?",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_068.png",
+        "cardNo": "OS12/R12-068",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-068&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_068s.png",
+        "cardNo": "OS12/R12-068S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-068S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-069",
+    "baseNo": "OS12/R12-069",
+    "name": "FSイチの戦闘狂 郁子",
+    "kana": "FSイチノセントウキョウ イクコ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "戦闘狂"
+    ],
+    "text": "【永】 このカードはサイドアタックできない。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、次の相手のターンの終わりまで、このカードのパワーを＋4500。",
+    "flavor": "FSイチキュートでFSイチ強い、一番隊隊長 女部田郁子ちゃんだよー♡",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_069.png",
+        "cardNo": "OS12/R12-069",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-069&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_069s.png",
+        "cardNo": "OS12/R12-069S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-069S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-070",
+    "baseNo": "OS12/R12-070",
+    "name": "オカルトマニア ガマンジル・ド・レ",
+    "kana": "オカルトマニア ガマンジル・ド・レ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 2,
+    "power": 8500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "隊長"
+    ],
+    "text": "【自】［他のあなたの舞台のキャラを1枚控え室に置く］ このカードがアタックした時、CX置場に赤のCXがあるなら、コストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋2000。",
+    "flavor": "見つけたあああ！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_070.png",
+        "cardNo": "OS12/R12-070",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-070&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_070s.png",
+        "cardNo": "OS12/R12-070S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-070S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-071",
+    "baseNo": "OS12/R12-071",
+    "name": "最終防衛陣形 礼",
+    "kana": "サイシュウボウエイジンケイ レイ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "FS",
+      "風紀委員長"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】【CXコンボ】 このカードがアタックした時、CX置場に「それこそが愛する日常を守ることと知れ！」があるなら、あなたは自分の山札の上から2枚を、控え室に置き、それらのカードのトリガーアイコンの【ソウル】1つにつき、次の行動を行う。『相手に1ダメージを与える。』",
+    "flavor": "桐香様の報告通りか……！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_071.png",
+        "cardNo": "OS12/R12-071",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-071&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_071s.png",
+        "cardNo": "OS12/R12-071S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-071S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-072",
+    "baseNo": "OS12/R12-072",
+    "name": "友情ストラップ",
+    "kana": "ユウジョウストラップ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "EV",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは自分の山札のカード名に「ヒナミ」を含むキャラを1枚までとカード名に「礼」を含むキャラを1枚までサーチし手札に加え、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "ヒナミ「だって私と礼ちゃんは敵同士で、仲良しだもん！」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_072.png",
+        "cardNo": "OS12/R12-072",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-072&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_072s.png",
+        "cardNo": "OS12/R12-072S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-072S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-073",
+    "baseNo": "OS12/R12-073",
+    "name": "ドエロスコードはきちんと守れ！",
+    "kana": "ドエロスコードハキチントマモレ！",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "礼「そこ！体イク祭はドスケベ水着姿がマナー！ドレスコードだろうが！」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_073.png",
+        "cardNo": "OS12/R12-073",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-073&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_073s.png",
+        "cardNo": "OS12/R12-073S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-073S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-074",
+    "baseNo": "OS12/R12-074",
+    "name": "イクのささやき",
+    "kana": "イクノササヤキ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "郁子「いいんだよぉ……。そのぶっとくて硬い●●●●●で、イクの●●●●ぐちゃぐちゃにかき回してもぉ……♡」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_074.png",
+        "cardNo": "OS12/R12-074",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-074&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_074s.png",
+        "cardNo": "OS12/R12-074S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-074S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-075",
+    "baseNo": "OS12/R12-075",
+    "name": "それこそが愛する日常を守ることと知れ！",
+    "kana": "ソレコソガアイスルニチジョウヲマモルコトトシレ！",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストックにし、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "flavor": "礼「ギロチンを死守する。何としてもマジカル●●●をとらえろ」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_075.png",
+        "cardNo": "OS12/R12-075",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-075&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_075s.png",
+        "cardNo": "OS12/R12-075S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-075S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-076",
+    "baseNo": "OS12/R12-076",
+    "name": "八尋和邇 文乃",
+    "kana": "ヤヒロワニ フミノ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "銃"
+    ],
+    "text": "【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】［(1) 手札を2枚控え室に置く］ このカードが手札から登場したターン中、このカードがアタックした時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを2枚までサーチし手札に加える。",
+    "flavor": "……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_076.png",
+        "cardNo": "OS12/R12-076",
+        "rarity": "RR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-076&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_076ofr.png",
+        "cardNo": "OS12/R12-076OFR",
+        "rarity": "OFR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-076OFR&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_076sp.png",
+        "cardNo": "OS12/R12-076SP",
+        "rarity": "SP",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-076SP&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-077",
+    "baseNo": "OS12/R12-077",
+    "name": "この世は私有地 美岬",
+    "kana": "コノヨハシユウチ ミサキ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS",
+      "大食い"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「な、なんか……轢いた……？」があり、他のあなたの〈同OS〉のキャラがいるなら、あなたは山札か控え室を宣言し、宣言した自分の領域を見て〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加える。山札を宣言したなら、その山札をシャッフルする。",
+    "flavor": "やる気、元気、美岬！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_077.png",
+        "cardNo": "OS12/R12-077",
+        "rarity": "RR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-077&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_077ofr.png",
+        "cardNo": "OS12/R12-077OFR",
+        "rarity": "OFR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-077OFR&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_077ssp.png",
+        "cardNo": "OS12/R12-077SSP",
+        "rarity": "SSP",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-077SSP&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-078",
+    "baseNo": "OS12/R12-078",
+    "name": "予感的中 文乃",
+    "kana": "ヨカンテキチュウ フミノ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "銃"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ あなたのCXがCX置場に置かれた時、コストを払ってよい。そうしたら、あなたは1枚引く。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが【ゲート】のCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "……どちらかと言えば？",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_078.png",
+        "cardNo": "OS12/R12-078",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-078&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_078s.png",
+        "cardNo": "OS12/R12-078S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-078S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-079",
+    "baseNo": "OS12/R12-079",
+    "name": "通称 シコリス",
+    "kana": "ツウショウ シコリス",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "専門家"
+    ],
+    "text": "【自】 あなたのCXがCX置場に置かれた時、そのターン中、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「通称 シコリス」を1枚選び、舞台の好きな枠に置く。』",
+    "flavor": "私たちはデカ●●●●●で●●●をシゴく専門家集団、通称……　シコリス!!",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_079.png",
+        "cardNo": "OS12/R12-079",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-079&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_079s.png",
+        "cardNo": "OS12/R12-079S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-079S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-080",
+    "baseNo": "OS12/R12-080",
+    "name": "まだ文学少女 美岬",
+    "kana": "マダブンガクショウジョ ミサキ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "大食い"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラ1枚につき、このカードのパワーを＋500。\n【永】 経験 レベル置場にこのカードがあるなら、このカードのレベルを－1。",
+    "flavor": "私も片桐さんみたいに痩せてて、●●●●で●●●●なセクシーだったら……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_080.png",
+        "cardNo": "OS12/R12-080",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-080&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_080s.png",
+        "cardNo": "OS12/R12-080S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-080S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-081",
+    "baseNo": "OS12/R12-081",
+    "name": "睦言のままに 淳之介",
+    "kana": "ムツゴトノママニ ジュンノスケ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS"
+    ],
+    "text": "【自】 他のあなたの《NLNS》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n【自】［(1) 手札を1枚控え室に置く］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【スタンド】して相手の舞台のキャラのいない他の枠に動かし、そのターン中、このカードのパワーを＋1000。",
+    "flavor": "奈々瀬を返せ。他のメンバーには手を出すな",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_081.png",
+        "cardNo": "OS12/R12-081",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-081&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_081s.png",
+        "cardNo": "OS12/R12-081S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-081S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-082",
+    "baseNo": "OS12/R12-082",
+    "name": "畔部屋の親方 美岬",
+    "kana": "ホトリベヤノオヤカタ ミサキ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 7500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS",
+      "大食い"
+    ],
+    "text": "【自】 相手のCXフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。\n【自】［(3) 手札のCXを1枚控え室に置く］ 相手のCXがCX置場に置かれた時、他のあなたの〈同OS〉のキャラがいるなら、コストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚選び、控え室に置く。",
+    "flavor": "ごっつぁんです！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_082.png",
+        "cardNo": "OS12/R12-082",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-082&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_082s.png",
+        "cardNo": "OS12/R12-082S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-082S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-083",
+    "baseNo": "OS12/R12-083",
+    "name": "きょとん顔 文乃",
+    "kana": "キョトンガオ フミノ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "銃"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】［手札を1枚控え室に置く］ あなたのトリガーアイコンが【ゲート】のCXがトリガーした時、コストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "flavor": "……？",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_083.png",
+        "cardNo": "OS12/R12-083",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-083&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_083s.png",
+        "cardNo": "OS12/R12-083S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-083S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-084",
+    "baseNo": "OS12/R12-084",
+    "name": "日本の夜明け モブ",
+    "kana": "ニホンノヨアケ モブ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "モブ"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から3枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "龍馬も喜んでますね！",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_084.png",
+        "cardNo": "OS12/R12-084",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-084&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_084s.png",
+        "cardNo": "OS12/R12-084S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-084S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-085",
+    "baseNo": "OS12/R12-085",
+    "name": "収納テクニック 美岬",
+    "kana": "シュウノウテクニック ミサキ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "大食い"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたはこのカードの後ろのキャラを1枚選び、自分の控え室のキャラを1枚まで選び、表向きでそのキャラのマーカーにする。次のあなたのターンの始めに、あなたはそのマーカーのキャラを、手札に戻す。",
+    "flavor": "……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_085.png",
+        "cardNo": "OS12/R12-085",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-085&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_085s.png",
+        "cardNo": "OS12/R12-085S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-085S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-086",
+    "baseNo": "OS12/R12-086",
+    "name": "決戦前 文乃",
+    "kana": "ケッセンマエ フミノ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "銃"
+    ],
+    "text": "【自】 あなたのCXフェイズの始めに、あなたは自分の〈同OS〉のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが〈同OS〉のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。』",
+    "flavor": "本当に……いらっしゃるのですか？",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_086.png",
+        "cardNo": "OS12/R12-086",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-086&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_086s.png",
+        "cardNo": "OS12/R12-086S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-086S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-087",
+    "baseNo": "OS12/R12-087",
+    "name": "怒張する“プライド”淳之介",
+    "kana": "ドチョウスル“プライド”ジュンノスケ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS"
+    ],
+    "text": "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\n【永】 このカードのマーカー1枚につき、このカードのパワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、裏向きでこのカードのマーカーにしてよい。",
+    "flavor": "うぉおおお",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_087.png",
+        "cardNo": "OS12/R12-087",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-087&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_087s.png",
+        "cardNo": "OS12/R12-087S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-087S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-088",
+    "baseNo": "OS12/R12-088",
+    "name": "FS最大の誤算 美岬",
+    "kana": "FSサイダイノゴサン ミサキ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "大食い"
+    ],
+    "text": "【永】 あなたのCX置場にトリガーアイコンが【ゲート】のCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに【ゲート】を得る。\n【永】 あなたのターン中、他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2000。",
+    "flavor": "そうですね。でも……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_088.png",
+        "cardNo": "OS12/R12-088",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-088&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_088s.png",
+        "cardNo": "OS12/R12-088S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-088S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-089",
+    "baseNo": "OS12/R12-089",
+    "name": "多目的 水無瀬先生",
+    "kana": "タモクテキ ミナセセンセイ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "先生"
+    ],
+    "text": "【永】 このカードは、色条件を満たさずに手札からプレイできる。\n【自】［他のあなたの舞台の〈同OS〉のキャラを1枚裏向きでこのカードのマーカーにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加える。\n【自】 このカードがアタックした時、あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの〈同OS〉のキャラの枚数×500に等しい。",
+    "flavor": "みなさん、仲良くしてくださいね",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_089.png",
+        "cardNo": "OS12/R12-089",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-089&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_089s.png",
+        "cardNo": "OS12/R12-089S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-089S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-090",
+    "baseNo": "OS12/R12-090",
+    "name": "仕掛け自転車 美岬",
+    "kana": "シカケジテンシャ ミサキ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "大食い"
+    ],
+    "text": "【永】 このカードの後ろのキャラがいないなら、このカードはアタックできない。\n【自】 このカードの後ろのキャラが舞台から控え室に置かれた時、このカードを控え室に置く。\n【起】［手札の〈同OS〉のキャラを1枚控え室に置く］ あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』",
+    "flavor": "ちょっと気になります……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_090.png",
+        "cardNo": "OS12/R12-090",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-090&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_090s.png",
+        "cardNo": "OS12/R12-090S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-090S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-091",
+    "baseNo": "OS12/R12-091",
+    "name": "カウンタースナイプ 文乃",
+    "kana": "カウンタースナイプ フミノ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 1,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS",
+      "銃"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】［手札を2枚控え室に置く］ あなたのアンコールステップの始めに、コストを払ってよい。そうしたら、相手に1ダメージを与える。",
+    "flavor": "ねらわれております",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_091.png",
+        "cardNo": "OS12/R12-091",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-091&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_091s.png",
+        "cardNo": "OS12/R12-091S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-091S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-092",
+    "baseNo": "OS12/R12-092",
+    "name": "でかい棒倒し 淳之介",
+    "kana": "デカイボウタオシ ジュンノスケ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 1,
+    "power": 10500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS"
+    ],
+    "text": "【永】 あなたの手札のこのカードのレベルを＋1。\n【永】 このカードはあなたのスタンドフェイズに【スタンド】しない。\n【永】 経験 レベル置場にこのカードがあるなら、このカードのレベルを－1。",
+    "flavor": "……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_092.png",
+        "cardNo": "OS12/R12-092",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-092&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_092s.png",
+        "cardNo": "OS12/R12-092S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-092S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-093",
+    "baseNo": "OS12/R12-093",
+    "name": "乾坤一擲 文乃",
+    "kana": "ケンコンイッテキ フミノ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS",
+      "銃"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、手札に戻す。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "…",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_093.png",
+        "cardNo": "OS12/R12-093",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-093&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_093s.png",
+        "cardNo": "OS12/R12-093S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-093S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-094",
+    "baseNo": "OS12/R12-094",
+    "name": "蜃気楼の少女 美岬",
+    "kana": "シンキロウノショウジョ ミサキ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS",
+      "大食い"
+    ],
+    "text": "【永】 このカードは相手の効果に選ばれない。\n【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋1000。",
+    "flavor": "また気づかれませんでした……",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_094.png",
+        "cardNo": "OS12/R12-094",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-094&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_094s.png",
+        "cardNo": "OS12/R12-094S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-094S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-095",
+    "baseNo": "OS12/R12-095",
+    "name": "トリックショット 文乃",
+    "kana": "トリックショット フミノ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 8500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "銃"
+    ],
+    "text": "【自】【CXコンボ】 あなたのCX置場に「マンダウン！」が置かれた時、前列にこのカードがいて、他のあなたの〈同OS〉のキャラが4枚以上なら、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』\n【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にCXがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加える。",
+    "flavor": "",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_095.png",
+        "cardNo": "OS12/R12-095",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-095&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_095s.png",
+        "cardNo": "OS12/R12-095S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-095S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-096",
+    "baseNo": "OS12/R12-096",
+    "name": "新たなドスケベの道へ 淳之介",
+    "kana": "アラタナドスケベノミチヘ ジュンノスケ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS"
+    ],
+    "text": "【自】【CXコンボ】 経験 このカードがアタックした時、CX置場に「その奥の手の奥に」があり、あなたのレベル置場にカードがあり、あなたのレベル置場のカードのレベルの合計が0以下なら、あなたは好きな数を宣言し、相手にＸダメージを与える。Ｘはあなたの宣言した数に等しい。",
+    "flavor": "その誤謬……その間違いだけをぶっ潰す!!",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_096.png",
+        "cardNo": "OS12/R12-096",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-096&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_096s.png",
+        "cardNo": "OS12/R12-096S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-096S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-097",
+    "baseNo": "OS12/R12-097",
+    "name": "俺が…ドスケベ条例をぶっ潰す！",
+    "kana": "オレガ…ドスケベジョウレイヲブッツブス！",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "EV",
+    "color": "blue",
+    "level": 3,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "このカードは、あなたの〈同OS〉のキャラが1枚以下なら、手札からプレイできない。\nあなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、このカードをクロックにし、次の効果を行ってよい。『相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。』",
+    "flavor": "",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_097.png",
+        "cardNo": "OS12/R12-097",
+        "rarity": "R",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-097&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_097s.png",
+        "cardNo": "OS12/R12-097S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-097S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-098",
+    "baseNo": "OS12/R12-098",
+    "name": "な、なんか……轢いた……？",
+    "kana": "ナ、ナンカ……ヒイタ……？",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "礼「トラックに轢かれたショックで直前の記憶を無くしているようです」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_098.png",
+        "cardNo": "OS12/R12-098",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-098&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_098s.png",
+        "cardNo": "OS12/R12-098S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-098S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-099",
+    "baseNo": "OS12/R12-099",
+    "name": "マンダウン！",
+    "kana": "マンダウン！",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "文乃「狙撃手の排除完了……ハメ」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_099.png",
+        "cardNo": "OS12/R12-099",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-099&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_099s.png",
+        "cardNo": "OS12/R12-099S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-099S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-100",
+    "baseNo": "OS12/R12-100",
+    "name": "その奥の手の奥に",
+    "kana": "ソノオクノテノオクニ",
+    "product": "ブースターパック ぬきたし THE ANIMATION",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "淳之介「シャー！」",
+    "releaseDate": "2026-08-07",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_100.png",
+        "cardNo": "OS12/R12-100",
+        "rarity": "C",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-100&expansion=R12"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_100s.png",
+        "cardNo": "OS12/R12-100S",
+        "rarity": "SR",
+        "expansion": "R12",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-100S&expansion=R12"
+      }
+    ],
+    "expansions": [
+      "R12"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-P01",
+    "baseNo": "OS12/R12-P01",
+    "name": "信じた友情 ヒナミ",
+    "kana": "シンジタユウジョウ ヒナミ",
+    "product": "PRカード",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "NLNS",
+      "パイプ椅子"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の「ヤる気満々 ヒナミ」か「ベストマッチな友情 礼」を1枚までサーチし手札に加える。",
+    "flavor": "ちょっとでいいから！礼ちゃん、お願いっ！",
+    "releaseDate": "2026-09-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_p01.png",
+        "cardNo": "OS12/R12-P01",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-P01&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_p01s.png",
+        "cardNo": "OS12/R12-P01S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-P01S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-P02",
+    "baseNo": "OS12/R12-P02",
+    "name": "選抜試験 郁子",
+    "kana": "センバツシケン イクコ",
+    "product": "PRカード",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "FS",
+      "戦闘狂"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手の山札を上から2枚まで見て、山札の上に元の順番で置く。\n【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "小動物みたいだねぇ、ネコバナくん♡",
+    "releaseDate": "2026-11-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_p02.png",
+        "cardNo": "OS12/R12-P02",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-P02&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_p02s.png",
+        "cardNo": "OS12/R12-P02S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-P02S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS12/R12-P04EX",
+    "baseNo": "OS12/R12-P04",
+    "name": "存在感の代名詞 美岬",
+    "kana": "ソンザイカンノダイメイシ ミサキ",
+    "product": "PRカード",
+    "neoStandard": "ぬきたし THE ANIMATION",
+    "workNo": "OS12",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "NLNS",
+      "大食い"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、手札に戻す。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-09-06",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_p04ex.png",
+        "cardNo": "OS12/R12-P04EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-P04EX&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os12/r12/os12_r12_p04s.png",
+        "cardNo": "OS12/R12-P04S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS12%2FR12-P04S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  }
+]

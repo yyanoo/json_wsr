@@ -1,0 +1,4559 @@
+[
+  {
+    "cardNo": "OS13/R13-001",
+    "baseNo": "OS13/R13-001",
+    "name": "笑顔輝く看板娘 佳奈",
+    "kana": "エガオカガヤクカンバンムスメ カナ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "ウェイトレス"
+    ],
+    "text": "【自】 あなたが『集中』を使った時、その効果でCXが控え室に置かれたなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\n【自】［手札の〈同OS〉のキャラを1枚控え室に置き、【スタンド】しているこのカードを【レスト】する］ あなたが『集中』を使った時、コストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+    "flavor": "そんな私が好きなんですよね？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_001.png",
+        "cardNo": "OS13/R13-001",
+        "rarity": "RR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-001&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_001ofr.png",
+        "cardNo": "OS13/R13-001OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-001OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_001sec.png",
+        "cardNo": "OS13/R13-001SEC",
+        "rarity": "SEC",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-001SEC&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-002",
+    "baseNo": "OS13/R13-002",
+    "name": "新ジャンル“品乳”！ 佳奈",
+    "kana": "シンジャンル“ヒンニュウ”！ カナ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "ウェイトレス"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「甘えたいお年頃」があり、他のあなたのキャラが2枚以上なら、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【自】 このカードのアタックの終わりに、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラか「スマイルLサイズ」なら手札に加える。』『【自】 このカードが【リバース】した時、あなたはこのカードを手札に戻してよい。』",
+    "flavor": "今日はお肉をいっぱい食べたので、きっと膨らみますよ",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_002.png",
+        "cardNo": "OS13/R13-002",
+        "rarity": "RR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-002&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_002ofr.png",
+        "cardNo": "OS13/R13-002OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-002OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_002sp.png",
+        "cardNo": "OS13/R13-002SP",
+        "rarity": "SP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-002SP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-003",
+    "baseNo": "OS13/R13-003",
+    "name": "背負った使命 リース",
+    "kana": "セオッタシメイ リース",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "ロストテクノロジー"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。",
+    "flavor": "食べる",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_003.png",
+        "cardNo": "OS13/R13-003",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-003&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_003ofr.png",
+        "cardNo": "OS13/R13-003OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-003OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_003sp.png",
+        "cardNo": "OS13/R13-003SP",
+        "rarity": "SP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-003SP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-004",
+    "baseNo": "OS13/R13-004",
+    "name": "いたずら好きな後輩 千莉",
+    "kana": "イタズラズキナコウハイ センリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "音楽"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、あなたのキャラすべてが〈同OS〉なら、コストを払ってよい。そうしたら、あなたは自分の山札の『集中』を持つキャラか「笑顔輝く看板娘 佳奈」を1枚までサーチし手札に加える。\n【自】 このカードがアタックした時、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "flavor": "さっきまで遠慮してたのに、積極的になるんですね",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_004.png",
+        "cardNo": "OS13/R13-004",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-004&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_004ofr.png",
+        "cardNo": "OS13/R13-004OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-004OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_004sp.png",
+        "cardNo": "OS13/R13-004SP",
+        "rarity": "SP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-004SP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-005",
+    "baseNo": "OS13/R13-005",
+    "name": "猫耳メイドのコスプレ 千莉",
+    "kana": "ネコミミメイドノコスプレ センリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "音楽"
+    ],
+    "text": "【起】【CXコンボ】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードの、「迷える子羊を導くために」かトリガーアイコンが【ドロー】のCX1枚につき、次の行動を行う。『あなたは自分の山札を上から4枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』",
+    "flavor": "嫌いじゃないですよ。にゃお",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_005.png",
+        "cardNo": "OS13/R13-005",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-005&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_005s.png",
+        "cardNo": "OS13/R13-005S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-005S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-006",
+    "baseNo": "OS13/R13-006",
+    "name": "期待の新人声優 水結",
+    "kana": "キタイノシンジンセイユウ ミユ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "声優"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手の山札を上から2枚まで見て、山札の上に好きな順番で置く。\n【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻すか相手の舞台のキャラのいない他の枠に動かす。",
+    "flavor": "い、いいから、ほら私にまかせてください",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_006.png",
+        "cardNo": "OS13/R13-006",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-006&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_006s.png",
+        "cardNo": "OS13/R13-006S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-006S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-007",
+    "baseNo": "OS13/R13-007",
+    "name": "昔からの癖 エステル",
+    "kana": "ムカシカラノクセ エステル",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "努力家"
+    ],
+    "text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。\n【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の右のキャラのいない枠に動かしてよい。（1番右の枠にしか動かせない）",
+    "flavor": "達哉とは知人で……そ、そういう意図は全くありません",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_007.png",
+        "cardNo": "OS13/R13-007",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-007&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_007s.png",
+        "cardNo": "OS13/R13-007S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-007S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-008",
+    "baseNo": "OS13/R13-008",
+    "name": "恋を知った少女 シンシア",
+    "kana": "コイヲシッタショウジョ シンシア",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "ロストテクノロジー"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋3000。\n【自】 あなたのCXがCX置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "これで合ってる？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_008.png",
+        "cardNo": "OS13/R13-008",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-008&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_008s.png",
+        "cardNo": "OS13/R13-008S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-008S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-009",
+    "baseNo": "OS13/R13-009",
+    "name": "もっと楽しい学園に！ つぐみ",
+    "kana": "モットタノシイガクエンニ！ ツグミ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "料理"
+    ],
+    "text": "【永】 前列の中央の枠にこのカードがいるなら、このカードのレベルを＋1し、パワーを＋2500。\n【永】 前列の中央の枠にこのカードがいるなら、他のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
+    "flavor": "これからもしっかり支えてね",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_009.png",
+        "cardNo": "OS13/R13-009",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-009&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_009s.png",
+        "cardNo": "OS13/R13-009S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-009S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-010",
+    "baseNo": "OS13/R13-010",
+    "name": "ターミナルの管理人 シンシア",
+    "kana": "ターミナルノカンリニン シンシア",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "ロストテクノロジー"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻し、他の自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】［他のあなたの舞台の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加える。",
+    "flavor": "やっと来てくれた",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_010.png",
+        "cardNo": "OS13/R13-010",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-010&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_010s.png",
+        "cardNo": "OS13/R13-010S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-010S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-011",
+    "baseNo": "OS13/R13-011",
+    "name": "脱ぎ捨てた鎧 佳奈",
+    "kana": "ヌギステタヨロイ カナ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "ウェイトレス"
+    ],
+    "text": "【自】【CXコンボ】 あなたのCX置場に「迷える子羊を導くために」かトリガーアイコンが【ドロー】のCXが置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。』",
+    "flavor": "ふふ、暑いですねえ。でも離さないですよ",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_011.png",
+        "cardNo": "OS13/R13-011",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-011&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_011s.png",
+        "cardNo": "OS13/R13-011S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-011S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-012",
+    "baseNo": "OS13/R13-012",
+    "name": "膨らむ感情 リース",
+    "kana": "フクラムカンジョウ リース",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "ロストテクノロジー"
+    ],
+    "text": "【自】【CXコンボ】［(1) このカードを控え室に置く］ あなたのCXフェイズ中、CX置場に「笑顔を見せた帰り道」が置かれた時、あなたのレベルが2以上なら、コストを払ってよい。そうしたら、あなたは自分の手札の「別れの言葉 リース」を1枚まで選び、このカードがいた枠に置く。",
+    "flavor": "撫でないの？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_012.png",
+        "cardNo": "OS13/R13-012",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-012&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_012s.png",
+        "cardNo": "OS13/R13-012S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-012S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-013",
+    "baseNo": "OS13/R13-013",
+    "name": "寂しがり屋の歌姫 千莉",
+    "kana": "サミシガリヤノウタヒメ センリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "音楽"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』\n【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをストックにしてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+    "flavor": "好き、ですよ",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_013.png",
+        "cardNo": "OS13/R13-013",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-013&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_013s.png",
+        "cardNo": "OS13/R13-013S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-013S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-014",
+    "baseNo": "OS13/R13-014",
+    "name": "野良猫少女 リース",
+    "kana": "ノラネコショウジョ リース",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "ロストテクノロジー"
+    ],
+    "text": "【永】 他のあなたの後列の〈同OS〉のキャラ1枚につき、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、他のあなたの〈同OS〉のキャラが2枚以上なら、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。",
+    "flavor": "にゃー",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_014.png",
+        "cardNo": "OS13/R13-014",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-014&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_014s.png",
+        "cardNo": "OS13/R13-014S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-014S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-015",
+    "baseNo": "OS13/R13-015",
+    "name": "君だけのDay Star 佳奈",
+    "kana": "キミダケノデイスター カナ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 1,
+    "cost": 1,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "ウェイトレス"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは2枚まで引く。",
+    "flavor": "……まあ、ちょっと好きかも",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_015.png",
+        "cardNo": "OS13/R13-015",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-015&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_015s.png",
+        "cardNo": "OS13/R13-015S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-015S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-016",
+    "baseNo": "OS13/R13-016",
+    "name": "努力家の彼女 玉藻",
+    "kana": "ドリョクカノカノジョ タマモ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "努力家"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、コストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、ストックにする。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "か、筧……？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_016.png",
+        "cardNo": "OS13/R13-016",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-016&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_016s.png",
+        "cardNo": "OS13/R13-016S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-016S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-017",
+    "baseNo": "OS13/R13-017",
+    "name": "かわいいスナイパー 紗弓実",
+    "kana": "カワイイスナイパー サユミ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "ゲーム"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラすべてに、パワーを＋Ｘ。Ｘはあなたのレベル×1000に等しい。\n【起】［(7)］ 相手は自分の山札の上から6枚を公開し、その山札をシャッフルし、自分の山札の上からＸ枚を、クロックにする。ＸはそれらのカードのCXの枚数に等しい。",
+    "flavor": "私はただ甘いだけの彼女じゃありませんよ",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_017.png",
+        "cardNo": "OS13/R13-017",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-017&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_017s.png",
+        "cardNo": "OS13/R13-017S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-017S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-018",
+    "baseNo": "OS13/R13-018",
+    "name": "部室で休憩 千莉＆儀左右衛門",
+    "kana": "ブシツデキュウケイ センリ＆ギザエモン",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "音楽"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラ1枚につき、このカードのパワーを＋1500。\n【自】 このカードが手札から登場した時、あなたは自分の山札を上から4枚まで見て、CXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_018.png",
+        "cardNo": "OS13/R13-018",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-018&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_018s.png",
+        "cardNo": "OS13/R13-018S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-018S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-019",
+    "baseNo": "OS13/R13-019",
+    "name": "真面目な司祭様 エステル",
+    "kana": "マジメナシサイサマ エステル",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "努力家"
+    ],
+    "text": "【自】 このカードがアタックした時、他のあなたの〈同OS〉のキャラが2枚以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『そのターン中、このカードのパワーを＋6000。』『あなたは他の自分の〈同OS〉のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3000。』",
+    "flavor": "貴方に対して特別な態度を取っているつもりはありません",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_019.png",
+        "cardNo": "OS13/R13-019",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-019&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_019s.png",
+        "cardNo": "OS13/R13-019S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-019S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-020",
+    "baseNo": "OS13/R13-020",
+    "name": "夜空のステアーズ 千莉",
+    "kana": "ヨゾラノステアーズ センリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "音楽"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストックにする。\n【自】【CXコンボ】 このカードがアタックした時、CX置場に「コル・カント ～共に～」があるなら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1し、次の能力を与える。『【自】【ターン1】 このカードの与えたダメージがキャンセルされた時、あなたは相手に2ダメージを与えてよい。』",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_020.png",
+        "cardNo": "OS13/R13-020",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-020&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_020s.png",
+        "cardNo": "OS13/R13-020S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-020S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-021",
+    "baseNo": "OS13/R13-021",
+    "name": "別れの言葉 リース",
+    "kana": "ワカレノコトバ リース",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "ロストテクノロジー"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\n【自】【CXコンボ】 このカードがアタックした時、CX置場に「笑顔を見せた帰り道」があり、他のあなたの〈同OS〉のキャラがいるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 相手のアタックフェイズの始めに、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－2。』",
+    "flavor": "あと１０秒",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_021.png",
+        "cardNo": "OS13/R13-021",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-021&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_021s.png",
+        "cardNo": "OS13/R13-021S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-021S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-022",
+    "baseNo": "OS13/R13-022",
+    "name": "スマイルLサイズ",
+    "kana": "スマイルエルサイズ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "EV",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは2枚まで引き、自分の手札を2枚選び、山札の上に置く。",
+    "flavor": "はいっ",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_022.png",
+        "cardNo": "OS13/R13-022",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-022&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_022s.png",
+        "cardNo": "OS13/R13-022S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-022S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-023",
+    "baseNo": "OS13/R13-023",
+    "name": "甘えたいお年頃",
+    "kana": "アマエタイオトシゴロ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "ふふ、甘えたいお年頃なんです。ダメですか？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_023.png",
+        "cardNo": "OS13/R13-023",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-023&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_023a.png",
+        "cardNo": "OS13/R13-023A",
+        "rarity": "AGR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-023A&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_023s.png",
+        "cardNo": "OS13/R13-023S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-023S&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_p01s.png",
+        "cardNo": "OS13/R13-P01S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-P01S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R13",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-024",
+    "baseNo": "OS13/R13-024",
+    "name": "コル・カント ～共に～",
+    "kana": "コル・カント ～トモニ～",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_024.png",
+        "cardNo": "OS13/R13-024",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-024&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_024s.png",
+        "cardNo": "OS13/R13-024S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-024S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-025",
+    "baseNo": "OS13/R13-025",
+    "name": "笑顔を見せた帰り道",
+    "kana": "エガオヲミセタカエリミチ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CX",
+    "color": "yellow",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "choice"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【チョイス】：このカードがトリガーした時、あなたの控え室のトリガーアイコンに【ソウル】があるキャラを1枚選び、手札に戻すかストックにしてよい）",
+    "flavor": "タツヤ、濡れた",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_025.png",
+        "cardNo": "OS13/R13-025",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-025&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_025s.png",
+        "cardNo": "OS13/R13-025S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-025S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-026",
+    "baseNo": "OS13/R13-026",
+    "name": "篝火ゆれる 滸",
+    "kana": "カガリビユレル ホトリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "武器"
+    ],
+    "text": "【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "そ、それじゃあ、今日は一つ恩返ししてもらってもいいかな？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_026.png",
+        "cardNo": "OS13/R13-026",
+        "rarity": "RR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-026&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_026ofr.png",
+        "cardNo": "OS13/R13-026OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-026OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_026sp.png",
+        "cardNo": "OS13/R13-026SP",
+        "rarity": "SP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-026SP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-027",
+    "baseNo": "OS13/R13-027",
+    "name": "変わりゆく関係 麻衣",
+    "kana": "カワリユクカンケイ マイ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "妹"
+    ],
+    "text": "【自】 このカードが手札から登場した時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』『相手は自分の控え室のCXを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルし、そのターン中、このカードのパワーを＋1000。』\n【自】【CXコンボ】［(1) 手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「縮まる距離」があり、あなたのキャラすべてが〈同OS〉なら、コストを払ってよい。そうしたら、相手に3ダメージを与える。このダメージで公開されたレベル1以上のカードすべては、このダメージがキャンセルされてもクロック置場に公開された順番で置く。",
+    "flavor": "ありがとう、お兄ちゃん",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_027.png",
+        "cardNo": "OS13/R13-027",
+        "rarity": "RR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-027&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_027ofr.png",
+        "cardNo": "OS13/R13-027OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-027OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_027sp.png",
+        "cardNo": "OS13/R13-027SP",
+        "rarity": "SP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-027SP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-028",
+    "baseNo": "OS13/R13-028",
+    "name": "秘めていた気持ち 麻衣",
+    "kana": "ヒメテイタキモチ マイ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "妹"
+    ],
+    "text": "【自】 このカードがダイレクトアタックした時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』『あなたは他の自分の〈同OS〉のキャラを1枚選び、そのターン中、ソウルを＋1。』\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロックにする。",
+    "flavor": "お兄ちゃんも、早く食べないと溶けちゃうよ？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_028.png",
+        "cardNo": "OS13/R13-028",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-028&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_028s.png",
+        "cardNo": "OS13/R13-028S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-028S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-029",
+    "baseNo": "OS13/R13-029",
+    "name": "ひたむきな努力家 菜月",
+    "kana": "ヒタムキナドリョクカ ナツキ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "幼馴染"
+    ],
+    "text": "【起】 集中 ［(1)］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは1枚引く。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室の〈同OS〉のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "菜月「いらっしゃいませーっ」",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_029.png",
+        "cardNo": "OS13/R13-029",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-029&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_029ofr.png",
+        "cardNo": "OS13/R13-029OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-029OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_029sp.png",
+        "cardNo": "OS13/R13-029SP",
+        "rarity": "SP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-029SP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-030",
+    "baseNo": "OS13/R13-030",
+    "name": "家族の形 さやか",
+    "kana": "カゾクノカタチ サヤカ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "姉"
+    ],
+    "text": "【自】［あなたの山札の上から1枚をクロックにする］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札を見てCXを1枚まで選んで公開し、自分の手札のCXを1枚まで選んで公開し、それらのCXを入れ替え、その山札をシャッフルする。\n【自】 あなたが『集中』を使った時、その効果でCXが控え室に置かれたなら、そのターン中、このカードのソウルを＋1。",
+    "flavor": "達哉くんのことが、好きよ",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_030.png",
+        "cardNo": "OS13/R13-030",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-030&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_030ofr.png",
+        "cardNo": "OS13/R13-030OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-030OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_030sp.png",
+        "cardNo": "OS13/R13-030SP",
+        "rarity": "SP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-030SP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-031",
+    "baseNo": "OS13/R13-031",
+    "name": "ゆかし香り 奏海",
+    "kana": "ユカシカオリ カナミ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "妹"
+    ],
+    "text": "【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋1500し、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』『あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻してよい。』",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_031.png",
+        "cardNo": "OS13/R13-031",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-031&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_031ofr.png",
+        "cardNo": "OS13/R13-031OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-031OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_031sp.png",
+        "cardNo": "OS13/R13-031SP",
+        "rarity": "SP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-031SP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-032",
+    "baseNo": "OS13/R13-032",
+    "name": "稲生家当主 滸",
+    "kana": "イノウケトウシュ ホトリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "武器"
+    ],
+    "text": "【自】 このカードが手札から登場した時、他のあなたの〈同OS〉のキャラがいるなら、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをクロックにしてよい。』\n【自】 あなたが『集中』を使った時、その効果でCXが控え室に置かれたなら、そのターン中、このカードのパワーを＋3000。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。相手にＸダメージを与える。ＸはそれらのカードのCXの枚数に等しい。",
+    "flavor": "《不知火》、行くぞ",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_032.png",
+        "cardNo": "OS13/R13-032",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-032&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_032s.png",
+        "cardNo": "OS13/R13-032S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-032S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-033",
+    "baseNo": "OS13/R13-033",
+    "name": "お見通し 麻衣",
+    "kana": "オミトオシ マイ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "妹"
+    ],
+    "text": "【自】 このカードが手札から登場した時、次の行動を2回行う。『あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』\n【自】 このカードがアタックした時、他のあなたの後列のキャラがいないなら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、あなたはそのキャラを後列の好きな枠に置く。",
+    "flavor": "何を占ってあげようか？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_033.png",
+        "cardNo": "OS13/R13-033",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-033&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_033s.png",
+        "cardNo": "OS13/R13-033S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-033S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-034",
+    "baseNo": "OS13/R13-034",
+    "name": "超一流の女将 睦美",
+    "kana": "チョウイチリュウノオカミ ムツミ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "武器"
+    ],
+    "text": "【永】 他の《武器》のキャラか「超一流の女将 睦美」がいないなら、このカードは《武器》をすべて失い、このカードは次の能力を得る。『【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500し、《料理》を与える。』\n【永】 他の《武器》のキャラがいるなら、このカードは次の能力を得る。『【永】 あなたのターン中、このカードのパワーを＋2000。』",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_034.png",
+        "cardNo": "OS13/R13-034",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-034&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_034s.png",
+        "cardNo": "OS13/R13-034S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-034S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-035",
+    "baseNo": "OS13/R13-035",
+    "name": "お義兄様との休息 奏海",
+    "kana": "オニイサマトノキュウソク カナミ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "妹"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】【ターン1】 このカードの与えたダメージがキャンセルされた時、あなたのCX置場に「お義兄様への想い」があるなら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻してよい。",
+    "flavor": "いらっしゃいませ！",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_035.png",
+        "cardNo": "OS13/R13-035",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-035&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_035s.png",
+        "cardNo": "OS13/R13-035S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-035S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-036",
+    "baseNo": "OS13/R13-036",
+    "name": "突然の夕立 菜月",
+    "kana": "トツゼンノユウダチ ナツキ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "幼馴染"
+    ],
+    "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。\n【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開し、相手はあなたの山札の上から1枚を、山札の下に置いてよい。",
+    "flavor": "まったく、何でこう運が悪いかな……",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_036.png",
+        "cardNo": "OS13/R13-036",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-036&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_036s.png",
+        "cardNo": "OS13/R13-036S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-036S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-037",
+    "baseNo": "OS13/R13-037",
+    "name": "ほんわかお姉ちゃん さやか",
+    "kana": "ホンワカオネエチャン サヤカ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 0,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "姉"
+    ],
+    "text": "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
+    "flavor": "偉い偉い",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_037.png",
+        "cardNo": "OS13/R13-037",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-037&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_037s.png",
+        "cardNo": "OS13/R13-037S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-037S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-038",
+    "baseNo": "OS13/R13-038",
+    "name": "奉刀会会長 滸",
+    "kana": "ホウトウカイカイチョウ ホトリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "武器"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\n【自】【CXコンボ】［このカードを控え室に置く］あなたのCXフェイズ中、CX置場に「秘密のアルバイト」が置かれた時、コストを払ってよい。そうしたら、あなたは自分の手札の「衣装変更 滸」を1枚まで選び、このカードがいた枠に置く。",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_038.png",
+        "cardNo": "OS13/R13-038",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-038&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_038s.png",
+        "cardNo": "OS13/R13-038S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-038S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-039",
+    "baseNo": "OS13/R13-039",
+    "name": "2人の時間の過ごし方 さやか",
+    "kana": "フタリノジカンノスゴシカタ サヤカ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "姉"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』\n【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+    "flavor": "この体勢……ちょっと……",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_039.png",
+        "cardNo": "OS13/R13-039",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-039&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_039s.png",
+        "cardNo": "OS13/R13-039S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-039S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-040",
+    "baseNo": "OS13/R13-040",
+    "name": "照れ屋な幼なじみ 菜月",
+    "kana": "テレヤナオサナナジミ ナツキ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "幼馴染"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが3枚以上なら、このカードのパワーを＋2000し、ソウルを＋1し、このカードは赤を得る。",
+    "flavor": "はい、あーん",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_040.png",
+        "cardNo": "OS13/R13-040",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-040&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_040s.png",
+        "cardNo": "OS13/R13-040S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-040S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-041",
+    "baseNo": "OS13/R13-041",
+    "name": "終えた約束 麻衣",
+    "kana": "オエタヤクソク マイ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "妹"
+    ],
+    "text": "【永】 舞台にこのカードがいるなら、このカードは《リボン》を得る。\n【自】 このカードがアタックした時、他のあなたの〈同OS〉のキャラがいるなら、そのターン中、このカードのパワーを＋1500。\n【起】［手札のCXを1枚控え室に置く］ そのターン中、このカードのパワーを＋1000し、《リボン》と《妹》をすべて失い、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_041.png",
+        "cardNo": "OS13/R13-041",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-041&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_041s.png",
+        "cardNo": "OS13/R13-041S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-041S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-042",
+    "baseNo": "OS13/R13-042",
+    "name": "取り戻した時間 翠",
+    "kana": "トリモドシタジカン ミドリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "音楽"
+    ],
+    "text": "【永】 あなたのターン中、他のあなたの〈同OS〉のキャラがいるなら、このカードのパワーを＋1500。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "翠「お父さん……」",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_042.png",
+        "cardNo": "OS13/R13-042",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-042&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_042s.png",
+        "cardNo": "OS13/R13-042S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-042S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-043",
+    "baseNo": "OS13/R13-043",
+    "name": "まどろむさやか",
+    "kana": "マドロムサヤカ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "姉"
+    ],
+    "text": "【自】 相手が『集中』を使った時、その効果でCXが控え室に置かれたなら、あなたは相手のレベル0以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+    "flavor": "すう……すう……",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_043.png",
+        "cardNo": "OS13/R13-043",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-043&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_043s.png",
+        "cardNo": "OS13/R13-043S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-043S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-044",
+    "baseNo": "OS13/R13-044",
+    "name": "謹賀新年 翠＆菜月",
+    "kana": "キンガシンネン ミドリ＆ナツキ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "音楽",
+      "幼馴染"
+    ],
+    "text": "【自】［(1)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたはレベル1以下の相手のキャラを1枚選び、控え室に置く。",
+    "flavor": "菜月「というわけで、私の本当の力を見せてあげる」",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_044.png",
+        "cardNo": "OS13/R13-044",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-044&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_044s.png",
+        "cardNo": "OS13/R13-044S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-044S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-045",
+    "baseNo": "OS13/R13-045",
+    "name": "エンジョイビーチ 朱璃＆子柚",
+    "kana": "エンジョイビーチ アカリ＆コユズ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "皇族",
+      "武器"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_045.png",
+        "cardNo": "OS13/R13-045",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-045&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_045s.png",
+        "cardNo": "OS13/R13-045S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-045S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-046",
+    "baseNo": "OS13/R13-046",
+    "name": "衣装変更 滸",
+    "kana": "イショウヘンコウ ホトリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "green",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "武器"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラ1枚につき、このカードのパワーを＋500。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「秘密のアルバイト」があるなら、あなたは自分の山札の上から2枚までを、ストックにし、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_046.png",
+        "cardNo": "OS13/R13-046",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-046&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_046s.png",
+        "cardNo": "OS13/R13-046S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-046S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-047",
+    "baseNo": "OS13/R13-047",
+    "name": "フラワー・シークレットライブ",
+    "kana": "フラワー・シークレットライブ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "EV",
+    "color": "green",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "【カウンター】 集中 あなたの〈同OS〉のキャラが2枚以上なら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、ストックにする。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードすべてが〈同OS〉のキャラか「フラワー・シークレットライブ」なら、あなたは自分の山札の上から1枚を、ストックにする。",
+    "flavor": "衣装、本当に汚さないでね？　今度のライブに使うんだから",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_047.png",
+        "cardNo": "OS13/R13-047",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-047&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_047s.png",
+        "cardNo": "OS13/R13-047S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-047S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-048",
+    "baseNo": "OS13/R13-048",
+    "name": "縮まる距離",
+    "kana": "チヂマルキョリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_048.png",
+        "cardNo": "OS13/R13-048",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-048&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_048s.png",
+        "cardNo": "OS13/R13-048S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-048S&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_p02s.png",
+        "cardNo": "OS13/R13-P02S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-P02S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R13",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-049",
+    "baseNo": "OS13/R13-049",
+    "name": "お義兄様への想い",
+    "kana": "オニイサマヘノオモイ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "soul"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "flavor": "あっ……そんなに見たら恥ずかしいです……",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_049.png",
+        "cardNo": "OS13/R13-049",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-049&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_049s.png",
+        "cardNo": "OS13/R13-049S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-049S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-050",
+    "baseNo": "OS13/R13-050",
+    "name": "秘密のアルバイト",
+    "kana": "ヒミツノアルバイト",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CX",
+    "color": "green",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "treasure"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、このカードを手札に戻す。あなたの山札の上から1枚を、ストックにしてよい）",
+    "flavor": "みんな、応援ありがとー！",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_050.png",
+        "cardNo": "OS13/R13-050",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-050&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_050s.png",
+        "cardNo": "OS13/R13-050S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-050S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-051",
+    "baseNo": "OS13/R13-051",
+    "name": "みちて、ひいて 凪",
+    "kana": "ミチテ、ヒイテ ナギ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "本"
+    ],
+    "text": "【永】 あなたのキャラすべてが〈同OS〉なら、このカードは次の2つの能力を得る。『【永】 あなたのターン中、このカードのパワーを＋1000。』『【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「みちて、ひいて 凪」を1枚選び、舞台の好きな枠に置く。』\n【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。",
+    "flavor": "他の人は指くわえて見てるだけでしょ？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_051.png",
+        "cardNo": "OS13/R13-051",
+        "rarity": "RR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-051&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_051ofr.png",
+        "cardNo": "OS13/R13-051OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-051OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_051ssp.png",
+        "cardNo": "OS13/R13-051SSP",
+        "rarity": "SSP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-051SSP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-052",
+    "baseNo": "OS13/R13-052",
+    "name": "風見鶏 古杜音",
+    "kana": "カザミドリ コトネ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "巫女"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】［(1) 手札を1枚控え室に置き、他のあなたの【スタンド】している〈同OS〉のキャラを1枚【レスト】する］ このカードが手札から登場したターン中、このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを2枚まで選び、手札に戻す。",
+    "flavor": "宗仁様、二人で登って参りましょう、あの夫婦坂を",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_052.png",
+        "cardNo": "OS13/R13-052",
+        "rarity": "RR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-052&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_052ofr.png",
+        "cardNo": "OS13/R13-052OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-052OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_052sp.png",
+        "cardNo": "OS13/R13-052SP",
+        "rarity": "SP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-052SP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-053",
+    "baseNo": "OS13/R13-053",
+    "name": "華ごろも 朱璃",
+    "kana": "ハナゴロモ アカリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "皇族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の控え室の、〈同OS〉のキャラか「嗚呼 絢爛の泡沫が如く」を1枚選び、手札に戻してよい。\n【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「歴史の果てまで、貫く忠義。」があるなら、コストを払ってよい。そうしたら、あなたは相手の山札を上から3枚まで見て、カードを3枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1000。",
+    "flavor": "どんな最期を迎えることになっても、私はあなたの全てを……その魂までをも受け止めましょう",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_053.png",
+        "cardNo": "OS13/R13-053",
+        "rarity": "RR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-053&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_053ofr.png",
+        "cardNo": "OS13/R13-053OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-053OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_053ssp.png",
+        "cardNo": "OS13/R13-053SSP",
+        "rarity": "SSP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-053SSP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-054",
+    "baseNo": "OS13/R13-054",
+    "name": "《ミツルギの花嫁》古杜音",
+    "kana": "《ミツルギノハナヨメ》コトネ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "巫女"
+    ],
+    "text": "【永】 他のあなたの「《ミツルギの花嫁》古杜音」がいないなら、他のあなたの「《心刀合一》の境地 宗仁」すべてに、次の能力を与える。『【永】 あなたのキャラすべてが〈同OS〉なら、このカードのパワーを＋5000し、ソウルを＋1。』\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "flavor": "椎葉古杜音、一世一代の《研ぎ》でございます",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_054.png",
+        "cardNo": "OS13/R13-054",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-054&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_054s.png",
+        "cardNo": "OS13/R13-054S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-054S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-055",
+    "baseNo": "OS13/R13-055",
+    "name": "幸せを探して 凪",
+    "kana": "シアワセヲサガシテ ナギ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "本"
+    ],
+    "text": "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。\n【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが〈同OS〉のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+    "flavor": "そこはほら、いろいろ恩返しするからさ……ね？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_055.png",
+        "cardNo": "OS13/R13-055",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-055&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_055s.png",
+        "cardNo": "OS13/R13-055S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-055S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-056",
+    "baseNo": "OS13/R13-056",
+    "name": "桃花染に咲いて 朱璃",
+    "kana": "ツキソメニサイテ アカリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "皇族"
+    ],
+    "text": "【自】［(1) あなたの山札の上から1枚をクロックにする］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_056.png",
+        "cardNo": "OS13/R13-056",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-056&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_056s.png",
+        "cardNo": "OS13/R13-056S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-056S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-057",
+    "baseNo": "OS13/R13-057",
+    "name": "奥伊勢野での日々 古杜音",
+    "kana": "オクイセヤデノヒビ コトネ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "巫女"
+    ],
+    "text": "【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを2枚まで選び、次の相手のターンの終わりまで、パワーを＋2500。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにCXがあるなら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+    "flavor": "朱璃様と一緒に伊瀬野の柿を食べたのも、いい思い出でございますね",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_057.png",
+        "cardNo": "OS13/R13-057",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-057&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_057s.png",
+        "cardNo": "OS13/R13-057S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-057S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-058",
+    "baseNo": "OS13/R13-058",
+    "name": "新しい生活 凪",
+    "kana": "アタラシイセイカツ ナギ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "本"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。\n【自】［(2)］ このカードが手札から登場した時、コストを払ってよい。そうしたら、相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。",
+    "flavor": "あんたは、私にとっての羊飼いだってこと",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_058.png",
+        "cardNo": "OS13/R13-058",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-058&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_058s.png",
+        "cardNo": "OS13/R13-058S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-058S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-059",
+    "baseNo": "OS13/R13-059",
+    "name": "“皇国再興の戦い”朱璃",
+    "kana": "“コウコクサイコウノタタカイ”アカリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "皇族"
+    ],
+    "text": "【永】 あなたのレベルが3以上で、他のあなたの「《心刀合一》の境地 宗仁」がいるなら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「“皇国の未来を託す”緋彌之命」を1枚まで選び、このカードがいた枠に置く。』\n【自】 このカードが手札から登場した時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにCXがあるなら、あなたは自分の控え室の、〈同OS〉のキャラか「嗚呼 絢爛の泡沫が如く」を1枚選び、手札に戻してよい。",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_059.png",
+        "cardNo": "OS13/R13-059",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-059&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_059s.png",
+        "cardNo": "OS13/R13-059S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-059S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-060",
+    "baseNo": "OS13/R13-060",
+    "name": "翡翠帝 奏海",
+    "kana": "ヒスイテイ カナミ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "妹"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】［(2) 手札を2枚控え室に置く］ 相手のアタックフェイズの始めに、コストを払ってよい。そうしたら、相手のキャラすべてに、そのターン中、ソウルを－1。",
+    "flavor": "『何故なら、私は皇家の血を引いていないからです』",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_060.png",
+        "cardNo": "OS13/R13-060",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-060&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_060s.png",
+        "cardNo": "OS13/R13-060S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-060S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-061",
+    "baseNo": "OS13/R13-061",
+    "name": "汐見学園生徒会長 真帆",
+    "kana": "シオミガクエンセイトカイチョウ マホ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "生徒会"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、次の2つの能力を与える。『【永】 このカードのマーカー1枚につき、このカードのパワーを＋500。』『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見てよい。そうしたら、あなたはそのカードを裏向きでこのカードのマーカーにする。』\n【自】［(2)］ あなたがレベルアップした時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "本当はもう、相手のことを認めてるのでしょう？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_061.png",
+        "cardNo": "OS13/R13-061",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-061&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_061s.png",
+        "cardNo": "OS13/R13-061S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-061S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-062",
+    "baseNo": "OS13/R13-062",
+    "name": "偽りの皇帝 奏海",
+    "kana": "イツワリノコウテイ カナミ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "妹"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは山札か控え室を宣言し、宣言した自分の領域を見て「《心刀合一》の境地 宗仁」を1枚まで選んで相手に見せ、手札に加える。山札を宣言したなら、その山札をシャッフルする。\n【自】 共鳴 ［手札の「《心刀合一》の境地 宗仁」を1枚公開する］ あなたのCXフェイズの始めに、コストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000。",
+    "flavor": "『お義兄様は、ご無事でいらっしゃるのでしょうか？』",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_062.png",
+        "cardNo": "OS13/R13-062",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-062&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_062s.png",
+        "cardNo": "OS13/R13-062S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-062S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-063",
+    "baseNo": "OS13/R13-063",
+    "name": "恋紡ぎ 奏海",
+    "kana": "コイツムギ カナミ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "妹"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "私の想いを、遂げさせてくださいませ",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_063.png",
+        "cardNo": "OS13/R13-063",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-063&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_063s.png",
+        "cardNo": "OS13/R13-063S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-063S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-064",
+    "baseNo": "OS13/R13-064",
+    "name": "堅物な副会長 葵",
+    "kana": "カタブツナフクカイチョウ アオイ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "生徒会"
+    ],
+    "text": "【永】 他のあなたの「汐見学園生徒会長 真帆」がいるなら、このカードのパワーを＋2000。\n【自】［手札のレベル0以下のカードを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、コストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "わ、わかりません。こんなのやったことありませんし",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_064.png",
+        "cardNo": "OS13/R13-064",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-064&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_064s.png",
+        "cardNo": "OS13/R13-064S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-064S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-065",
+    "baseNo": "OS13/R13-065",
+    "name": "羊飼い見習い 凪",
+    "kana": "ヒツジカイミナライ ナギ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "羊飼い"
+    ],
+    "text": "【永】 相手の《動物》のキャラがいるなら、このカードはアタックできない。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「迷える子羊を導くために」があるなら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。",
+    "flavor": "人間を、幸福な未来に導くこと？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_065.png",
+        "cardNo": "OS13/R13-065",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-065&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_065s.png",
+        "cardNo": "OS13/R13-065S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-065S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-066",
+    "baseNo": "OS13/R13-066",
+    "name": "斎巫女 古杜音",
+    "kana": "イツキノミコ コトネ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "巫女"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】【CXコンボ】 このカードがアタックした時、CX置場に「魅力的な巫女さま」があり、他のあなたの〈同OS〉のキャラが2枚以上なら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。",
+    "flavor": "掛巻も畏き、《大御神》の大前に、恐み恐みも白さく……",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_066.png",
+        "cardNo": "OS13/R13-066",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-066&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_066s.png",
+        "cardNo": "OS13/R13-066S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-066S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-067",
+    "baseNo": "OS13/R13-067",
+    "name": "花あかり 朱璃",
+    "kana": "ハナアカリ アカリ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "皇族"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋10000。\n【自】 このカードが手札から登場した時、あなたは自分の控え室の、カード名に「奏海」を含むキャラと「古杜音」を含むキャラと「滸」を含むキャラと「エルザ」を含むキャラと「紫乃」を含むキャラと「睦美」を含むキャラと「子柚」を含むキャラと「緋彌之命」を含むキャラを別々に1枚ずつ選ぶ。8枚選んだなら、それらのカードを、好きな順番で表向きでこのカードのマーカーにし、ターンの終わりに、このカードを控え室に置く。\n【自】 このカードが舞台から控え室に置かれた時、このカードのマーカーが8枚以上なら、あなたは相手に1ダメージを与えてよい。",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_067.png",
+        "cardNo": "OS13/R13-067",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-067&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_067s.png",
+        "cardNo": "OS13/R13-067S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-067S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-068",
+    "baseNo": "OS13/R13-068",
+    "name": "明朗奔放食いしん坊 古杜音",
+    "kana": "メイロウホンポウクイシンボウ コトネ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "巫女"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのメインフェイズの始めに、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\n【自】 あなたのCXフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがCXなら、あなたは相手に1ダメージを与えてよい。",
+    "flavor": "おーい、船さん、いってらっしゃーい！",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_068.png",
+        "cardNo": "OS13/R13-068",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-068&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_068s.png",
+        "cardNo": "OS13/R13-068S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-068S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-069",
+    "baseNo": "OS13/R13-069",
+    "name": "アプリオの新人さん 凪",
+    "kana": "アプリオノシンジンサン ナギ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "本"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【自】【CXコンボ】 あなたの、「迷える子羊を導くために」かトリガーアイコンが【ドロー】のCXがトリガーした時、あなたは相手の山札を上から1枚見て、山札の上か下に置く。\n【起】［このカードを【レスト】する］ あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "flavor": "凪「やったー、いぇい、いぇい」",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_069.png",
+        "cardNo": "OS13/R13-069",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-069&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_069s.png",
+        "cardNo": "OS13/R13-069S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-069S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-070",
+    "baseNo": "OS13/R13-070",
+    "name": "《心刀合一》の境地 宗仁",
+    "kana": "《シントウゴウイツ》ノキョウチ ソウジン",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "武器"
+    ],
+    "text": "【永】 他のあなたの「“皇国の未来を託す”緋彌之命」がいるなら、このカードのカード名は「ミツルギ」としても扱う。\n【永】 あなたのターン中、他のあなたの〈同OS〉のキャラすべてに、パワーを＋2000。\n【自】［手札を2枚控え室に置く］ あなたのアンコールステップの始めに、コストを払ってよい。そうしたら、相手に1ダメージを与える。",
+    "flavor": "来い、我が剣",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_070.png",
+        "cardNo": "OS13/R13-070",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-070&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_070s.png",
+        "cardNo": "OS13/R13-070S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-070S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-071",
+    "baseNo": "OS13/R13-071",
+    "name": "“皇国の未来を託す”緋彌之命",
+    "kana": "“コウコクノミライヲタクス”ヒミノミコト",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "皇族"
+    ],
+    "text": "【永】 他のあなたの「ミツルギ」すべてに、次の能力を与える。『【起】［あなたの舞台の「“皇国の未来を託す”緋彌之命」を1枚思い出にし、このカードを【レスト】する］ あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加え、自分の手札の「華ごろも 朱璃」を1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。』\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの「華ごろも 朱璃」すべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。』\n【自】 このカードが手札から登場した時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "いいんだ……斬ると言ってくれただけで、皇は嬉しかった……",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_071.png",
+        "cardNo": "OS13/R13-071",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-071&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_071s.png",
+        "cardNo": "OS13/R13-071S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-071S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-072",
+    "baseNo": "OS13/R13-072",
+    "name": "嗚呼 絢爛の泡沫が如く",
+    "kana": "アア ケンランノユメガゴトク",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "EV",
+    "color": "red",
+    "level": 2,
+    "cost": 1,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "集中 あなたは自分の控え室のキャラを1枚選び、手札に戻す。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにCXがあるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_072.png",
+        "cardNo": "OS13/R13-072",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-072&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_072s.png",
+        "cardNo": "OS13/R13-072S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-072S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-073",
+    "baseNo": "OS13/R13-073",
+    "name": "歴史の果てまで、貫く忠義。",
+    "kana": "レキシノハテマデ、ツラヌクチュウギ。",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "その身、その命、いま一度私に捧げなさい",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_073.png",
+        "cardNo": "OS13/R13-073",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-073&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_073s.png",
+        "cardNo": "OS13/R13-073S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-073S&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_p03s.png",
+        "cardNo": "OS13/R13-P03S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-P03S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R13",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-074",
+    "baseNo": "OS13/R13-074",
+    "name": "迷える子羊を導くために",
+    "kana": "マヨエルコヒツジヲミチビクタメニ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "読むんじゃないわよ、感じるの",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_074.png",
+        "cardNo": "OS13/R13-074",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-074&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_074s.png",
+        "cardNo": "OS13/R13-074S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-074S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-075",
+    "baseNo": "OS13/R13-075",
+    "name": "魅力的な巫女さま",
+    "kana": "ミリョクテキナミコサマ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CX",
+    "color": "red",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "salvage"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたの控え室のキャラを1枚選び、手札に戻してよい）",
+    "flavor": "ここが大きくても、恥ずかしいばかりでいいことなど何も",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_075.png",
+        "cardNo": "OS13/R13-075",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-075&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_075s.png",
+        "cardNo": "OS13/R13-075S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-075S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-076",
+    "baseNo": "OS13/R13-076",
+    "name": "凛とした佇まい フィーナ",
+    "kana": "リントシタタタズマイ フィーナ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "王族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、そのターン中、このカードのパワーを＋1500。\n【自】［(1) あなたの山札の上から1枚をクロックにする］ このカードが手札から登場した時かアタックした時、コストを払ってよい。そうしたら、あなたは自分の山札のレベル1以下のキャラを1枚までサーチし手札に加える。",
+    "flavor": "あなたと一緒なら、きっと大丈夫",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_076.png",
+        "cardNo": "OS13/R13-076",
+        "rarity": "RR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-076&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_076ofr.png",
+        "cardNo": "OS13/R13-076OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-076OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_076sec.png",
+        "cardNo": "OS13/R13-076SEC",
+        "rarity": "SEC",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-076SEC&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-077",
+    "baseNo": "OS13/R13-077",
+    "name": "月から来たお姫様 フィーナ",
+    "kana": "ツキカラキタオヒメサマ フィーナ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "王族"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「Eternal Destiny」があるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から6枚まで見て、〈同OS〉のキャラか「夜明け前より瑠璃色な」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』『あなたは自分の控え室の、〈同OS〉のキャラか「夜明け前より瑠璃色な」を1枚まで選び、手札に戻す。』",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_077.png",
+        "cardNo": "OS13/R13-077",
+        "rarity": "RR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-077&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_077ofr.png",
+        "cardNo": "OS13/R13-077OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-077OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_077ssp.png",
+        "cardNo": "OS13/R13-077SSP",
+        "rarity": "SSP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-077SSP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-078",
+    "baseNo": "OS13/R13-078",
+    "name": "さざなみ椿 玉藻",
+    "kana": "サザナミツバキ タマモ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 9000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "努力家"
+    ],
+    "text": "【永】 あなたの〈同OS〉のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】［手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストックにする。\n【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。",
+    "flavor": "お前のことが、心から好きだと思う",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_078.png",
+        "cardNo": "OS13/R13-078",
+        "rarity": "RR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-078&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_078ofr.png",
+        "cardNo": "OS13/R13-078OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-078OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_078sp.png",
+        "cardNo": "OS13/R13-078SP",
+        "rarity": "SP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-078SP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-079",
+    "baseNo": "OS13/R13-079",
+    "name": "インタアセクト エルザ",
+    "kana": "インタアセクト エルザ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "銃"
+    ],
+    "text": "【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
+    "flavor": "私も、あなたが傍で支えてくれたら嬉しいわ",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_079.png",
+        "cardNo": "OS13/R13-079",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-079&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_079ofr.png",
+        "cardNo": "OS13/R13-079OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-079OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_079sp.png",
+        "cardNo": "OS13/R13-079SP",
+        "rarity": "SP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-079SP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-080",
+    "baseNo": "OS13/R13-080",
+    "name": "月と地球の架け橋 ミア",
+    "kana": "ツキトチキュウノカケハシ ミア",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "メイド"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。\n【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】［(1)］ このカードのトリガーチェックでCXがでた時、コストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストックにし、自分のキャラを1枚選び、そのターン中、パワーを＋2000。』",
+    "flavor": "あと、ええと、２つ、４つ、３つで……",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_080.png",
+        "cardNo": "OS13/R13-080",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-080&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_080ofr.png",
+        "cardNo": "OS13/R13-080OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-080OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_080sp.png",
+        "cardNo": "OS13/R13-080SP",
+        "rarity": "SP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-080SP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-081",
+    "baseNo": "OS13/R13-081",
+    "name": "気高き理想 エルザ",
+    "kana": "ケダカキリソウ エルザ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "銃"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。』",
+    "flavor": "ずっと傍で支えてくれる？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_081.png",
+        "cardNo": "OS13/R13-081",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-081&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_081s.png",
+        "cardNo": "OS13/R13-081S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-081S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-082",
+    "baseNo": "OS13/R13-082",
+    "name": "ナチュラルガーデン つぐみ",
+    "kana": "ナチュラルガーデン ツグミ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "料理"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】【ターン1】［(3)］ このカードのアタックの終わりに、CX置場に「図書部の日常」があるなら、コストを払ってよい。そうしたら、このカードを【スタンド】し、アンコールステップの始めに、このカードを控え室に置く。",
+    "flavor": "えへへ、どうかな？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_082.png",
+        "cardNo": "OS13/R13-082",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-082&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_082ofr.png",
+        "cardNo": "OS13/R13-082OFR",
+        "rarity": "OFR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-082OFR&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_082sp.png",
+        "cardNo": "OS13/R13-082SP",
+        "rarity": "SP",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-082SP&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-083",
+    "baseNo": "OS13/R13-083",
+    "name": "銃の名人 エルザ",
+    "kana": "ジュウノメイジン エルザ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "銃"
+    ],
+    "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは相手の前列のコスト0以下のキャラを1枚まで選び、控え室に置く。",
+    "flavor": "あなたの命は私の手の中にある",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_083.png",
+        "cardNo": "OS13/R13-083",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-083&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_083s.png",
+        "cardNo": "OS13/R13-083S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-083S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-084",
+    "baseNo": "OS13/R13-084",
+    "name": "メイドの仕事 ミア",
+    "kana": "メイドノシゴト ミア",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "メイド"
+    ],
+    "text": "【永】 他のあなたの前列の中央の枠のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のコスト0以下のキャラを1枚まで選び、舞台の別々の枠に置く。",
+    "flavor": "せっかくですから、捌くのにも挑戦してみたいと思います",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_084.png",
+        "cardNo": "OS13/R13-084",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-084&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_084s.png",
+        "cardNo": "OS13/R13-084S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-084S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-085",
+    "baseNo": "OS13/R13-085",
+    "name": "純真無垢な癒やし系 つぐみ",
+    "kana": "ジュンシンムクナイヤシケイ ツグミ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "料理"
+    ],
+    "text": "【自】【CXコンボ】［あなたの山札の上から1枚をクロックにし、手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の「迷える子羊を導くために」かトリガーアイコンが【ドロー】のCXを1枚までサーチし手札に加え、自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】［あなたの舞台の「妥協許さぬストイック 玉藻」を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+    "flavor": "ふふ～ん、んん～、ふ～ん♪",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_085.png",
+        "cardNo": "OS13/R13-085",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-085&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_085s.png",
+        "cardNo": "OS13/R13-085S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-085S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-086",
+    "baseNo": "OS13/R13-086",
+    "name": "軍人の責務 エルザ",
+    "kana": "グンジンノセキム エルザ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "銃"
+    ],
+    "text": "【自】［(1) 他のあなたの舞台のキャラを1枚控え室に置く］ あなたがレベルアップした時、コストを払ってよい。そうしたら、あなたは自分の控え室の〈同OS〉のキャラを1枚選び、手札に戻す。\n【起】［このカードを【レスト】する］ あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "flavor": "あなたが規格外なのよ。普通の武人ならとっくの昔に殺せてるわ",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_086.png",
+        "cardNo": "OS13/R13-086",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-086&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_086s.png",
+        "cardNo": "OS13/R13-086S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-086S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-087",
+    "baseNo": "OS13/R13-087",
+    "name": "隠された本音 紫乃",
+    "kana": "カクサレタホンネ シノ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "クラスメイト"
+    ],
+    "text": "【自】［手札の〈同OS〉のキャラを1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の「衣装変更 滸」を1枚までサーチし手札に加える。\n【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが〈同OS〉のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_087.png",
+        "cardNo": "OS13/R13-087",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-087&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_087s.png",
+        "cardNo": "OS13/R13-087S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-087S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-088",
+    "baseNo": "OS13/R13-088",
+    "name": "図書部の進行役 玉藻",
+    "kana": "トショブノシンコウヤク タマモ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "努力家"
+    ],
+    "text": "【永】 他のあなたの〈同OS〉のキャラすべてに、パワーを＋500。\n【自】［あなたの控え室の「図書部のリーダー つぐみ」を2枚山札の下に好きな順番で置き、手札を1枚控え室に置く］ このカードが手札から登場した時、コストを払ってよい。そうしたら、あなたは自分の山札の〈同OS〉のキャラを1枚までサーチし手札に加える。\n【起】 集中 ［(1)］ あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードに「図書部のリーダー つぐみ」があるなら、あなたは自分の控え室の「図書部のリーダー つぐみ」を1枚選び、舞台の好きな枠に置く。",
+    "flavor": "みんな、疲れは取れたか？",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_088.png",
+        "cardNo": "OS13/R13-088",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-088&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_088s.png",
+        "cardNo": "OS13/R13-088S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-088S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-089",
+    "baseNo": "OS13/R13-089",
+    "name": "Lapis Lazuli フィーナ",
+    "kana": "ラピスラズリ フィーナ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "王族"
+    ],
+    "text": "【永】 あなたのターン中、このカードのパワーを＋2000。\n【自】 このカードが手札から登場した時、あなたは自分の控え室の、カード名に「ミア」を含むキャラと「麻衣」を含むキャラと「菜月」を含むキャラと「さやか」を含むキャラと「リース」を含むキャラを別々に1枚ずつ選ぶ。5枚選んだなら、それらのカードを、好きな順番で表向きでこのカードのマーカーにし、ターンの終わりに、このカードを控え室に置く。\n【自】 このカードが舞台から控え室に置かれた時、このカードのマーカーが5枚以上なら、あなたは自分の山札を上から5枚まで見て、〈同OS〉のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_089.png",
+        "cardNo": "OS13/R13-089",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-089&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_089s.png",
+        "cardNo": "OS13/R13-089S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-089S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-090",
+    "baseNo": "OS13/R13-090",
+    "name": "愛着湧いたコスチューム 玉藻",
+    "kana": "アイチャクワイタコスチューム タマモ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "努力家"
+    ],
+    "text": "【自】 このカードが手札から登場した時、他のあなたの〈同OS〉のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\n【自】【CXコンボ】 このカードがアタックした時、CX置場に、「迷える子羊を導くために」かトリガーアイコンが【ドロー】のCXがあるなら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。",
+    "flavor": "第一食堂アプリオ、料理部とのコラボ企画を予定していまーす。よろしくお願いしまーす",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_090.png",
+        "cardNo": "OS13/R13-090",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-090&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_090s.png",
+        "cardNo": "OS13/R13-090S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-090S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-091",
+    "baseNo": "OS13/R13-091",
+    "name": "妥協許さぬストイック 玉藻",
+    "kana": "ダキョウユルサヌストイック タマモ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "努力家"
+    ],
+    "text": "【自】 このカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロックにし、このカードを【レスト】する。",
+    "flavor": "すぅ……すぅ……",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_091.png",
+        "cardNo": "OS13/R13-091",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-091&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_091s.png",
+        "cardNo": "OS13/R13-091S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-091S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-092",
+    "baseNo": "OS13/R13-092",
+    "name": "頑張り屋さん ミア",
+    "kana": "ガンバリヤサン ミア",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 1,
+    "cost": 1,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "メイド"
+    ],
+    "text": "【永】 応援 このカードの前のあなたの〈同OS〉のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】［手札のCXを1枚控え室に置く］ あなたのCXがトリガーした時、コストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "flavor": "くすくす……私の耳掻きは、姫さまにもお褒め頂いた腕前ですから",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_092.png",
+        "cardNo": "OS13/R13-092",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-092&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_092s.png",
+        "cardNo": "OS13/R13-092S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-092S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-093",
+    "baseNo": "OS13/R13-093",
+    "name": "王家付きのメイド ミア",
+    "kana": "オウケツキノメイド ミア",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 0,
+    "power": 7500,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "オーガスト",
+      "メイド"
+    ],
+    "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「思い出の丘」があるなら、あなたは1枚まで引き、自分の山札の上から1枚までを、ストックにする。",
+    "flavor": "失礼は承知の上で言わせて頂きます",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_093.png",
+        "cardNo": "OS13/R13-093",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-093&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_093s.png",
+        "cardNo": "OS13/R13-093S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-093S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-094",
+    "baseNo": "OS13/R13-094",
+    "name": "ストレイトシープ つぐみ",
+    "kana": "ストレイトシープ ツグミ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "料理"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分の控え室の、カード名に「玉藻」を含むキャラと「千莉」を含むキャラと「佳奈」を含むキャラと「凪」を含むキャラと「真帆」を含むキャラと「水結」を含むキャラと「紗弓実」を含むキャラを別々に1枚ずつ選ぶ。7枚選んだなら、それらのカードを、好きな順番で表向きでこのカードのマーカーにし、ターンの終わりに、このカードを控え室に置く。\n【自】 このカードが舞台から控え室に置かれた時、このカードのマーカーが7枚以上なら、あなたは相手の後列のレベル1以下のキャラを1枚選び、山札の下に置いてよい。",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_094.png",
+        "cardNo": "OS13/R13-094",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-094&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_094s.png",
+        "cardNo": "OS13/R13-094S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-094S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-095",
+    "baseNo": "OS13/R13-095",
+    "name": "図書部のリーダー つぐみ",
+    "kana": "トショブノリーダー ツグミ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 2,
+    "cost": 1,
+    "power": 8500,
+    "soul": 1,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "料理"
+    ],
+    "text": "",
+    "flavor": "みんな頑張ってくれたから、感謝の気持ちを込めて作ってみたの",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_095.png",
+        "cardNo": "OS13/R13-095",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-095&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_095s.png",
+        "cardNo": "OS13/R13-095S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-095S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-096",
+    "baseNo": "OS13/R13-096",
+    "name": "純白のヴェール フィーナ",
+    "kana": "ジュンパクノヴェール フィーナ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "blue",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "王族"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。\n【自】【CXコンボ】 このカードがアタックした時、CX置場に「Eternal Destiny」があるなら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_096.png",
+        "cardNo": "OS13/R13-096",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-096&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_096s.png",
+        "cardNo": "OS13/R13-096S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-096S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-097",
+    "baseNo": "OS13/R13-097",
+    "name": "夜明け前より瑠璃色な",
+    "kana": "ヨアケマエヨリルリイロナ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "EV",
+    "color": "blue",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "このカードは、あなたの〈同OS〉のキャラが2枚以下なら、手札からプレイできない。\n【カウンター】 集中 あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋1500。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにCXがあるなら、あなたは自分の〈同OS〉のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_097.png",
+        "cardNo": "OS13/R13-097",
+        "rarity": "R",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-097&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_097s.png",
+        "cardNo": "OS13/R13-097S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-097S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-098",
+    "baseNo": "OS13/R13-098",
+    "name": "Eternal Destiny",
+    "kana": "エターナルデスティニー",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "フィーナ「次、迷うようなことがあったら、許さないわ」",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_098.png",
+        "cardNo": "OS13/R13-098",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-098&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_098a.png",
+        "cardNo": "OS13/R13-098A",
+        "rarity": "AGR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-098A&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_098s.png",
+        "cardNo": "OS13/R13-098S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-098S&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_p04s.png",
+        "cardNo": "OS13/R13-P04S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-P04S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "R13",
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-099",
+    "baseNo": "OS13/R13-099",
+    "name": "図書部の日常",
+    "kana": "トショブノニチジョウ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "draw"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、1枚引いてよい）",
+    "flavor": "わたしも、ずっとずっと一緒にいたいよ",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_099.png",
+        "cardNo": "OS13/R13-099",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-099&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_099s.png",
+        "cardNo": "OS13/R13-099S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-099S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-100",
+    "baseNo": "OS13/R13-100",
+    "name": "思い出の丘",
+    "kana": "オモイデノオカ",
+    "product": "ブースターパック オーガスト",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CX",
+    "color": "blue",
+    "level": null,
+    "cost": null,
+    "power": null,
+    "soul": 0,
+    "trigger": [
+      "soul",
+      "gate"
+    ],
+    "traits": [],
+    "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたの控え室のCXを1枚選び、手札に戻してよい）",
+    "flavor": "",
+    "releaseDate": "2026-10-23",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_100.png",
+        "cardNo": "OS13/R13-100",
+        "rarity": "C",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-100&expansion=R13"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_100s.png",
+        "cardNo": "OS13/R13-100S",
+        "rarity": "SR",
+        "expansion": "R13",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-100S&expansion=R13"
+      }
+    ],
+    "expansions": [
+      "R13"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-P05",
+    "baseNo": "OS13/R13-P05",
+    "name": "桃花染の舞 朱璃",
+    "kana": "ツキソメノマイ アカリ",
+    "product": "PRカード",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "皇族"
+    ],
+    "text": "【自】このカードが手札から登場した時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。\n\n【自】［②］ このカードが手札から登場した時、コストを払ってよい。そうしたら、相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストックにする。",
+    "flavor": "",
+    "releaseDate": "2026-08-15",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_p05.png",
+        "cardNo": "OS13/R13-P05",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-P05&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-P06",
+    "baseNo": "OS13/R13-P06",
+    "name": "憧れの同棲 佳奈",
+    "kana": "アコガレノドウセイ カナ",
+    "product": "PRカード",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "yellow",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "soul"
+    ],
+    "traits": [
+      "オーガスト",
+      "ウェイトレス"
+    ],
+    "text": "【自】 このカードが手札から登場した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(1) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、コストを払ってよい。そうしたら、相手に1ダメージを与える。",
+    "flavor": "",
+    "releaseDate": "2026-11-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_p06.png",
+        "cardNo": "OS13/R13-P06",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-P06&expansion=PR"
+      },
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_p06s.png",
+        "cardNo": "OS13/R13-P06S",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-P06S&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-P07EX",
+    "baseNo": "OS13/R13-P07",
+    "name": "ビーチで遊ぼう！",
+    "kana": "ビーチデアソボウ！",
+    "product": "PRカード",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "EV",
+    "color": "yellow",
+    "level": 1,
+    "cost": 0,
+    "power": null,
+    "soul": 0,
+    "trigger": [],
+    "traits": [],
+    "text": "あなたは2枚まで引き、自分の手札を2枚選び、山札の上に置く。",
+    "flavor": "",
+    "releaseDate": "2026-11-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_p07ex.png",
+        "cardNo": "OS13/R13-P07EX",
+        "rarity": "PR+",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-P07EX&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  },
+  {
+    "cardNo": "OS13/R13-P09",
+    "baseNo": "OS13/R13-P09",
+    "name": "溢れ出る魅力 つぐみ＆凪",
+    "kana": "アフレデルミリョク ツグミ＆ナギ",
+    "product": "PRカード",
+    "neoStandard": "オーガスト",
+    "workNo": "OS13",
+    "type": "CH",
+    "color": "red",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "traits": [
+      "料理",
+      "本"
+    ],
+    "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの〈同OS〉のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］",
+    "flavor": "",
+    "releaseDate": "2026-11-01",
+    "pictures": [
+      {
+        "url": "https://ws-rose.com/wordpress/wp-content/images/cardlist/os13/r13/os13_r13_p09.png",
+        "cardNo": "OS13/R13-P09",
+        "rarity": "PR",
+        "expansion": "PR",
+        "page": "https://ws-rose.com/cardlist/?cardno=OS13%2FR13-P09&expansion=PR"
+      }
+    ],
+    "expansions": [
+      "PR"
+    ]
+  }
+]
